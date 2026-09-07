@@ -24,22 +24,21 @@ Repozytorium robocze książki — konspekty, dokumentacja strukturalna i rękop
 6. **Biblioteka i narzędzia.** `narzedzia/` — skrypty do odczytu PDF/MOBI/EPUB i wyszukiwania cytatów z lokalizacją; `biblioteka/` (poza repozytorium — `.gitignore`) na pliki źródłowe autora.
 7. **Rękopis: wolno pisać od nowa.** Decyzja autora — istniejące rozdziały nie wiążą; przy przepisywaniu obowiązują reguły v3.2.
 
+> **Nie wiesz, z którego pliku pisać? → [`ORGANIZACJA.md`](ORGANIZACJA.md).**
+> Zasada v3.2: **wszystko poza katalogami `archiwum/` jest obowiązujące.**
+
 ## Struktura repozytorium
 
 ```
 Samotnosc/
 ├── README.md                  ← ten plik
 ├── konspekty_v3/              ← TECZKA AKTUALNA — 51 jednostek (JEDYNE źródło pisania)
-├── konspekty_v2/              ← archiwum: teczka v2 (47 jednostek, rekonstrukcja)
-├── konspekty_v1/              ← archiwum: oryginalne pliki v1 (50 szt., stara numeracja)
 ├── rozdzialy/                 ← rękopis (teksty pełne; patrz rozdzialy/README.md)
 ├── narzedzia/                 ← skrypty: odczyt PDF/MOBI/EPUB, wyszukiwanie cytatów
 ├── biblioteka/                ← pliki źródłowe autora (POZA repozytorium — .gitignore)
 └── dokumenty/
     ├── STRUKTURA_V3.md        ← dokument nadrzędny (decyzje, mapy numeracji, statusy)
     ├── SPIS_PLIKOW.md         ← indeks główny (51 jednostek ze statusami)
-    ├── STRUKTURA_V2.md        ← historia decyzji v2
-    ├── 00_ANALIZA_PROJEKTU.md
     ├── 01_WERYFIKACJA_LITERATURY.md
     ├── 02_STYL_PISARSKI.md
     ├── 03_WERYFIKACJA_NOWYCH_GLOSOW.md   ← weryfikacja źródeł nowych rozdziałów
@@ -47,8 +46,8 @@ Samotnosc/
     ├── 05_KARTOTEKA_RATZINGEROWSKA.md   ← osie myśli, cytaty ✔, reguły warsztatowe głosu
     ├── 06_KARTOTEKA_CYTATOW.md          ← rejestr zbiorczy aparatu (statusy ✔ / [?] / [tł] / [atr])
     ├── 07_REJESTR_REFRENU_SCEN_I_GLOSOW.md  ← refren, sceny, obsada głosów
-    ├── KARTOTEKA_ROZDZIALOW.md          ← pierwotna kartoteka źródłowa
-    └── archiwum/              ← wcześniejsze wersje spisów i duplikaty
+    └── archiwum/              ← NIE PISAĆ Z TEGO: STRUKTURA_V2, KARTOTEKA_ROZDZIALOW,
+                                  00_ANALIZA_PROJEKTU (numeracja v1!), stare spisy
 ```
 
 ## Jak pracować

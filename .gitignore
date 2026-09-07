@@ -1,3 +1,25 @@
-biblioteka/
+# === BIBLIOTEKA ŹRÓDEŁ — pliki książek NIE trafiają do repozytorium ===
+# Powód: prawa autorskie. Repozytorium jest publiczne.
+# Uwaga techniczna: NIE wolno pisać "biblioteka/" — Git nie wchodzi wtedy
+# do wykluczonego katalogu i żaden wyjątek "!" już nie zadziała.
+# Dlatego ignorujemy ZAWARTOŚĆ (/*) i punktowo przywracamy pliki robocze.
+biblioteka/*
 !biblioteka/README.md
+!biblioteka/.gitkeep
+!biblioteka/ratzinger/
+biblioteka/ratzinger/*
+!biblioteka/ratzinger/.gitkeep
+!biblioteka/inne/
+biblioteka/inne/*
+!biblioteka/inne/.gitkeep
+!biblioteka/_tekst/
+biblioteka/_tekst/*
+!biblioteka/_tekst/.gitkeep
+
+# === Robocze ===
 __pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.tmp
+~$*

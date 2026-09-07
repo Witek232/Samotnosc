@@ -270,3 +270,16 @@ Poprawiono **13 resztkowych odesłań v1/v2** w 8 konspektach (wszystkie wykryte
 **Aparat:** `06_KARTOTEKA_CYTATOW.md` — reguła bezwzględna: cudzysłów tylko przy statusie ✔.
 
 **Sprostowanie źródłowe:** *Deus caritas est* — „Zawsze będzie samotność" = **§ 28b** (nie § 29). Poprawione w `01_WERYFIKACJA_LITERATURY.md` (WERYFIKACJA 9) i w konspektach 37, 40.
+
+### 10a. Aktualizacja zdania kanonicznego (2026-09-07, po kwerendzie źródłowej)
+
+Punkt § 5.3 tego dokumentu podawał zdanie centralne rozdz. 24 jako **autorski skrót odczytania Ratzingera**:
+*„Chrystus nie zbawia człowieka z samotności, omijając jego samotność. Zbawia go, wchodząc w nią."*
+
+Po odczytaniu *Wprowadzenia w chrześcijaństwo* (cz. II, rozdz. V.3) wiadomo, że Ratzinger ma na to własne zdanie, krótsze i mocniejsze:
+
+> **„Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On."**
+
+**Rekomendacja (do decyzji autora):** to zdanie zostaje **kanonicznym zdaniem książki** — trzy wystąpienia (24, 48, epilog), z podaniem źródła; dotychczasowa parafraza autorska schodzi do roli komentarza w rozdz. 24. Uzasadnienie: jest cytatem, a nie streszczeniem; jest krótsze; i pochodzi z tego samego rozdziału, z którego pochodzi cała metaforyka drzwi używana w gradacji 24 → 26 → 47 („brama śmierci", „brama Szeolu została otwarta").
+
+Komplet zweryfikowanych brzmień: `05_KARTOTEKA_RATZINGEROWSKA.md` § 4.7–4.10.

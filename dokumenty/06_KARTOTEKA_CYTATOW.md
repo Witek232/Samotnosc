@@ -41,6 +41,15 @@ Kolumna „rozdz." = docelowe miejsce użycia. Sortowanie: wg autora.
 | Benedykt XVI, *Deus caritas est* | **§ 28b** | „Zawsze będzie samotność." | 37 ✍, 40 | 2026-09-07 |
 | Benedykt XVI, *DCE* | § 29 | *opus proprium*; „zawsze będzie potrzebował miłości" | 37 ✍ | 2026-09-07 |
 | Benedykt XVI, *DCE* | § 25a, 28a, 31a–c | (komplet — patrz `05_KARTOTEKA` § 4.6) | 35–37 | 2026-09-07 |
+| Ratzinger, *Wprowadzenie w chrześcijaństwo* | cz. II V.3 `[s?]` | „Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On." | **24, 48, epilog** | 2026-09-07 |
+| Ratzinger, *Wprowadzenie…* | cz. II V.3 `[s?]` | piekło = „samotność, której nie dosięga słowo «miłość»" | 24, 23, 47 | 2026-09-07 |
+| Ratzinger, *Wprowadzenie…* | cz. II V.3 `[s?]` | „Śmierć to po prostu samotność." | 23, 47 | 2026-09-07 |
+| Ratzinger, *Wprowadzenie…* | cz. II V.3 `[s?]` | „znieczulenie nieuleczalnej rany samotności" | 22, 15 | 2026-09-07 |
+| Ratzinger, *Wprowadzenie…* | cz. II V.3 `[s?]` | „Brama śmierci stoi otwarta, odkąd w śmierci zamieszkało życie: miłość." | 26, 27, 47 | 2026-09-07 |
+| Ratzinger, *Wprowadzenie…* | cz. II V.3 `[s?]` | Nietzsche „Bóg umarł" a treść Wielkiej Soboty | 7, 24, **42** | 2026-09-07 |
+| Ratzinger, *Wprowadzenie…* | cz. I `[s?]` | samotność jako źródło spotkania z Bogiem; „krzyk do jakiegoś «ty»" | 2, 22, 29 | 2026-09-07 |
+| Ratzinger, *Wprowadzenie…* | cz. I `[s?]` | każde „ty" jako niespełniona obietnica (za Claudelem) | 15, 22 | 2026-09-07 |
+| Ratzinger, *Wprowadzenie…* | cz. I `[s?]` | „wiara jest znalezieniem jakiegoś «ty»…" | **31, 40** | 2026-09-07 |
 
 ✍ = już użyte w napisanym rozdziale.
 

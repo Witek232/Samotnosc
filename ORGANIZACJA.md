@@ -65,6 +65,26 @@ Samotnosc/
 **„Czy ten dokument jest aktualny?"**
 → Jeśli nie leży w `archiwum/` — tak.
 
+## 4a. Pliki książek nie mogą leżeć w repozytorium
+
+W trakcie prac w katalogu głównym repozytorium pojawił się plik
+`Joseph Ratzinger - Wprowadzenie w chrześcijaństwo.pdf`. Patch v3.2 **usuwa go z repozytorium**
+i przenosi do `biblioteka/ratzinger/` — czyli poza Gita.
+
+Powody, w kolejności ważności:
+
+1. **Prawa autorskie.** Repozytorium jest publiczne; wydawnictwo Znak ma do tego pliku prawa.
+2. **Rozmiar historii.** Pliki binarne zostają w historii Gita na zawsze i puchną przy każdej wersji.
+3. **Porządek.** Katalog główny jest dla dokumentów projektu, nie dla materiałów źródłowych.
+
+**Ważne:** usunięcie z repozytorium **nie kasuje pliku z Twojego dysku** — patch przenosi go
+do `biblioteka/ratzinger/`, gdzie jest mi tak samo dostępny do kwerendy.
+
+**Uwaga o historii:** plik pozostanie w historii Gita (w starych commitach), nawet po usunięciu.
+Pełne wymazanie wymagałoby przepisania historii (`git filter-repo`) — operacji ryzykownej,
+której **nie rekomenduję** przy repozytorium roboczym. Jeśli zależy Ci na tym, powiedz —
+opiszę procedurę osobno.
+
 ## 5. Rytuał po napisaniu każdego rozdziału
 
 1. Dopisz nowe cytaty do `06_KARTOTEKA_CYTATOW.md` § 3 (ze statusem i datą).

@@ -76,3 +76,13 @@ Wschód chrześcijański oddał samotność pustyni, modlitwie i liturgii — Za
 ---
 
 *Powiązania: rozdz. 5 (Kierkegaard — samotność przed prawdą), rozdz. 11 (Wschód niechrześcijański — pokój bez Imienia), rozdz. 12 (Putnam — soborność przeciw sieciom), rozdz. 24 (zstąpił do piekieł — teologia i praktyka), rozdz. 29 (Ja–Ty), rozdz. 31 (wiara jako zaufanie), rozdz. 32 (Trójca), rozdz. 36 (Eucharystia), rozdz. 39 (protestantyzm — drugie świadectwo siostrzane), rozdz. 47 (przejście).*
+
+---
+
+## 9a. Nota v3.2 (2026-09-07) — głos wiodący i dyscypliny nowe
+
+- **Reguła ostatniego słowa (obowiązkowa):** ostatni głos teologiczny przed puentą **nie może** należeć do Zizioulasa ani Łosskiego. Po ruchu piątym idzie jedno zdanie linii Ratzingerowskiej wiążące świadectwo wschodnie z tezą książki — oś III (*osoba jest relacją, bo Bóg jest relacją*, `05_KARTOTEKA_RATZINGEROWSKA.md` § 3). Uzasadnienie merytoryczne, nie tylko strategiczne: ontologia komunijna Zizioulasa i teza rozdz. 28/32 są tą samą tezą wypowiedzianą dwoma językami — rozdział ma to **pokazać**, a nie tylko zestawić.
+- **Reguła analogii:** przy przejściu od Trójcy do antropologii pada słowo sygnalizujące analogię (człowiek nie jest relacją subsystentną).
+- **Cytaty:** Zizioulas — `[tł]`, brak wydania polskiego → **parafraza bez cudzysłowu**; Łosski — `[s?]`; apoftegmaty — `[?]`; Sylwan — formuła ✔, brzmienie polskie `[?]`. Patrz `06_KARTOTEKA_CYTATOW.md` § 3.3. **Limit Ratzingera: 1 cytat, bez blokowego** (rozdział jest świadectwem cudzej tradycji — dominacja przez pozycję, nie objętość).
+- **Refren:** pada; **ostrzeżenie** — odpowiedź nie może zaczynać się od „Jest" (cztery rozdziały z rzędu tak zaczynają; dok. 07 § A3). Przeformułować wersję z § 5 pkt 7.
+- **Scena:** rejestr „pustynia/cela" — zarezerwowany, bez kolizji (dok. 07 § B2).

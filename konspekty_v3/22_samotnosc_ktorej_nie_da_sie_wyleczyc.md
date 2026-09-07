@@ -58,3 +58,11 @@ Skoro śmierć jest tak osobiście nieprzenoszonalna, to czym jest umieranie —
 - Żałoba wpleciona otwierająco — bez podpowiedzi „to potrzeba rozdziału o żałobie".
 - Heidegger bez żargonu: dwa pojęcia (bycie ku śmierci, Jemeinigkeit), zero terminologii uzupełniającej.
 - Refren raz; długość ~2,4–2,7 tys. słów.
+
+---
+
+## Nota v3.2 (2026-09-07)
+
+- **Scena — rejestr „dom"** (dok. 07 § B2); **kobieta jako podmiot sceny**, nie tło (dok. 07 § C4): wdowa. Scena żałoby była już przewidziana — nota utrwala jej rejestr, żeby nie został zdublowany gdzie indziej.
+- **Możliwe wejście Simone Weil** (dok. 07 § C2 — alternatywnie rozdz. 26): *malheur* jako to, co odbiera głos; uwaga (*attention*) jako forma miłości. **Wprowadzić jako świadka, nie jako autorytet doktrynalny** — myśl nieortodoksyjna; cytaty niezweryfikowane.
+- **Cytat Ratzingerowski dostępny ✔:** *Spe salvi* 26 („miłość… krucha. Może zostać zniszczona przez śmierć") — `05_KARTOTEKA` § 4.3.

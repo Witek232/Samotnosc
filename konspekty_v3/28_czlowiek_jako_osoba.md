@@ -58,3 +58,13 @@ Jeśli osoba istnieje „wobec", to jak wygląda gramatyka tej relacji? Kolejny 
 - Boecjusz/Tomasz — po jednym akapicie, bez historii sporów.
 - Spór współczesny (palec: embriologia, AI, end-of-life) — jedno zdanie, rozdział nie jest esejem bioetycznym.
 - Refren raz; długość ~2,4–2,7 tys. słów.
+
+---
+
+## Nota v3.2 (2026-09-07) — rozdział macierzysty osi III
+
+- **Oś III** kartoteki Ratzingerowskiej (*osoba jest relacją, bo Bóg jest relacją*) ma tu swój dom. Zdanie nośne: *Samotność boli nie dlatego, że jest nieprzyjemna, lecz dlatego, że jest sprzeczna z tym, czym człowiek jest.*
+- **Reguła analogii (obowiązkowa):** przy każdym przejściu od Trójcy do antropologii pada słowo sygnalizujące analogię — człowiek **nie jest** relacją subsystentną. Bez tego rozdział (i 32) popada w błąd trynitarny. To nie jest ostrożność redakcyjna, to warunek poprawności.
+- **Cytat dostępny ✔:** *Spe salvi* 27 („życie… jest relacją") — mocny, rzadko cytowany.
+- **Do weryfikacji:** R4 (*Wprowadzenie w chrześcijaństwo* — „osoba" jako pojęcie zrodzone z teologii trynitarnej) — **priorytet 1**, autor ma PDF.
+- **Możliwe wejście: Edyta Stein** (dok. 07 § C2) — fenomenologia wczucia (*Einfühlung*) domyka oś III od strony doświadczenia i jest w pełni w tradycji.

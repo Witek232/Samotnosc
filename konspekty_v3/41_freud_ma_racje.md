@@ -53,3 +53,11 @@ Drugi sprawdzian: **Nietzsche ma rację — i nie ma racji**. Nietzsche trafnie 
 - Forma: „racja → granica → test" — trzymać rygor trzech części, tryptyk musi być symetryczny.
 - Nie udawać, że test rozstrzyga: rozdział daje kryterium, nie werdykt.
 - Refren raz; długość ~2,2–2,4 tys. słów.
+
+---
+
+## Nota v3.2 (2026-09-07)
+
+- **Reguła wzmacniania przeciwnika** (`02_STYL_PISARSKI` § 0): to jeden z trzech rozdziałów **najważniejszych dla realizacji decyzji o głosie wiodącym** — nie przez cytowanie Ratzingera, lecz przez to, ile racji odda się Freudowi. Zarzut z projekcji ma tu wybrzmieć w najsilniejszej dostępnej wersji; odpowiedź jest mocna wyłącznie proporcjonalnie do siły zarzutu.
+- **Oś I** rozstrzyga: geneza wyobrażenia nie przesądza o istnieniu przedmiotu (błąd genetyczny) — ale odpowiedź książki idzie dalej niż logika: wiara jako zwrócenie się do Kogoś nie jest zaspokojeniem potrzeby, bo nie obiecuje jej zaspokojenia (DCE 28b ✔: „zawsze będzie samotność").
+- **Limit: maks. 2 cytaty Ratzingera, 1 blokowy.** Refren pada.

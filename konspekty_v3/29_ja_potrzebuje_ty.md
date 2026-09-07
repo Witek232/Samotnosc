@@ -55,3 +55,10 @@ Ale czy „wierzę w Ciebie" nie jest tylko sentymentem? Co znaczy **wierzyć** 
 - Buber: nie przekształcać w „filozofię czułości" — „Ono" ma być obronione jako niezbędne.
 - „Ty" wielkie — pierwszy raz w druku książki; odnotować w metryczce jako moment przełamania typograficznego (od tego rozdziału „Ty" kapitalizuje się na oznaczenie Boga).
 - Refren raz; długość ~2,3–2,6 tys. słów.
+
+---
+
+## Nota v3.2 (2026-09-07)
+
+- **Reguła ostatniego słowa:** ostatni głos przed puentą **nie Buber** — po Buberze, Marcelu i Wojtyle idzie zdanie linii Ratzingerowskiej (oś III). Uzasadnienie: rozdział zbiera trzech filozofów dialogu; bez zamknięcia teologicznego czytelnik wyniesie z niego personalizm bez fundamentu.
+- **Cytaty:** Buber „wszelkie prawdziwe życie jest spotkaniem" — `[?]`, do weryfikacji przekładu polskiego.

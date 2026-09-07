@@ -55,3 +55,10 @@ Sprawdziany przeszły — odpowiedź jest otwarta na inną oś. Teraz czas na py
 - Nie wlewać tu całego Bubera i Wojtyły — to echo; ich pełne użycie było w 29 (Buber) i tu jest jednym akapitem (Wojtyła, *Miłość i odpowiedzialność*).
 - Część VIII zaczyna się po tym rozdziale bez dalszego filozofowania — ton przechodzi do reportażu.
 - Refren raz; długość ~2,2–2,4 tys. słów.
+
+---
+
+## Nota v3.2 (2026-09-07)
+
+- **Reguła wzmacniania przeciwnika** — trzeci z kluczowych rozdziałów. Sartre ma rację co do spojrzenia, które uprzedmiotawia; odpowiedź książki: **oś III** — spojrzenie uprzedmiotawia wtedy, gdy nie ma Trzeciego, wobec którego obaj są osobami.
+- **Reguła ostatniego słowa** — ostatni głos przed puentą Ratzingerowski; ale bez triumfu: rozdział zamyka tryptyk i ma zostawić czytelnika z ceną, nie ze zwycięstwem (dok. 04 § 5 pkt 2).

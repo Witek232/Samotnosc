@@ -85,3 +85,12 @@ Obietnica obecności wymaga jeszcze jednego zdania: co się stało ze śmiercią
 ---
 
 *Powiązania: rozdz. 2 (dziecko — pierwsza obecność), 25 (egzegeza centrum), 26 (opuszczenie), 27 (Spe salvi 32), 28–29 (trwanie relacji), 45–46 (kultura i nitka), 48 (finał), epilog.*
+
+---
+
+## Nota v3.2 (2026-09-07)
+
+- **Oś II — drugie z trzech wystąpień** zdania kanonicznego (24 → **48** → epilog), brzmienie identyczne.
+- **Scena Ratzingerowska — alternatywne miejsce** (obok rozdz. 24; jedno z dwóch, nie oba). Argument za 48: tu ciepło jest dopuszczone, więc portret nie zaburzy dyscypliny; argument za 24: centrum książki zyskuje twarz. **Do decyzji autora.**
+- **Akcent Sheen** (mapa `02_STYL_PISARSKI` § 3) — jego naturalne terytorium, bez zmian; uwaga na kolizję z regułą ostatniego słowa: **Sheen daje puentę, linia Ratzingerowska — zdanie poprzedzające.**
+- **Do weryfikacji:** R6, R7 (*Jezus z Nazaretu* t. 2 — Getsemani, Ps 22), R9.

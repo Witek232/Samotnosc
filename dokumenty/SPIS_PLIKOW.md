@@ -27,6 +27,10 @@
 | `00_ANALIZA_PROJEKTU.md` | Diagnoza architektury (merytorycznie aktualna; numeracje rozdziałów wg v1 — przy korzystaniu stosować mapy z `STRUKTURA_V2/V3`) |
 | `01_WERYFIKACJA_LITERATURY.md` | Status twierdzeń kartoteki głównej (Wang 2023, *Spe salvi* 32, WHO 2025…), lista [?] |
 | `02_STYL_PISARSKI.md` | Warstwa stylistyczna: baza Ratzinger ~80% / filary ~15% / akcenty ≤5%; mapa akcentów |
+| `04_PLAN_PISANIA_I_LINIA_RATZINGEROWSKA.md` | **NOWE (v3.2):** kolejność pisania rękopisu (fale I–IV); strategia głosu wiodącego (diagnoza, trzy środki, cztery osie, zakazy); lista źródeł do pozyskania; pięć uwag o jakości całości |
+| `05_KARTOTEKA_RATZINGEROWSKA.md` | **NOWE (v3.2):** cztery osie myślowe książki; cytaty zweryfikowane ✔ (*DCE*, *Spe salvi*); lista R1–R10 do weryfikacji; osiem reguł warsztatowych głosu wiodącego |
+| `06_KARTOTEKA_CYTATOW.md` | **NOWE (v3.2):** rejestr zbiorczy aparatu — statusy ✔ / `[s?]` / `[?]` / `[tł]` / `[atr]`; decyzja przekładu biblijnego; procedura przy pisaniu rozdziału |
+| `07_REJESTR_REFRENU_SCEN_I_GLOSOW.md` | **NOWE (v3.2):** rozdziały bez refrenu (10, 23, 42, 45); rejestr odpowiedzi refrenu; rejestr scen wg rejestrów życia; obsada głosów (Arendt, Weil, Stein) i kobiety jako podmioty scen |
 | `03_WERYFIKACJA_NOWYCH_GLOSOW.md` | **NOWE (v3):** weryfikacja źródeł i faktów 4 nowych rozdziałów (wydania polskie, cytaty, atrybucje), lista [?] |
 | `KARTOTEKA_ROZDZIALOW.md` | Pierwotna kartoteka źródłowa projektu (dokument założycielski) |
 

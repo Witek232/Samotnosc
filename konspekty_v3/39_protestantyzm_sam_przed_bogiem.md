@@ -79,3 +79,13 @@ Trzy świadectwa złożone — forma (katolicyzm), praktyka (prawosławie), bezp
 ---
 
 *Powiązania: rozdz. 4 (Pascal — Bóg nie filozofów), rozdz. 5 (Kierkegaard — pojedynczy), rozdz. 6 (Rousseau — autentyczność bez Boga), rozdz. 12–14 (kluby bez Trzeciego), rozdz. 20 (Yalom — nikt nie umiera za mnie), rozdz. 30 (Heschel — inicjatywa Boga), rozdz. 31 (wiara jako zaufanie — Hab 2,4), rozdz. 35–38 (świadectwa siostrzane), rozdz. 40 (czy rzeczywiście można nie być samemu), rozdz. 47 (przejście), epilog.*
+
+---
+
+## 9a. Nota v3.2 (2026-09-07) — głos wiodący i dyscypliny nowe
+
+- **Reguła ostatniego słowa (obowiązkowa):** ostatni głos przed puentą **nie może** należeć do Bonhoeffera — mimo że rozdział jest jego. Po ruchu piątym (świadek) idzie jedno zdanie linii Ratzingerowskiej: oś I (*wiara jest odpowiedzią, nie posiadaniem*) — bo dokładnie tego dotyczy Luter w wieży, a książka ma to nazwać swoim językiem. **Uwaga na ryzyko:** to jest rozdział, w którym reguła może zabrzmieć jak przechwycenie cudzego świadectwa. Rozwiązanie: zdanie ma **nazywać wspólne dno**, nie korygować Bonhoeffera. Jeśli przy pisaniu zabrzmi jak korekta — wyciąć i zostawić puentę bez klamry.
+- **Kontrapunkt uczciwości** (fragmentacja protestantyzmu) — utrzymany bez zmian; **zakaz trybunału** obowiązuje tym mocniej, im mocniejsza jest reguła ostatniego słowa.
+- **Cytaty:** Bonhoeffer „Kto nie umie być sam…" — cytat-kotwica, dziś `[?]`; **do weryfikacji priorytetowo, bez niej rozdział traci swoje najmocniejsze zdanie**. „Tu stoję, nie mogę inaczej" — `[atr]`, obowiązkowa nota o późniejszej popularyzacji.
+- **Refren:** pada; ostrzeżenie o otwarciu „Jest —" jak w rozdz. 38.
+- **Scena:** rejestr „wspólnota/historia" (Finkenwalde) — bez kolizji.

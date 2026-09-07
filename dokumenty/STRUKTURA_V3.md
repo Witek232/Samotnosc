@@ -249,3 +249,24 @@ Poprawiono **13 resztkowych odesłań v1/v2** w 8 konspektach (wszystkie wykryte
 - **Rozdział 11 (Wschód: rozpuścić samotne «ja») napisany** — pierwszy rozdział realizowany wprost z konspektu v3 wg Opcji A: `rozdzialy/11_wschod_rozpuscic_ja.md` (tekst roboczy v1; **3285 słów**; struktura: scena + cztery ruchy + sąd czterech sędziów + refren + most do części III). Dyscyplina części II utrzymana w całości (autor milczy, tradycje pełnym głosem, zero wersetów chrześcijańskich, Rdz 2,18 nieprzywołane); odesłania naturalizowane wg `02_STYL_PISARSKI.md` § 9.4 (zero numerów w tekście); bez dodatkowego ciepła (§ 9.3 poz. 11 — rygor dialogu). Echa do zapięcia przy pisaniu: konspekty **20** (Yalom — zachodnie echo pytającego), **28** (osoba — odpowiedź na anatta), **42** (Wschód jako trzeci rozmówca sprawdzianów).
 - **Archiwa konspektów v1 (50 j.) i v2 (47 j.) usunięte z drzewa roboczego** — decyzja autora z 2026-09-07 (orientacja w repo; `konspekty_v3/` były jedynym źródłem pisania od czasu V3). Nic nie ginie: oba archiwa pozostają **w historii gita** (commity do c2a84b1 włącznie) oraz **w dostarczonych archiwach ZIP** (`Samotnosc_V3_uporzadkowane.zip`, `Samotnosc_v3_1.zip`). Mapy numeracji v1→v3 i v2→v3 pozostają w dokumentach (§ 1 i § 5 niniejszego dokumentu; `dokumenty/archiwum/spis_plikow_v2_ostateczny.md` dokumentuje stan lokalny v2 z rękopisem).
 - **Struktura drzewa roboczego od V3.2:** `konspekty_v3/` (51 jednostek) + `rozdzialy/` (13 plików tekstów: rozdz. 11 + 12 przekonwertowanych z v2 + README) + `dokumenty/` (kanoniczne + archiwum dokumentów).
+
+---
+
+## 10. ANEKS v3.2 (2026-09-07) — głos wiodący i warstwy przekrojowe
+
+**Decyzja autorska:** myśl Josepha Ratzingera / Benedykta XVI jest głosem wiodącym książki i ma być ostatecznie dominująca — bez nachalności, bez superlatywów, bez zwiększania liczby cytatów.
+
+**Co to zmienia w architekturze (a czego nie):**
+
+- **Struktura 51 jednostek, numeracja i mapy — bez żadnych zmian.** Decyzja jest realizowana wewnątrz istniejących rozdziałów.
+- **Nowa warstwa: „głos" obok „rejestru".** `02_STYL_PISARSKI.md` § 0 (nota nadrzędna) — rejestr ~80% pozostaje, ale dochodzi warstwa, w której rozstrzyga się, czyja teza niesie argument.
+- **Cztery osie** (`05_KARTOTEKA_RATZINGEROWSKA.md` § 3) przypisane do rozdziałów macierzystych: **I** — 31; **II** — 24; **III** — 28/32; **IV** — 37.
+- **Zdanie kanoniczne osi II** (§ 5 pkt 3 tego dokumentu) dostaje regułę powtórzeń: **dokładnie trzy wystąpienia — 24, 48, epilog.**
+- **Reguła ostatniego słowa** — sprawdziany w rozdz. 24, 29, 30, 38, 39, 43, 48.
+- **Rękopis nie wiąże.** Decyzja autora z 2026-09-07: napisane rozdziały (11, 24–37) mogą być pisane od nowa zgodnie z regułami v3.2. Statusy w `SPIS_PLIKOW.md` pozostają, ale nie mają mocy blokującej.
+
+**Warstwy przekrojowe pod osobną kontrolą** (`07_REJESTR_REFRENU_SCEN_I_GLOSOW.md`): cisza refrenu w rozdz. **10, 23, 42, 45** (oraz zakwestionowanie refrenu w 11); rejestr scen wg rejestrów życia; wejście Arendt (rozdz. 10 — brakujące ogniwo pojęciowe: samotność jako sprawa publiczna), Weil (22 lub 26), Stein (28 lub 29); kobiety jako podmioty co najmniej trzech scen (2, 22, 46).
+
+**Aparat:** `06_KARTOTEKA_CYTATOW.md` — reguła bezwzględna: cudzysłów tylko przy statusie ✔.
+
+**Sprostowanie źródłowe:** *Deus caritas est* — „Zawsze będzie samotność" = **§ 28b** (nie § 29). Poprawione w `01_WERYFIKACJA_LITERATURY.md` (WERYFIKACJA 9) i w konspektach 37, 40.

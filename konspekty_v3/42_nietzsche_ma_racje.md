@@ -55,3 +55,11 @@ Trzeci sprawdzian: **Sartre ma rację — i nie ma racji**. Drugi człowiek rzec
 - Nie odbierać Nietzschemu godności: projekt przeciążony, nie głupi; ton szacunku do stawki.
 - Przebaczenie jako najmocniejsza nitka — dać jej najwięcej miejsca.
 - Refren raz; długość ~2,3–2,5 tys. słów.
+
+---
+
+## Nota v3.2 (2026-09-07)
+
+- **REFREN NIE PADA** (dok. 07 § A2): w rozdziale, w którym przeciwnik ma najwięcej racji, refren zabrzmiałby jak ucieczka do znajomej formuły. Cisza jest tu formą uczciwości.
+- **Reguła wzmacniania przeciwnika** — obowiązuje w najwyższym stopniu; zakaz cytowania „Bóg umarł" bez kontekstu aforyzmu 125 (`06_KARTOTEKA` § 3.3): sama fraza jest karykaturą i osłabia odpowiedź.
+- **Klamra z rozdz. 11** (Wschód jako trzeci rozmówca) — przewidziana w konspekcie 11.

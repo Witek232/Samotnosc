@@ -54,3 +54,11 @@ Jeśli brakuje wspólnot, człowiek próbuje być dla siebie własną wspólnot�
 - Nie polityzować: rozdział o strukturze, nie o programach partyjnych.
 - Wpleść Bauman zgodnie z kartoteką węzła C (uzupełnienie analizy) — bez rozbudowy.
 - Refren raz; długość ~2,3–2,6 tys. słów.
+
+---
+
+## Nota v3.2 (2026-09-07)
+
+- **Scena — rejestr „wieś / mała miejscowość"** (dok. 07 § B2): **wariant polski, nie amerykański.** Putnam opisał rozpad kapitału społecznego w USA lat 90.; przeniesienie jego obrazów wprost na Polskę byłoby diagnozą cudzego kraju. Scena ma być stąd.
+- **Klamra z Arendt (rozdz. 10, nowe):** utrata więzi jako warunek podatności na ideologię — to daje rozdziałowi stawkę, której sama socjologia nie daje.
+- **Oś IV** jako komentarz: sprawiedliwość strukturalna i miłość osobowa są współzależne — bez upolitycznienia.

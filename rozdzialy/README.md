@@ -33,3 +33,26 @@ Te pliki **nie zostały wgrane do GitHuba** — ten katalog jest na nie przygoto
 ## Kolejność pisania (zalecana)
 
 Rękopis pisany był od centrum (część V–VI). Po wgraniu naturalna kontynuacja: 37 (miłość) → [nowe: 38, 39] → 40–43 (sprawdziany) → 44–49 → epilog; oraz uzupełnienie wstecz: 11 (Wschód) — rozdział nowy, do napisania jako pierwszy z nowych.
+
+---
+
+## Nota v3.2 (2026-09-07) — rękopis nie wiąże
+
+**Decyzja autora:** istniejące teksty rozdziałów **nie są wiążące** — wolno je pisać od nowa zgodnie z koncepcją v3.2. Napisane dotąd: 11, 24–36 (kopia autora) oraz **37** (2026-09-07).
+
+**Przy pisaniu i przepisywaniu obowiązują:**
+
+1. `dokumenty/06_KARTOTEKA_CYTATOW.md` — **cudzysłów tylko przy statusie ✔**; reszta parafrazą. To jest reguła, która najbardziej zmienia napisane rozdziały: część cytatów w rękopisie ma dziś status roboczy.
+2. `dokumenty/05_KARTOTEKA_RATZINGEROWSKA.md` § 6 — osiem reguł głosu wiodącego (ostatnie słowo, przesłanka, limit 2 cytatów, zakaz superlatywu, zakaz wentrylokwizmu, wzmacnianie przeciwnika, jedna scena, reguła analogii).
+3. `dokumenty/07_REJESTR_REFRENU_SCEN_I_GLOSOW.md` — refren (cztery rozdziały ciszy), rejestr scen (jedna scena = jeden rejestr życia), obsada głosów.
+4. `dokumenty/04_PLAN_PISANIA_I_LINIA_RATZINGEROWSKA.md` § 2 — kolejność pisania.
+
+**Kolejność zaktualizowana (v3.2):**
+38 → 39 → 40 → 41 → 42 → 43 → 44 → 22 → 23 → 45 → 46 → 47 → 48 → 49 → Epilog → Prolog → 1–10 → 12–21.
+
+**Przepisania zaplanowane (po kwerendzie Ratzingerowskiej, nie wcześniej):** 24 (oś II + ewentualna scena), 31 (oś I — R1/R2), 32 (oś III — R4), 37 (rejestr sceny i otwarcie refrenu).
+
+## Format plików źródłowych — co da się odczytać
+
+PDF (tekstowy), MOBI, AZW3, EPUB, DOCX, TXT — tak. Skany bez warstwy tekstowej i pliki z DRM — nie.
+Szczegóły, instrukcja wgrywania i **problem numeracji stron w PDF-ach o niewiernym układzie**: `narzedzia/README.md`.

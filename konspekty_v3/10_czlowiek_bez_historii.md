@@ -67,3 +67,12 @@ Jeśli cena nowoczesności jest wspólna (konstrukcja samemu), to co dzieje się
 - Scena pogrzebu — neutralna, bez identyfikacji pokoleniowej.
 - Nie „wysuszać" końca części II: po pięciu wielkich bohaterach (Rousseau–Taylor) jedno zdanie emocjonalne: że części II kochają nowoczesność i boją się jej zarazem.
 - Refren raz; długość **~3,4–3,8 tys. słów** (suma dwóch rozdziałów minus szew).
+
+---
+
+## Nota v3.2 (2026-09-07) — Arendt i cisza refrenu
+
+- **Nowy głos: Hannah Arendt** (dok. 07 § C2–C3). Rozróżnienie **osamotnienie / samotność / bycie sobą** (*loneliness / solitude*) i jego konsekwencja polityczna: człowiek osamotniony — pozbawiony i towarzystwa innych, i towarzystwa samego siebie — traci zdolność myślenia, które jest rozmową ze sobą, i staje się materiałem dla ideologii. **To jest brakujące ogniwo pojęciowe całej książki:** bez niego części III–IV są diagnozą socjologiczną bez stawki, a samotność pozostaje prywatnym nieszczęściem, nie sprawą publiczną. Rozdział kontrolny jest naturalnym miejscem, bo podsumowuje część II.
+- **Status źródeł:** *Korzenie totalitaryzmu*, część o ideologii i terrorze — brzmienia i lokalizacje **niezweryfikowane**; do czasu sprawdzenia wyłącznie parafraza bez cudzysłowu (`06_KARTOTEKA_CYTATOW.md` § 2).
+- **Dyscyplina części II utrzymana:** Arendt wchodzi jako **głos diagnostyczny**, nie jako odpowiedź; żadnej teologii w tym rozdziale.
+- **REFREN NIE PADA** (dok. 07 § A2) — cisza jest tu wykonaniem zasady „autor milczy", nie wyjątkiem od niej.

@@ -58,3 +58,11 @@ Jeśli obecność wymaga istnienia drugiego, to współczesność próbowała te
 - Uznanie korzyści (pkt 5.2) konieczne — inaczej rozdział czyta się jak panikę.
 - Nie porównywać AI do Boga jako „dwóch rozwiązań" — AI jest lustrem, Bóg jest stroną; spornym tematem zajmie się 40–41, tu tylko struktura.
 - Refren raz; długość ~2,3–2,6 tys. słów.
+
+---
+
+## Nota v3.2 (2026-09-07)
+
+- **REFREN NIE PADA jako refren** (dok. 07 § A2): tu pytanie „czy ktoś tam jest?" zadaje maszyna albo człowiek maszynie — rozdział ma je **przywołać jako temat**, nie wykonać jako figurę. To najsubtelniejsze użycie formy w całej książce.
+- **Odporność na starzenie (dok. 04 § 2):** to jedyny rozdział książki, który się zestarzeje. **Zero nazw produktów i liczb użytkowników w tekście głównym** — pytanie „czy odpowiada ktoś, czy coś" jest wieczne, nazwy modeli starzeją się w dwanaście miesięcy. Realia wyłącznie w przypisach, gdzie łatwo je zaktualizować przy wznowieniu.
+- **Oś III** jako narzędzie rozstrzygające: jeśli osoba jest relacją, to pytanie o AI nie brzmi „czy to dobrze symuluje rozmowę", lecz „czy po drugiej stronie jest ktoś, kto może być adresatem". Rozdział ma prowadzić do tego przesunięcia, nie do oceny technologii.

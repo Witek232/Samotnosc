@@ -89,3 +89,12 @@ Jeśli Bóg jest relacją, to jak wygląda jej spełnienie w historii — jak re
 ---
 
 *Powiązania: rozdz. 16 (agape jako struktura), rozdz. 24–25 (zstąpienie i krzyż), rozdz. 28 (osoba), rozdz. 33–34 (Syn w historii), rozdz. 35 (Kościół jako komunia), epilog.*
+
+---
+
+## Nota v3.2 (2026-09-07)
+
+- **Oś III** — druga połowa (Trójca). **Reguła analogii obowiązkowa:** bez wyraźnego sygnału analogii rozdział popada w modalizm albo w społeczny tryteizm. To jest jedyne miejsce książki, gdzie błąd doktrynalny jest realnie prawdopodobny — pilnować przy każdym przejściu Trójca → antropologia.
+- **Cytat dostępny ✔:** *Spe salvi* 27 („życie… jest relacją").
+- **Do weryfikacji:** R4.
+- **Rękopis istnieje** — do przepisania po kwerendzie.

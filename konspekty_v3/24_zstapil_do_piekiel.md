@@ -91,3 +91,13 @@ Ale zaraz — czy to znaczy, że Bóg doświadczył opuszczenia Boga? Na krzyżu
 ---
 
 *Powiązania: rozdz. 20 (pytanie Yaloma — odpowiedź), rozdz. 22–23 (struktura śmierci), rozdz. 25 (opuszczenie na krzyżu), rozdz. 26 (drzwi — Spe salvi 32), rozdz. 47–49 (drugi szczyt), epilog.*
+
+---
+
+## Nota v3.2 (2026-09-07) — centrum książki
+
+- **Oś II** kartoteki Ratzingerowskiej ma tu swój dom. Zdanie kanoniczne: *Chrystus nie zbawia człowieka z samotności, omijając jego samotność. Zbawia go, wchodząc w nią.* **Reguła powtórzeń: dokładnie trzy razy w całej książce — 24, 48, epilog, w identycznym brzmieniu.** Czwarte wystąpienie zamienia oś w slogan.
+- **Kandydat na scenę Ratzingerowską (środek A, dok. 04 § 3.2):** jedna w całej książce, 3–4 akapity, w których czytelnik widzi człowieka, nie tekst. Alternatywa: rozdz. 48. **Do decyzji autora.** Materiał biograficzny **wymaga weryfikacji — nie pisać z pamięci.**
+- **Do weryfikacji priorytetowo:** R3 (*Wprowadzenie w chrześcijaństwo*, część o Credo — „zstąpił do piekieł", samotność absolutna). Autor ma PDF.
+- **Balthasar** (*Mysterium Paschale*) — pozostaje ograniczony do tego rozdziału (`02_STYL_PISARSKI` § 2); przy regule ostatniego słowa: ostatni głos przed puentą **nie Balthasar**.
+- **Rękopis istnieje** — przewidziany do przepisania po ustaleniu materiału (decyzja autora 2026-09-07: wolno pisać rozdziały od nowa).

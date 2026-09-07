@@ -56,3 +56,10 @@ Jeśli epoka odroczyła odpowiedź, trzeba ją postawić na nowo — tym razem b
 - Ariès — opcjonalny; jedna linia.
 - Nie powtarzać tezy z 23 — tu kultura, tam struktura.
 - Refren raz; długość ~2,4–2,7 tys. słów.
+
+---
+
+## Nota v3.2 (2026-09-07)
+
+- **Scena — rejestr „dom opieki"** (dok. 07 § B2); **kobieta jako podmiot sceny** — opiekunka (dok. 07 § C4). Samotność opiekunki osoby przewlekle chorej jest jedną z trzech najczęstszych samotności w Polsce, a książka nie ma dotąd żadnego głosu, który mówiłby z tego miejsca.
+- **Źródło:** R5 (*Eschatologia*) — do pozyskania.

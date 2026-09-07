@@ -54,3 +54,10 @@ Wszystkie cztery definicje leżą na stole. Teraz Ratzinger czyta wyznanie: mię
 - Podział z rozdz. 24 pilnować bezlitośnie: tu zero interpretacji zstąpienia — tylko definicje śmierci; inaczej rozdz. 24 straci siłę.
 - Ps 88 jako jedyny cytat biblijny (jedna linia) — reszta tekstów idzie do 25 (1 P 3, Ef 4, Dz 2).
 - Rytm spowolniony; krótkie akapity; długość ~2,4–2,6 tys. słów.
+
+---
+
+## Nota v3.2 (2026-09-07)
+
+- **REFREN NIE PADA** (dok. 07 § A2): zawieszenie refrenu bezpośrednio przed centrum książki (24) podnosi jego wagę w 24 o rząd wielkości.
+- **Źródło do pozyskania — priorytet:** Ratzinger, *Eschatologia. Śmierć i życie wieczne* (poz. R5, `05_KARTOTEKA` § 5). Śmierć jako wydarzenie osobowe, nie biologiczne; nieśmiertelność „dialogiczna" — człowiek trwa, bo jest znany przez Boga. **To jest prawdopodobnie najważniejsze nieużyte dotąd źródło książki** i pracuje w czterech rozdziałach (23, 26, 47, 49). Do czasu pozyskania pliku — parafraza.

@@ -79,3 +79,11 @@ Epilog nie ma mostu „do następnego rozdziału" — ma **otwarte ostatnie zdan
 ---
 
 *Powiązania: prolog (klamra), 2 (dziecko), 8–12 („stworzyć siebie"), 21–23 (umieranie), 25 (wejście), 32 (wiara), 33 („Ty jesteś" jako struktura Boga), 47–48 (obietnica i finał).*
+
+---
+
+## Nota v3.2 (2026-09-07)
+
+- **Oś II — trzecie i ostatnie wystąpienie** zdania kanonicznego (24 → 48 → **epilog**), brzmienie identyczne. Po nim nie ma już żadnego powtórzenia.
+- **Zakaz superlatywu** obowiązuje także tutaj: nazwisko Ratzingera **nie zostaje opatrzone żadną oceną**. Jeśli struktura książki zadziałała, czytelnik sam wie, czyj to był głos.
+- Finał J 11,26 — cichy i osobisty; ustalenie nienaruszone.

@@ -6,6 +6,30 @@
 
 ---
 
+## 0. NOTA NADRZĘDNA v3.2 (2026-09-07) — głos wiodący
+
+> **Decyzja autorska:** głos Josepha Ratzingera / Benedykta XVI ma być w książce najlepiej słyszalny i **ostatecznie dominujący**, bez nachalności.
+
+Ta nota **ma pierwszeństwo** przed proporcjami z § 4 w razie kolizji. Wprowadza rozróżnienie, którego dokumentowi dotąd brakowało:
+
+- **Rejestr** (ten dokument, § 2) = jak brzmi zdanie. Ratzinger ma tu ~80% i to pozostaje bez zmian.
+- **Głos** = czyja myśl niesie argument i czyje twierdzenie rozstrzyga. **To jest warstwa nowa** — i to w niej realizuje się decyzja autora.
+
+Rozróżnienie jest konieczne, bo dotąd Ratzinger był w książce bazą stylu, ale nie bohaterem myśli: jako jedyny z wielkich głosów nie ma własnego rozdziału (Nietzsche — 7, Freud — 8, Sartre — 9, Yalom — 20, Heschel — 30, Luter i Bonhoeffer — 39), a rozproszenie po trzydziestu rozdziałach w roli komentarza nie jest dominacją.
+
+**Środki wykonawcze — pełny opis w `05_KARTOTEKA_RATZINGEROWSKA.md` § 6. Skrót obowiązujący przy każdym rozdziale:**
+
+1. **Reguła ostatniego słowa** — ostatni głos teologiczny przed puentą należy do linii Ratzingerowskiej (sprawdziany: 29, 30, 38, 39).
+2. **Reguła przesłanki** — jego teza ma być przesłanką rozumowania, nie ozdobą wniosku (test: usuń nazwisko; jeśli akapit stoi — przepisać).
+3. **Limit: maks. 2 cytaty na rozdział, w tym najwyżej 1 blokowy.**
+4. **Zakaz superlatywu** — ocena „najwybitniejszy teolog XX w." nie pada w tekście książki **ani razu**; jest do udowodnienia strukturą, nie epitetem.
+5. **Reguła wzmacniania przeciwnika** — dominacja tego głosu powstaje siłą Nietzschego, Freuda i Sartre'a, nie ich osłabieniem. Rozdziały 6–9 i 41–43 są dla realizacji tej decyzji ważniejsze niż jakikolwiek cytat.
+6. **Cztery osie** (`05_KARTOTEKA` § 3) — powracające zdania nośne; dominacja bierze się z powracania, nie z objętości.
+
+**Konsekwencja dla mapy akcentów (§ 3):** bez zmian. Sheen, Péguy i Merton pozostają akcentami ≤5% — ich rzadkość jest właśnie tym, co robi miejsce dla głosu wiodącego.
+
+---
+
 ## 1. Werdykt ws. Sheena: tak — jako akcent, nie jako baza
 
 **Udział maksymalny: ok. 5% objętości.** To nie jest wygodne pół-„tak": to rozstrzygnięcie strukturalne.

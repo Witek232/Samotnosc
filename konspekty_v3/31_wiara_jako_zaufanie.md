@@ -86,3 +86,11 @@ Ale do kogo powierzam siebie? Jeśli „Ty" wiary byłoby kolejnym konstruowanym
 ---
 
 *Powiązania: rozdz. 4 (pewność odwrócona), rozdz. 18 (bezpieczna baza), rozdz. 29 (gramatyka odpowiedzi), rozdz. 32 (uzasadnienie w Trójcy), rozdz. 35 (Kościół), rozdz. 40 (modlitwa jako rozmowa z samym sobą? — zarzut), epilog.*
+
+---
+
+## Nota v3.2 (2026-09-07) — rozdział macierzysty osi I
+
+- **Oś I** (*wiara jest odpowiedzią, nie posiadaniem*; *credere in Deum*) ma tu swój dom. Zdanie nośne: *Wiara nie daje pewności — daje adresata.* Oś pracuje potem w 5, 25, 30, 39, **40 (kluczowo)**, 41 i epilogu — spójność brzmienia pilnować stąd.
+- **Do weryfikacji priorytetowo:** R1, R2 (`05_KARTOTEKA` § 5) — *Wprowadzenie w chrześcijaństwo*, cz. I: wiara jako stanie wobec niewidzialnego; wątpienie wierzącego i niewierzącego jako sytuacja wspólna. **To jest fundament rozdziału i dziś nie jest zweryfikowany** — obecny rękopis powstał bez dostępu do tekstu.
+- **Rękopis istnieje** — do przepisania po kwerendzie.

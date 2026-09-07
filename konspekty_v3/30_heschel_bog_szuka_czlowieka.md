@@ -79,3 +79,10 @@ Trzy stulecia wątpliwości rozwinęły się wokół tego, czy można być pewny
 ---
 
 *Powiązania: rozdz. 4 (Bóg Abrahama, nie filozofów), rozdz. 29 (Buber — spółka filozofów żydowskich), rozdz. 31 (credere in Deum), rozdz. 32 (Trójca — monada zniesiona), rozdz. 35 (wspólnota jako forma/rytm), rozdz. 39 (Bonhoeffer — protestancki siostrzany świadek wiary), rozdz. 40 (sprawdzian), epilog.*
+
+---
+
+## Nota v3.2 (2026-09-07)
+
+- **Reguła ostatniego słowa:** ostatni głos przed puentą **nie Heschel**. Ostrożność szczególna: to rozdział świadectwa judaizmu **po Chrystusie** — zdanie zamykające ma nazywać, co ta książka z Heschla bierze (oś I: Bóg szuka pierwszy — wiara jest odpowiedzią na zwrócenie się, nie zdobyczą), **nie zaś chrystianizować jego myśli**. Jeżeli przy pisaniu zabrzmi jak zawłaszczenie — wyciąć.
+- **Cytaty:** tytuł polski *Boga szukającego człowieka* do ustalenia (`06_KARTOTEKA` § 3.3).

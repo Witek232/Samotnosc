@@ -77,7 +77,9 @@ To jest pytanie rozdziału następnego — i jest ono pytaniem tego rozdziału, 
 
 ⁵ J. Ratzinger, *Powołani do wspólnoty*: formuła „Eucharystia tworzy Kościół" — brzmienie robocze; strony [?].
 
-⁶ Sobór Watykański II, *Lumen gentium* 1 — brzmienie robocze („sakrament, znak i narzędzie jedności") [?]; KKK 751–757 — kontekst zgromadzenia i obrazów Kościoła [?].
+⁶ Sobór Watykański II, konstytucja dogmatyczna o Kościele *Lumen gentium*, **nr 1**: „Kościół jest w Chrystusie **niejako sakramentem, czyli znakiem i narzędziem wewnętrznego zjednoczenia z Bogiem i jedności całego rodzaju ludzkiego**". ✔ **zweryfikowane** (brzmienie zgodne w trzech niezależnych publikacjach tekstu polskiego, 2026-09-08).
+**Sprostowanie 2026-09-08:** wersja pierwotna podawała „brzmienie robocze" jako „sakrament, znak i narzędzie jedności" — **skrót, który gubi dwie rzeczy istotne dla tego rozdziału**: (a) partykułę **„niejako"** (*veluti*), która chroni przed utożsamieniem Kościoła z siedmioma sakramentami i przed jego przebóstwieniem — dla rozdziału broniącego Kościoła przed zarzutem instytucjonalizmu jest to zastrzeżenie cenne, nie kłopotliwe; (b) **dwa człony** jedności: „wewnętrznego zjednoczenia z Bogiem" **i** „jedności całego rodzaju ludzkiego" — czyli dokładnie oś pionowa i pozioma, na której ten rozdział stoi. Skrót zostawiał samą oś poziomą.
+KKK **751–757** — kontekst: nazwy i obrazy Kościoła (*ekklesia* jako zwołanie, owczarnia, rola uprawna, budowla, oblubienica). Lokalizacja ✔; brzmienia poszczególnych numerów nie były osobno sprawdzane [?] — w tekście głównym referowane własnymi słowami.
 
 **Noty redakcyjne (poza tekstem książki):**
 

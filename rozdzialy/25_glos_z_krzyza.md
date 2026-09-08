@@ -1,9 +1,9 @@
-# ROZDZIAŁ 24 — GŁOS Z KRZYŻA
+# ROZDZIAŁ 25 — GŁOS Z KRZYŻA
 
 **Książka:** *Ołowiana samotność. Wierzę w Ciebie* | **Część V — ZEJŚCIE**
-**Podstawa:** konspekt `konspekty_v2/24_glos_z_krzyza.md` — szablon lekki, siedem ruchów
-**Rejestr:** baza — esej intelektualny wg Ratzingera (`02_STYL_PISARSKI.md` § 1–2); bez akcentów stylistycznych (Balthasar/Moltmann wyłącznie w notce końcowej — konspekt § 4, ANALIZA 3.5); narracja „ja" (część V — `STRUKTURA_V2.md` § 0.6)
-**Rytm:** cel 2,4–2,7 tys. słów tekstu głównego | **Wersja:** tekst roboczy v1 (rozdział rękopisu)
+**Podstawa:** konspekt `konspekty_v3/25_glos_z_krzyza.md` — szablon lekki, siedem ruchów
+**Rejestr:** baza — esej intelektualny wg Ratzingera (`02_STYL_PISARSKI.md` § 1–2); bez akcentów stylistycznych (Balthasar/Moltmann wyłącznie w notce końcowej — konspekt § 4, ANALIZA 3.5); narracja „ja" (część V — `STRUKTURA_V3.md` § 0.6)
+**Rytm:** cel 2,4–2,7 tys. słów tekstu głównego | **Wersja:** tekst roboczy v1 (odziedziczony, struktura v2) → **przenumerowany na v3 2026-09-08**
 
 ---
 
@@ -71,7 +71,7 @@ Ta precyzja jest dziś cenniejsza niż kiedykolwiek, bo rozdziela dokładnie to,
 
 Psalm trzydziesty pierwszy, z którego Łukasz bierze drugi głos, jest modlitwą człowieka w opałości: „bądź mi skałą oparcia", prosi w nim psalmista — i powierza siebie tak, jak powierza się coś, co przestaje zależeć od nas. Kto mówi „powierzam", nie ma już żadnej gwarancji poza tym, komu powierza. Drugi głos z krzyża jest ostatecznym stopniem tej gramatyki: to, co w psalmie było powierzeniem dnia, na krzyżu staje się powierzeniem ducha.
 
-A w samym psalmie dwudziestym drugim ta droga już jest. Środek skargi brzmi: „Ty jednak, Panie, nie bądź daleko… powiem Twoje imię moim braciom" (Ps 22,20–22). Skarga, która w połowie obiecuje chwałę — i to nie sobie, lecz wspólnocie. Dokładnie te dwa ruchy rozdział dwudziesty trzeci pokazał jako zstąpienie: wejście w samotność i oddanie się jej; rozdział dwudziesty dziewiąty pokaże je jako wiarę — zaufanie, które nie zależy od odczucia. Krzyż zapisuje je jako dwie połówki jednej modlitwy umierającego: skarga, która powierza.
+A w samym psalmie dwudziestym drugim ta droga już jest. Środek skargi brzmi: „Ty jednak, Panie, nie bądź daleko… powiem Twoje imię moim braciom" (Ps 22,20–22). Skarga, która w połowie obiecuje chwałę — i to nie sobie, lecz wspólnocie. Dokładnie te dwa ruchy rozdział dwudziesty czwarty pokazał jako zstąpienie: wejście w samotność i oddanie się jej; rozdział trzydziesty pierwszy pokaże je jako wiarę — zaufanie, które nie zależy od odczucia. Krzyż zapisuje je jako dwie połówki jednej modlitwy umierającego: skarga, która powierza.
 
 Dla człowieka umierającego jest w tym coś praktycznego, czego nie wolno zredukować do teologii: nie każdy umiera ze słowami. Ale słowa są — psalm jest gotową modlitwą, którą można pożyczyć, kiedy własne się skończyły. Umierający, który nie ma już w sobie ani jednego własnego zdania, ma do dyspozycji dwa zdania z krzyża: skargę i powierzenie. Chrześcijaństwo nie każe mu wybrać jednego.
 
@@ -103,7 +103,7 @@ Zostaje jednak jedno pytanie, na które ten rozdział nie ma prawa odpowiedzieć
 
 - Cytaty biblijne wg Biblii Tysiąclecia (Mk 15,34–36; Mt 27,46; Łk 23,46; J 19,30; Ps 22,2.20–22; Ps 31,6) — finalne brzmienia do potwierdzenia z egzemplarzem; konspekt używa formy „czemuś Mnie opuścił" — do ujednolicenia z BT („czemuś mnie opuścił").
 - Źródła: Ratzinger, *Jezus z Nazaretu*, cz. II (rozdz. o ukrzyżowaniu) [? Znak]; Tomasz, *ST* III, q. 46–47 [?]; definicja Chalcedonu (451) — formuła „bez zmieszania i bez rozdzielenia", brzmienie przekładu do ujednolicenia [?].
-- Tło współczesnej teologii krzyża (zgodnie z konspektem § 4 — poza tekstem głównym): H. U. von Balthasar, *Mysterium paschale* (wyd. pol. Tyniec 1999) oraz J. Moltmann, *Bóg ukrzyżowany* (wyd. pol. [?]). Decyzja stylistyczna: praca nad krzykiem toczy się w rejestrze Ratzingera (*Jezus z Nazaretu*, cz. II); Balthasar pozostaje ograniczony do rozdz. 23 (*Mysterium Paschale* — `02_STYL_PISARSKI.md` § 2).
+- Tło współczesnej teologii krzyża (zgodnie z konspektem § 4 — poza tekstem głównym): H. U. von Balthasar, *Mysterium paschale* (wyd. pol. Tyniec 1999) oraz J. Moltmann, *Bóg ukrzyżowany* (wyd. pol. [?]). Decyzja stylistyczna: praca nad krzykiem toczy się w rejestrze Ratzingera (*Jezus z Nazaretu*, cz. II); Balthasar pozostaje ograniczony do rozdz. 24 (*Mysterium Paschale* — `02_STYL_PISARSKI.md` § 2).
 - Granice z konspektu (§ 9) — utrzymane: zero spekulacji o wewnętrznych wydarzeniach w Trójcy (ruch IV); zero malarstwa brzmień (ruch IV); Chalcedon w dwóch zdaniach, nie lekcja (ruch IV); Łk 23,46 jako dokończenie, nie obalenie (ruch VI); refren „Czy ktoś tam jest?" raz (ruch VII).
-- Narracja „ja" (część V, `STRUKTURA_V2.md` § 0.6) — utrzymana; znaczniki ruchów I–VII służą pracy warsztatowej i znikają w wersji drukowanej.
+- Narracja „ja" (część V, `STRUKTURA_V3.md` § 0.6) — utrzymana; znaczniki ruchów I–VII służą pracy warsztatowej i znikają w wersji drukowanej.
 - Odesłania: rozdz. 2 (dziecko wołające w pustym mieszkaniu — tonacja refrenu), 22–23 (struktura śmierci; sobota; czasownik), 25 (próg — drzwi; *Spe salvi* 32), 29 (wiara jako zaufanie — skarga, która powierza), 43–44 (drugi szczyt: samotność umierania dziś; „Nie będziesz tam sam").

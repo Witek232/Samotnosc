@@ -1,9 +1,9 @@
-# ROZDZIAŁ 23 — ZSTĄPIŁ DO PIEKIEŁ
+# ROZDZIAŁ 24 — ZSTĄPIŁ DO PIEKIEŁ
 
 **Książka:** *Ołowiana samotność. Wierzę w Ciebie* | **Część V — ZEJŚCIE**
-**Podstawa:** konspekt `konspekty_v2/23_zstapil_do_piekiel.md` — pełny szablon warsztatowy, CENTRUM KSIĄŻKI (osiem ruchów)
-**Rejestr:** baza — esej intelektualny wg Ratzingera (`02_STYL_PISARSKI.md` § 1–2); bez akcentów stylistycznych; narracja „ja" (część V — `STRUKTURA_V2.md` § 0.6)
-**Rytm:** ~3,55 tys. słów tekstu głównego (cel 3,5–4,2 ✔) | **Wersja:** tekst roboczy v1 (pierwszy rozdział rękopisu)
+**Podstawa:** konspekt `konspekty_v3/24_zstapil_do_piekiel.md` — pełny szablon warsztatowy, CENTRUM KSIĄŻKI (osiem ruchów)
+**Rejestr:** baza — esej intelektualny wg Ratzingera (`02_STYL_PISARSKI.md` § 1–2); bez akcentów stylistycznych; narracja „ja" (część V — `STRUKTURA_V3.md` § 0.6)
+**Rytm:** ~3,55 tys. słów tekstu głównego (cel 3,5–4,2 ✔) | **Wersja:** tekst roboczy v1 (odziedziczony, struktura v2) → **przenumerowany na v3 2026-09-08**
 
 ---
 
@@ -47,13 +47,13 @@ Nie ma w nim chwały Bożej. Psalmista formułuje to z brutalną prostotą: „b
 
 Szeol jest więc pierwszą, niedogmatyczną definicją samotności absolutnej: nie miejscem tortur, lecz miejscem zapomnienia. Człowiek Starego Testamentu nie mówi, że w otchłani jest źle; mówi coś surowszego: że w otchłani nie ma już o czym mówić. Nie ma pochwały, bo pochwała wymaga słuchacza; nie ma relacji, bo relacja wymaga drugiego; nie ma pamięci, bo pamięć wymaga kogoś, kto pamięta.
 
-W rozdziale dwudziestym drugim patrzyłem na człowieka, który umiera: fenomenologia ostatniego oddechu, ostatniego zdania, ostatniego światła. Teraz pytanie brzmi: dokąd on poszedł? Odpowiedź Starego Testamentu jest ważniejsza, niż się wydaje: nie „gdzieś indziej". Człowiek nie przenosi się do innego miejsca — schodzi. Szeol jest „dołem": nie geograficznie, lecz jakościowo, bo w miarę schodzenia ubywa Boga. Śmierć nie jest wydarzeniem, po drugiej stronie którego czeka jakaś treść. Śmierć jest krajem o jednej właściwości: nic w nim nie mówi do Boga i Bóg nic w nim nie mówi.
+W rozdziale dwudziestym trzecim patrzyłem na człowieka, który umiera: fenomenologia ostatniego oddechu, ostatniego zdania, ostatniego światła. Teraz pytanie brzmi: dokąd on poszedł? Odpowiedź Starego Testamentu jest ważniejsza, niż się wydaje: nie „gdzieś indziej". Człowiek nie przenosi się do innego miejsca — schodzi. Szeol jest „dołem": nie geograficznie, lecz jakościowo, bo w miarę schodzenia ubywa Boga. Śmierć nie jest wydarzeniem, po drugiej stronie którego czeka jakaś treść. Śmierć jest krajem o jednej właściwości: nic w nim nie mówi do Boga i Bóg nic w nim nie mówi.
 
 I właśnie dlatego credo nie mogło pominąć tego zdania. Jeżeli Syn wszedł do śmierci naprawdę, to wszedł do szeolu — bo szeol jest jedynym imieniem, jakie śmierć wtedy nosiła. Artykuł wiary nie dodaje nic do opisu kraju; on twierdzi coś o podróżniku.
 
 ### IV
 
-I dopiero teraz mogę zapisać zdanie Ratzingera, które jest kluczem do całego artykułu: „śmierć to po prostu samotność".² Zdanie brzmi jak teza filozofa, nie teologa — i Ratzinger nie ucieka od tego skojarzenia. Przyjmuje je. Filozofia XX wieku osiągnęła tu swoją granicę, a Ratzinger nie pozwala teologii udawać, że granicy nie było. Heidegger: umieranie jest sprawą, której nikt nie może za mnie wykonać — nikt nie umrze za mnie, nikt za mnie nie zejdzie do szeolu (to była struktura, którą rozdział dwudziesty pierwszy przyjął bez prostowania). Yalom: istnieje samotność, której nie usunie tłum — nie dlatego, że tłum jest za mały, lecz dlatego, że samotność granicy nie jest brakiem ludzi; jest brakiem sposobu, by ktokolwiek wszedł (rozdział dziewiętnasty). Kiedy umieram, osiągam samotność absolutną: nie taką, w której przy mnie nie ma ludzi — taką, do której nikt nie ma dostępu.
+I dopiero teraz mogę zapisać zdanie Ratzingera, które jest kluczem do całego artykułu: „śmierć to po prostu samotność".² Zdanie brzmi jak teza filozofa, nie teologa — i Ratzinger nie ucieka od tego skojarzenia. Przyjmuje je. Filozofia XX wieku osiągnęła tu swoją granicę, a Ratzinger nie pozwala teologii udawać, że granicy nie było. Heidegger: umieranie jest sprawą, której nikt nie może za mnie wykonać — nikt nie umrze za mnie, nikt za mnie nie zejdzie do szeolu (to była struktura, którą rozdział dwudziesty drugi przyjął bez prostowania). Yalom: istnieje samotność, której nie usunie tłum — nie dlatego, że tłum jest za mały, lecz dlatego, że samotność granicy nie jest brakiem ludzi; jest brakiem sposobu, by ktokolwiek wszedł (rozdział dwudziesty). Kiedy umieram, osiągam samotność absolutną: nie taką, w której przy mnie nie ma ludzi — taką, do której nikt nie ma dostępu.
 
 Warto zaznaczyć uczciwość tego ruchu: chrześcijaństwo nie ma tu nic do dodania i niczego nie prostuje. Teologia, która na tym etapie sypie pociechami, traci prawo do głosu w następnym. Ratzinger przyjmuje strukturę śmierci tak, jak filozofowie ją opisali — z całą nieubłaganością — i dopiero na tym fundamencie, ciężkim jak ołów, będzie można powiedzieć coś nowego. Jeżeli więc ktoś szuka w tym rozdziale zapewnienia, że śmierć „wcale nie jest taka straszna”, zamknął złą książkę: śmierć jest dokładnie taka, jak ją opisał Heidegger. Pytanie tego rozdziału brzmi tylko: czy jest straszna również od tej strony, od której nikt nie może zajrzeć — od środka.
 
@@ -139,6 +139,6 @@ Ale zaraz — muszę jeszcze raz podnieść głos, bo nad tą budową wisi zdani
 
 - Cytaty biblijne wg Biblii Tysiąclecia (Ps 22,2; Ps 6,6; Hi 7,9–10; J 13,1; Rdz 3,9; 1 P 3,19–20; Ef 4,9; Dz 2,24; Pnp 8,6) — finalne brzmienia do potwierdzenia z egzemplarzem.
 - Źródła: Ratzinger, *Wprowadzenie w chrześcijaństwo* (rozdział o zstąpieniu — strony wyd. Znak [?]); KKK 632–637; Ireneusz, *Adversus haereses* (recapitulatio); Orygenes, homilie; Grzegorz z Nyssy, homilia paschalna (parafraza wg węzła F kartoteki); Balthasar, *Mysterium Paschale* (wydanie/strony [?]).
-- Klauzula anty-apokatastastyczna (ruch VII) — zgodna z konspektem (ryzyko 1); krzyk Ps 22 — tylko nazwany (ruch II i most), pełna praca w rozdz. 24 (ryzyko 4).
+- Klauzula anty-apokatastastyczna (ruch VII) — zgodna z konspektem (ryzyko 1); krzyk Ps 22 — tylko nazwany (ruch II i most), pełna praca w rozdz. 25 (ryzyko 4).
 - Narracja „ja" (część V) — utrzymana; znaczniki ruchów I–VIII służą pracy warsztatowej i do zniknięcia w wersji drukowanej (struktura zostaje w kompozycji akapitów, z oddechem po ruchu V).
-- Odesłania: rozdz. 19 (pytanie Yaloma — odpowiedź), 21–22 (struktura śmierci), 24 (opuszczenie na krzyżu), 25 (próg — *Spe salvi* 32), 43–45 (drugi szczyt), epilog.
+- Odesłania: rozdz. 20 (pytanie Yaloma — odpowiedź), 21–22 (struktura śmierci), 24 (opuszczenie na krzyżu), 25 (próg — *Spe salvi* 32), 43–45 (drugi szczyt), epilog.

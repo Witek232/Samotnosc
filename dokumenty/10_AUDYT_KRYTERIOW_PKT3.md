@@ -77,10 +77,19 @@ Ryzyko „tapety" z § 3.1 w tym materiale **nie występuje**: nazwisko nie jest
 
 ---
 
-## Środek A — nadal niezrealizowany
+## Środek A — ZREALIZOWANY 2026-09-08 (rozdz. 24)
 
 § 3.2 rekomenduje **najmocniej** dać Ratzingerowi jedną scenę: 3–4 akapity, w których czytelnik widzi człowieka, a nie tekst. Wskazane miejsce: **rozdz. 24 (centrum) albo 48**.
 
-**W rozdz. 24 tej sceny nie ma.** To jest największa niezrealizowana pozycja polecenia autora o dominacji głosu — większa niż cokolwiek wykrytego w tym audycie. Warunek z § 3.2 pozostaje aktualny: *wszystkie szczegóły biograficzne wymagają weryfikacji, nie wolno ich rekonstruować z pamięci*.
+**Scena została napisana i wstawiona na początek ruchu IV** — bezpośrednio przed zdaniem „Śmierć to po prostu samotność", tak by wniosek padał dopiero po pokazaniu, jak powstaje.
 
-Materiał, który **już mamy zweryfikowany** i który nadaje się pod taką scenę: akapit z *Wprowadzenia w chrześcijaństwo* s. 246–247 — Hesse, „brama śmierci", „Śmierć to po prostu samotność". Jest to fragment, w którym młody teolog cytuje wiersz o samotności, zanim powie zdanie teologiczne. To gotowy zalążek sceny, oparty na tekście odczytanym z wydania, nie z pamięci.
+**Zawartość sceny (wszystko odczytane z wydania, s. 245–246):**
+- fenomenologia lęku: **dziecko idące nocą przez las**, **człowiek czuwający przy zmarłym**, rozróżnienie „trwogi *przed czymś*" (usuwalnej — pies na łańcuchu) i „lęku samego w sobie" (bezprzedmiotowego);
+- **cytat blokowy** — jedyny w rozdziale — kończący się zdaniem: „Prawdziwego lęku człowieka nie może opanować rozum, może to sprawić tylko obecność kogoś kochającego";
+- **Hesse** (*Im Nebel*) i **Sartre** — oba przywołania pochodzą z tego samego ciągu wywodu u Ratzingera, cytowane za wydaniem polskim *Wprowadzenia*, nie za osobnymi przekładami.
+
+**Dlaczego to jest scena, a nie kolejny cytat.** Pokazuje ona teologa, który w sprawie lęku **orzeka przeciwko własnemu narzędziu**: argument nie leczy, leczy obecność. Czytelnik widzi sposób myślenia, nie wynik — czego wymaga § 3.2. Realizuje też środek C: zdanie o „współ-byciu" jest przesłanką dalszego rozumowania rozdziału, nie ozdobą.
+
+**Ograniczenie oznaczone w tekście `[?]`:** ramy biograficzne (koniec lat 60., geneza książki z wykładów, wiek autora) podano ogólnie i **nie były przedmiotem osobnej kwerendy** — przypis 3 mówi to wprost. Sam wywód i wszystkie cytaty pochodzą z odczytanego wydania.
+
+**Koszt:** rozdział urósł z 3548 do **4019 słów** — najdłuższy w książce, przy celu 2,3–2,6 tys. Uważam ten koszt za uzasadniony w centrum książki, ale **rozdz. 24 przechodzi tym samym na pierwsze miejsce listy do skrócenia**. Materiał na cięcie jest: ruchy VI i VII zawierają powtórzenia tez z ruchu IV.

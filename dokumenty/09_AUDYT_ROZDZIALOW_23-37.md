@@ -190,3 +190,35 @@ Autor polecił: „sprawdź i popraw po kolei". **Odradzam** i proszę o decyzj�
 ## Wniosek metodologiczny
 
 Przypisy w rozdziałach 23–37 pisano bez dostępu do źródeł i **dwa z nich okazały się fałszywe** (DCE § 16; „przejście z «ja» do «my»"), a **dwa cytaty biblijne pochodziły z innego przekładu** niż deklarowany. Jednocześnie jeden cytat oznaczony jako niepewny („Śmierć to po prostu samotność") okazał się **dokładny**. Ostrożność działała więc w obie strony. Zasada na dalszą pracę pozostaje bez zmian: **cytat bez weryfikacji w wydaniu nie wchodzi do tekstu w cudzysłowie** — może być referowany własnymi słowami, co w kilku miejscach zastosowano.
+
+---
+
+# AKTUALIZACJA 2026-09-08 (2) — kwerenda KKK i Lumen gentium
+
+Użytkownik udostępnił Katechizm online (katechizm.opoka.org.pl). Wykorzystane do domknięcia wszystkich `[?]` przy dokumentach kościelnych dostępnych cyfrowo.
+
+## Zweryfikowane
+
+| Miejsce | Rozdz. | Wynik |
+|---|---|---|
+| **KKK 632–637** | 24 | ✔ brzmienia 632, 633, 637 wpisane do przypisu; klauzula anty-apokatastatyczna ma pełne pokrycie w 633 |
+| **KKK 1324–1327** | 36 | ✏️ **„źródło i szczyt" to skrót obiegowy** — wydanie polskie ma „**źródłem i zarazem szczytem całego życia chrześcijańskiego**" |
+| **Lumen gentium 1** | 35 | ✏️ skrót roboczy gubił **„niejako"** (*veluti*) oraz **oś pionową** („wewnętrznego zjednoczenia z Bogiem") |
+
+## Dlaczego dwie ostatnie korekty nie są kosmetyczne
+
+**KKK 1324.** „Źródło i szczyt" to formuła, którą wszyscy znają i której nikt nie sprawdza — dlatego właśnie była w tekście. Wydanie ma pełniejsze brzmienie i to nie jest różnica stylistyczna: „całego życia chrześcijańskiego" określa **zakres**, którego skrót nie oddaje.
+
+**Lumen gentium 1.** Skrót „sakrament, znak i narzędzie jedności" gubił dwie rzeczy, obie potrzebne rozdziałowi 35:
+- **„niejako"** — zastrzeżenie soborowe chroniące przed utożsamieniem Kościoła z sakramentami i przed jego przebóstwieniem. Dla rozdziału, który broni Kościoła przed zarzutem instytucjonalizmu, jest to **argument, nie kłopot**;
+- **dwa człony jedności** — „z Bogiem" (oś pionowa) i „całego rodzaju ludzkiego" (oś pozioma). Skrót zostawiał samą poziomą, czyli dokładnie tę wersję, którą zarzuca się Kościołowi jako socjologiczną.
+
+## Odkrycie uboczne — KKK 635
+
+*Katechizm* cytuje starożytną **homilię na Wielką Sobotę** (PG 43): „Wielka cisza spowiła ziemię; wielka na niej cisza i pustka. Cisza wielka, bo Król zasnął… Zbudź się, który śpisz! Nie po to bowiem cię stworzyłem, byś pozostawał spętany w Otchłani."
+
+Tekst mówi dokładnie to, co scena otwierająca rozdz. 24 oddaje obrazem pustego kościoła. **Nie wprowadziłem go do tekstu** — rozdział ma już dwa cytaty Ratzingera i jeden blok, a jest najdłuższy w książce. Zapisany jako nota redakcyjna w przypisach rozdz. 24; **decyzja o użyciu należy do autora**.
+
+## Co po tej kwerendzie zostaje z `[?]`
+
+Wyłącznie pozycje wymagające **fizycznego egzemplarza**: numery stron wyd. polskich (Ratzinger — Znak; KKK; *Spe salvi*), Buber (przekł. Doktóra, PAX 1992), Marcel, Wojtyła, Pieper, Balthasar, *Duch liturgii*. Dokumenty dostępne online (KKK, LG, GS, DCE, *Spe salvi*, Biblia Tysiąclecia) są **sprawdzone w całości**.

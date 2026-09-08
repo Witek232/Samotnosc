@@ -85,7 +85,7 @@ W tym miejscu rozchodzą się dwa obrazy człowieka, i trzeba je podać czysto. 
 
 Gabriel Marcel, który całą pracę filozoficzną poświęcił granicy między być a mieć, rozróżnia problem i tajemnicę: osoba nie jest problemem do rozwiązania, jest tajemnicą, na którą się otwieram.³ Rozróżnienie jest cenniejsze, niż wygląda. Problem można domknąć, rozwiązanie odłożyć na półkę; tajemnicy się nie domyka — się w niej trzyma. Śmierć osoby bliskiej nie jest problemem: nikt nie czeka na rozwiązanie. A obecność — najodważniejszy ruch Marcela — nie jest kategorią posiadania: jej się nie ma, jest się w niej dostępnym. Relacja nie ginie z utratą tego, co się miało; jej gramatyka od początku była inna niż gramatyka posiadania.
 
-Martin Buber powiedział to zdaniem, które stało się własnością stulecia: wszystkie prawdziwe życie jest spotkaniem.⁴ Relacja nie jest dodatkiem do życia — jest jego strukturą; „ty” nie jest kategorią użyteczności, jest drugim biegunem istnienia. Ja bez ty nie jest jaźnią, która została sama — jest jaźnią, która się rozpada. W tym świetle śmierć wygląda najgorzej: zabiera spotkanie, czyli życie. Ale zdanie ma drugą połowę, którą Buber zostawia otwartą: skoro życie jest spotkaniem, ostatnim słowem o człowieku nie może być zakończenie spotkania — chyba że ktoś zapewnił, że spotkanie trwa.
+Martin Buber powiedział to zdaniem, które stało się własnością stulecia: **prawdziwe życie jest spotkaniem**.⁴ Relacja nie jest dodatkiem do życia — jest jego strukturą; „ty” nie jest kategorią użyteczności, jest drugim biegunem istnienia. Ja bez ty nie jest jaźnią, która została sama — jest jaźnią, która się rozpada. W tym świetle śmierć wygląda najgorzej: zabiera spotkanie, czyli życie. Ale zdanie ma drugą połowę, którą Buber zostawia otwartą: skoro życie jest spotkaniem, ostatnim słowem o człowieku nie może być zakończenie spotkania — chyba że ktoś zapewnił, że spotkanie trwa.
 
 Karol Wojtyła, pracując nad tym samym pytaniem od strony czynu, nazywa osobę strukturą transcendencji: nie podmiotem samym w sobie, lecz bytem skierowanym poza siebie — ku prawdzie, ku dobru, ku drugiemu człowiekowi.⁵ Osoba „sama w sobie” jest abstrakcją; realny człowiek zawsze już wychodzi. Jeżeli to jest struktura, a nie przygodna cecha, to śmierć — która zatrzymuje czyn — nie zatrzymuje kierunku, w którym czyn się wypowiadał. Czyn wygasa. Kierunek nie jest czynem — jest osobą.
 
@@ -119,9 +119,9 @@ Jeśli relacja przetrwa, musi istnieć coś, co ją gwarantuje — nie nastrój,
 
 ² J. Ratzinger, *Wprowadzenie w chrześcijaństwo* (wyd. pol. Znak): odczytanie śmierci Chrystusa jako przejścia; dosłowność obrazu do potwierdzenia z egzemplarzem [?].
 
-³ M. Buber, *Ja i Ty* (1923; wyd. pol. Pax 1992): „wszystkie prawdziwe życie jest spotkaniem” — brzmienie do potwierdzenia z wydaniem [?].
+³ G. Marcel, *Być i mieć* (1935): parafraza rozróżnienia problemu i tajemnicy; terminologia (problem/tajemnica, być/mieć, dostępność) do ujednolicenia [?] — `02_STYL_PISARSKI.md` § 7.
 
-⁴ G. Marcel, *Być i mieć* (1935): parafraza rozróżnienia problemu i tajemnicy; terminologia (problem/tajemnica, być/mieć, dostępność) do ujednolicenia [?] — `02_STYL_PISARSKI.md` § 7.
+⁴ M. Buber, *Ja i Ty* (1923; wyd. pol. przeł. J. Doktór, IW PAX, Warszawa 1992). W tekście głównym **referowane, nie cytowane** — brzmienie polskiego przekładu niepotwierdzone (warianty „Wszelkie…” / „Całe…”); wydania nie ma w bibliotece projektu. Patrz sprostowanie w rozdz. 29, przyp. 1. **[?]**
 
 ⁵ K. Wojtyła, *Osoba i czyn* (1969): parafraza — osoba jako struktura transcendencji [?].
 

@@ -29,7 +29,7 @@ Warto więc najpierw spojrzeć na pozycję tego zdania w wyznaniu wiary. Stoi on
 
 ### II
 
-Ewangelie są tu niepokojąco dosłowne. Nie notują agonii w formie hagiograficznej: zapisują pragnienie („pragnę"), urazy, ostatni oddech. A najgłębsze zdanie, jakie z Golgoty dotarło do nas, nie mówi o bólu. Jest krzykiem opuszczenia: „Boże mój, Boże mój, czemuś Mnie opuścił?" (Ps 22,2). Pełną pracę nad tym zdaniem zrobi dopiero rozdział następny; tu rejestruję tylko jego kierunek. Ból człowieka krzyża jest ludzki do końca, ale opuszczenie nie jest czuciem — jest strukturą: doświadczeniem nieobecności Boga, zadanym Temu, który jest Bogiem.
+Ewangelie są tu niepokojąco dosłowne. Nie notują agonii w formie hagiograficznej: zapisują pragnienie („pragnę"), urazy, ostatni oddech. A najgłębsze zdanie, jakie z Golgoty dotarło do nas, nie mówi o bólu. Jest krzykiem opuszczenia: „Boże mój, Boże mój, czemuś Mnie opuścił?" (Mk 15,34; por. Ps 22,2). Pełną pracę nad tym zdaniem zrobi dopiero rozdział następny; tu rejestruję tylko jego kierunek. Ból człowieka krzyża jest ludzki do końca, ale opuszczenie nie jest czuciem — jest strukturą: doświadczeniem nieobecności Boga, zadanym Temu, który jest Bogiem.
 
 Trzeba tu zdyscyplinować język: „opuszczenie” nie jest metaforą nastroju i nie jest wersetem, który można przeczytać tylko z okazji Wielkiego Piątku. Jest najtwardszą daną świadectwa paschalnego: świadkowie zapisali krzyk, którego nie da się pogodzić z niczym, co wiemy o jedności Boga — i właśnie dlatego nie wolno go miękko pominąć.
 
@@ -83,7 +83,7 @@ Dlatego pierwsza rzecz, którą trzeba zapisać o zdaniu wiary, jest niemal topo
 
 Rozróżnienie wchodzenia i wołania jest cenniejsze, niż wygląda. Wszystkie odpowiedzi, które książka dotąd sprawdzała — wspólnota, miłość, projekt, bliskość — działają z zewnątrz i dlatego żadna nie wytrzymała sprawdzianu części IV: na granicy śmierci zamieniają się w gesty, które umierający musi jeszcze przyjąć, a nie zawsze może — adresat gestu nie ma już rąk, do których dałoby się go złożyć. Zstąpienie jest pierwszą odpowiedzią, która nie potrzebuje przyjęcia — bo przychodzi nie z zewnątrz, lecz od środka.
 
-Nowy Testament zapisuje to czasownikiem, który nie ma w sobie nic mistycznego: poszedł. „Zabitym ciałem, ożywionym w duchu, poszedł ogłosić nawet duchom w więzieniu" (1 P 3,19–20). Poszedł ogłosić — nie przesłał posłania; głos zabrzmiał w środku więzienia, nie przy jego ścianie. „Zstąpił do niższych części ziemi" (Ef 4,9) — zstąpienie jest tu odległością, którą ktoś pokonał, nie ozdobnikiem.
+Nowy Testament zapisuje to czasownikiem, który nie ma w sobie nic mistycznego: poszedł. „Zabitym wprawdzie na ciele, ale powołanym do życia Duchem… poszedł ogłosić [zbawienie] nawet duchom zamkniętym w więzieniu" (1 P 3,18–20). Poszedł ogłosić — nie przesłał posłania; głos zabrzmiał w środku więzienia, nie przy jego ścianie. „Zstąpił do niższych części ziemi" (Ef 4,9) — zstąpienie jest tu odległością, którą ktoś pokonał, nie ozdobnikiem.
 
 Czasownik ten zasługuje na chwilę uwagi, bo cała teologia tego zdania mieści się w jego prostej budowie. „Poszedł” nie jest figurą retoryczną: zakłada miejsce wyjścia, trasę i miejsce przyjścia. Tekst nie pisze, że Chrystus „myślał o umarłych” ani że „zjednoczył się z nimi w sensie duchowym” — pisze, że poszedł. Trasa, o której filozofia powiedziała, że jest nie do przebycia, została przebyta; od tej pory istnieje jako przebyta — jak istnieje wydeptana ścieżka, której nikt wcześniej nie umiał wydeptać.
 
@@ -141,7 +141,7 @@ Czy można wyobrazić sobie głębszą samotność niż śmierć? Na początku t
 
 Ostatnia prawda o człowieku przestaje być tym, co człowiek czuje na końcu; staje się tym, co zostało na końcu zrobione. Nie argumentem — wydarzeniem.
 
-Ale zaraz — muszę jeszcze raz podnieść głos, bo nad tą budową wisi zdanie, którego nie wolno przykryć niedzielną dachówką. Dzień przed zstąpieniem, na krzyżu, zabrzmiał krzyk: „Boże mój, Boże mój, czemuś Mnie opuścił?" (Ps 22,2). Jeśli sobota jest dniem, w którym Bóg jest po drugiej stronie drzwi, to piątek jest dniem, w którym Ten sam Bóg woła, że jest opuszczony. Jak te dwa zdania mieszczą się w jednej architekturze wiary? Czy Bóg doświadczył opuszczenia Boga? Ten rozdział świadomie zostawia pytanie otwarte. Pełną pracę nad krzykiem trzeba teraz uczciwie przenieść przez teologię: bez psychologizowania Trójcy, bez łagodzenia krzyku i bez zbijania go w ozdobnik. Rozdział następny — Głos z Krzyża — pilnuje tej granicy.
+Ale zaraz — muszę jeszcze raz podnieść głos, bo nad tą budową wisi zdanie, którego nie wolno przykryć niedzielną dachówką. Dzień przed zstąpieniem, na krzyżu, zabrzmiał krzyk: „Boże mój, Boże mój, czemuś Mnie opuścił?" (Mk 15,34; por. Ps 22,2). Jeśli sobota jest dniem, w którym Bóg jest po drugiej stronie drzwi, to piątek jest dniem, w którym Ten sam Bóg woła, że jest opuszczony. Jak te dwa zdania mieszczą się w jednej architekturze wiary? Czy Bóg doświadczył opuszczenia Boga? Ten rozdział świadomie zostawia pytanie otwarte. Pełną pracę nad krzykiem trzeba teraz uczciwie przenieść przez teologię: bez psychologizowania Trójcy, bez łagodzenia krzyku i bez zbijania go w ozdobnik. Rozdział następny — Głos z Krzyża — pilnuje tej granicy.
 
 ---
 
@@ -179,7 +179,7 @@ Ale zaraz — muszę jeszcze raz podnieść głos, bo nad tą budową wisi zdani
 
 **Noty redakcyjne (poza tekstem książki):**
 
-- Cytaty biblijne wg Biblii Tysiąclecia (Ps 22,2; Ps 6,6; Hi 7,9–10; J 13,1; Rdz 3,9; 1 P 3,19–20; Ef 4,9; Dz 2,24; Pnp 8,6) — finalne brzmienia do potwierdzenia z egzemplarzem.
+- Cytaty biblijne wg Biblii Tysiąclecia. Zweryfikowane w biblia.deon.pl 2026-09-08: Mk 15,34 / Ps 22,2, J 13,1, Rdz 3,9, 1 P 3,18–20, Ef 4,9. Do potwierdzenia z egzemplarzem [?]: Ps 6,6; Hi 7,9–10; Dz 2,24; Pnp 8,6.
 - Źródła: Ratzinger, *Wprowadzenie w chrześcijaństwo* (rozdział o zstąpieniu — strony wyd. Znak [?]); KKK 632–637; Ireneusz, *Adversus haereses* (recapitulatio); Orygenes, homilie; Grzegorz z Nyssy, homilia paschalna (parafraza wg węzła F kartoteki); Balthasar, *Mysterium Paschale* (wydanie/strony [?]).
 - Klauzula anty-apokatastastyczna (ruch VII) — zgodna z konspektem (ryzyko 1); krzyk Ps 22 — tylko nazwany (ruch II i most), pełna praca w rozdz. 25 (ryzyko 4).
 - Narracja „ja" (część V) — utrzymana; znaczniki ruchów I–VIII służą pracy warsztatowej i do zniknięcia w wersji drukowanej (struktura zostaje w kompozycji akapitów, z oddechem po ruchu V).

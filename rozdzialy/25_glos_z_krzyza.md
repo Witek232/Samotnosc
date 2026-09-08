@@ -17,7 +17,7 @@ Pytanie brzmi: czy Bóg doświadczył opuszczenia Boga? Chrześcijaństwo nie ma
 
 ### I
 
-Ewangelie zapisują ostatnie słowa Jezusa w dwóch wersjach, których nie próbują uzgodnić. Marek, a za nim Mateusz: „Boże mój, Boże mój, czemuś Mnie opuścił?" (Mk 15,34; Mt 27,46) — cytat z psalmu dwudziestego drugiego, wypowiedziany, jak notuje Marek, o godzinie dziewiątej. Łukasz: „Ojcze, w Twoje ręce powierzam ducha mego" (Łk 23,46) — cytat z psalmu trzydziestego pierwszego. Jan ma swoje słowo — „Wykonało się" (J 19,30) — i ono również brzmi jak litera Pisma, przyjęta po ostatnim łyku octu.
+Ewangelie zapisują ostatnie słowa Jezusa w dwóch wersjach, których nie próbują uzgodnić. Marek, a za nim Mateusz: „Boże mój, Boże mój, czemuś Mnie opuścił?" (Mk 15,34; Mt 27,46) — cytat z psalmu dwudziestego drugiego, wypowiedziany, jak notuje Marek, o godzinie dziewiątej. Łukasz: „Ojcze, w Twoje ręce powierzam ducha mojego" (Łk 23,46) — cytat z psalmu trzydziestego pierwszego. Jan ma swoje słowo — „Wykonało się" (J 19,30) — i ono również brzmi jak litera Pisma, przyjęta po ostatnim łyku octu.
 
 Zanim cokolwiek zinterpretujemy, warto na to spojrzeć czysto. Umierający zostawia po sobie nie teorię, nie testament, nie instrukcje — zostawia wersety. Każde zapisane słowo z krzyża jest cytatem z modlitewnika: skarga z jednego psalmu, powierzenie z drugiego, wypełnienie z trzeciego. Jezus umierał modląc się — i to nie jest pobożne podsumowanie czytelnika, lecz dosłowny opis świadectwa.
 
@@ -101,7 +101,7 @@ Zostaje jednak jedno pytanie, na które ten rozdział nie ma prawa odpowiedzieć
 
 **Noty redakcyjne (poza tekstem książki):**
 
-- Cytaty biblijne wg Biblii Tysiąclecia (Mk 15,34–36; Mt 27,46; Łk 23,46; J 19,30; Ps 22,2.20–22; Ps 31,6) — finalne brzmienia do potwierdzenia z egzemplarzem; konspekt używa formy „czemuś Mnie opuścił" — do ujednolicenia z BT („czemuś mnie opuścił").
+- Cytaty biblijne wg Biblii Tysiąclecia (Mk 15,34–36; Mt 27,46; Łk 23,46; J 19,30; Ps 22,2.20–22; Ps 31,6) — zweryfikowane w biblia.deon.pl 2026-09-08: Mk 15,34 / Mt 27,46 brzmią „Boże mój, Boże mój, czemuś Mnie opuścił?" (wielkie „Mnie" — mowa o Chrystusie), natomiast Ps 22,2 „czemuś mnie opuścił". Rozdział cytuje ewangelistów, więc forma z wielkim „Mnie" jest poprawna; wcześniejsza nota o ujednoliceniu była pomyłką. Łk 23,46 ✔ „Ojcze, w Twoje ręce powierzam ducha mojego" (rozdział ma „ducha mego" — poprawione). Do potwierdzenia z egzemplarzem [?]: J 19,30; Ps 22,20–22; Ps 31,6.
 - Źródła: Ratzinger, *Jezus z Nazaretu*, cz. II (rozdz. o ukrzyżowaniu) [? Znak]; Tomasz, *ST* III, q. 46–47 [?]; definicja Chalcedonu (451) — formuła „bez zmieszania i bez rozdzielenia", brzmienie przekładu do ujednolicenia [?].
 - Tło współczesnej teologii krzyża (zgodnie z konspektem § 4 — poza tekstem głównym): H. U. von Balthasar, *Mysterium paschale* (wyd. pol. Tyniec 1999) oraz J. Moltmann, *Bóg ukrzyżowany* (wyd. pol. [?]). Decyzja stylistyczna: praca nad krzykiem toczy się w rejestrze Ratzingera (*Jezus z Nazaretu*, cz. II); Balthasar pozostaje ograniczony do rozdz. 24 (*Mysterium Paschale* — `02_STYL_PISARSKI.md` § 2).
 - Granice z konspektu (§ 9) — utrzymane: zero spekulacji o wewnętrznych wydarzeniach w Trójcy (ruch IV); zero malarstwa brzmień (ruch IV); Chalcedon w dwóch zdaniach, nie lekcja (ruch IV); Łk 23,46 jako dokończenie, nie obalenie (ruch VI); refren „Czy ktoś tam jest?" raz (ruch VII).

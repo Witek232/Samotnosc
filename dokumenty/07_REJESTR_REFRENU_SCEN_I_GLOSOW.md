@@ -48,6 +48,7 @@ Wypełniać przy każdym napisanym rozdziale. Cel: żadne dwie odpowiedzi nie mo
 | **43** | „Jest — i patrzy. I to spojrzenie nie zamienia mnie w rzecz, bo nie potrzebuje mnie do niczego." | napisany 2026-09-08 |
 | **44** | „Nigdy nie było tylu odpowiedzi. I nigdy nie było tak cicho." | napisany 2026-09-08 |
 | **45** | **PRZYWOŁANY, NIEWYKONANY** (§ A2): formuła nie pada jako figura; refren jest przedmiotem opisu — pytanie zadaje człowiek maszynie i dostaje odpowiedź, która go nie zaspokaja. Przekształcony w rozróżnienie: „czy tam ktoś jest — czy coś odpisuje?" | napisany 2026-09-08 |
+| **46** | „A śmierć wraca — wraca w miejscach, z których kultura usunęła wspólnotę." (wersja rozdziału; wariant nośny w cz. VII: „przychodzi o godzinie, w której nikogo przy tym nie ma") | napisany 2026-09-08 |
 | 48 | (finał — do napisania) | — |
 | Epilog | J 11,26, ciche i osobiste | konspekt |
 

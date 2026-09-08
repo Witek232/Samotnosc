@@ -93,3 +93,33 @@ Ryzyko „tapety" z § 3.1 w tym materiale **nie występuje**: nazwisko nie jest
 **Ograniczenie oznaczone w tekście `[?]`:** ramy biograficzne (koniec lat 60., geneza książki z wykładów, wiek autora) podano ogólnie i **nie były przedmiotem osobnej kwerendy** — przypis 3 mówi to wprost. Sam wywód i wszystkie cytaty pochodzą z odczytanego wydania.
 
 **Koszt:** rozdział urósł z 3548 do **4019 słów** — najdłuższy w książce, przy celu 2,3–2,6 tys. Uważam ten koszt za uzasadniony w centrum książki, ale **rozdz. 24 przechodzi tym samym na pierwsze miejsce listy do skrócenia**. Materiał na cięcie jest: ruchy VI i VII zawierają powtórzenia tez z ruchu IV.
+
+
+---
+
+# Uzupełnienie 2026-09-08 (2) — homilia z Wielkiej Soboty i skracanie
+
+## Decyzja o KKK 635 — homilia WPROWADZONA do rozdz. 24
+
+Autor pytał, co da najlepszy efekt. Rekomendacja i wykonanie: **tekst wchodzi, w jednym konkretnym miejscu — na koniec ruchu V, zaraz po zdaniu „Środkiem tej książki nie jest niedziela — jest ta sobota".**
+
+**Uzasadnienie wyboru miejsca.** Homilia nie może stać w scenie otwierającej, choć tematycznie pasuje tam najlepiej — otwarcie żyje z tego, że jest **puste i ciche**, a wstawienie tam wielkiego tekstu zabiłoby ciszę, którą scena buduje. Nie może też stać w ruchu VII (klauzula anty-apokatastatyczna), bo tam obowiązuje ton chłodny i rozróżniający, a homilia jest żarliwa — zderzenie osłabiłoby oba. Miejsce właściwe to **punkt kulminacyjny**, w którym rozdział sam stwierdza, że sobota jest środkiem książki. Tekst liturgiczny wchodzi tam jako **potwierdzenie z zewnątrz**: nie autor to mówi, mówi to Kościół, i to od kilkunastu wieków.
+
+**Dlaczego nie zaszkodziło to dyscyplinie.** Limit z § 3.4 dotyczy **cytatów z Ratzingera** — ten nim nie jest, więc formalnie limitu nie narusza. Ważniejsze jednak: homilia **nie konkuruje** z głosem Ratzingera, lecz go potwierdza z innego rejestru. Ratzinger mówi w rozdziale językiem analizy („śmierć to po prostu samotność"), homilia mówi językiem liturgii („Zbudź się, który śpisz!"). Reguła ostatniego słowa zostaje zachowana — po homilii następują jeszcze ruchy VI–VIII, a puentę niesie zdanie centralne książki.
+
+**Co w tym cytacie pracuje najmocniej — i co dopisano w tekście:** homilia jest zbudowana w **drugiej osobie** i skierowana do kogoś, kto śpi w Otchłani. Nie jest zdaniem *o* umarłym, lecz zdaniem **do** umarłego — czyli dokładnie tą gramatyką, o którą chodzi całej książce. Akapit po cytacie wydobywa właśnie to: homilia nie dowodzi, że samotność została pokonana; ona **przemawia w miejscu, w którym nie ma już nikogo, do kogo można by mówić**. Robi to, o czym mówi.
+
+## Skracanie — wykonane wg zasady autora („tnij powtórzenia, zostaw to, co pasuje")
+
+| Rozdz. | Było | Jest | Δ |
+|---|---|---|---|
+| 24 | 4268 (po scenie i homilii) | **4169** | −99 |
+| 26 | 3662 | **3556** | −106 |
+
+**Cięto wyłącznie powtórzenia, nie treść.** W obu rozdziałach dominował jeden nawyk poprzedniego autora: **wielokrotne „trzeba dodać, czego to nie znaczy…"**. W rozdz. 26 taka formuła pojawiała się cztery razy; w 24 — trzy razy z rzędu w ruchach V–VI. Zredukowano je do jednego wystąpienia na ruch, zachowując **całą treść zastrzeżeń** — zniknęły zapowiedzi zastrzeżeń, nie zastrzeżenia.
+
+Usunięto ponadto: powtórzenie obrazu Grzegorza z Nyssy (rozdz. 24, akapit powtarzał to, co poprzedni już powiedział), powtórzenie tezy o linii modlitwy (rozdz. 26).
+
+**Czego świadomie nie ruszono**, mimo przekroczenia limitu: sceny Wielkiej Soboty, sceny pokoju szpitalnego, sceny cmentarnej, wywodu o czterech przyimkach, akapitów Marcela/Bubera/Wojtyły. Zgodnie z decyzją autora: *„jak coś pasuje, to zostaw, nawet jakby to miało być dłuższe od założeń"*.
+
+**Stan końcowy:** rozdz. 24 pozostaje najdłuższym rozdziałem książki i **tak ma być** — jest centrum, ma scenę Ratzingerowską i tekst liturgiczny. Rozdz. 26 nadal przekracza cel o ok. 1000 słów; dalsze cięcie wymagałoby już usuwania treści, nie powtórzeń.

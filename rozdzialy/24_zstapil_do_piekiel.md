@@ -153,8 +153,24 @@ Ale zaraz — muszę jeszcze raz podnieść głos, bo nad tą budową wisi zdani
 **Formuła „współ-bycie"** — brzmienie za tym samym wydaniem; jest to najkrótsza formuła osi antropologicznej książki i kandydat do powtórzenia w rozdz. 28 i w epilogu (por. `05_KARTOTEKA_RATZINGEROWSKA.md`, uzupełnienie z 2026-09-08).
 **Uwaga redakcyjna:** szczegóły ram sceny (koniec lat 60., wykłady w Tybindze jako geneza książki, wiek autora) podano **ostrożnie i ogólnie**, bo nie były przedmiotem osobnej kwerendy; przed drukiem wymagają potwierdzenia w nocie wydawniczej lub biografii [?]. Sam wywód i wszystkie cytaty pochodzą z odczytanego tekstu wydania.
 
-⁴ *Katechizm Kościoła Katolickiego*, **632–637** — artykuł „Jezus zstąpił do piekieł”. Kluczowe rozróżnienie dla tego rozdziału (KKK 633): „piekła”, do których zstąpił Chrystus, to **szeol/otchłań — stan zmarłych oczekujących na odkupienie**, nie piekło potępionych; „Jezus nie zstąpił do piekieł, by wyzwolić potępionych, ani żeby zniszczyć piekło potępienia, ale by wyzwolić sprawiedliwych, którzy Go poprzedzili”. ✔ lokalizacja i sens zweryfikowane; **dokładne brzmienie polskiego wydania KKK do potwierdzenia z egzemplarzem [?]** — w tekście głównym rozdziału rozróżnienie jest referowane własnymi słowami, więc cytat nie jest konieczny.
-**Znaczenie dla rozdziału:** to jest **źródłowe pokrycie klauzuli anty-apokatastatycznej** z ruchu VII (konspekt, ryzyko 1). Dotąd klauzula stała bez przypisu.
+⁴ *Katechizm Kościoła Katolickiego*, **632–637** — artykuł piąty: „Jezus Chrystus zstąpił do piekieł, trzeciego dnia zmartwychwstał", § 1: „Chrystus zstąpił do piekieł". ✔ **ZWERYFIKOWANE W TEKŚCIE POLSKIEGO WYDANIA** (katechizm.opoka.org.pl, 2026-09-08).
+
+**Brzmienia kluczowe dla tego rozdziału:**
+
+**KKK 633** — rozróżnienie, na którym stoi ruch VII: „Krainę zmarłych, do której zstąpił Chrystus po śmierci, Pismo święte nazywa **piekłem, Szeolem lub Hadesem**, ponieważ ci, którzy tam się znajdują, są pozbawieni oglądania Boga. Taki jest los wszystkich zmarłych, **zarówno złych, jak i sprawiedliwych**, oczekujących na Odkupiciela […]. **Jezus nie zstąpił do piekieł, by wyzwolić potępionych, ani żeby zniszczyć piekło potępionych, ale by wyzwolić sprawiedliwych, którzy Go poprzedzili.**"
+
+**KKK 632** — „Jezus doświadczył śmierci jak wszyscy ludzie i Jego dusza dołączyła do nich w krainie umarłych. Jezus zstąpił tam jednak **jako Zbawiciel**".
+
+**KKK 637** (*W skrócie*) — „Zmarły Chrystus, w swojej duszy zjednoczonej z Jego Boską Osobą, zstąpił do krainy zmarłych. **Otworzył On bramy nieba sprawiedliwym**, którzy Go poprzedzili."
+
+**Sprostowanie 2026-09-08:** wcześniejsza wersja przypisu podawała lokalizację poprawnie, ale z zastrzeżeniem „dokładne brzmienie polskiego wydania do potwierdzenia [?]". **Zastrzeżenie zdjęte** — brzmienie sprawdzone. Klauzula anty-apokatastatyczna z ruchu VII ma pełne pokrycie w KKK 633 i jest zreferowana wiernie.
+
+**NOTA REDAKCYJNA (nie przypis — brak odsyłacza w tekście). Odkrycie kwerendy 2026-09-08 — materiał do rozważenia przy redakcji sceny Wielkiej Soboty (ruch I).** *Katechizm* cytuje w **KKK 635** starożytną **homilię na Wielką Sobotę** (autor nieznany, PG 43) — tekst, który mówi dokładnie to, co scena otwierająca ten rozdział próbuje oddać obrazem pustego kościoła:
+
+> „Wielka cisza spowiła ziemię; wielka na niej cisza i pustka. Cisza wielka, bo Król zasnął, ziemia się przelękła i zamilkła, bo Bóg zasnął w ludzkim ciele, a wzbudził tych, którzy spali od wieków… Idzie, by odnaleźć pierwszego człowieka, jak zgubioną owieczkę. […] «Oto Ja, twój Bóg, który dla ciebie stałem się twoim synem… Zbudź się, który śpisz! Nie po to bowiem cię stworzyłem, byś pozostawał spętany w Otchłani. Powstań z martwych, albowiem jestem życiem umarłych»."
+
+✔ brzmienie zweryfikowane (katechizm.opoka.org.pl, KKK 635). **Uwaga o limicie:** rozdział ma już dwa cytaty (Ratzinger, przyp. 2 i 3) i jeden blok. Wprowadzenie tego tekstu **wymagałoby rezygnacji z czegoś innego** albo świadomej decyzji o trzecim cytacie — nie jest to cytat z Ratzingera, więc limit z dok. 04 § 3.4 formalnie go nie obejmuje, ale duch reguły tak. **Decyzja należy do autora; nie wprowadzam go samowolnie.** Argument za: to jest głos samej liturgii Wielkiej Soboty, a scena otwierająca rozdział jest sceną Wielkiej Soboty — zbieżność jest wyjątkowa. Argument przeciw: rozdział jest już najdłuższy w książce.
+
 
 **Noty redakcyjne (poza tekstem książki):**
 

@@ -1,116 +1,174 @@
 # 08 — LISTA POZYCJI DO POZYSKANIA
 
-**Utworzono:** 2026-09-08 | **Podstawa:** stan biblioteki po rozdz. 46; konspekty 47–50 oraz zaległości z rozdz. 29, 39, 43
+**Utworzono:** 2026-09-08 | **Rozszerzono:** 2026-09-08 (szczegółowe fragmenty — na prośbę autora)
 **Zasada nadrzędna:** czego nie ma w bibliotece, tego **nie cytujemy** — wolno referować własnymi słowami, oznaczając to czytelnikowi (precedens: Bauman i Becker w rozdz. 46).
+
+> **Jak korzystać z tej listy przy zdobywaniu książek:** przy każdej pozycji podaję **konkretny rozdział/paragraf i frazę do wyszukania**. Jeśli uda się dotrzeć do książki choćby na godzinę w bibliotece — wystarczy **zdjęcie tych stron**. Nie potrzebuję całych tomów. Przy każdym fragmencie piszę, **do czego dokładnie jest potrzebny** i **co się stanie, jeśli go nie będzie**.
 
 ---
 
 ## 0. Co już mamy ✔
 
-| Pozycja | Format | Uwaga |
+Ratzinger: *Wprowadzenie w chrześcijaństwo*, *Eschatologia*, *Jezus z Nazaretu* t. 2, *Duch liturgii*, *Bóg i świat* (MOBI + txt, **bez paginacji** → `[s?]`). Bonhoeffer *Gemeinsames Leben* (DE). Freud *Zukunft einer Illusion* (DE/EN, ze stronami). Nietzsche *Die fröhliche Wissenschaft* (DE, wg aforyzmu).
+
+**Encykliki i dokumenty soborowe — z vatican.va, nie potrzeba plików.** Numeracja akapitów jest stała we wszystkich wydaniach, więc lokalizacja jest pewna. Dotyczy: *Deus caritas est*, *Spe salvi*, *Gaudium et spes*, homilie i katechezy papieskie. **To jedyna kategoria źródeł, która nie wymaga od autora niczego.**
+
+---
+
+# CZĘŚĆ A — PRIORYTET 1: bez tego są dziury w rozdziałach
+
+## A1. Martin Buber, *Ja i Ty* — **pozycja nr 1 na liście**
+
+**Wydanie:** przeł. Jan Doktór, IW PAX, Warszawa 1992 (lub *Ja i Ty. Wybór pism filozoficznych*, PAX 1992). Książka bardzo cienka — **ok. 120 stron**. Do zdobycia w antykwariatach i w każdej bibliotece uniwersyteckiej.
+
+**Potrzebne dla:** rozdz. **29** („Ja" potrzebuje „Ty") — Buber jest tam **głosem wiodącym całego rozdziału**; echa w 45, 47, 48.
+
+### Fragmenty do sfotografowania — po kolei:
+
+**(1) Otwarcie części pierwszej — dwa słowa podstawowe.** To pierwsze strony książki. Szukać frazy: *„Świat jest dla człowieka dwoisty"* oraz wyliczenia dwóch słów podstawowych: **Ja–Ty** i **Ja–Ono**. Kluczowe jest zdanie, że słowa te nie oznaczają rzeczy, lecz **relacje**, i że wypowiedzenie ich **ustanawia sposób istnienia mówiącego**.
+> *Do czego:* fundament rozdz. 29 i pojęcie użyte w rozdz. 45 przy AI („doskonałe «Ono», które mówi").
+
+**(2) „Wszelkie prawdziwe życie jest spotkaniem".** ⚠️ **UWAGA — brzmienie sporne.** W obiegu funkcjonują co najmniej trzy warianty: *„Wszelkie prawdziwe życie jest spotkaniem"*, *„Całe prawdziwe życie jest spotkaniem"*, *„Wszystkie prawdziwe życie jest spotkaniem"* (ta ostatnia forma, obecna w rozdz. 28/v2, jest **niepoprawna gramatycznie po polsku** i najpewniej jest zniekształceniem). **Potrzebuję zdjęcia strony z dokładnym brzmieniem u Doktóra** — to jest najsłynniejsze zdanie Bubera i jedyne, które w książce padnie w cudzysłowie.
+> *Jeśli się nie uda:* zdanie **wypada z książki**. Nie wolno cytować go w żadnym z trzech wariantów.
+
+**(3) „Ty" jako niepoznawalne przez opis.** Fragment o tym, że gdy opisuję „Ty", ono staje się „Ono" — że „Ty" nie ma granic i nie jest sumą cech.
+> *Do czego:* rozdz. 29 i argument z rozdz. 45.
+
+**(4) Spotkanie „z łaski".** Fragment mówiący, że „Ty" spotyka mnie **z łaski** — nie da się go wyszukać ani wyprodukować; „nie znajduje się go szukając".
+> *Do czego:* obrona przed zarzutem, że filozofia spotkania to technika.
+
+**(5) Wieczne „Ty".** Koniec części trzeciej: każde pojedyncze „ty" jest **prześwitem** ku wiecznemu „Ty"; Boga nie da się uczynić „Ono".
+> *Do czego:* most z filozofii do teologii — miejsce, w którym rozdz. 29 przechodzi w 31.
+
+---
+
+## A2. Gabriel Marcel — **pozycja nr 2**
+
+**Wydanie, pierwszy wybór:** *Homo viator. Wstęp do metafizyki nadziei*, przeł. P. Lubicz, IW PAX, Warszawa 1959 (wyd. II 1984).
+**Alternatywa:** *Być i mieć*, przeł. P. Lubicz, PAX 1962/1998 (cieńsze, łatwiejsze do zdobycia).
+
+**Potrzebne dla:** rozdz. **47** (punkt zwrotny całego rozdziału), 29, 26.
+
+### Fragmenty:
+
+**(1) Rozróżnienie problem / tajemnica** (*Być i mieć*, część o metafizyce; też w *Homo viator*). Problem jest przede mną i mogę go rozwiązać z zewnątrz; **tajemnica jest czymś, w co sam jestem uwikłany** i czego nie da się rozpatrywać, stojąc obok.
+> *Do czego:* rozdz. 26 (przy grobie) i 47. To rozstrzyga, **dlaczego śmierci nie da się „rozwiązać"** — argument, którego cała część V potrzebuje, a którego dotąd nie ma źródłowo.
+
+**(2) Obecność (présence) a bycie obok.** Fragment, w którym Marcel pokazuje, że ktoś może być fizycznie w pokoju i być **nieobecny**, a ktoś inny — nieobecny fizycznie — może być **obecny**; że obecności nie da się zdefiniować przez lokalizację ani przez świadczoną usługę.
+> *Do czego:* **oś rozdz. 47** oraz wzmocnienie rozdz. 44 i 45 (tam ten sam problem: kanał vs obecność). Bez tego rozdz. 47 traci cytat w punkcie zwrotnym.
+
+**(3) Disponibilité — rozporządzalność/dyspozycyjność.** Człowiek „dostępny" vs „niedostępny": ten, kto potrafi się oddać do dyspozycji drugiego, wobec tego, kto jest zajęty sobą.
+> *Uwaga terminologiczna:* przekład polski chwieje się między „rozporządzalnością" a „dyspozycyjnością" — proszę o **zdjęcie z widocznym terminem**, żeby ujednolicić (`02_STYL_PISARSKI` § 7).
+
+**(4) Nadzieja a optymizm** (*Homo viator*, esej o nadziei). Nadzieja nie jest przewidywaniem korzystnego wyniku; jest czymś, co dzieje się **wewnątrz sytuacji bez wyjścia**. Szukać formuły w rodzaju „nadzieja jest tkanką, z której utkana jest dusza" oraz analiz nadziei jako aktu skierowanego ku **komuś**, nie ku rzeczy.
+> *Do czego:* rozdz. 47 i epilog. **Najważniejszy pojedynczy fragment Marcela dla tej książki.**
+
+**(5) Homo viator.** Formuła człowieka w drodze — kilka zdań z otwarcia lub zamknięcia tomu.
+
+---
+
+## A3. Irvin Yalom, *Psychoterapia egzystencjalna*
+
+**Wydanie:** przeł. A. Tanalska-Dulęba, Instytut Psychologii Zdrowia PTP, Warszawa 2008. Tom gruby (~600 s.), ale potrzebna jest **jedna część**.
+
+**Potrzebne dla:** rozdz. 20, **47**, 48.
+
+### Fragmenty — wszystkie z części o izolacji (część III, rozdziały 8–9):
+
+**(1) Trzy rodzaje izolacji.** Yalom rozróżnia izolację **interpersonalną** (samotność społeczna), **intrapersonalną** (odcięcie od części siebie) i **egzystencjalną** (przepaść między jednostką a światem, nieusuwalna).
+> *Do czego:* to jest **pojęciowy kręgosłup rozdz. 20** i warunek, żeby rozdz. 47 mógł powiedzieć coś ponad to.
+
+**(2) Granica tego, co relacja może znieść — fragment najważniejszy.** Yalom pisze, że żaden związek nie usuwa izolacji egzystencjalnej, i że **próba usunięcia jej przez relację niszczy relację** (użycie drugiego jako zabezpieczenia przed samotnością). Szukać w okolicach omówienia „fusion" / zlania się z drugim jako obrony przed izolacją.
+> *Do czego:* **oś rozdz. 47**. To jest najmocniejszy zarzut wobec całej tezy tej książki, postawiony przez klinicystę, nie filozofa — a dok. 04 § 3 wymaga, żeby przeciwnika wzmacniać, nie osłabiać. Bez tego fragmentu rozdz. 47 będzie zbyt łatwy dla samego siebie.
+
+**(3) Umieranie jako doświadczenie samotności** — fragment o pacjentach terminalnych, o tym, że umierający zostaje opuszczony podwójnie: przez zdrowych, którzy nie chcą patrzeć, i przez własne ciało.
+> *Do czego:* rozdz. 22, 46, 47.
+
+---
+
+# CZĘŚĆ B — PRIORYTET 2: zaległości w tekstach już napisanych
+
+## B1. Karol Wojtyła, *Osoba i czyn* — **pilniejsze, niż sądziłem**
+
+**Wydanie:** *Osoba i czyn oraz inne studia antropologiczne*, TN KUL, Lublin 1994/2000.
+
+**Potrzebne dla:** rozdz. **28** i **29** — w obu Wojtyła jest cytowany/referowany **bez żadnego źródła**.
+
+### Fragmenty:
+1. **Czyn odsłania osobę** — teza otwierająca; „operari sequitur esse" i jej odwrócenie w metodzie Wojtyły.
+2. **Struktura transcendencji osoby w czynie** — samostanowienie, samoposiadanie, samopanowanie (ta triada jest w rozdz. 28 przywołana bez cytatu).
+3. **Uczestnictwo** — część o „uczestnictwie" jako sposobie, w jaki osoba spełnia się we wspólnocie; oraz postawy autentyczne (solidarność, sprzeciw) i nieautentyczne (konformizm, unik).
+> *Do czego:* rozdz. 28 opiera na tym **cały akapit o czynie**. Obecnie jest to referat bez pokrycia.
+
+## B2. Karol Wojtyła, *Miłość i odpowiedzialność*
+
+**Wydanie:** TN KUL, Lublin 1960 / wyd. późniejsze.
+**Fragment:** **norma personalistyczna** — osoba jest takim dobrem, że właściwą wobec niej postawą jest miłość, a nie użycie; oraz analiza „użycia" jako przeciwieństwa miłości.
+> *Do czego:* rozdz. 37 — obecnie parafraza bez cytatu.
+
+## B3. Jean-Paul Sartre
+
+**Wydanie:** *Byt i nicość*, przeł. J. Kiełbasa i in., Zielona Sowa, Kraków 2007.
+**Fragment:** część III, rozdz. 1 — **„spojrzenie" (le regard)**: scena człowieka przy dziurce od klucza, przyłapanego; przekształcenie mnie w przedmiot pod spojrzeniem drugiego.
+> ⚠️ **„Piekło to inni" pochodzi z dramatu *Przy drzwiach zamkniętych*, nie z *Bytu i nicości*** — jeśli cytować, to z dramatu (wyd. PIW, przeł. J. Lisowski).
+> *Do czego:* rozdz. 43 został napisany **bez ani jednego cytatu z Sartre'a**, co przy rozdziale o Sartrze jest wadą. Rozdz. 9 również.
+
+## B4. Sherry Turkle, *Samotni razem*
+
+**Wydanie:** przeł. M. Cierpisz, Wyd. UJ, Kraków 2013.
+**Fragmenty:** (1) formuła tytułowa — „oczekujemy więcej od technologii, a mniej od siebie nawzajem"; (2) **definicja „efektu ELIZY"** — skłonność do rzutowania uczuć na przedmioty i traktowania rzeczy jak osób.
+> *Do czego:* rozdz. 44 i 45 cytują ją **z przekładu własnego z angielskiego**; wydanie polskie usunęłoby dwa `[tł]` i jedno `[?]`.
+
+## B5. Dietrich Bonhoeffer, *Wspólne życie* — wydanie polskie
+
+Mamy oryginał niemiecki, więc to komfort, nie konieczność. Rozwiązałoby ostrzeżenie z rozdz. 39, że cytat-kotwica jest **złożeniem dwóch zdań**.
+
+---
+
+# CZĘŚĆ C — PRIORYTET 3: poprawiłyby jakość
+
+| Pozycja | Fragment | Do czego |
 |---|---|---|
-| Ratzinger, *Wprowadzenie w chrześcijaństwo* | MOBI + txt | **bez paginacji** — cytujemy `[s?]` lub wg części |
-| Ratzinger, *Eschatologia* | MOBI + txt | bez paginacji; OCR miejscami przekłamany |
-| Ratzinger, *Jezus z Nazaretu* t. 2 | MOBI + txt | |
-| Ratzinger, *Duch liturgii* | MOBI + txt | |
-| Ratzinger/Seewald, *Bóg i świat* | MOBI + txt | |
-| Bonhoeffer, *Gemeinsames Leben* | PDF + txt (DE) | oryginał niemiecki |
-| Freud, *Zukunft einer Illusion* | PDF + txt (DE/EN) | ze znacznikami stron |
-| Nietzsche, *Die fröhliche Wissenschaft* | txt (DE) | cytować wg aforyzmu |
-
-**Encykliki (*Deus caritas est*, *Spe salvi*) pobieramy z vatican.va** — numeracja akapitów jest stała we wszystkich wydaniach, więc lokalizacja jest pewna i **nie potrzeba plików**. To jedyna kategoria źródeł, która nie wymaga niczego od autora.
+| **Josef Pieper**, *Tod und Unsterblichkeit* (München 1968) | wypieranie śmierci; „śmierć oswojona" | 46, 47 — Ratzinger sam się na niego powołuje, a Pieper jest filarem stylistycznym książki |
+| **Philippe Ariès**, *Człowiek i śmierć* (PIW) | przejście od „śmierci oswojonej" do „odwróconej" | 46 — obecnie znam **tylko z drugiej ręki**, nazwisko świadomie pominięte w tekście |
+| **Ernest Becker**, *Zaprzeczanie śmierci* (PIW/Czarna Owca) | „projekt heroiczny"; lęk śmierci jako motor kultury | 46 — referowany opisowo, działa |
+| **Zygmunt Bauman**, *Śmierć i nieśmiertelność* (PWN 1998) | strategie nieśmiertelności; ich indywidualizacja | 46 — **`[?]` przy przypisaniu mu tezy o indywidualizacji** |
+| **Robert Spaemann**, *Osoby. O różnicy między czymś a kimś* (Oficyna Naukowa) | różnica „coś"/„ktoś" | **28** — w tekście jest **zdanie w cudzysłowie przypisane Spaemannowi bez źródła**, patrz audyt |
+| **Abraham J. Heschel**, *Bóg szukający człowieka* (Esprit) | Bóg jako poszukujący, nie poszukiwany; patos Boży | **30 — rozdział nowy, jeszcze nienapisany, Heschel jest w nim głosem wiodącym** |
+| Heidegger, *Bycie i czas*; Jaspers, *Sytuacje graniczne* | po jednym zdaniu | 22, 47 — **świadomie nisko**: konspekt daje każdemu jedną linię, referat wystarczy; nie warto kupować *Bycia i czasu* dla jednej linii |
+| Viktor Frankl, *Człowiek w poszukiwaniu sensu* | świadectwo | 20, 47 — tania i wszędzie dostępna |
 
 ---
 
-## 1. PRIORYTET 1 — bez nich rozdziały 47–50 będą miały dziury
+# CZĘŚĆ D — kwerendy, które zrobię sam, bez żadnych zakupów
 
-### 1.1. Gabriel Marcel — **najpilniejsza pozycja na całej liście**
-
-- *Homo viator. Wstęp do metafizyki nadziei* (PAX 1959/1984) — **pierwszy wybór**
-- albo *Być i mieć* (PAX 1962/1998)
-
-**Dlaczego pilne:** rozdział 47 opiera na Marcelu **swój punkt zwrotny** — całą „cienką nitkę", czyli tezę, że obecność nie usuwa granicy śmierci, ale daje w niej towarzystwo. To jedyne miejsce w książce, gdzie **filozof, a nie teolog**, dochodzi najbliżej do wniosku Ratzingerowskiego. Bez cytatu ten moment traci siłę, bo czytelnik ma prawo zapytać, czy Marcel rzeczywiście tak twierdził, czy tak mi się układa.
-
-**Czego dokładnie szukamy:** rozróżnienie **obecności** i „bycia obok"; nadzieja jako coś innego niż optymizm; formuła „homo viator"; teza, że drugiego człowieka poznaje się nie przez obserwację, lecz przez otwarcie się na niego.
-
-**Alternatywa, jeśli nie do zdobycia:** referat opisowy jak przy Baumanie — ale wtedy **rozdz. 47 traci cytat w kluczowym miejscu**, a to już czwarty rozdział z rzędu z niezacytowanym autorem osiowym. To zaczyna być widoczne dla czytelnika.
-
-### 1.2. Martin Buber, *Ja i Ty* (przeł. J. Doktór, PAX 1992 lub wyd. późniejsze)
-
-**Dlaczego:** Buber jest **głosem wiodącym rozdziału 29** — całego rozdziału, nie epizodu. Referowałem go już opisowo w rozdz. 45 i było to do przyjęcia, bo tam był echem. W 29 zabraknie cytatu w pozycji, w której czytelnik go oczekuje. Rozdział 29 jest **jeszcze nienapisany**, więc jest czas.
-
-**Czego szukamy:** podwójne słowo Ja–Ty / Ja–Ono; nieobiektywialność „Ty"; teza, że relacja jest wzajemna; „wszelkie prawdziwe życie jest spotkaniem" (zdanie **słynne, ale sprawdzić brzmienie w przekładzie** — nie cytować z pamięci).
-
-### 1.3. Irvin Yalom, *Psychoterapia egzystencjalna* (IPZ 2008)
-
-**Dlaczego:** Yalom jest źródłem pojęcia **izolacji egzystencjalnej** dla rozdz. 20 i wraca w 47 i 48. Jest przy tym autorem, który — inaczej niż filozofowie — opiera się na materiale klinicznym, więc jego zdania są dla tej książki cenne jako **świadectwo, nie tylko teza**.
-
-**Czego szukamy:** rozdział o izolacji (rozróżnienie izolacji interpersonalnej, intrapersonalnej i egzystencjalnej); teza o **granicy tego, co miłość może znieść** — że relacja łagodzi izolację, ale jej nie usuwa. To zdanie jest dla rozdz. 47 osią.
-
----
-
-## 2. PRIORYTET 2 — potrzebne, ale rozdziały bez nich przeżyją
-
-### 2.1. Karol Wojtyła, *Miłość i odpowiedzialność* (KUL)
-
-Zaległość z rozdz. 37 — obecnie parafraza bez cytatu. Potrzebne: personalistyczna norma; użycie osoby jako przeciwieństwo miłości.
-
-### 2.2. Jean-Paul Sartre, *Byt i nicość* (Wyd. IFiS PAN / Zielona Sowa)
-
-Zaległość z rozdz. 43 — status `[?]` w `06_KARTOTEKA` § 3.3. Rozdział został napisany **bez ani jednego cytatu z Sartre'a**, co przy rozdziale o Sartrze jest wadą. Potrzebne: spojrzenie drugiego („le regard"); „piekło to inni" pochodzi z *Przy drzwiach zamkniętych*, **nie** z *Bytu i nicości* — o ile w ogóle je przytaczać, to z dramatu.
-
-### 2.3. Dietrich Bonhoeffer, *Wspólne życie* — **wydanie polskie**
-
-Mamy oryginał niemiecki i to wystarcza, ale cytat-kotwica rozdz. 39 wymagałby przekładu własnego. Wydanie polskie (WAM albo Znak) rozwiązałoby sprawę i usunęło ostrzeżenie o „złożeniu dwóch zdań".
-
-### 2.4. Sherry Turkle, *Samotni razem* (WUJ 2013)
-
-Turkle jest cytowana w rozdz. 44 i 45 **z przekładu własnego z angielskiego**. Wydanie polskie pozwoliłoby cytować normalnie. Dodatkowo: definicja „efektu ELIZY" — lokalizacja obecnie `[?]`.
-
----
-
-## 3. PRIORYTET 3 — poprawiłyby jakość, nie są konieczne
-
-| Pozycja | Do czego | Uwaga |
-|---|---|---|
-| Philippe Ariès, *Człowiek i śmierć* | rozdz. 46 | „śmierć oswojona" → „śmierć odwrócona"; obecnie znam **tylko z drugiej ręki**, nazwisko w rozdz. 46 świadomie pominięte |
-| Josef Pieper, *Tod und Unsterblichkeit* | rozdz. 46, 47 | Ratzinger się na niego powołuje, a Pieper jest już filarem stylistycznym książki (`02_STYL` § 2) |
-| Ernest Becker, *Zaprzeczanie śmierci* | rozdz. 46 | referowany opisowo — działa, ale cytat by wzmocnił |
-| Zygmunt Bauman, *Śmierć i nieśmiertelność* | rozdz. 46 | jw.; **[?]** przy przypisaniu mu tezy o indywidualizacji strategii |
-| Heidegger, *Bycie i czas* (Baran, PWN) | rozdz. 22, 47 | konspekt przewiduje **jedną linię** — referat wystarczy; pozycja trudna i kosztowna |
-| Karl Jaspers, *Sytuacje graniczne* | rozdz. 22, 47 | jw., jedna linia |
-| Viktor Frankl, *Człowiek w poszukiwaniu sensu* | 20, 47 | tania, powszechnie dostępna, przydatna jako świadectwo |
-
-**Heideggera i Jaspersa świadomie stawiam nisko** wbrew ich randze: konspekt 47 daje każdemu z nich **jedno zdanie**, a referat opisowy w jednym zdaniu jest uczciwy i wystarczający. Kupowanie *Bycia i czasu* dla jednej linii nie ma sensu.
-
----
-
-## 4. Kwerendy do zrobienia bez żadnych zakupów
-
-Rzeczy, które mogę zweryfikować sam, gdy tylko będzie na to tura:
-
-1. **Homilia inauguracyjna Benedykta XVI, 24 IV 2005** — „każdy z nas jest chciany, każdy kochany" (poz. R10). Do epilogu i rozdz. 48. **vatican.va, darmowe.**
+1. **Homilia inauguracyjna Benedykta XVI, 24 IV 2005** — „każdy z nas jest chciany, każdy kochany". vatican.va. Do epilogu i rozdz. 48.
 2. **Droga Krzyżowa w Koloseum 2005** — rozważania Ratzingera (obrazy pustki Kościoła). Tamże.
-3. ***Spe salvi* 32–33** — potwierdzone ✔; do wydobycia dokładne brzmienie do rozdz. 26 i 48.
-4. ***Spe salvi* 6** — **znalezione przy okazji, nieplanowane:** Ps 23 w interpretacji, gdzie Chrystus jest Tym, „który nawet na drodze całkowitej samotności, na której nikt nie może mi towarzyszyć, idzie ze mną". To jest **gotowa oś rozdz. 48** i klamra z Ps 23,4 przewidzianym w konspekcie. **Do wpisania w kartotekę 05.**
-5. **Źródło o obciążeniu opiekunów nieformalnych w Polsce** — luka rozdz. 46 (pani Halina). Kandydaci: raporty NIK o opiece długoterminowej, badania CBOS o opiekunach.
-6. **Nowszy *Rocznik Demograficzny GUS*** — dane o miejscu zgonu kończą się w rozdz. 46 na 2015 r.
+3. ***Spe salvi* 32–33** — do rozdz. 26 i 48. ✔ potwierdzone, brzmienie do wydobycia.
+4. ***Spe salvi* 6** — ✔ **już zrobione**, patrz `05_KARTOTEKA` § 4i.
+5. ***Gaudium et spes* 24** — ✔ **już zrobione**, patrz audyt (dok. 09): to jest **właściwe źródło** zdania o „bezinteresownym darze z siebie", błędnie przypisanego encyklice *Deus caritas est* w rozdz. 28.
+6. ***Deus caritas est* 5–6** — ✔ sprawdzone; zawiera „człowiek staje się w pełni sobą" w kontekście **jedności ciała i duszy**, a nie daru z siebie. Patrz audyt.
+7. **KKK 632–637** (zstąpienie do piekieł) — dostępne online, do rozdz. 24.
+8. **Źródło o obciążeniu opiekunów nieformalnych w Polsce** — luka rozdz. 46.
+9. **Nowszy *Rocznik Demograficzny GUS*** — dane o miejscu zgonu kończą się na 2015 r.
 
 ---
 
-## 5. Formaty — co przyjmuję
+# CZĘŚĆ E — formaty i sposób przekazania
 
-- **MOBI** ✔ — działa (`narzedzia/czytaj.py`), ale **numery stron nie istnieją**; cytujemy wg części/rozdziału z `[s?]`.
-- **PDF** ✔ — najlepszy format, o ile ma warstwę tekstową; jeśli jest skanem, OCR bywa przekłamany (por. „Gemein schaft", „o: łowicka").
-- **EPUB** ✔ — obsłużę, dotąd nie było potrzeby.
-- **Wydanie papierowe** — wtedy proszę o **zdjęcie/skan konkretnej strony** z widoczną paginacją; to jedyny sposób, żeby usunąć `[s?]` z przypisów.
+- **Zdjęcie telefonem strony książki** ✔ — **najlepsze rozwiązanie dla tej listy.** Proszę, żeby na zdjęciu był **widoczny numer strony** — to jedyny sposób, żeby usunąć `[s?]` z przypisów. Zdjęcia wkładać do `biblioteka/skany/`.
+- **PDF** ✔ — najlepszy, o ile ma warstwę tekstową; skan bez OCR też się przyda, przeczytam.
+- **MOBI / EPUB** ✔ — działa (`narzedzia/czytaj.py`), ale **numery stron nie istnieją** → `[s?]`.
+- **Wypisanie fragmentu ręcznie w wiadomości** ✔ — całkowicie wystarczy, jeśli autor poda **wydanie i stronę**. Przy krótkich zdaniach (Buber!) to najszybsza droga.
 
-**Nigdy nie wgrywać książek przez przeglądarkę do repo** (GitHub web upload ignoruje `.gitignore`). Pliki wkładać lokalnie do `biblioteka/` — jest w `.gitignore` i tam zostaną.
+**Nigdy nie wgrywać książek przez przeglądarkę do repo** — GitHub web upload ignoruje `.gitignore`. Pliki wkładać lokalnie do `biblioteka/`.
 
 ---
 
-## 6. Gdyby autor miał kupić tylko trzy rzeczy
+# CZĘŚĆ F — gdyby autor miał zdobyć tylko trzy rzeczy
 
-**Marcel (*Homo viator*), Buber (*Ja i Ty*), Yalom (*Psychoterapia egzystencjalna*).**
+**Buber *Ja i Ty* → Marcel *Homo viator* → Yalom, część o izolacji.**
 
-Te trzy pozycje obsługują rozdziały **29, 47 i 48** — czyli filozoficzny szczyt książki i jej finał. Wszystkie trzy są w polskich przekładach, wszystkie trzy są do zdobycia w antykwariatach za rozsądne pieniądze, i wszystkie trzy występują w książce **w pozycji głosu wiodącego**, a nie echa. Reszta listy to komfort.
+Obsługują rozdziały **29, 47 i 48** — filozoficzny szczyt książki i jej finał. W każdym z nich autor występuje **jako głos wiodący, nie echo**; referat opisowy wystarcza dla echa (precedens Baumana w 46), ale nie dla autora, na którym stoi cały rozdział.
+
+**A gdyby tylko jedną: Buber.** Jest najcieńszy, najłatwiejszy do zdobycia, a jego brak jest w tej chwili najbardziej dotkliwy — bo rozdz. 29 jest **nienapisany**, więc jeszcze można go napisać dobrze, zamiast poprawiać.

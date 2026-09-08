@@ -55,3 +55,11 @@ Jeśli Bóg jest obecny jako dar — to co z tymi, których na to nie stać? Car
 - Nie idealizować liturgii: jedna linia uczciwości (samotni na mszy) — most do 39.
 - Łk 24 — najmocniejszy obraz; pilnować, by nie zdominował rozdziału.
 - Refren raz; długość ~2,2–2,4 tys. słów.
+
+---
+
+## Nota v3.3 (2026-09-07) — sprostowanie źródłowe
+
+**Formuła „liturgia jako przejście z «ja» do «my»", przypisana w § 4 konspektu *Duchowi liturgii*, NIE WYSTĘPUJE w tym dziele** (kwerenda pełnotekstowa 2026-09-07). Trafiła już do rękopisu (`rozdzialy/34_eucharystia.md`, przypis 4) — **do usunięcia przy przepisaniu.**
+
+Zamiast niej materiał mocniejszy i zweryfikowany (`05_KARTOTEKA_RATZINGEROWSKA.md` § 4e): Ratzinger opisuje zagrożenie liturgii przez **negatyw** — złoty cielec jako kult, w którym „wspólnota wyprawia święto dla siebie i szuka samopotwierdzenia", czego skutkiem jest „frustracja, doznanie pustki". To bezpośrednio obsługuje lęk rozdz. 35 przed „elegancką formą pustki" oraz zarzut z rozdz. 40 („ludzie na mszy też bywają samotni"): samotność w kulcie skierowanym na siebie jest **przewidziana przez tę teologię**, nie jest jej porażką.

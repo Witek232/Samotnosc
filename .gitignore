@@ -23,3 +23,12 @@ __pycache__/
 Thumbs.db
 *.tmp
 ~$*
+
+# === Pliki wgrane przez WWW GitHuba omijają .gitignore ===
+# Gdyby jakaś książka mimo to trafiła do repo, usuwa się ją poleceniem:
+#   git rm --cached "sciezka/do/pliku.mobi"   (plik zostaje na dysku)
+*.mobi
+*.epub
+*.azw3
+*.azw
+biblioteka/**/*.pdf

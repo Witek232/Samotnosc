@@ -32,11 +32,12 @@ Trzy sekcje robią trzy różne rzeczy:
 |---|---|---|---|---|
 | *Deus caritas est* (2005) | ✔ | online | PL | vatican.va — przekład oficjalny; **sprawdzone 2026-09-07** |
 | *Spe salvi* (2007) | ✔ | online | PL | vatican.va — **§ 32 sprawdzony 2026-09-07** |
-| *Wprowadzenie w chrześcijaństwo* | ✔ | PDF | PL | wyd. Znak; **przeczytane i przeszukane 2026-09-07** (81 250 słów). Numeracja stron PDF ≠ wydanie → status `[s?]`, cytujemy wg części i rozdziału |
-| *Eschatologia. Śmierć i życie wieczne* | ? | — | — | **kluczowe dla rozdz. 23, 26, 46–47** — prosimy o plik |
-| *Jezus z Nazaretu* t. 1–2 | ? | — | — | t. 2 (Getsemani, krzyż) — dla rozdz. 25, 48 |
-| *Duch liturgii* | ? | — | — | cytowany w rozdz. 36 bez stron |
-| *Bóg i świat* / wywiady (Seewald) | ? | — | — | najlepsze źródło zdań o wątpieniu i o samotności wiary |
+| *Wprowadzenie w chrześcijaństwo* | ✔ autor | PDF | PL | **układ niewierny wobec wydania** — strony do ustalenia; cytować wg części/rozdziału |
+| *Eschatologia. Śmierć i życie wieczne* | ✔ | MOBI | PL | IW PAX, przeł. M. Węcławski, Warszawa 1986; **przeczytane 2026-09-07** (61 575 słów) |
+| *Jezus z Nazaretu* t. 2 | ✔ | MOBI | PL | **przeczytane 2026-09-07** (69 378 słów) |
+| *Duch liturgii* | ✔ | MOBI | PL | **przeczytane 2026-09-07** (50 928 słów) |
+| *Bóg i świat* (Seewald) | ✔ | MOBI | PL | **przeczytane 2026-09-07** (101 908 słów) |
+| Bonhoeffer, *Gemeinsames Leben* | ✔ | PDF | **DE** | DBW t. 5; **przeczytane** — numeracja stron wydania krytycznego obecna w pliku ✔ |
 | Homilie i teksty papieskie | ✔ | online | PL | vatican.va — dostęp swobodny |
 
 Pozycje angielskie (Ignatius Press) — zasada użycia w `narzedzia/README.md` § „Wydania angielskie".
@@ -133,68 +134,147 @@ oraz, z tego samego paragrafu:
 - § 31b: „Program chrześcijański — program dobrego Samarytanina, program Jezusa — to «serce, które widzi»."; „człowiek, który żyje teraz jest poświęcany *molochowi* przyszłości".
 - § 31c: „Bóg jest miłością (por. 1 J 4, 8) i staje się obecny właśnie wtedy, gdy nie robi się nic innego ponad to, że się kocha."
 
-### 4.7 *Wprowadzenie w chrześcijaństwo* — cz. II, rozdz. V.3 „Zstąpił do piekieł" ✔
+---
 
-**Odczytane bezpośrednio z egzemplarza autora 2026-09-07** (PDF, wyd. Znak; strony PDF 118–122, numeracja wydania do ustalenia → `[s?]`).
+## 4a. USTALENIE O NUMERACJI STRON (2026-09-07) — czytać przed cytowaniem
 
-To jest **fundament całej książki** — nie jeden z cytatów, lecz miejsce, w którym Ratzinger definiuje samotność dokładnie tak, jak potrzebuje tego ta książka. Sekwencja czterech kroków:
+Autor zgłosił, że nowe pliki MOBI mają „numery oryginału". **Sprawdziłem to i muszę zgłosić wynik negatywny.**
 
-**(a) Definicja piekła przez samotność:**
+Liczby występujące w plikach MOBI to w przeważającej części **odsyłacze do przypisów**, a nie numery stron. Dowód: w *Wprowadzeniu* liczba „5" pojawia się w zdaniu „stał się On dla nas «egzegezą» Boga 5" — to przypis nr 5, nie strona 5. Z 523 znalezionych liczb tylko 205 tworzy pary rosnące o 1; prawdziwa paginacja byłaby ciągła.
 
-> „Gdyby istniała taka samotność, do której nie przenikałoby żadne słowo, gdyby powstało tak głębokie opuszczenie, że nikt by do niego nie dotarł, wtedy mielibyśmy istotnie całkowitą samotność i lęk, którzy teologowie nazywają «piekłem»."
+**Wniosek operacyjny:** dla plików MOBI **nie podajemy numerów stron**. Obowiązuje standard przyjęty w `narzedzia/README.md`: **cytowanie wg części i rozdziału**, status `[s?]`. Brzmienie cytatu jest w pełni zweryfikowane — i to jest rzecz ważniejsza.
 
-> „Możemy teraz dokładnie zdefiniować, co ten wyraz oznacza: oznacza on samotność, której nie dosięga słowo «miłość» i która przez to jest zagrożeniem całej egzystencji."
+**Wyjątek: Bonhoeffer, *Gemeinsames Leben* (PDF, DBW t. 5)** — ten plik **ma prawdziwą paginację** wydania krytycznego i numery stron wolno podawać ✔.
 
-**(b) Diagnoza tożsama z tezą części III–IV książki:**
+Uwaga o jakości OCR: pliki mają miejscami przekłamania („o: łowicka", „v ecie”). Cytaty wybrane poniżej pochodzą z fragmentów czystych; **przy każdym z nich zaznaczam, jeśli w pobliżu jest usterka OCR.**
 
-> „każde spotkanie z kimś drugim, choć wydaje się tak piękne, jest w gruncie rzeczy tylko znieczuleniem nieuleczalnej rany samotności."
+---
 
-> „istnieją drzwi, przez które tylko samotnie przejść możemy: brama śmierci. Wszelka trwoga na świecie jest ostatecznie tylko trwogą przed ową samotnością."
+## 4b. *Eschatologia. Śmierć i życie wieczne* ✔ — źródło rozdziałów 23, 26, 46, 47
 
-> „Śmierć to po prostu samotność. Ale taka samotność, do której nie może przedostać się miłość, to piekło."
+**IW PAX, przeł. Marek Węcławski, Warszawa 1986.** Cytowanie: wg części/rozdziału, `[s?]`.
 
-**(c) Odpowiedź — zdanie centralne całej książki:**
+### Śmierć jako zerwanie więzi (rozdz. 23, 47)
 
-> „Mówi nam on, że Chrystus przeszedł przez bramę naszej ostatecznej samotności, że przez swą mękę zstąpił w otchłań naszego opuszczenia. **Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On.**"
+> „Zmarły zstępuje do Szeolu, gdzie prowadzi życie cienia. […] jest jednak oddzielony od świata żyjących, nie ma z nim żadnej łączności. To zerwanie wszystkich więzi oznacza właśnie zniszczenie życia."
 
-**(d) Skutek:**
+> „Życie to wspólnota, istotą śmierci jest wyrwanie z wszystkich więzi."
 
-> „Umieranie nie jest już przejściem do lodowatej samotności, bo brama Szeolu została otwarta."
+### Choroba jako sfera śmierci — samotność (rozdz. 17, 22, 46)
 
-> „Brama śmierci stoi otwarta, odkąd w śmierci zamieszkało życie: miłość."
+> „Człowiek chory zostaje wyłączony ze wspólnoty przyjaźni i wspólnoty służby Bożej. […] Jej istotą jest opuszczenie, izolacja, samotność — a przez to wydanie człowieka nicości."
 
-**Znaczenie dla projektu — cztery ustalenia:**
+### Definicja życia przez brak samotności (rozdz. 49)
 
-1. **Zdanie kanoniczne osi II ma teraz pokrycie w źródle.** Dotychczasowe brzmienie („Chrystus nie zbawia człowieka z samotności, omijając jego samotność. Zbawia go, wchodząc w nią") było **autorskim skrótem** (`STRUKTURA_V3.md` § 5). Można je zachować jako zdanie autora — ale **obok** musi teraz stanąć zdanie samego Ratzingera: *„Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On."* Ono jest krótsze, mocniejsze i jest cytatem. **Rekomendacja: to ono zostaje zdaniem kanonicznym książki** (rozdz. 24, 48, epilog), a parafraza autorska schodzi do roli komentarza.
-2. **Gradacja drzwi (24 → 26 → 47) ma źródło.** „Brama śmierci", „brama Szeolu" — metaforyka drzwi nie jest wynalazkiem konstrukcyjnym książki, lecz pochodzi z tego rozdziału.
-3. **Rozdz. 22 („samotność, której nie da się wyleczyć") jest tezą Ratzingera**, nie tylko diagnozą socjologiczną: „znieczulenie nieuleczalnej rany samotności".
-4. **Sartre i Hesse są w tym rozdziale przywołani przez samego Ratzingera** — to znaczy, że tryptyk 41–43 może pokazać go w bezpośrednim sporze z nimi, a nie w sporze zaaranżowanym przez autora książki. **To najmocniejsze możliwe wykonanie reguły wzmacniania przeciwnika.**
+> „Życie we właściwym sensie jest tam, gdzie nie ma cierpienia, samotności, izolacji, gdzie jest natomiast obfitość spełnienia, miłość, wspólnota, gdzie człowiek doznaje dotknięcia Boga."
 
-### 4.8 *Wprowadzenie w chrześcijaństwo* — cz. I: samotność jako źródło spotkania z Bogiem ✔
+### Zdanie kluczowe dla całej książki (rozdz. 23, 47)
 
-(PDF s. 39–40, wyd. — `[s?]`)
+> „Jeżeli z jednej strony człowiek może żyć fizycznie, będąc jednocześnie «martwy» w swym osamotnieniu, to czy — z drugiej strony — moc wspólnoty, a w każdym razie moc wspólnoty z Bogiem, nie musi być silniejsza od śmierci fizycznej[?]"
 
-> „Samotność jest bez wątpienia jednym z istotnych źródeł, z których zrodziło się spotkanie człowieka z Bogiem. Gdzie człowiek doświadcza swej samotności, doświadcza zarazem, jak cała jego egzystencja jest krzykiem do jakiegoś «ty» i jak zupełnie nie jest stworzony do tego, by tylko być «ja» w sobie samym."
+**Dlaczego to jest ważne:** rozdz. 22 („samotność, której nie da się wyleczyć") i rozdz. 47 („czy śmierć jest samotnością?") dostają tu **jedną wspólną podstawę pojęciową**. Ratzinger nie traktuje śmierci i samotności jako dwóch tematów: definiuje jedno przez drugie. Cała część V książki stoi na tym utożsamieniu.
 
-> „każde «ty», jakie człowiek znajduje, okazuje się w końcu nie spełnioną i nie dającą się spełnić obietnicą […] właśnie znajdywanie i znalezienie staje się z powrotem popadnięciem w samotność i wołaniem do absolutnego «ty», które by prawdziwie zstąpiło w głąb naszego «ja»."
+### Nieśmiertelność dialogiczna (rozdz. 49) — z zastrzeżeniem
 
-**Przeznaczenie:** rozdz. 2, 15, 22, 29 — i **oś III**. Uwaga: Ratzinger przypisuje myśl o rozczarowaniu każdym „ty" **Claudelowi** — przy cytowaniu zachować tę atrybucję.
+> „Platońska myśl o życiu, które płynie z prawdy, przemieniona chrystologicznie, pogłębia się i staje dialogiczną koncepcją bytu ludzkiego, ukazującą człowiekowi konkretnie, co go prowadzi ku nieśmiertelności."
 
-### 4.9 *Wprowadzenie w chrześcijaństwo* — wiara jako znalezienie „Ty" ✔
+`[?]` **Ostrzeżenie:** to jest jedyne miejsce, gdzie termin „dialogiczny" wystąpił w tym pliku. Formuła „człowiek trwa, bo jest znany przez Boga" (poz. R5 w § 5) **nie została odnaleziona** — nie cytować jej. Prawdopodobnie należy do innego dzieła albo do partii utraconej w OCR. **Do sprawdzenia w wydaniu papierowym.**
 
-(PDF s. 29)
+### Scena gotowa dla rozdz. 46 ✔
 
-> „wiara jest znalezieniem jakiegoś «ty», które jest dla mnie oparciem i które w całym niespełnieniu i ostatecznej niespełnialności ludzkich spotkań obdarza obietnicą niezniszczalnej miłości"
+Ratzinger, powołując się na Josefa Piepera (*Tod und Unsterblichkeit*), opisuje wypieranie śmierci: dziennik amerykański, który z zasady nie drukuje słowa „śmierć"; zakłady pogrzebowe unikające go w słownictwie; szpitale, gdzie „śmierć i umieranie należą do rzeczy, o których możliwie się nie mówi". I dalej — zdanie, które jest gotową diagnozą dla rozdz. 12 i 46:
 
-**Przeznaczenie:** **oś I** — rozdz. 31, 40. To jest brakujące ogniwo: łączy wiarę z samotnością bez przechodzenia przez pojęcie pewności.
+> „Rodzina bywa już tylko środowiskiem noclegowym i rozpływa się całkowicie w ciągu dnia. Nie jest już tym miejscem schronienia, które skupia ludzi sobie bliskich przy narodzinach i śmierci, w zdrowiu i chorobie."
 
-### 4.10 *Wprowadzenie w chrześcijaństwo* — Nietzsche a Wielka Sobota ✔
+**Bonus konstrukcyjny:** Pieper jest już filarem stylistycznym książki (`02_STYL_PISARSKI` § 2, oś nadzieja–rozpacz). Tutaj Ratzinger sam się na niego powołuje — filar i głos wiodący spotykają się bez naszej aranżacji.
 
-(PDF s. 119)
+---
 
-> „«Bóg umarł i myśmy Go zabili». Te słowa Nietzschego należą językowo do tradycji chrześcijańskiego nabożeństwa Męki Pańskiej; wyrażają one treść Wielkiej Soboty, że «zstąpił do piekieł»."
+## 4c. *Jezus z Nazaretu* t. 2 ✔ — Getsemani (rozdz. 25, 48)
 
-**Przeznaczenie:** rozdz. 7, **42** (Nietzsche ma rację) i 24. Jedno z najmocniejszych zdań, jakie ta książka może dostać: Ratzinger nie odpiera Nietzschego — pokazuje, że jego zdanie ma chrześcijańską genealogię.
+> „Kto znajdzie się tam, ten stanie wobec dramatycznego szczytu tajemnicy naszego Odkupiciela: tutaj Jezus doświadczył krańcowej samotności i całej nędzy egzystencji człowieka. Tutaj przepastna otchłań grzechu i wszelkiego zła przeniknęła do najgłębszego wnętrza Jego duszy. Tutaj przeżył wstrząs bliskiej śmierci. Tutaj pocałował Go zdrajca. Tutaj opuścili Go wszyscy uczniowie. **Tutaj walczył także o mnie.**"
+
+To jest materiał na **scenę rozdziału 48** — i zarazem rozwiązanie problemu, który zapisałem w dok. 04: szukaliśmy sceny biograficznej pokazującej „człowieka, który tak myśli". Ten fragment daje coś lepszego i bezpieczniejszego (bo nie wymaga weryfikacji biograficznej): **Ratzinger pisze tu w pierwszej osobie.** Anafora „Tutaj… tutaj… tutaj…", zakończona zwrotem „także o mnie", jest jedynym miejscem, gdzie teolog wychodzi zza wykładu. **Rekomendacja: to zastępuje planowaną scenę biograficzną.**
+
+Ponadto — do rozdz. 25:
+
+> „Wołanie Jezusa w opuszczeniu[:] Mateusz i Marek zgodnie opowiadają nam, że o godzinie dziewiątej Jezus zawołał donośnym głosem: «Boże mój, Boże mój, czemuś Mnie opuścił?» (Mt 27,46; Mk 15,34)."
+
+---
+
+## 4d. Bonhoeffer, *Gemeinsames Leben* ✔ — cytat-kotwica rozdz. 39
+
+**Uwaga: plik jest niemiecki (DBW t. 5).** Zgodnie z zasadą z `narzedzia/README.md` **nie tłumaczymy sami** — do tekstu głównego potrzebne jest polskie wydanie *O życiu wspólnym*. Poniższe brzmienia są potwierdzone w oryginale i służą jako podstawa do (a) parafrazy oznaczonej jako parafraza albo (b) odnalezienia miejsca w wydaniu polskim.
+
+> „Wer nicht allein sein kann, der hüte sich vor der Gemeinschaft."
+
+> „Nur in der Gemeinschaft lernen wir recht allein sein und nur im Alleinsein lernen wir recht in der Gemeinschaft stehen."
+
+> „nur in der Gemeinschaft stehend können wir allein sein, und nur wer allein ist, kann in der Gemeinschaft leben." (s. 58 DBW ✔)
+
+**Sprostowanie wobec konspektu rozdz. 39:** konspekt podaje formułę dwuczłonową („Kto nie umie być sam, niech się ma na baczności przed wspólnotą; kto nie jest we wspólnocie, niech się ma na baczności przed samotnością"). W oryginale **obie połowy istnieją, ale nie jako jedno zdanie** — druga brzmi inaczej i stoi w innym miejscu. Cytat złożony z dwóch miejsc **nie może** iść w cudzysłowie jako jedno zdanie. Rozwiązanie: cytować pierwszą połowę dosłownie, drugą jako osobne zdanie z osobnym odsyłaczem.
+
+Kontekst, który wzmacnia rozdz. 44 („połączeni, ale samotni") — Bonhoeffer o ucieczce we wspólnotę:
+
+> „In Wahrheit sucht er garnicht die Gemeinschaft, sondern den Rausch, der die Vereinsamung für kurze Zeit vergessen läßt und gerade dadurch die tödliche Vereinsamung des Menschen schafft."
+
+(W istocie nie szuka wspólnoty, lecz odurzenia, które na krótko pozwala zapomnieć o osamotnieniu — i właśnie przez to stwarza osamotnienie śmiertelne. — *przekład roboczy, nie do druku*)
+
+---
+
+## 4e. *Duch liturgii* ✔ — R8 ZAŁATWIONE (rozdz. 35, 36, 44)
+
+MOBI, `[s?]` — cytować wg rozdziału. Kwerenda 2026-09-07.
+
+**Ustalenie negatywne, ważne:** w tym pliku **nie występuje** formuła „liturgia jako przejście z «ja» do «my»", którą konspekt rozdz. 36 przypisuje temu dziełu (i która trafiła już do rękopisu 36, przypis 4). **Nie cytować jej.** Rzecz w tym, że Ratzinger mówi to samo mocniej — przez negatyw, na przykładzie złotego cielca:
+
+> „Kult staje się świętem, które wspólnota wyprawia dla siebie i w którym szuka samopotwierdzenia. Uwielbienie Boga przeradza się w zaspokajanie własnych potrzeb, w jedzenie, picie, zabawę."
+
+> „ludzie nie są w stanie wytrwać przy niewidzialnym, dalekim i tajemniczym Bogu. Zatem zostaje On sprowadzony na dół, do ludzi, do tego, co własne, widzialne i zrozumiałe. Taki kult nie jest już wznoszeniem się do Boga, lecz ściąganiem Boga w dół, do siebie. **Bóg ma być obecny wówczas, gdy jest ludziom potrzebny, i ma być taki, jakim Go ludzie potrzebują.**"
+
+> „opowieść o złotym cielcu jest ostrzeżeniem [przed] samowolnym i samolubnym kultem, w którym ostatecznie nie chodzi o Boga, lecz o to, by z tego, co własne, stworzyć sobie swój mały, alternatywny świat. W takim wypadku liturgia rzeczywiście staje się pustą grą […] Również i tutaj skutkiem będzie frustracja, doznanie pustki."
+
+> „Cześć oddawana bogom nigdy nie jest jedynie aktem socjalizacji danej wspólnoty, która poprzez symbole pragnie upewnić się o swej spójności."
+
+**Znaczenie dla książki — to jest lepsze niż to, czego szukaliśmy.** Rozdział 35 pytał, czy wspólnota może być odpowiedzią, i bał się „eleganckiej formy pustki". Otóż Ratzinger tę pustkę nazwał i zdiagnozował jej mechanizm: wspólnota, która celebruje samą siebie, wytwarza **frustrację i doznanie pustki**. To znaczy, że zarzut z rozdz. 40 („ludzie na mszy też bywają samotni") ma odpowiedź nie apologetyczną, lecz **wewnętrzną**: samotność we wspólnocie religijnej jest dokładnie tym, co ta teologia przewiduje dla kultu skierowanego na siebie. Zdanie „Bóg ma być obecny wówczas, gdy jest ludziom potrzebny" jest zarazem gotową klamrą do rozdz. 8 (Freud — Bóg jako zaspokojenie potrzeby) i 44.
+
+## 4f. *Bóg i świat* (Seewald) ✔ — R9 ZAŁATWIONE (rozdz. 40, 48, 5, 31)
+
+MOBI, `[s?]`; rozdziały: „O wątpieniu", „O Bogu", „O miłości".
+
+### Wiara jako droga, nie posiadanie — **oś I dosłownie** (rozdz. 31, 40)
+
+> „Wiara nigdy nie jest ot tak po prostu obecna, nigdy nie mogę powiedzieć: mam wiarę, inni jej nie mają. […] **nigdy nie jest czymś, co po prostu posiadam.** Człowiek zawsze może ulec tej drugiej tendencji i upaść. **Wiara pozostaje drogą.** Dopóki żyjemy, jesteśmy w drodze, dlatego zawsze także nad wiarą wisi groźba i udręka."
+
+> „Wiara może dojrzewać tylko wtedy, gdy na wszelkich szczeblach życia wytrzymuje, przyjmuje, a w końcu także przekracza udrękę i moc niewiary."
+
+**To jest oś I wypowiedziana przez samego Ratzingera** — dotąd mieliśmy dla niej tylko formułę *credere in Deum* i zdanie z *Wprowadzenia* (§ 4.9). Teraz mamy zdanie wprost: *wiara nie jest czymś, co się posiada.* Zdanie nośne osi I („Wiara nie daje pewności — daje adresata") pozostaje autorskim skrótem, ale ma teraz twarde pokrycie.
+
+### Ciemność świętych — **rozstrzygnięcie rozdz. 40** ✔
+
+> „Ta ciemna noc następuje również w życiu świętych. Zalega w nich, można by powiedzieć, swego rodzaju nieobecność, milczenie Boga — przykładem Teresa z Lisieux — **i muszą zaznawać ciemności człowieka niewierzącego.** Nie oznacza to jednak, że Bóg nie istnieje."
+
+> „Chodzi tu jedynie o pewną sytuację […] gdy nie jesteśmy zdolni dostrzec Boga — zalega wówczas, jak ujął to Martin Buber, «ciemność co do Boga»."
+
+**Waga dla książki:** rozdz. 40 przyjmuje zarzut „wierzący też są samotni, modlitwa bywa monologiem". Ten fragment daje odpowiedź, która nie jest uchyleniem zarzutu, lecz jego **przyjęciem wewnątrz tradycji**: doświadczenie nieobecności Boga jest w niej opisane, nazwane i przypisane świętym, nie odstępcom. Zarzut przestaje być zarzutem z zewnątrz. Uwaga: Buber pracuje już w rozdz. 29 — tu wraca cytowany przez Ratzingera, co jest klamrą darmową.
+
+### Świadectwo osobiste — **rozwiązanie sprawy „sceny Ratzingerowskiej"** ✔
+
+Seewald pyta wprost, czy Ratzinger zna z własnego doświadczenia „dręczącą moc niewiary". Odpowiedź:
+
+> „Naturalnie. Gdy jako profesor czy jako nauczyciel wiary stara się człowiek razem z innymi wierzyć w sytuacji duchowej naszego stulecia, nie sposób nie dopuścić do siebie pytań, które powodują, że nie jest to takie łatwe. […] przyjmowanie, wewnętrzny opór, udręka z powodu tego wszystkiego, co w dzisiejszych czasach przemawia przeciwko wierze, stanowią istotną część mojego zadania. **Nawet gdybym nie chciał, napiera to również na mnie.**"
+
+Oraz — do rozdz. 5 i 40 — anegdota Bubera, którą Ratzinger przytacza: oświeceniowy uczony przychodzi obalić wiarę rabbiego; rabbi mówi tylko: **„Być może jest to jednak prawdą"** — i uczony wychodzi w popłochu.
+
+**Rekomendacja zaktualizowana:** mamy teraz **dwa** świadectwa własne Ratzingera — Getsemani „Tutaj walczył także o mnie" (§ 4c) i to. **Nie używać obu.** Getsemani → rozdz. 48 (miejsce ciepłe, finał). Wyznanie o „dręczącej mocy niewiary" → **rozdz. 40**, gdzie jest cenniejsze: rozdział-sprawdzian zyskuje świadka, który przyznaje rację zarzutowi, zanim odpowie. Planowana „scena biograficzna" (dok. 04 § 3.2, środek A) zostaje tym **wykonana bez ryzyka** — nie musimy weryfikować faktów z życiorysu, bo cytujemy jego własne słowa o sobie.
+
+### Samotność jako lęk podstawowy (rozdz. 2, 15, 22)
+
+> „Jeśli samotność oznacza, że nie jestem miłowany, że jestem opuszczony, że jestem sam jeden, i jeśli skutkiem tego moje życie pozostaje puste, to ów stan rzeczywiście musi rodzić strach, **którym kulminują wszelkie lęki**."
+
+> „namiastki te są wielką iluzją i wtrącają człowieka w jeszcze bardziej nieznośną samotność, we frustrację wobec absolutnej pustki."
+
+**Bonus dla rozdz. 8 i 15:** w tym samym miejscu Ratzinger dyskutuje z **Erichem Frommem** („dlaczego musimy miłować?") i przyznaje mu rację co do diagnozy: „Fromm uznaje samotność za przeciwieństwo naszego wewnętrznego przeznaczenia". Kolejny przykład reguły wzmacniania przeciwnika wykonanej przez samego Ratzingera — jak Nietzsche w § 4.10, Sartre i Hesse w § 4.7, Pieper w § 4b.
 
 ---
 
@@ -204,15 +284,15 @@ To jest **fundament całej książki** — nie jeden z cytatów, lecz miejsce, w
 
 | Nr | Dzieło / miejsce | Czego szukamy | Dla rozdz. | Status |
 |---|---|---|---|---|
-| R1 | *Wprowadzenie w chrześcijaństwo*, cz. I | wiara jako stanie wobec niewidzialnego; wątpienie wierzącego i niewierzącego | 31, 40, 5 | **częściowo ✔ — § 4.9**; sam passus o wątpieniu jeszcze do wydobycia |
+| R1 | *Wprowadzenie w chrześcijaństwo*, cz. I | wiara jako stanie wobec niewidzialnego; wątpienie wierzącego i wątpienie niewierzącego jako sytuacja wspólna | 31, 40, 5 | `[?]` — **priorytet 1**, autor ma PDF |
 | R2 | tamże, cz. I | wiara jako „nawrócenie" całego kierunku istnienia; nie akt intelektu obok innych | 31 | `[?]` |
-| R3 | tamże, cz. II rozdz. V.3 | samotność absolutna; piekło jako samotność bez miłości; „tam jest On" | **24** | **✔ ZAŁATWIONE — § 4.7** |
-| R4 | tamże, cz. III / ekskurs o osobie | „osoba" jako pojęcie zrodzone z teologii trynitarnej; relacja jako kategoria bytowa | 28, 32 | `[?]` — **priorytet 1**, plik jest, kwerenda do wykonania |
-| R5 | *Eschatologia* | śmierć jako wydarzenie osobowe, nie biologiczne; nieśmiertelność „dialogiczna" — człowiek trwa, bo jest znany przez Boga | 23, 26, 47, 49 | `[?]` — **brak pliku**, priorytet 1 |
-| R6 | *Jezus z Nazaretu* t. 2, Getsemani | samotność Jezusa jako samotność, w której śpią uczniowie; modlitwa w opuszczeniu | 25, 48 | `[?]` |
-| R7 | *Jezus z Nazaretu* t. 2, krzyż | Ps 22 w ustach Konającego — wołanie opuszczenia jako modlitwa, nie rozpacz | 25 | `[?]` |
-| R8 | *Duch liturgii* | liturgia jako przejście z „ja" do „my"; kult nie jest wytworem wspólnoty | 36, 38 | `[?]` — cytowane w rękopisie bez stron |
-| R9 | wywiady z Seewaldem | zdania o ciemności wiary i o samotności teologa | 40, 48 | `[?]` |
+| R3 | tamże, część o Credo — „zstąpił do piekieł" | samotność absolutna; śmierć jako miejsce, w którym nikt nie towarzyszy | **24** | `[?]` — **priorytet 1** |
+| R4 | tamże, część o Credo | „osoba" jako pojęcie zrodzone z teologii trynitarnej; relacja jako kategoria bytowa | 28, 32 | `[?]` — **priorytet 1** |
+| R5 | *Eschatologia* | śmierć jako zerwanie więzi; samotność jako istota śmierci | 23, 26, 47, 49 | **✔ ZAŁATWIONE — § 4b.** Formuła „człowiek trwa, bo jest znany przez Boga" **nie odnaleziona** — nie cytować |
+| R6 | *Jezus z Nazaretu* t. 2, Getsemani | „krańcowa samotność"; „Tutaj walczył także o mnie" | 25, 48 | **✔ ZAŁATWIONE — § 4c** |
+| R7 | *Jezus z Nazaretu* t. 2, krzyż | Ps 22 — „Wołanie Jezusa w opuszczeniu" | 25 | **częściowo ✔ — § 4c**; interpretacja (modlitwa, nie rozpacz) do wydobycia |
+| R8 | *Duch liturgii* | złoty cielec: kult skierowany na siebie → pustka | 35, 36, 44 | **✔ ZAŁATWIONE — § 4e.** Formuły „z «ja» do «my»" **BRAK w tekście** — nie cytować |
+| R9 | *Bóg i świat* (Seewald) | „wiara pozostaje drogą"; ciemność świętych; wyznanie własne | **40**, 31, 5 | **✔ ZAŁATWIONE — § 4f** |
 | R10 | homilia inauguracyjna 2005 / Droga Krzyżowa 2005 | „każdy z nas jest chciany, każdy kochany"; obrazy pustki Kościoła | epilog, 48 | `[?]` — łatwe do sprawdzenia, vatican.va |
 
 **Zadanie kwerendy nr 1 (po wgraniu plików):**

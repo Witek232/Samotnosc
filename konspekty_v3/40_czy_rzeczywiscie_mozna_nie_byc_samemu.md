@@ -58,3 +58,17 @@ Pierwszy z trzech sprawdzianów: **Freud ma rację — i nie ma racji**. Jeśli 
 - Klauzula o badaniach — ostrożnie, bez liczb bez weryfikacji [?].
 - Rozdział ma być mostem do tryptyku 41–43 — nie domykać tematów w całości.
 - Refren raz; długość ~2,4–2,7 tys. słów.
+
+---
+
+## Nota v3.3 (2026-09-07) — materiał zweryfikowany, rozdział gotowy do pisania
+
+Po kwerendzie (`05_KARTOTEKA_RATZINGEROWSKA.md` § 4f) rozdział ma komplet materiału — i **zmienia się jego strategia**. Zarzut „wierzący też są samotni" nie jest odpierany z zewnątrz; zostaje przyjęty **wewnątrz tradycji**:
+
+1. **Ciemność świętych** ✔ — „Ta ciemna noc następuje również w życiu świętych… muszą zaznawać ciemności człowieka niewierzącego" (Teresa z Lisieux; Buber: „ciemność co do Boga"). Doświadczenie nieobecności Boga jest w tej tradycji **opisane i przypisane świętym, nie odstępcom**.
+2. **Wiara jako droga** ✔ — „nigdy nie jest czymś, co po prostu posiadam. Wiara pozostaje drogą" — **oś I dosłownie**, przesłanka całego rozdziału.
+3. **Świadectwo własne Ratzingera** ✔ — na pytanie o „dręczącą moc niewiary": „Naturalnie… Nawet gdybym nie chciał, napiera to również na mnie". **Tu realizuje się środek A (dok. 04 § 3.2)** — bez ryzyka weryfikacji biograficznej, bo to jego słowa o sobie. Scena Getsemani zostaje zarezerwowana dla rozdz. 48; **nie dublować**.
+4. **Świadek**: Van Thuân (*Spe salvi* 32 ✔) — rejestr „więzienie".
+5. **Kontrapunkt**: *Duch liturgii* § 4e — samotność w kulcie skierowanym na siebie jest przewidziana przez tę teologię.
+
+**Limit cytatów:** rozdział ma prawo do wyjątku — 3 cytaty zamiast 2 (blokowy: *Spe salvi* 32; dwa krótkie: ciemność świętych + wyznanie własne). Uzasadnienie: to zwornik książki i jedyne miejsce, gdzie głos wiodący mówi o sobie w pierwszej osobie.

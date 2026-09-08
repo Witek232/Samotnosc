@@ -148,3 +148,45 @@ Autor polecił: „sprawdź i popraw po kolei". **Odradzam** i proszę o decyzj�
 - **Scena dziecka przy poręczy basenu** (29→31) — model wiary jako zaufania, bez ani jednego słowa teologicznego. Zostaje.
 - **Obrona Bubera przed sentymentalizmem** (28→29): akapit o tym, że świat „Ono" jest niezbędny i że filozofia spotkania robi się sentymentalna dokładnie wtedy, gdy temu przeczy. To jest dokładnie tryb wymagany przez dok. 04 § 3 (wzmacniać przeciwnika). Zostaje nawet przy przepisaniu.
 - **Rygor gramatyczny jako metoda** w 29→31 („da się ją obronić gramatyką") — dobry pomysł konstrukcyjny, zgodny z linią Ratzingerowską (credere in Deum).
+
+---
+
+# AKTUALIZACJA 2026-09-08 — kroki 1–3 wykonane
+
+## Status paragrafów audytu
+
+| § audytu | Problem | Status |
+|---|---|---|
+| § 1 | Niezgodność numeracji z v3 | ✅ **ZAMKNIĘTE** — commit `db35cb3` |
+| § 2 | Przypisy `[?]` / „brzmienia robocze" | 🟡 **CZĘŚCIOWO** — zob. niżej |
+| § 3 | Fałszywa atrybucja DCE § 16 | ✅ **ZAMKNIĘTE** — commit `623a954` (poprawnie: GS 24) |
+| § 4 | Fałszywa formuła „przejście z «ja» do «my»" | ✅ **ZAMKNIĘTE** — commit `1deb00c` |
+
+## Co zweryfikowano u źródła (✔ = można cytować bez zastrzeżeń)
+
+**Ratzinger — potwierdzone w wydaniu (`biblioteka/_tekst/`):**
+- ✔ **„Śmierć to po prostu samotność"** — *Wprowadzenie w chrześcijaństwo*, s. 246–247. Rozdz. 24, przyp. 2. Dotąd oznaczone jako „formuła robocza" — **niepotrzebnie**, brzmienie jest dokładne.
+  - Odkrycie uboczne: obraz **„bramy śmierci"** oraz zdanie „Wszelka trwoga na świecie jest ostatecznie tylko trwogą przed ową samotnością" są **u samego Ratzingera**, w tym samym akapicie. Metafora drzwi (rozdz. 26) ma więc pokrycie źródłowe.
+- ✔ **Spe salvi § 32** — „Pierwszym istotnym miejscem uczenia się nadziei jest modlitwa…" — sprawdzone z tekstem na vatican.va, **zgodne co do słowa**, numer paragrafu poprawny. Rozdz. 26 bez zmian.
+
+**Biblia Tysiąclecia — sprawdzone brzmienia:**
+
+| Miejsce | Rozdz. | Wynik |
+|---|---|---|
+| J 1,14 | 34 | ✔ zgodne, bez zmian |
+| Dz 2,42 | 31 | ✏️ poprawione do wyd. V („w modlitwach"; wyd. IV: „w modlitwie") |
+| Ha 2,4 | 31 | ✏️ cudzysłów zdjęty — „sprawiedliwy żyje z wierności" **nie jest brzmieniem BT** |
+| 1 Kor 15,43 | 27 | ✏️ „Siane w słabości…" to **Biblia Warszawska** → „sieje się słabe — powstaje mocne" |
+| Łk 24,35 | 36 | ✏️ BT ma „**przy** łamaniu chleba", i to w **24,35**, nie 24,30–31 |
+| 1 Kor 10,17 | 36 | ✔ zweryfikowane, brzmienie wpisane do przypisu |
+
+## Zaległości — co jeszcze zostało
+
+1. **§ 2 nie jest zamknięty.** Znaczniki `[?]` pozostają wszędzie tam, gdzie potrzeba **fizycznego egzemplarza**: numery stron wyd. polskiego (KKK, *Spe salvi*, *Duch liturgii*), Buber (przekł. Doktóra, PAX 1992), Marcel, Wojtyła, Pieper, Balthasar. To **nie jest wada do usunięcia zdalnie** — `[?]` jest tu uczciwą informacją, nie niedoróbką.
+2. **Cytaty biblijne w rozdz. 24, 26, 27, 29 pozostają niesprawdzone co do słowa**: Rdz 3,9; J 13,1; Ef 4,9; Łk 23,46; Rz 8,38–39; J 20,17; Mk 16,6; Mt 27,46; Ps 22,2. W tekście funkcjonują jako **krótkie frazy**, więc ryzyko jest małe — ale przed drukiem wymagają przebiegu takiego jak powyżej.
+3. **Rozdziały za długie** wobec celu 2,3–2,6 tys. słów: **24** (3543), **26** (3662), **31** (3470), **32** (3244). Fragmenty do zachowania przy skracaniu: scena Wielkiej Soboty (24), dziecko przy poręczy basenu (31), akapit broniący Bubera przed sentymentalizmem (29), „obrona gramatyką" (31).
+4. **Kryteria z pkt. 3** (`04_PLAN_PISANIA…`) — limit 2 cytatów na rozdział i „ostatnie słowo przed puentą dla linii Ratzingerowskiej" — **nie były jeszcze audytowane** w rozdziałach odziedziczonych.
+
+## Wniosek metodologiczny
+
+Przypisy w rozdziałach 23–37 pisano bez dostępu do źródeł i **dwa z nich okazały się fałszywe** (DCE § 16; „przejście z «ja» do «my»"), a **dwa cytaty biblijne pochodziły z innego przekładu** niż deklarowany. Jednocześnie jeden cytat oznaczony jako niepewny („Śmierć to po prostu samotność") okazał się **dokładny**. Ostrożność działała więc w obie strony. Zasada na dalszą pracę pozostaje bez zmian: **cytat bez weryfikacji w wydaniu nie wchodzi do tekstu w cudzysłowie** — może być referowany własnymi słowami, co w kilku miejscach zastosowano.

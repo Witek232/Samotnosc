@@ -27,6 +27,7 @@
 | `00_ANALIZA_PROJEKTU.md` | Diagnoza architektury (merytorycznie aktualna; numeracje rozdziałów wg v1 — przy korzystaniu stosować mapy z `STRUKTURA_V2/V3`) |
 | `01_WERYFIKACJA_LITERATURY.md` | Status twierdzeń kartoteki głównej (Wang 2023, *Spe salvi* 32, WHO 2025…), lista [?] |
 | `02_STYL_PISARSKI.md` | Warstwa stylistyczna: baza Ratzinger ~80% / filary ~15% / akcenty ≤5%; mapa akcentów |
+| `08_LISTA_POZYCJI_DO_POZYSKANIA.md` | **NOWE (2026-09-08):** czego brakuje w bibliotece, w podziale na trzy priorytety; kwerendy możliwe bez zakupów; obsługiwane formaty. Punkt wyjścia: rozdz. 47 potrzebuje Marcela, 29 — Bubera, 48 — Yaloma |
 | `04_PLAN_PISANIA_I_LINIA_RATZINGEROWSKA.md` | **NOWE (v3.2):** kolejność pisania rękopisu (fale I–IV); strategia głosu wiodącego (diagnoza, trzy środki, cztery osie, zakazy); lista źródeł do pozyskania; pięć uwag o jakości całości |
 | `05_KARTOTEKA_RATZINGEROWSKA.md` | **NOWE (v3.2):** cztery osie myślowe książki; cytaty zweryfikowane ✔ (*DCE*, *Spe salvi*); lista R1–R10 do weryfikacji; osiem reguł warsztatowych głosu wiodącego |
 | `06_KARTOTEKA_CYTATOW.md` | **NOWE (v3.2):** rejestr zbiorczy aparatu — statusy ✔ / `[s?]` / `[?]` / `[tł]` / `[atr]`; decyzja przekładu biblijnego; procedura przy pisaniu rozdziału |

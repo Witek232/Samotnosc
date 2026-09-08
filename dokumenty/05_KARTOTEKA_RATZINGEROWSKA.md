@@ -338,6 +338,20 @@ Definicja piekła nie stoi w tekście samotnie: poprzedza ją wywód o **przezwy
 
 ---
 
+## 4i. *Spe salvi* 6 — Ps 23 i „droga całkowitej samotności" ✔ (rozdz. 48, 26, 47)
+
+**Znalezione 2026-09-08 przy sporządzaniu listy pozycji do pozyskania; nieprzewidziane w konspekcie 48.**
+
+> „Prawdziwym pasterzem jest Ten, który zna także drogę, która wiedzie przez dolinę śmierci; Ten, który **nawet na drodze całkowitej samotności, na której nikt nie może mi towarzyszyć, idzie ze mną i prowadzi mnie, abym ją pokonał**. On sam przeszedł tę drogę, zszedł do królestwa śmierci, a zwyciężywszy śmierć, powrócił stamtąd, aby teraz towarzyszyć nam i by dać nam pewność, że razem z Nim można tę drogę odnaleźć."
+
+**Lokalizacja:** Benedykt XVI, *Spe salvi* (2007), **nr 6** — numeracja akapitów stała we wszystkich wydaniach, `vatican.va`, wersja polska. ✔ **zweryfikowane u źródła** — nie wymaga pliku w bibliotece.
+
+**Waga:** konspekt 48 przewidywał Ps 23,4 jako „roboczą linię" i osobno *Spe salvi* 32. Tymczasem **Ratzinger sam już połączył jedno z drugim** — i zrobił to w formule, która jest dokładnie tezą rozdz. 48: droga, na której *nikt nie może towarzyszyć*, a mimo to ktoś idzie. Rozdział nie musi tej syntezy konstruować, ma ją gotową u głosu wiodącego.
+
+**Uwaga warsztatowa:** to jest **oś II** („Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On") w wersji łagodniejszej i biblijnej. Limit osi II — trzy wystąpienia (24, 48, epilog). Jeśli ten fragment wchodzi do 48, **liczy się do limitu**.
+
+---
+
 ## 5. Do weryfikacji — treść znana, brzmienie NIE
 
 **Do czasu sprawdzenia: wyłącznie parafraza, bez cudzysłowu.** Lista jest zarazem listą zadań kwerendy.
@@ -354,6 +368,9 @@ Definicja piekła nie stoi w tekście samotnie: poprzedza ją wywód o **przezwy
 | R8 | *Duch liturgii* | złoty cielec: kult skierowany na siebie → pustka | 35, 36, 44 | **✔ ZAŁATWIONE — § 4e.** Formuły „z «ja» do «my»" **BRAK w tekście** — nie cytować |
 | R9 | *Bóg i świat* (Seewald) | „wiara pozostaje drogą"; ciemność świętych; wyznanie własne | **40**, 31, 5 | **✔ ZAŁATWIONE — § 4f** |
 | R10 | homilia inauguracyjna 2005 / Droga Krzyżowa 2005 | „każdy z nas jest chciany, każdy kochany"; obrazy pustki Kościoła | epilog, 48 | `[?]` — łatwe do sprawdzenia, vatican.va |
+| R11 | *Spe salvi* 6 | Ps 23 + „droga całkowitej samotności, na której nikt nie może mi towarzyszyć" | **48**, 26, 47 | **✔ ZAŁATWIONE — § 4i** (vatican.va, nie wymaga pliku) |
+
+**Pełna lista pozycji do zdobycia (wszyscy autorzy, nie tylko Ratzinger): `dokumenty/08_LISTA_POZYCJI_DO_POZYSKANIA.md`.**
 
 **Zadanie kwerendy nr 1 (po wgraniu plików):**
 ```bash

@@ -1,5 +1,18 @@
 # WERYFIKACJA LITERATURY I DANYCH
 
+## ZASADA OGÓLNA — WYDANIE BIBLII (decyzja autorska 2026-09-08)
+
+**Wszystkie cytaty biblijne w książce: Biblia Tysiąclecia.** Obowiązuje dla całości; nie mieszać przekładów. Przy cytacie podawać skrót księgi, rozdział i werset. Gdy tekst grecki/hebrajski ma znaczenie dla argumentu — zaznaczyć osobno, nie podmieniać przekładu.
+
+## BIBLIOTEKA — PRZYBYŁO 2026-09-08
+
+- **Freud, *Die Zukunft einer Illusion*** (Internationaler Psychoanalytischer Verlag, Wien 1928) — PDF, **realna paginacja** ✔; `biblioteka/inne/freud_zukunft-einer-illusion_de.pdf`. OCR miejscami zepsuty (fraktura: „nidit", „mu-G", „Kolumhus") — cytaty brać z fragmentów czystych i kontrolować na wydaniu angielskim.
+- **Freud, *The Future of an Illusion*** (transl. W. D. Robson-Scott, Hogarth Press, London 1928) — PDF, **realna paginacja**, OCR czysty ✔; `biblioteka/inne/freud_future-of-an-illusion_en.pdf`.
+- **Brak wydania polskiego** obu pozycji → cytaty Freuda mają status **`[tł]`** (przekład własny). Wydanie polskie do ewentualnego uzupełnienia: *Przyszłość pewnego złudzenia*, w: *Pisma społeczne*, przeł. A. Ochocki, KR, Warszawa 1998.
+- Ustalenie merytoryczne z kwerendy (wyd. niem. s. 54–55 / ang. s. 53–55): **Freud nie twierdzi, że religia jest fałszywa.** Definiuje złudzenie jako przekonanie motywowane życzeniem, wprost zastrzegając, że „nie musi być koniecznie fałszywe". O doktrynach religijnych mówi, że „nie dopuszczają dowodu". Teza jest o **niedowodliwości i motywie**, nie o fałszu — ma to znaczenie dla rozdz. 8 i 41.
+
+---
+
 **Zakres:** kluczowe twierdzenia liczbowe i literackie kartoteki (opcja „Dane i fakty")
 **Metoda:** 23 zapytania wyszukiwawcze (PubMed / Nature / WHO / vatikan.va / katalogi bibliograficzne / polskie recenzje), zebrane w `/home/z/my-project/research/`
 **Ocena skali:** [✔] potwierdzone • [~] potwierdzone z poprawką • [+] uzupełnienie warte wplecenia • [?] do sprawdzenia przy redakcji

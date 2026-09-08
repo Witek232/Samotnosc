@@ -22,7 +22,7 @@ Cztery miejsca, w których refren **nie pada** — i każde z powodu merytoryczn
 |---|---|
 | **10 — Człowiek bez historii** | rozdział kontrolny; refren jest głosem autora, a część II ma dyscyplinę „autor milczy". Cisza tutaj jest wykonaniem tej dyscypliny, nie wyjątkiem od niej. |
 | **23 — Czym jest śmierć** | rozdział czystej fenomenologii, tuż przed centrum. Zawieszenie refrenu bezpośrednio przed 24 podnosi jego wagę w 24 o rząd wielkości. |
-| **42 — Nietzsche ma rację** | najostrzejszy ze sprawdzianów. Refren w rozdziale, w którym przeciwnik ma najwięcej racji, brzmiałby jak ucieczka do znajomej formuły. |
+| **42 — Nietzsche ma rację** ✍ napisany 2026-09-08 | najostrzejszy ze sprawdzianów. Refren w rozdziale, w którym przeciwnik ma najwięcej racji, brzmiałby jak ucieczka do znajomej formuły. |
 | **45 — AI: kto odpowiada** | tu pytanie „czy ktoś tam jest?" zadaje **maszyna albo użytkownik maszynie** — refren w swojej zwykłej funkcji byłby zamazany przez ten dwuznacznik. Rozdział ma go **przywołać jako temat, nie wykonać jako refren**. |
 
 Dodatkowo: **rozdz. 11 (Wschód)** — refren nie pada, ale zostaje **zakwestionowany**: tradycje wschodnie pytają, czy istnieje ktoś, kto pyta. To najmocniejszy możliwy użytek z formy. (Zgodne z rozdziałem napisanym i z `STRUKTURA_V3.md` § 3.)
@@ -43,7 +43,11 @@ Wypełniać przy każdym napisanym rozdziale. Cel: żadne dwie odpowiedzi nie mo
 | **37** | „tam, gdzie będziesz najbardziej sam, ktoś może zejść, żeby tam być" | napisany 2026-09-07 |
 | 38 | „Jest — i pokój, do którego uciekasz, jest już zamieszkany" | konspekt |
 | 39 | „Jest — i stoi między mną a moim bliźnim jako to, co nas łączy" | konspekt |
-| 40 | „Samotność nie jest miernikiem obecności" | konspekt |
+| **40** | „Samotność nie jest miernikiem obecności" | napisany 2026-09-08 |
+| **41** | „Wołaj także wtedy, gdy nic z tego nie masz" | napisany 2026-09-08 |
+| **43** | „Jest — i patrzy. I to spojrzenie nie zamienia mnie w rzecz, bo nie potrzebuje mnie do niczego." | napisany 2026-09-08 |
+| **44** | „Nigdy nie było tylu odpowiedzi. I nigdy nie było tak cicho." | napisany 2026-09-08 |
+| **45** | **PRZYWOŁANY, NIEWYKONANY** (§ A2): formuła nie pada jako figura; refren jest przedmiotem opisu — pytanie zadaje człowiek maszynie i dostaje odpowiedź, która go nie zaspokaja. Przekształcony w rozróżnienie: „czy tam ktoś jest — czy coś odpisuje?" | napisany 2026-09-08 |
 | 48 | (finał — do napisania) | — |
 | Epilog | J 11,26, ciche i osobiste | konspekt |
 
@@ -82,7 +86,7 @@ Sceny są najmocniejszą stroną rękopisu — niosą więcej niż argumenty. Gr
 - **dom opieki** → 46 (śmierć w epoce, która nie chce umierać)
 - **transport** → 1 (człowiek w tłumie) — metro, pociąg
 - **szkoła** → 14 (narcyzm) albo 2
-- **więzienie** → 40 (Van Thuân — świadek ze *Spe salvi* 32; **mocne domknięcie: ten sam paragraf, który daje książce jej najważniejszy cytat, daje jej też świadka**)
+- **więzienie** → 40 ✍ NAPISANE 2026-09-08 (Van Thuân — świadek ze *Spe salvi* 32; **mocne domknięcie: ten sam paragraf, który daje książce jej najważniejszy cytat, daje jej też świadka**)
 - **natura** → 6 (Rousseau — przechadzki samotnego marzyciela)
 
 ## B3. Scena Ratzingerowska (środek A z dok. 04)

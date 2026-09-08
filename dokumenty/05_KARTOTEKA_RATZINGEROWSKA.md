@@ -278,6 +278,66 @@ Oraz — do rozdz. 5 i 40 — anegdota Bubera, którą Ratzinger przytacza: ośw
 
 ---
 
+## 4g. *Bóg i świat* — odwrócenie projekcji ✔ (rozdz. 41, 8, 30)
+
+**Odkryte przy pisaniu rozdz. 41 (2026-09-08); nieprzewidziane w konspekcie ani w § 5.**
+
+Ratzinger odpowiada wprost na zarzut Feuerbacha/Freuda — rozdz. „O prawdzie" [s?]:
+
+> „Można zatem powiedzieć, że Pismo Święte koryguje nasze ludzkie doświadczenie ojcostwa, że ustanawia dla niego miarę. **Biblijny wizerunek Boga Ojca nie jest projekcją naszych doświadczeń na niebo, lecz odwrotnie: z nieba dowiadujemy się, kim w istocie jest ojciec** oraz kim mógłby i powinien być także wśród ludzi."
+
+**Wartość:** to nie jest zaprzeczenie zarzutu, lecz **wskazanie sprawdzianu treściowego**. Projekcja powiększa cechy ludzkiego ojca — także złe. Ratzinger podaje w tym samym miejscu gotowy kontrprzykład: **Zeus** — ojciec „kapryśny, nieobliczalny, autokratyczny", władza bez odpowiedzialności. To jest projekcja podręcznikowa. Treść chrześcijańska w kluczowych punktach ludzkiemu ojcostwu **przeczy** (ojciec syna marnotrawnego przebacza bezwarunkowo; Bóg umiera; centrum religii to egzekucja) — a więc hipoteza spełnienia życzenia nie pokrywa danych.
+
+**Bonus:** dyskusja z **Erichem Frommem** (miłość matczyna bezwarunkowa / ojcowska warunkowa). Ratzinger zaznacza, że koncepcji Fromma „dotychczas nie znał", uznaje ją za „interesującą i godną uwagi", ale nie zgadza się w całości. Drugie po § 4f miejsce, gdzie dyskutuje z Frommem — do rozdz. 8, 15, 30.
+
+**Status:** ✔ ZAŁATWIONE dla rozdz. 41. Wykorzystane w `rozdzialy/41_freud_ma_racje_i_nie_ma_racji.md`, przyp. 1.
+
+---
+
+### Uzupełnienie 2026-09-08 (z kwerendy do rozdz. 42)
+
+**Referat zarzutu o resentymencie** — *Bóg i świat*, rozdz. „O człowieku" [s?]: Ratzinger streszcza Nietzschego bez łagodzenia („religia ludzi pokrzywdzonych, którzy teraz biorą zemstę… filozofia niewolników") i dokłada ciąg dalszy: Kościół „najpierw wmawiając mu grzech, a potem przedstawiając się jako instancja rozgrzeszająca". Do rozdz. 7 i 42. ✔
+
+**Ratzinger cytuje Nietzschego afirmatywnie — dwukrotnie:**
+- *Eschatologia* (przeł. Węcławski) [s?]: „podstawowe doświadczenie człowieka, które Nietzsche ujął w słowa: »Każda rozkosz pragnie wieczności, głębokiej, głębokiej wieczności«" — użyte jako **przesłanka pozytywna** dowodu o pragnieniu nieśmiertelności.
+- *Wprowadzenie w chrześcijaństwo*, cz. I [s?]: wariant tego samego motywu („każda przyjemność domaga się wiecznego trwania, a jest tylko chwilą").
+
+**Waga:** to **piąty** udokumentowany przypadek reguły wzmacniania przeciwnika wykonanej przez samego Ratzingera (po Nietzschem § 4.10, Sartrze/Hessem § 4.7, Pieperze § 4b, Frommie § 4f) — i **jedyny, w którym przeciwnik dostarcza przesłanki pozytywnej**, a nie tylko trafnej diagnozy. Uwaga: **dwa różne przekłady tego samego zdania Nietzschego** u tego samego autora — przy redakcji ujednolicić.
+
+---
+
+## 4h. *Wprowadzenie w chrześcijaństwo* — definicja piekła i Sartre ✔ (rozdz. 43, 9, 24)
+
+**Odkryte przy pisaniu rozdz. 43 (2026-09-08); nieprzewidziane w konspekcie ani w § 5.**
+
+Cz. II, rozdz. o zstąpieniu do piekieł [s?]:
+
+> „Gdyby istniała taka samotność, do której nie przenikałoby żadne słowo, gdyby powstało tak głębokie opuszczenie, że nikt by do niego nie dotarł, wtedy mielibyśmy istotnie całkowitą samotność i lęk, który teologowie nazywają »piekłem«. Możemy teraz dokładnie zdefiniować, co ten wyraz oznacza: **oznacza on samotność, której nie dosięga słowo miłości** i która przez to jest zagrożeniem całej egzystencji."
+
+Kilka zdań dalej — **wprost o Sartrze**: „Sartre — jak wiadomo — zbudował swą antropologię na podstawie tego wyobrażenia." Obok: **Hermann Hesse**, *Im Nebel* („Nikt nie zna drugiego, / Własną samotność musi nieść!") oraz ciąg: „Stary Testament ma tylko jedno słowo na wyrażenie piekła i śmierci, wyraz szeol… **Śmierć to po prostu samotność.** Ale taka samotność, do której nie może przedostać się miłość, to piekło."
+
+**Waga (rozstrzyga rozdz. 43):** głos wiodący **sam sformułował odpowiedź na Sartre'a, i to na tym samym pojęciu, którego użył przeciwnik**. Spór przesuwa się z „czy piekło istnieje" (obaj: tak) na „czy jest jedynym pomieszczeniem". Rozdział 43 nie musi konstruować odpowiedzi — ma ją gotową.
+
+**Ostrzeżenie:** kontynuacja fragmentu („Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On") należy do **osi II** — limit trzech wystąpień (24, 48, epilog). W rozdz. 43 **celowo nieużyta**.
+
+**Status:** ✔ ZAŁATWIONE dla rozdz. 43. Wykorzystane w `rozdzialy/43_sartre_ma_racje_i_nie_ma_racji.md`, przyp. 2–3.
+
+### Uzupełnienie 2026-09-08 (z kwerendy do rozdz. 45) — akapit BEZPOŚREDNIO POPRZEDZAJĄCY, **s. 245–246** ✔
+
+Definicja piekła nie stoi w tekście samotnie: poprzedza ją wywód o **przezwyciężaniu lęku**, który dla części VIII jest cenniejszy niż sama definicja. Kolejność u Ratzingera:
+
+> „Dziecko uspokoi się, gdy mu ktoś poda rękę, która je poprowadzi, gdy usłyszy głos, który do niego przemawia, to znaczy, z chwilą gdy pozna, że **jest przy nim ktoś życzliwy**. Podobnie i ten kto czuwa przy zmarłym, odczuje, że znika jego lęk, gdy ktoś przy nim będzie, gdy odczuje czyjąś bliskość. W tym opanowaniu lęku przejawia się zarazem jego istota: **jest to lęk przed samotnością, jest to trwoga istoty, która może żyć tylko we współ-bycie. Prawdziwego lęku człowieka nie może opanować rozum, może to sprawić tylko obecność kogoś kochającego.**"
+
+**Lokalizacja:** `biblioteka/_tekst/ratzinger_wprowadzenie-w-chrzescijanstwo_pl.txt`, w. 3386; znacznik `[[s.246]]` pada w akapicie następnym, stąd **s. 245–246** (granica strony niepewna co do jednej). ✔ brzmienie zweryfikowane w tekście wydania.
+
+**Waga — dlaczego to jest przesłanka, nie ozdoba (rozdz. 45, AI):** Ratzinger **sam odrzuca właściwą odpowiedź jako lekarstwo na lęk**. Nie „argument", nie „rozum", nie perswazja — tylko obecność kogoś. Napisane pół wieku przed maszyną, która potrafi udzielić odpowiedzi lepszej niż człowiek, a obecności nie ma żadnej. To jedyne w kartotece zdanie, które **rozstrzyga sprawę AI, nie mówiąc o AI** — dokładnie w trybie wymaganym przez dok. 04 § 3 (teza Ratzingera jako przesłanka rozumowania, nie jako cytat-ozdoba).
+
+**Dodatkowo:** pojęcie **„współ-bycie"** (istota, która może żyć tylko we współ-byciu) to najkrótsza formuła osi III w całym korpusie. Kandydat do rozdz. 27–28 i do epilogu. **Do rozważenia przy przepisywaniu części V.**
+
+**Wykorzystane:** rozdz. 45, przyp. 3.
+
+---
+
 ## 5. Do weryfikacji — treść znana, brzmienie NIE
 
 **Do czasu sprawdzenia: wyłącznie parafraza, bez cudzysłowu.** Lista jest zarazem listą zadań kwerendy.

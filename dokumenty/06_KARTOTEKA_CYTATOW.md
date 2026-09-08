@@ -34,11 +34,11 @@ Kolumna „rozdz." = docelowe miejsce użycia. Sortowanie: wg autora.
 
 | Autor / dzieło | Lokalizacja | Treść (skrót) | Rozdz. | Data sprawdz. |
 |---|---|---|---|---|
-| Benedykt XVI, *Spe salvi* | § 32 | „Jeśli nikt mnie już więcej nie słucha, Bóg mnie jeszcze słucha…" | 26, 40, 47 | 2026-09-07 |
+| Benedykt XVI, *Spe salvi* | § 32 | „Jeśli nikt mnie już więcej nie słucha, Bóg mnie jeszcze słucha…" | 26, **40 ✍**, 47 | 2026-09-07 |
 | Benedykt XVI, *Spe salvi* | § 32 | „modlący się nigdy nie jest całkowicie samotny" | 26, 40 | 2026-09-07 |
 | Benedykt XVI, *Spe salvi* | § 27 | „życie… jest relacją" | 28, 32, 49 | 2026-09-07 |
 | Benedykt XVI, *Spe salvi* | § 26 | „To nie nauka odkupuje człowieka…" | 15, 22, 46 | 2026-09-07 |
-| Benedykt XVI, *Deus caritas est* | **§ 28b** | „Zawsze będzie samotność." | 37 ✍, 40 | 2026-09-07 |
+| Benedykt XVI, *Deus caritas est* | **§ 28b** | „Zawsze będzie samotność." | 37 ✍, 40 ✍ | 2026-09-07 |
 | Benedykt XVI, *DCE* | § 29 | *opus proprium*; „zawsze będzie potrzebował miłości" | 37 ✍ | 2026-09-07 |
 | Benedykt XVI, *DCE* | § 25a, 28a, 31a–c | (komplet — patrz `05_KARTOTEKA` § 4.6) | 35–37 | 2026-09-07 |
 

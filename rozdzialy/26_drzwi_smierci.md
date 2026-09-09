@@ -123,7 +123,29 @@ Jeśli relacja przetrwa, musi istnieć coś, co ją gwarantuje — nie nastrój,
 
 ¹ Benedykt XVI, *Spe salvi* (2007), **§ 32**. ✔ **Ponownie zweryfikowane 2026-09-09** bezpośrednio na `vatican.va` (tekst polski) — cytat zgadza się **co do słowa**, łącznie z interpunkcją. Kontekst potwierdza też lokalizację: § 32 otwiera sekcję *«Miejsca» uczenia się i ćwiczenia w nadziei*, podsekcję **I. Modlitwa jako szkoła nadziei** — czyli rozdziałowe „modlitwa jest szkołą, nie asystą" jest **tytułem Benedykta**, nie naszą interpretacją. Strony wyd. polskiego [?] (nieistotne — numeracja paragrafów jest standardem cytowania encyklik).
 
-² Odczytanie śmierci Chrystusa jako przejścia. W tekście głównym **referat, nie cytat** — i tak zostaje. Odesłanie do *Wprowadzenia w chrześcijaństwo* pozostaje ogólne, bez numeru strony [?]; teza jest w tym rozdziale niesporna i nie wymaga cytatu, a właściwa robota źródłowa nad przejściem została wykonana w rozdz. 24.
+² Odczytanie śmierci Chrystusa jako przejścia. J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, rozdział o zstąpieniu do piekieł, **s. 246–247** (egzemplarz projektu: `biblioteka/_tekst/ratzinger_wprowadzenie-w-chrzescijanstwo_pl.txt`; strony ustalone ze znaczników w pliku).
+
+✔ **`[?]` ZDJĘTE 2026-09-09 — i to jest znacznie więcej niż uzupełnienie numeru strony.** Przypis zakładał, że teza jest „niesporna i nie wymaga cytatu". Okazuje się, że Ratzinger stawia w tym miejscu **dokładnie ten obraz, na którym stoi cały rozdział**, łącznie ze słowem „drzwi" i ze związkiem śmierci z samotnością — czyli z tezą całej książki. Brzmienia dosłowne:
+
+> „istnieje noc, opuszczenie, gdzie nic nie dociera; **istnieją drzwi, przez które tylko samotnie przejść możemy: brama śmierci**. Wszelka trwoga na świecie jest ostatecznie tylko trwogą przed ową samotnością." (s. 246)
+
+> „**Śmierć to po prostu samotność. Ale taka samotność, do której nie może przedostać się miłość, to piekło.**" (s. 246)
+
+> „Chrystus **przeszedł przez bramę naszej ostatecznej samotności**, … zstąpił w otchłań naszego opuszczenia. **Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On.**" (s. 247)
+
+> „**Umieranie nie jest już przejściem do lodowatej samotności, bo brama Szeolu została otwarta.**" (s. 247)
+
+> „**Brama śmierci stoi otwarta, odkąd w śmierci zamieszkało życie: miłość.**" (s. 247)
+
+**Konsekwencje redakcyjne — trzy, wszystkie na korzyść rozdziału.**
+
+1. **Refren „Tu jestem" ma u Ratzingera dokładny odpowiednik:** „Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On". To zdanie powinno wejść do ruchu końcowego — jest mocniejsze niż cokolwiek, co napisaliśmy sami, a przy tym oddaje ostatnie słowo linii Ratzingerowskiej, zgodnie z pkt. 3 planu.
+
+2. **Zdanie „Śmierć to po prostu samotność" jest tezą całej książki wypowiedzianą przez Ratzingera.** Warto rozważyć je jako **epigraf części V albo motto całości** — nie tylko tego rozdziału. Do decyzji przy składzie.
+
+3. **Uwaga o granicy:** Ratzinger natychmiast dopowiada klauzulę anty-apokatastatyczną („tylko dobrowolne zamknięcie się jest teraz piekłem"). **Cytując pierwsze zdania, nie wolno pominąć tego zastrzeżenia** — inaczej rozdział zacznie sugerować powszechność zbawienia, czego ta książka nie twierdzi (zob. rozdz. 24, przyp. o tej samej klauzuli).
+
+**Limit cytatów:** rozdział ma już dwa miejsca cytowane (*Spe salvi* § 32). Wprowadzenie Ratzingera wymaga więc **decyzji, nie dopisania** — rekomendacja: zostawić jedno zdanie („Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On") i zredukować drugie użycie *Spe salvi* do referatu.
 
 ³ G. Marcel, *Być i mieć* (1935) — rozróżnienie problemu i tajemnicy. **Lokalizacja: s. 170–171 wydania z 2001 r.** (zob. sprostowanie niżej — NIE jest to paginacja PAX 1986).
 

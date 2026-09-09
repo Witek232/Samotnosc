@@ -40,6 +40,37 @@ Ratzinger: *Wprowadzenie w chrześcijaństwo*, *Eschatologia*, *Jezus z Nazaretu
 **(5) Wieczne „Ty".** Koniec części trzeciej: każde pojedyncze „ty" jest **prześwitem** ku wiecznemu „Ty"; Boga nie da się uczynić „Ono".
 > *Do czego:* most z filozofii do teologii — miejsce, w którym rozdz. 29 przechodzi w 31.
 
+### Uzupełnienie 2026-09-09 — numery stron i triage wiarygodności
+
+Autor dostarczył zestawienie fragmentów z numerami stron wyd. PAX 1992 (przeł. J. Doktór), oparte na opracowaniach cytujących to wydanie (m.in. ZPE) — **nie na autopsji egzemplarza**. Poniżej podział na to, co można wykorzystać od razu, i to, co nadal wymaga zdjęcia strony.
+
+**Zasada rozstrzygająca:** opracowanie cytujące wydanie **nie zastępuje wydania**. Dowód w tej właśnie sprawie: dla najsłynniejszego zdania Bubera trzy niezależne źródła podają trzy różne brzmienia, wszystkie z adresem „Doktór, PAX 1992". Co najmniej dwa cytują więc z pamięci.
+
+| # | Treść | Strona (wg opracowań) | Status |
+|---|---|---|---|
+| 1 | Dwa słowa podstawowe; „dwojakie jest także Ja człowieka" | 39–40 | 🟢 referować |
+| 2 | „prawdziwe życie jest spotkaniem" | 44–45 | 🔴 **brzmienie nadal sporne** |
+| 3 | Ty nie jest sumą cech; opis czyni z Ty — Ono | 43–48 | 🟢 referować |
+| 4 | „Każdy środek jest przeszkodą"; spotkanie nie jest techniką | 45 | 🟡 cytat po zdjęciu |
+| 5 | „Na początku jest relacja" | 49 | 🟡 cytat po zdjęciu |
+| 6 | „Człowiek staje się Ja w kontakcie z Ty" | 56 | 🟡 cytat po zdjęciu |
+| 7 | Wzajemność dawania | 59 | 🟢 referować |
+| 8 | „Przedłużone linie relacji przecinają się w wiecznym Ty"; każde Ty jest **prześwitem ku niemu** | 85 | 🟡 cytat po zdjęciu; **sformułowanie „ku" przyjęte już teraz** |
+| 9 | Bóg z istoty nie może stać się Ono; mówić **o** Bogu vs **do** Niego | 85–86 | 🟢 referować — **most 29 → 31** |
+| 10 | „relacja do człowieka jest właściwym obrazem relacji do Boga" | 104 | 🟡 cytat po zdjęciu; referat 🟢 — **rozdz. 31** |
+
+**Odrzucone:** „Odkrycie Ja przez Ty…" — urwana fraza z wielokropkiem, nie zdanie. Nie nadaje się na cytat w żadnej postaci.
+
+**Wariant nr 2 — stan sporu.** Znane brzmienia: „Wszelkie prawdziwe życie jest spotkaniem", „Całe prawdziwe życie…", „Każde prawdziwe życie…" (to ostatnie dodane 2026-09-09), oraz zniekształcone „Wszystkie prawdziwe życie…" z rękopisu v2 (odrzucone jako niegramatyczne). Niemiecki oryginał: *„Alles wirkliche Leben ist Begegnung"* — dopuszcza pierwsze trzy. **Do rozstrzygnięcia wyłącznie fotografią s. 44–45.**
+
+### Zaktualizowana lista stron do sfotografowania
+
+Wersja minimalna (6 zdjęć): **s. 39–40**, **43–45**, **48–50**, **56–60**, **85–86**, **101–104**.
+
+Do tego proponuję dwa dodatkowe, spoza listy autora:
+- **s. 41–42** — przejście od dwóch słów do tezy, że „Ja" nie jest w obu parach to samo. Rozdz. 29 opiera na tym cały ruch II, a dziś ma to wyłącznie z drugiej ręki.
+- **s. 46–47** — pomiędzy „środkami" a „na początku jest relacja"; tam Buber uzasadnia, dlaczego Ty nie jest sumą cech. To materiał wprost pod argument o AI w rozdz. 45 („doskonały opis osoby nie jest spotkaniem z osobą").
+
 ---
 
 ## A2. Gabriel Marcel — **pozycja nr 2**

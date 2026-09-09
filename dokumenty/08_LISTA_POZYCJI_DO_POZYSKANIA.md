@@ -390,20 +390,54 @@ Cytując tą drogą, **podać jawnie „cyt. za"** — to warunek rzetelności, 
 > ⚠️ **„Piekło to inni" pochodzi z dramatu *Przy drzwiach zamkniętych*, nie z *Bytu i nicości*** — jeśli cytować, to z dramatu (wyd. PIW, przeł. J. Lisowski).
 > *Do czego:* rozdz. 43 napisany **bez ani jednego cytatu z Sartre'a**, co przy rozdziale o Sartrze jest wadą. Rozdz. 9 również.
 
-## B4. Sherry Turkle, *Samotni razem*
+## B4. Sherry Turkle, *Alone Together* / *Samotni razem* — ✅ **ZAMKNIĘTA 2026-09-09: PEŁNY SKAN ORYGINAŁU**
 
-**Wydanie:** przeł. M. Cierpisz, Wyd. UJ, Kraków 2013. Tytuł oryg. *Alone Together*.
+**Wyd. polskie:** przeł. M. Cierpisz, Wyd. UJ, Kraków 2013. **Oryginał:** *Alone Together: Why We Expect More from Technology and Less from Each Other*, New York: Basic Books, 2011.
 
-**Struktura książki — dwie części, i to one wyznaczają, gdzie czego szukać:**
-- **Część I: „Ruch robotyczny: w samotności nowe intymności"** — roboty społeczne, Tamagotchi, Furby, Paro, badania w domach opieki. **Tu leży „efekt ELIZY"** — Turkle wprowadza go, omawiając program ELIZA Josepha Weizenbauma i skłonność ludzi do przypisywania mu rozumienia. **Do rozdz. 44.**
-- **Część II: „W intymności nowe samotności"** — sieć, nastolatki, SMS-y zamiast rozmów telefonicznych, kontrola nad dystansem. **Do rozdz. 45.**
+**Pełny skan wydania oryginalnego (2011), zweryfikowany przeze mnie osobiście:**
+`https://www.mediastudies.asia/wp-content/uploads/2017/02/Sherry_Turkle_Alone_Together.pdf`
+Pobrać i przeszukiwać lokalnie (curl + pdfminer). **Paginacja skanu = paginacja wydania Basic Books 2011.**
 
-**Formuła tytułowa** („oczekujemy więcej od techniki, a mniej od siebie nawzajem") jest w **podtytule polskiego wydania** — to najłatwiejszy do zweryfikowania element, bo widnieje na okładce i w każdym katalogu bibliotecznym.
+**Skorowidz książki podaje dla hasła „ELIZA effect": s. 24, 25, 127, 131, 282.** To jest paginacja z samej książki, nie z cudzego opracowania.
 
-**Darmowe obejście, częściowe:** wykład TED Turkle *Connected, but alone?* ma **oficjalny polski przekład transkrypcji** (`ted.com/talks/sherry_turkle_connected_but_alone/transcript?language=pl`). Zawiera m.in. **„efekt Złotowłosej"** — „nie za blisko, nie za daleko, w sam raz" — czyli tezę o kontrolowanym dystansie, będącą sednem rozdz. 45. **To pozwala cytować Turkle po polsku, legalnie i za darmo**, z przypisem na wykład zamiast na książkę.
-⚠️ Ale **„efektu ELIZY" w wykładzie nie ma** — ten termin wymaga książki albo osobnego źródła.
+### Fragment 1 — definicja „efektu ELIZY", **s. 24** (rozdz. 1 *Nearest Neighbors*)
 
-> *Do czego:* rozdz. 44 i 45 cytują ją **z przekładu własnego z angielskiego**; wydanie polskie (albo transkrypcja TED) usunęłoby dwa `[tł]` i jedno `[?]`.
+Brzmienie dosłowne, odczytane ze skanu 2026-09-09:
+
+> „Weizenbaum was disturbed that his students were in some way duped by the program… **But his worldly students were not deceived. They knew all about ELIZA's limitations, but they were eager to «fill in the blanks.» I came to think of this human complicity in a digital fantasy as the «ELIZA effect.»**"
+
+I zdanie, które jest właściwą puentą (ta sama strona):
+
+> „At the robotic moment, more than ever, **our willingness to engage with the inanimate does not depend on being deceived but on wanting to fill in the blanks**."
+
+Wcześniej, tamże, o trybie „as if": „they engaged in personal conversations with ELIZA, but in a spirit of «as if». **They spoke as if someone were listening but knew they were their own audience**… many more used this same inside knowledge to feed ELIZA responses that would make it seem more lifelike. **They were active in keeping the program in play**."
+
+### Fragment 2 — **s. 25**: „nie roboty są gotowe, tylko my"
+
+> „And true to the ELIZA effect, **this is not so much because the robots are ready but because we are**."
+
+### Fragment 3 — ⭐ **„GŁĘBSZY EFEKT ELIZY", s. 282 (Zakończenie) — MOCNIEJSZY NIŻ s. 24**
+
+To znalezisko wykracza poza to, co było w rozpoznaniu, i **moim zdaniem to ono powinno być tezą rozdz. 45**, a nie sama definicja ze s. 24:
+
+> „ELIZA's popularity revealed more than people's willingness to talk to machines; **it revealed their reluctance to talk to other people**. The idea of an attentive machine provides the fantasy that we may escape from each other… These disappointments begin to make **a machine's performance of caring seem like caring enough**… **This is the deeper «ELIZA effect.» Trust in ELIZA does not speak to what we think ELIZA will understand but to our lack of trust in the people who might understand.**"
+
+Tamże, tuż wyżej — zdanie wprost o granicy między „coś" a „ktoś":
+
+> „We know what the robot cannot feel: it cannot feel human empathy or the flow of human connection. Indeed, **the robot can feel nothing at all. Do we care? Or does the performance of feeling now suffice?**"
+
+**Dlaczego to jest ważniejsze:** s. 24 mówi o *złudzeniu*. S. 282 mówi, że złudzenie jest **objawem** — nieufności wobec ludzi. To przenosi rozdz. 45 z krytyki techniki na diagnozę samotności, czyli dokładnie na oś książki.
+
+### Łańcuch pojęciowy do rozdz. 45 (Spaemann → Buber → Turkle)
+
+Spaemann: **ktoś ≠ coś** → Buber: **Ty ≠ Ono** → Turkle: człowiek potrafi przeżywać **Ono jako Ty**, i to nie dlatego, że został oszukany, lecz dlatego, że **sam dopełnia brakujące znaczenie**. AI = „doskonałe Ono, które mówi".
+⚠️ Ten łańcuch jest **naszą konstrukcją**, nie tezą Turkle. W tekście nie wolno sugerować, że Turkle powołuje się na Bubera czy Spaemanna. Ona dostarcza wyłącznie materiału empirycznego.
+
+⚠️ **Cytując po polsku:** powyższe brzmienia są **angielskie**. Albo tłumaczyć samemu z adnotacją `[tł. wł.]`, albo sprawdzić s. 24/25/282 w wydaniu UJ 2013 (paginacja polska **będzie inna**). Nie podawać stron wydania polskiego, dopóki nie sprawdzone.
+
+**Podział książki** (przydatny przy szukaniu w wydaniu polskim): cz. I *The Robotic Moment: In Solitude, New Intimacies* → rozdz. 44; cz. II *Networked: In Intimacy, New Solitudes* → rozdz. 45.
+
+**Darmowe obejście po polsku:** oficjalna polska transkrypcja wykładu TED *Connected, but alone?* (`ted.com/talks/sherry_turkle_connected_but_alone/transcript?language=pl`) — zawiera „efekt Złotowłosej" („nie za blisko, nie za daleko, w sam raz"). ⚠️ Ale **„efektu ELIZY" w wykładzie nie ma** — na to trzeba książki albo tłumaczenia własnego ze skanu.
 
 ## B5. Dietrich Bonhoeffer — ⚠️ **UWAGA: TYTUŁ POLSKI JEST INNY, NIŻ MIELIŚMY ZAPISANY**
 
@@ -420,13 +454,32 @@ Cytując tą drogą, **podać jawnie „cyt. za"** — to warunek rzetelności, 
 
 *Rozbudowane 2026-09-09: zamiast samych tytułów — konkretne rozdziały, strony i darmowe drogi dojścia.*
 
-## C1. Josef Pieper, *Śmierć i nieśmiertelność* — ⚠️ **wydanie polskie jest emigracyjne**
+## C1. Josef Pieper, *Śmierć i nieśmiertelność* — **wydanie emigracyjne, strony częściowo zweryfikowane**
 
-Tytuł oryg. *Tod und Unsterblichkeit* (1968). **Przekład polski: Anna Morawska, Éditions du Dialogue (Paryż), 1970 i 1979.** To wydawnictwo paryskiej emigracji, nie krajowe — dlatego książki **nie ma w typowej bibliotece miejskiej**. Szukać: biblioteki uniwersyteckie i KUL/PAT, katalog NUKAT, antykwariaty z drukami emigracyjnymi.
+**Dane wydawnicze (2026-09-09):** tłum. **Anna Morawska**, Paryż: **Éditions du Dialogue**, **1970**, 131 s., seria „Znaki Czasu" t. 15. Oryginał: *Tod und Unsterblichkeit*, München: Kösel, 1968.
 
-**Czego szukamy:** rozróżnienia śmierci jako zdarzenia biologicznego i jako aktu osoby oraz krytyki nowożytnego wypierania śmierci. **Do rozdz. 46 i 47.**
+⚠️ **Jako punkt bazowy przyjmujemy wydanie Paryż 1970** — to ono jest cytowane w literaturze naukowej i to do jego paginacji odnoszą się poniższe strony. Krążą też wzmianki o edycjach **1979** i **1982** (ten sam przekład, ta sama objętość 131 s.), ale **nie mieszać paginacji między edycjami** — dopóki nie ma egzemplarza w ręku, w przypisie pisać „Paryż 1970".
 
-**Obejście bez zdobywania książki:** Ratzinger powołuje się na Piepera w *Eschatologii* — **można cytować Ratzingera cytującego Piepera**, co jest zgodne z linią książki i nie wymaga dostępu do oryginału. To jest zalecana droga.
+⚠️ To wydawnictwo emigracyjne, więc **w bibliotece miejskiej go nie będzie**. Szukać: biblioteki uniwersyteckie (UKSW, KUL), NUKAT, antykwariaty z drukami emigracyjnymi.
+
+### Strony ZWERYFIKOWANE u źródła (sprawdziłem sam przypisy w tekstach naukowych)
+
+| Strona | Treść | Gdzie zweryfikowana |
+|---|---|---|
+| **s. 41** | „**kto nazywa śmierć oswobodzeniem duszy z więzienia ciała, ten z góry zakłada, że jej zamknięcie w ciele jest nieszczęściem**" — Pieper odrzuca prosty schemat platoński (ciało = więzienie, śmierć = wyzwolenie) | ien.pl, „Koncepcje zbawienia i potępienia…", przypis z pełnym adresem |
+| **s. 46** | czy śmierć jest „naturalna" — tzn. dana wraz z naturą człowieka, zgodna z nią i tożsama z tym, czego natura „pragnie"; Pieper kwestionuje wniosek ze Schillerowskiego „śmierć nie może być złem, bo jest powszechna" | J. Grzybowski, *Platońska lekcja śmierci*, „Kwartalnik Filozoficzny" XL (2012) z. 2, s. 86, przyp. 4 — **odczytane osobiście** |
+
+Tamże (Grzybowski) Pieper jest przywoływany przy ***status viatoris***: określenie ma „melodramatyczny wydźwięk", ale w rzeczywistości **nie zawiera nic sentymentalnego ani nawet religijnego** — oznacza, że póki człowiek egzystuje „tutaj", cechuje go wewnętrzna, ontologiczna niegotowość. **To jest pomost do *O nadziei* i do Marcelowskiego *homo viator*.**
+
+### Strony NIEZWERYFIKOWANE — nie wpisywać do przypisów
+
+**s. 20, 45, 48 i — mimo że jest najciekawsza — s. 98** (śmierć jako „ostatnie posunięcie człowieka", akt osobowego oddania się Bogu, dopełnienie *status viatoris*). Krążą one w opracowaniach (m.in. z odesłaniem do Z. Zdybickiej), ale **nie udało mi się dotrzeć do przypisu źródłowego i zobaczyć go na własne oczy**.
+
+⚠️ Obowiązuje reguła, która uratowała nas już przy Spaemannie: **nie wpisujemy stron podanych za cudzym opracowaniem**. Treść ze s. 98 wolno referować **opisowo, bez numeru strony i bez cudzysłowu**, dopóki nie zobaczymy egzemplarza.
+
+### Zalecana droga dla rozdz. 46–47
+
+**Cytować Piepera za Ratzingerem**, który referuje go w *Eschatologii* — to zgodne z linią książki i nie wymaga zdobywania druku emigracyjnego. Konstrukcja, którą to daje: śmierć nie jest tylko ustaniem funkcji organizmu (s. 41, 46) → człowiek pozostaje *status viatoris* → śmierć jako akt osoby [**opisowo, bez s. 98**] → *O nadziei*: *desperatio* i *praesumptio* jako dwie przedwczesne odpowiedzi → Marcel, *homo viator*.
 
 ## C2. Philippe Ariès, *Człowiek i śmierć* — **mamy dokładną paginację, nawet bez egzemplarza**
 
@@ -530,7 +583,7 @@ Przegląd zamykający: dla każdej pozycji z tabeli podanej przez autora ustalon
 |---|---|---|
 | **Sartre**, *Byt i nicość* / *Przy drzwiach zamkniętych* | ✔ **zamknięta** | M. Błaszczyk, *Człowiek według Jeana-Paula Sartre'a*, „Przegląd Filozoficzny — NS" 28 (2019) nr 2, DOI 10.24425/pfns.2019.128376 — PAN, wolny dostęp przez CEJSH. Paginacja cudzych cytatów, teza o samotności jako danej podstawowej, formuła Szydłowskiej. Wpisane do rozdz. 43 przyp. ⁴. |
 | **Bauman**, *Śmierć i nieśmiertelność* | ✔ **zamknięta, z korektą** | Dwa artykuły z „Kultury i Społeczeństwa" (IFiS PAN, otwarty dostęp): E. Tarkowska o detemporalizacji oraz Ł. Musielak, *Człowiek wobec śmierci*. Ujawniły, że wcześniejsza teza rozdz. 46 była **błędna** — poprawiona. |
-| **Pieper**, *Tod und Unsterblichkeit* | ✔ obsłużona pośrednio | Ratzinger, *Eschatologia*, referuje Piepera wiernie i z aprobatą; cytujemy **za Ratzingerem, jawnie**. Dane wydawnicze potwierdzone (Kösel 1968, 208 s.). Samej książki nie zdobywamy — nie ma przekładu polskiego. |
+| **Pieper**, *Śmierć i nieśmiertelność* | ✔ **wzmocniona 2026-09-09** | Ustalono wyd. polskie (przeł. A. Morawska, Paryż: Éditions du Dialogue, **1970**, 131 s.) i **zweryfikowano dwie strony u źródła: s. 41 i s. 46**. Pozostałe krążące strony (20, 45, 48, **98**) — **niezweryfikowane, nie wpisywać**. Nadal zalecane cytowanie za Ratzingerem. Szczegóły w § C1. |
 | **Heschel**, *Bóg szukający człowieka* | ✔ **materiał zdobyty** | opoka.org.pl udostępnia legalnie **cały rozdział II** („Drogi do Jego obecności", Esprit 2008). Wystarcza na nowy rozdz. 30 — na parafrazach. **Bez paginacji** (tekst WWW): przy cytacie `[s?]`. |
 | **Becker**, *Zaprzeczanie śmierci* | ✔ bez zmian | Referat opisowy w rozdz. 46 działa; Becker jest tam echem, nie głosem wiodącym. |
 | **Heidegger / Jaspers** | ✔ decyzja podtrzymana | Świadomie po jednej linii każdy. Referat wystarcza. **Nie kupować** — koszt nieproporcjonalny do jednego zdania. |

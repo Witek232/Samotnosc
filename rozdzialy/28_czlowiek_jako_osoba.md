@@ -81,7 +81,7 @@ Odpowiedź na refren będzie miała kształt gramatyki. Gramatyka, o którą cho
 
 ⁴ J. Maritain, *La personne et le bien commun* (1947); wyd. pol. *Osoba i dobro wspólne* — wyd. i strony [?].
 
-⁵ K. Wojtyła, *Osoba i czyn* (1969; wyd. II KUL 2000): „struktura transcendencji”; wyd. i strony [?].
+⁵ K. Wojtyła, *Osoba i czyn*, w: *Osoba i czyn oraz inne studia antropologiczne*, TN KUL, Lublin 1994³ (kolejne wyd. 2000, 2019/2020). **Weryfikacja 2026-09-09** w *Powszechnej Encyklopedii Filozofii* (PTTA, hasło „Wojtyła Karol"), cytującej to wydanie z paginacją. Potwierdzone: metoda jako „studium czynu, który ujawnia osobę: studium osoby przez czyn" (s. 59); „W czynach zawiera się sprawczość, sprawczość uwydatnia konkretne »ja« jako świadomą siebie przyczynę działania. I to jest właśnie osoba" (s. 127); samostanowienie — osoba jest „tym, kto siebie samego posiada, i zarazem tym, kto jest posiadany tylko i wyłącznie przez siebie" (s. 152). Termin **transcendencja osoby w czynie** jest Wojtyłowy i potwierdzony. W tekście głównym **referowane, nie cytowane**; źródło wtórne recenzowane — do potwierdzenia z egzemplarzem przy korekcie.
 
 ⁶ J. Ratzinger, „Uwagi o pojęciu osoby w teologii”, *Communio* (1990); wyd. pol. [?] — pomost do rozdz. 35.
 

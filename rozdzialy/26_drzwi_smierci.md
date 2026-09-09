@@ -123,7 +123,7 @@ Jeśli relacja przetrwa, musi istnieć coś, co ją gwarantuje — nie nastrój,
 
 ⁴ M. Buber, *Ja i Ty. Wybór pism filozoficznych*, przeł. J. Doktór, IW PAX, Warszawa 1992, s. 44–45. **Weryfikacja 2026-09-09:** brzmienie potwierdzone w skanie tego wydania — „Każde prawdziwe życie jest spotkaniem". Wcześniejsze zastrzeżenie o trzech spornych wariantach **nieaktualne**; zdanie jest cytowane, nie referowane. Pełna nota — rozdz. 29, przyp. ¹.
 
-⁵ K. Wojtyła, *Osoba i czyn* (1969): parafraza — osoba jako struktura transcendencji [?].
+⁵ K. Wojtyła, *Osoba i czyn*, w: *Osoba i czyn oraz inne studia antropologiczne*, TN KUL, Lublin 1994³. Parafraza: **transcendencja osoby w czynie** — termin Wojtyłowy, potwierdzony 2026-09-09 za *Powszechną Encyklopedią Filozofii* (PTTA). Pełna nota — rozdz. 28, przyp. ⁵.
 
 ⁶ J. Ratzinger, „Uwagi o pojęciu osoby w teologii”, „Communio” 13 (1990) nr 1: osoba jako relacja; numeracja stron [?] — `01_WERYFIKACJA_LITERATURY.md` § 3.
 

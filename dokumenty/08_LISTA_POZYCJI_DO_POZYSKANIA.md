@@ -1,5 +1,18 @@
 # 08 — LISTA POZYCJI DO POZYSKANIA
 
+> ## ⛔ ZASADA NADRZĘDNA (2026-09-09, decyzja autora)
+>
+> **Nie kupujemy książek.** Brak środków. Wszystko, czego nie da się zweryfikować za darmo (skan w otwartym dostępie, biblioteka, recenzowane źródło wtórne z paginacją), **zostaje parafrazą**.
+>
+> Dopuszczalne w tekście głównym:
+> 1. **Parafraza** z przypisem „referowane, nie cytowane" — domyślny tryb dla wszystkiego, czego nie mamy;
+> 2. **Cytat potwierdzony** — tylko gdy brzmienie pochodzi ze skanu wydania (np. Buber ✔) albo z **recenzowanego źródła wtórnego podającego wydanie i stronę** (np. PEF PTTA dla Wojtyły ✔).
+>
+> **Zakazane:** cytaty z serwisów cytatowych, prac zaliczeniowych i blogów; własne tłumaczenia z angielskiego/francuskiego podawane jako cytat z przekładu polskiego; „znane brzmienia" z pamięci. Lekcja Bubera: cztery źródła wtórne, cztery różne wersje jednego zdania.
+>
+> **Skutek dla pozycji płatnych** (Yalom — e-book, Marcel, Yalom w druku): pozostają na liście jako **wzmocnienia**, nie warunki. Żaden rozdział nie czeka na zakup.
+
+
 **Utworzono:** 2026-09-08 | **Rozszerzono:** 2026-09-08 (szczegółowe fragmenty — na prośbę autora)
 **Zasada nadrzędna:** czego nie ma w bibliotece, tego **nie cytujemy** — wolno referować własnymi słowami, oznaczając to czytelnikowi (precedens: Bauman i Becker w rozdz. 46).
 
@@ -270,7 +283,31 @@ Z opisów wydawniczych i literatury przedmiotu **potwierdzone są pojęcia i str
 
 # CZĘŚĆ B — PRIORYTET 2: zaległości w tekstach już napisanych
 
-## B1. Karol Wojtyła, *Osoba i czyn* — **pilniejsze, niż sądziłem**
+## B1. Karol Wojtyła, *Osoba i czyn* — ✅ **W DUŻEJ MIERZE ROZWIĄZANE 2026-09-09**
+
+> **Znalezione darmowe źródło o jakości naukowej:** *Powszechna Encyklopedia Filozofii*, hasło „Wojtyła Karol" (Polskie Towarzystwo Tomasza z Akwinu), PDF: `https://www.ptta.pl/pef/pdf/w/wojtyla_karol.pdf`.
+> Encyklopedia jest **recenzowana** i — co kluczowe — **cytuje *Osobę i czyn* dosłownie, z numerami stron** wg wyd. *Osoba i czyn oraz inne studia antropologiczne*, TN KUL, Lublin 1994³.
+>
+> **Potwierdzone brzmienia z paginacją** (znaczniki `[?]` zdjęte w rozdz. 26, 28, 29, 43):
+>
+> | Treść | Strona |
+> |---|---|
+> | „studium czynu, który ujawnia osobę: studium osoby przez czyn" | 59 |
+> | „W czynach zawiera się sprawczość […]. I to jest właśnie osoba" | 127 |
+> | Samostanowienie: osoba „jest tym, kto siebie samego posiada, i zarazem tym, kto jest posiadany tylko i wyłącznie przez siebie" | 152 |
+> | „Powinność jest doświadczalną postacią zależności od prawdy, której podlega wolność osoby" | 199 |
+> | Wartość personalistyczna czynu: „w czynie osoba siebie samą aktualizuje…" | 306 |
+> | Dobro wspólne „warunkuje i niejako wyzwala uczestnictwo w osobach działających wspólnie" | 321 |
+> | Ludzkie „ja" a *suppositum* (z: *Osoba: podmiot i wspólnota*) | 382 |
+> | **Norma personalistyczna:** „osoba jest takim dobrem, że właściwe i pełnowartościowe odniesienie do niej stanowi tylko miłość" (*Miłość i odpowiedzialność*, TN KUL 1986⁴) | **42** |
+>
+> **Status:** źródło **wtórne, lecz recenzowane i z paginacją** — wystarcza, by zdjąć `[?]` i (w razie potrzeby) zacytować. Do finalnego potwierdzenia z egzemplarzem przy korekcie.
+>
+> **Uwaga do linku podanego przez autora:** `docer.pl` / `doci.pl` (dok. 430322) — **nie udało się pobrać**; serwis serwuje treść skryptem i zwraca pusty plik. Dodatkowo są to serwisy z treściami wgrywanymi przez użytkowników, o niejasnym statusie prawnym; jako źródło cytatu do książki **nie nadają się**. PEF załatwia sprawę lepiej i legalnie.
+>
+> **Co nadal wymagałoby egzemplarza:** ciągłe fragmenty (całe akapity) oraz kontekst rozdziału o uczestnictwie. Do obecnych potrzeb rozdz. 26/28/29/43 **nie jest to konieczne**.
+
+### Materiał archiwalny — stan sprzed 2026-09-09
 
 **Wydanie:** *Osoba i czyn oraz inne studia antropologiczne*, TN KUL, Lublin 1994/2000.
 

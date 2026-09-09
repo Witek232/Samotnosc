@@ -82,7 +82,7 @@ To już nie jest pytanie o argumenty. To pytanie, z którym trzeba wyjść do ś
 
 ## Przypisy
 
-¹ K. Wojtyła, *Miłość i odpowiedzialność* (1960) — **parafraza, nie cytat**; tzw. norma personalistyczna („osoba jest takim dobrem, że właściwe i pełnowartościowe odniesienie do niej stanowi tylko miłość"; zakaz traktowania osoby jako środka do celu). **Brak pozycji w bibliotece** — brzmienie niezweryfikowane; przy redakcji sprawdzić w wyd. TN KUL i rozważyć wprowadzenie cytatu dosłownego. **[?]**
+¹ K. Wojtyła, *Miłość i odpowiedzialność*, TN KUL, Lublin 1986⁴, s. 42. **Norma personalistyczna** w brzmieniu: „[…] osoba jest takim dobrem, że właściwe i pełnowartościowe odniesienie do niej stanowi tylko miłość". **Weryfikacja 2026-09-09:** brzmienie i lokalizacja potwierdzone w *Powszechnej Encyklopedii Filozofii* (PTTA, hasło „Wojtyła Karol"), która cytuje wydanie z podaniem strony. Źródło **wtórne, ale recenzowane i podające paginację** — poprzednie `[?]` zdjęte; do ostatecznego potwierdzenia z egzemplarzem przy korekcie. W tekście głównym nadal **parafraza** (zakaz traktowania osoby jako środka do celu), zgodnie z limitem cytatów.
 
 ² J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, cz. II, rozdz. o zstąpieniu do piekieł [s?]: „Gdyby istniała taka samotność, do której nie przenikałoby żadne słowo, gdyby powstało tak głębokie opuszczenie, że nikt by do niego nie dotarł, wtedy mielibyśmy istotnie całkowitą samotność i lęk, który teologowie nazywają »piekłem«. Możemy teraz dokładnie zdefiniować, co ten wyraz oznacza: oznacza on samotność, której nie dosięga słowo miłości i która przez to jest zagrożeniem całej egzystencji." ✔ zweryfikowane w wydaniu elektronicznym; MOBI bez wiarygodnej paginacji. **[s?]**
 
@@ -108,7 +108,7 @@ To już nie jest pytanie o argumenty. To pytanie, z którym trzeba wyjść do ś
 **Refren:** pada raz, w domknięciu. Odpowiedź: **„Jest — i patrzy. I to spojrzenie nie zamienia mnie w rzecz, bo nie potrzebuje mnie do niczego."** Uwaga do rejestru: zaczyna się od słowa „Jest", którego rejestr `07 § A3` kazał unikać (byłoby piąte wystąpienie). **Zostawione świadomie** — w tym rozdziale całą pracę wykonuje druga połowa zdania, a „Jest" jest tu odpowiedzią na pytanie o spojrzenie, nie o obecność. **Do decyzji autora przy redakcji.**
 
 **Do rozstrzygnięcia przez autora:**
-1. **Sartre i Wojtyła referowani, nie cytowani** — brak obu w bibliotece. To trzeci rozdział tryptyku z tym problemem; po dostarczeniu Freuda i znalezieniu Nietzschego **Sartre pozostaje jedynym z trójki bez własnego głosu**. Priorytet biblioteczny: *Byt i nicość* (fragment o spojrzeniu) oraz *Miłość i odpowiedzialność*.
+1. **Sartre referowany, nie cytowany** — brak pozycji w bibliotece. **Aktualizacja 2026-09-09:** Wojtyła **przestał być problemem** — norma personalistyczna ma potwierdzone brzmienie i stronę (*Miłość i odpowiedzialność*, s. 42, za PEF). Sartre pozostaje jedynym nieudokumentowanym głosem tego rozdziału.
 2. **DCE § 16** (agape jako chcenie dobra drugiego) — konspekt przewidywał; **pominięte**, bo rozdział miał już limit 2 cytatów Ratzingera, a fragment o piekle jest cenniejszy. Materiał z rozdz. 16 przywołany bez cytatu.
 3. **Buber** — zredukowany do jednego zdania („spojrzenie, które widzi mnie wraz z tym, kim jeszcze nie jestem") **bez nazwiska**, zgodnie z uwagą konspektu, by nie wlewać tu całego Bubera. Jego pełne użycie: rozdz. 29.
 4. Długość: ~2 300 słów — w widełkach.

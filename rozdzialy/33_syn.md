@@ -13,9 +13,9 @@ Przyznaję od razu, na czym ten materiał się potyka: na gęstości doktrynalne
 
 ### I
 
-Rzeka Jordan, pierwsza połowa pierwszego stulecia. Nad brzegiem stoi Jan i zaprasza do wody tych, którzy przychodzą; chrzest, którego udziela, jest chrztem pokuty — przychodzi do niego ten, kto przyznaje, że coś w nim wymaga naprawy. Wśród przychodzących jest Jezus z Nazaretu. Staje w kolejce. Zanurza się w wodzie pośród ludzi, którzy przyznają się do grzechów, i kiedy wychodzi z niej, widzi — jak zapisuje Ewangelia — rozstąpione niebiosa i Ducha zstępującego jak gołębica. Słyszy głos z nieba: „Ty jesteś Synem mym umiłowanym, w Tobie mam upodobanie".¹
+Rzeka Jordan, pierwsza połowa pierwszego stulecia. Nad brzegiem stoi Jan i zaprasza do wody tych, którzy przychodzą; chrzest, którego udziela, jest chrztem pokuty — przychodzi do niego ten, kto przyznaje, że coś w nim wymaga naprawy. Wśród przychodzących jest Jezus z Nazaretu. Staje w kolejce. Zanurza się w wodzie pośród ludzi, którzy przyznają się do grzechów, i kiedy wychodzi z niej, widzi — jak zapisuje Ewangelia — rozstąpione niebiosa i Ducha zstępującego jak gołębica. Słyszy głos z nieba: „Tyś jest mój Syn umiłowany, w Tobie mam upodobanie".¹
 
-Zanim cokolwiek zostanie z tej sceny wyczytane, trzeba się nad jednym zatrzymać: to pierwsza definicja Jezusa, jaka pada w Ewangelii publicznie — i nic w niej nie brzmi jak lista kwalifikacji. Głos nie mówi: „ten, który wie wszystko"; nie recytuje dorobku, nie porównuje, nie ocenia. Mówi: „Ty jesteś Synem". To zdanie nie jest opisem umiejętności — jest wypowiedzianą relacją. I pochodzi nie od Jezusa, nie od tłumu, nie od uczniów: pochodzi od Kogoś innego, kto mówi do Niego, kim On jest. Tożsamość, którą Ewangelia daje Jezusowi na starcie, nie została więc udowodniona. Została podarowana — wypowiedziana nad głową człowieka, który stoi w wodzie pośród grzeszników, jak jeden z nich. A scena nie pozostawia wątpliwości, że ten dar nie jest wyróżnieniem w rozumieniu świata — obdarowany staje w kolejce pokuty, pośród ludzi, którzy przyznają, że im w życiu czegoś się nie udało; definicja spada na Niego tam, gdzie człowiek bywa najbardziej goły. Pierwsza rzecz, którą świat o Nim usłyszał, nie była raportem. Była relacją.
+Zanim cokolwiek zostanie z tej sceny wyczytane, trzeba się nad jednym zatrzymać: to pierwsza definicja Jezusa, jaka pada w Ewangelii publicznie — i nic w niej nie brzmi jak lista kwalifikacji. Głos nie mówi: „ten, który wie wszystko"; nie recytuje dorobku, nie porównuje, nie ocenia. Mówi: „Tyś jest mój Syn". To zdanie nie jest opisem umiejętności — jest wypowiedzianą relacją. I pochodzi nie od Jezusa, nie od tłumu, nie od uczniów: pochodzi od Kogoś innego, kto mówi do Niego, kim On jest. Tożsamość, którą Ewangelia daje Jezusowi na starcie, nie została więc udowodniona. Została podarowana — wypowiedziana nad głową człowieka, który stoi w wodzie pośród grzeszników, jak jeden z nich. A scena nie pozostawia wątpliwości, że ten dar nie jest wyróżnieniem w rozumieniu świata — obdarowany staje w kolejce pokuty, pośród ludzi, którzy przyznają, że im w życiu czegoś się nie udało; definicja spada na Niego tam, gdzie człowiek bywa najbardziej goły. Pierwsza rzecz, którą świat o Nim usłyszał, nie była raportem. Była relacją.
 
 ### II
 
@@ -67,17 +67,45 @@ Zostaje ostatni krok. Potrzeba drugiego, która według tego rozdziału jest sch
 
 **Przypisy:**
 
-¹ Mk 1,11 — brzmienie robocze wg konspektu (par. Mt 3,17 — forma w trzeciej osobie); sprawdzenie z BT [?].
+¹ **Mk 1,11** wg **Biblii Tysiąclecia**: „A z nieba odezwał się głos: «**Tyś jest mój Syn umiłowany, w Tobie mam upodobanie**»". ✔ **ZWERYFIKOWANE 2026-09-09** (biblia.deon.pl, biblia.gosc.pl, biblia.pl — trzy niezależne serwisy, brzmienie identyczne).
 
-² J. Ratzinger, *Wprowadzenie w chrześcijaństwo* (wyd. pol. Znak): część chrystologiczna — „Syn" jako pojęcie relacyjne wyznania wiary; strony [?].
+**POPRAWKA W TEKŚCIE GŁÓWNYM.** Wersja odziedziczona miała „Ty jesteś Synem mym umiłowanym" — to nie jest brzmienie BT, lecz swobodna przeróbka (przestawiony szyk, zgubione „mój", inna forma orzeczenia). Ponieważ zdanie stoi **w cudzysłowie jako cytat z Ewangelii**, poprawione na dokładne. Skrócone przywołanie w akapicie interpretacyjnym też zrównane („Tyś jest mój Syn").
+
+**Kontekst wersetu (Mk 1,9–10, BT):** „przyjął od Jana chrzest w Jordanie. W chwili gdy wychodził z wody, ujrzał rozwierające się niebo i Ducha jak gołębicę zstępującego na siebie". Scena w ruchu I jest z tym zgodna. **Przypis BT odsyła do Iz 42,1** (pieśń o Słudze Pańskim) — warto rozważyć jedno zdanie o tym w ruchu I: głos nie tylko nadaje tożsamość, ale wpisuje ją w linię Sługi, co wzmacnia tezę rozdziału, że to nie jest wyróżnienie w rozumieniu świata.
+
+**Wariant synoptyczny — różnica istotna dla tezy rozdziału.** Mk 1,11 i Łk 3,22 mają formę **w drugiej osobie** („Tyś jest…") — słowa skierowane **do** Jezusa; Mt 3,17 ma **trzecią osobę** („Ten jest mój Syn umiłowany…") — oznajmienie **o** Nim, wobec świadków. Rozdział opiera się na Marku i słusznie: cała teza ruchu I („tożsamość wypowiedziana przez Kogoś innego, kto mówi do Niego") **wymaga formy adresatywnej**. Wersja Mateuszowa by ją osłabiła. Dobrze, żeby wybór Marka był w rozdziale świadomy, a nie przypadkowy.
+
+² J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, wyd. pol. Znak — egzemplarz: `biblioteka/_tekst/ratzinger_wprowadzenie-w-chrzescijanstwo_pl.txt`.
+
+✔ **ZWERYFIKOWANE U ŹRÓDŁA 2026-09-09 — i jest to znalezisko mocniejsze, niż rozdział zakładał.** Teza ruchu II („Syn" jest pojęciem relacji, nie tytułem) **nie jest moją interpretacją Ratzingera — jest jego zdaniem, dosłownie**:
+
+> „Widzimy tu przede wszystkim, że **pojęcie »Syn« jest pojęciem relacji**. Św. Jan nazywając Pana Jezusa »Synem« daje Mu nazwę, która zawsze wskazuje kogoś poza i ponad Nim; stosuje takie wyrażenie, które z istoty swej zakłada relatywność." — **s. 136**
+
+Dalej, **s. 137**: „»Syn« według Jana znaczy: **pochodzący-od-drugiego**, tym wyrazem definiuje on więc byt tego Człowieka, jako **byt pochodzący od drugiego i ku drugim skierowany**, jako byt otwarty całkowicie, nie zastrzegający niczego wyłącznie dla siebie… ten byt jest **czystą relacją (nie substancjalnością)** i jako czysta relacja czystą jednością".
+
+I **s. 176**: „Tytuł »Syn« … oznacza to, iż Jego egzystencję określa się jako **całkowicie relatywną, jako »byt od« i »byt dla«**, lecz właśnie w tej zupełnej relatywności jako utożsamiającą się z Absolutem".
+
+**Do wykorzystania — trzy rzeczy, których rozdział jeszcze nie ma:**
+
+1. **Klamra z rozdz. 28 domyka się cytatem, nie parafrazą.** Formuła „dla i wobec" ma u Ratzingera odpowiednik dosłowny: **„byt od" i „byt dla"** (s. 137, 176). Nota redakcyjna zapowiada tę klamrę — teraz można ją zamknąć jego słowami, co jest zgodne z regułą „ostatnie słowo przed puentą należy do linii Ratzingerowskiej".
+2. **Rozróżnienie, którego rozdział nie robi, a Ratzinger robi ostro (s. 167 i 173).** „W języku Nowego Testamentu należy **ściśle rozróżniać** określenie »Syn Boży« i określenie po prostu »Syn«" — pierwsze pochodzi z teologii królewskiej Starego Testamentu, drugie „z innej historii języka", z mowy Jezusa do najbliższego grona. **Rozdział używa obu wymiennie.** Do rozstrzygnięcia przy redakcji: albo wprowadzić rozróżnienie jednym zdaniem, albo konsekwentnie trzymać się „Syna" bez „Bożego". Skłaniam się do drugiego — rozdział nazywa się „Syn" i cała jego teza dotyczy właśnie tego węższego, relacyjnego słowa.
+3. **Przejście do antropologii — gotowe u niego, mocniejsze niż moje.** „**Być chrześcijaninem znaczy dla św. Jana być jak syn, stać się synem, a więc nie opierać się na sobie, nie tkwić w sobie, tylko żyć w otwarciu »od« i »ku«**" (s. 137). To jest dokładnie puenta rozdziału (jeśli doskonały człowiek jest relacją, człowieczeństwo jest relacją) — **wypowiedziana przez Ratzingera**. Rekomenduję oprzeć na tym zdaniu ruch V zamiast formuły autorskiej.
+
+**Bonus dla rozdz. 32, nie dla tego:** na **s. 132 i 138** stoi zdanie o Trójcy, którego rozdz. 32 szuka — „Osoba jest czystą relacją odnoszenia się do kogoś, niczym więcej", oraz: „nie w »atomie«, najmniejszej, niepodzielnej cząstce, znajduje się najdoskonalsza jedność, tylko … czysta jedność może występować dopiero w duchu i obejmuje relację miłości". Drugie z nich **wprost odpowiada na monadę z rozdz. 32** i domyka też „atom" z rozdz. 26 (przyp. ᴮ). Naniosę przy rozdz. 32.
 
 ³ J. Ratzinger, *Jezus z Nazaretu*, cz. I (wyd. pol. Znak): modlitwa Jezusa jako miejsce, w którym widać Jego tożsamość; Abba-relacja; tytuły (Syn Boży, Syn Człowieczy) jako struktury relacji; strony [?].
 
-⁴ Mt 6,9 (par. Łk 11,1–2) — „Ojcze nasz" jako udostępnienie adresu modlitwy; brzmienie robocze; sprawdzenie z BT [?].
+⁴ **Mt 6,9** wg **BT**: „Wy zatem tak się módlcie: **Ojcze nasz, który jesteś w niebie, niech się święci imię Twoje!**" ✔ **ZWERYFIKOWANE 2026-09-09** (biblia.deon.pl).
 
-⁵ Mk 14,36 — brzmienie robocze wg konspektu; sprawdzenie z BT [?]; charakter słowa „Abba" (użycie domowe, nie liturgiczne) do uściślenia wg stanu badań [?].
+W tekście głównym formuła jest **referowana, nie cytowana** — cudzysłowu nie ma, więc nic nie wymagało poprawki. Kontekst wzmacnia tezę ruchu III mocniej, niż rozdział to wykorzystuje: bezpośrednio przed modlitwą stoi **Mt 6,8** — „wie Ojciec wasz, czego wam potrzeba, **wpierw zanim Go poprosicie**". To jest dokładnie linia tej książki (adres istnieje przed prośbą, modlitwa nie produkuje wyniku) i **domyka klamrę z rozdz. 26**, gdzie modlitwa została opisana jako gest, który „ma adres, dlatego nie jest rozpaczą". Do rozważenia jako jedno zdanie w ruchu III.
 
-⁶ J 1,14 — zapowiedź; pełna linia w rozdz. 34; sprawdzenie z BT [?].
+⁵ **Mk 14,36** wg **BT**: „I mówił: «**Abba, Ojcze, dla Ciebie wszystko jest możliwe, zabierz ten kielich ode Mnie! Lecz nie to, co Ja chcę, ale to, co Ty [niech się stanie]!**»" ✔ **ZWERYFIKOWANE 2026-09-09** (biblia.deon.pl). Cytowane w rozdziale dwa pierwsze słowa — zgodne z BT co do joty, **bez poprawek**.
+
+**Zastrzeżenie do sformułowania „język domu, nie liturgii" [?] — pozostaje otwarte i celowo.** Teza, że *Abba* to poufałe słowo dziecięce („tatusiu"), pochodzi od **Joachima Jeremiasa** i przez dekady była podręcznikowa, ale **została w nowszej egzegezie mocno zakwestionowana** (klasycznie: James Barr, *„Abba isn't Daddy"*): *abba* było w aramejskim używane także przez dorosłych synów i nie sprowadza się do mowy niemowlęcej. Rozdział **nie popełnia tego błędu** — nie pisze „tatusiu", mówi ostrożniej o „języku domu, nie liturgii", co jest obronne. Mimo to **nie zdejmuję `[?]`**, bo samo przeciwstawienie dom/liturgia wymagałoby podparcia u egzegety, a nie mam pod ręką pozycji, którą mógłbym uczciwie zacytować.
+
+**Rekomendacja bezpieczna, gdyby przypis miał zostać bez źródła:** oprzeć akapit na tym, co jest **niepodważalne i wystarczy tezie rozdziału** — że Marek zachował **aramejskie słowo w greckim tekście**, czyli że wspólnota uznała samo brzmienie modlitwy Jezusa za na tyle charakterystyczne, iż nie przetłumaczyła go (podobnie: *talitha kum*, *effatha*). To argument mocniejszy niż spór o stopień poufałości i **nie zależy od Jeremiasa**.
+
+⁶ **J 1,14** wg **BT**: „**A Słowo stało się ciałem i zamieszkało wśród nas. I oglądaliśmy Jego chwałę, chwałę, jaką Jednorodzony otrzymuje od Ojca, pełen łaski i prawdy.**" ✔ **ZWERYFIKOWANE 2026-09-09** (biblia.deon.pl). Tu tylko zapowiedź; pełna linia w rozdz. 34.
 
 **Noty redakcyjne (poza tekstem książki):**
 
@@ -87,5 +115,5 @@ Zostaje ostatni krok. Potrzeba drugiego, która według tego rozdziału jest sch
 - Podział pracy z sąsiadami: rozdz. 2 (dziecko — powrót jako teologia, bez powtórnej diagnozy), 4 (cogito — odwrócenie „pewność w sobie" → „pewność przez kogoś"), 12 (człowiek jako projekt — jedno odesłanie), 24 (krzyż — jedno odesłanie; Getsemani jako adres, nie pasja), 26 (zmartwychwstanie — wskazanie miejsca pełnej linii granicy), 27 (osoba — domknięcie linii), 29 (dłoń — most), 30 (Trójca — punkt wyjścia; monada — echo; refren — wyliczenie odpowiedzi), 32 (J 1,14 — zapowiedź; spotykalność), 35 (wcielenie — pełna linia odroczona).
 - Wielka litera: reguła ustanowiona w rozdz. 29 — „Ty/Ciebie/Tobie" tylko dla Adresata-Boga (także w cytacie Mk 1,11 — dialog wewnątrzbożowy; oraz „Ty" Boga wchodzącego w historię w moście); „ty" małe — człowiek; zaimki odnoszące do Osób Bożych — wielką literą (stosunek z rozdz. 32).
 - Odesłania: 2 (dziecko), 4 (cogito), 12 (człowiek jako projekt), 24 (krzyż; Getsemani), 26 (granica — pełna linia), 27 („dla i wobec"), 29 (dłoń), 30 (Trójca; monada; refren), 32 (most — J 1,14), 35 (wcielenie).
-- [?] do redakcji: brzmienia BT (Mk 1,10–11; Mt 3,17; Mt 6,9; Łk 11,1–2; Mk 14,36; J 1,14), charakter słowa „Abba" (użycie domowe vs świątynne — uściślić wg stanu badań), strony *Jezusa z Nazaretu* cz. I (Znak), strony *Wprowadzenia w chrześcijaństwo* (Znak; część chrystologiczna), szczegóły historyczne chrztu (ramy czasowe, lokalizacja).
+- **[?] do redakcji — STAN PO AUDYCIE 2026-09-09.** ~~brzmienia BT~~ **ZAMKNIĘTE: Mk 1,11 ✔ (i poprawione w tekście — było niedokładne), Mt 6,9 ✔, Mk 14,36 ✔, J 1,14 ✔** (biblia.deon.pl; Mk 1,11 potrójnie). Wariant Mt 3,17 opisany w przyp. ¹ jako świadomy wybór Marka (forma adresatywna). **Pozostaje otwarte: charakter słowa „Abba" — zob. przyp. ⁵ (teza Jeremiasa zakwestionowana przez Barra; rekomendacja: oprzeć akapit na fakcie zachowania aramejskiego słowa w tekście greckim), strony *Jezusa z Nazaretu* cz. I (Znak), strony *Wprowadzenia w chrześcijaństwo* (Znak; część chrystologiczna), szczegóły historyczne chrztu (ramy czasowe, lokalizacja).
 - Znaczniki ruchów I–VI znikają w wersji drukowanej.

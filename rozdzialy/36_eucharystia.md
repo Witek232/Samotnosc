@@ -41,7 +41,7 @@ Przy stole nikt nie jest sam — bo sam nie siedzi się przy stole.
 
 ### IV
 
-Słowo „pamiątka" brzmi dziś jak zaproszenie do nostalgii; biblijna pamiątka jest jego odwrotnością. Wspomnienie oddaje to, co przeszło, z bezpiecznego dystansu — obraz, po którym nic się nie zmienia. Pamiątka, o której mówi Paweł — „to czyńcie na moją pamiątkę"⁶ — działa w przeciwną stronę: wprowadza to, co przeszło, w teraźniejszość zgromadzenia; wspólnota nie patrzy na przeszłość, wchodzi w nią. Struktura jest starsza od Ewangelii: wyrosła z nocy paschalnej, która — według opowieści Księgi Wyjścia — miała być wspominana tak, żeby każde pokolenie stawało w niej jak stojące przy wyjściu z niewoli. W każdą niedzielę liturgia niesie zebranych w tę noc, do tego stołu, w to, co przeszło — w krzyż i zmartwychwstanie, o których były rozdziały dwudziesty czwarty, dwudziesty piąty i dwudziesty siódmy. Pełna teologia tego przejścia nie jest tu potrzebna; wystarczy kierunek: to, co przeszło, nie zostaje w przeszłości.
+Słowo „pamiątka" brzmi dziś jak zaproszenie do nostalgii; biblijna pamiątka jest jego odwrotnością. Wspomnienie oddaje to, co przeszło, z bezpiecznego dystansu — obraz, po którym nic się nie zmienia. Pamiątka, o której mówi Paweł — „Czyńcie to na moją pamiątkę"⁶ — działa w przeciwną stronę: wprowadza to, co przeszło, w teraźniejszość zgromadzenia; wspólnota nie patrzy na przeszłość, wchodzi w nią. Struktura jest starsza od Ewangelii: wyrosła z nocy paschalnej, którą Księga Wyjścia każe opowiadać w bardzo szczególnej gramatyce. Ojciec ma odpowiedzieć pytającemu dziecku nie „tak Pan uczynił dla nich", lecz: „Dzieje się tak ze względu na to, co uczynił Pan **dla mnie** w czasie wyjścia z Egiptu" — i dalej, o pokoleniach, których w Egipcie nie było: „Pan ręką mocną wywiódł **nas** z Egiptu, z domu niewoli". Zaimek jest tu całą teologią: opowiadający nie relacjonuje cudzej historii, staje w niej. W każdą niedzielę liturgia niesie zebranych w tę noc, do tego stołu, w to, co przeszło — w krzyż i zmartwychwstanie, o których były rozdziały dwudziesty czwarty, dwudziesty piąty i dwudziesty siódmy. Pełna teologia tego przejścia nie jest tu potrzebna; wystarczy kierunek: to, co przeszło, nie zostaje w przeszłości.
 
 To twierdzenie ma coś do powiedzenia najtwardszej granicy, jaką ta książka ustaliła w części czwartej. Rozdział dwudziesty, głosem Yaloma, pokazał samotność, której nie usuwa żadna miłość: nikt nie umiera za mnie, nikt nie przechodzi przez moją śmierć razem ze mną, nikt nie wchodzi w moje umieranie zamiast mnie. Eucharystia tej granicy nie odwołuje — chory umiera w swoim pokoju sam także dziś i żadna liturgia tego nie zmienia. Twierdzi coś innego i dziwniejszego: że wspólnota co niedzielę przechodzi przez granicę, która została już przekroczona — nie za nią, lecz przed nią. Człowiek idzie ku własnej śmierci nie jak ku terytorium, którego nikt nie odwiedził: co niedzielę bywa po tamtej stronie największej śmierci, jaka się wydarzyła, bo pamiątka przenosi go w to, co już przez nią przeszło.
 
@@ -86,9 +86,33 @@ Jeżeli obecność przy stole jest darem, prawdę daru sprawdza się poza kości
 ⁴ **SPROSTOWANIE 2026-09-08 — usunięta fałszywa atrybucja.** Wersja pierwotna przypisywała Ratzingerowi (*Duch liturgii*) formułę „liturgia jako przejście z «ja» do «my»”. **Takiej formuły nie udało się odnaleźć w żadnym dostępnym wydaniu i nie należy jej cytować ani przypisywać Ratzingerowi.** Zdanie w tekście głównym zostało przeredagowane na twierdzenie autorskie, bez atrybucji.
 Myśl pokrewna — i **rzeczywiście** Ratzingerowska — dotyczy tego, że liturgia nie jest wytworem wspólnoty ani sumą jednostek; jeśli redakcja zechce w tym miejscu przywołać *Ducha liturgii*, **wymaga to wpierw sprawdzenia z egzemplarzem** i podania rozdziału oraz strony. Do tego czasu miejsce stoi bez cytatu — świadomie.
 
-⁵ Benedykt XVI, *Deus caritas est* § 13–14 — Eucharystia jako *communio*; związek miłości z bliźnim wpisany w miłość do Boga; brzmienie robocze [?].
+⁵ Benedykt XVI, *Deus caritas est* (2005), **§ 14** (dla *communio*; § 13 dotyczy ustanowienia i „mistyki" sakramentu). ✔ **ZWERYFIKOWANE CO DO SŁOWA 2026-09-09** na `vatican.va` (tekst polski) — `[?]` zdjęte, „brzmienie robocze" nieaktualne.
 
-⁶ 1 Kor 11,23–26 — „To czyńcie na moją pamiątkę"; struktura pamiątki paschalnej — Wj 12,26–27; 13,8.14–15 — brzmienie robocze; sprawdzenie z BT [?].
+Brzmienia, na których teza rozdziału stoi (§ 14):
+
+> „**Nie mogę mieć Chrystusa tylko dla siebie samego; mogę do Niego należeć tylko w jedności z wszystkimi, którzy już stali się lub staną się Jego.** Komunia wyprowadza mnie z koncentracji na sobie samym i kieruje ku Niemu, a przez to jednocześnie, ku jedności z wszystkimi chrześcijanami."
+
+> „Zjednoczenie z Chrystusem jest jednocześnie zjednoczeniem z wszystkimi, którym On się daje. … Stajemy się «jednym ciałem» stopieni razem w jednym istnieniu."
+
+> „**Eucharystia, która nie przekłada się na miłość konkretnie praktykowaną, jest sama w sobie fragmentaryczna.**"
+
+**Uwaga dla redakcji — pierwszy z tych cytatów jest najlepszym zdaniem, jakie ten rozdział może dostać.** „Nie mogę mieć Chrystusa tylko dla siebie samego" mówi wprost to, co rozdział wyprowadza okrężnie z obrazu jednego chleba: że sakrament z definicji nie daje się skonsumować prywatnie. Dla książki o samotności jest to zdanie kluczowe — **rekomenduję je jako jedyny cytat blokowy rozdziału**, w miejscu, gdzie dziś stoi referat.
+
+**Nieużyte, a warte odnotowania:** Benedykt stawia tam też mocną tezę metodologiczną — „upada tutaj po prostu tradycyjne przeciwstawienie kultu i etyki" — oraz zdanie o Logosie, który „stał się dla nas prawdziwie pokarmem — jako miłość" (§ 13). Materiał dla rozdz. 37 (miłość, która działa), nie dla tego.
+
+⁶ **1 Kor 11,23–26** wg **Biblii Tysiąclecia** ✔ **ZWERYFIKOWANE U ŹRÓDŁA 2026-09-09** (`biblia.deon.pl`) — `[?]` zdjęte.
+
+⚠️ **POPRAWKA: cytat w tekście głównym był przestawiony.** Wersja pierwotna: „**to czyńcie** na moją pamiątkę". BT ma szyk odwrotny: „**Czyńcie to** na moją pamiątkę" (11,24 i ponownie 11,25). Forma „to czyńcie" jest reminiscencją brzmienia liturgicznego/starszych przekładów, nie BT. Poprawione.
+
+Pełne brzmienie 11,23–25: „Ja bowiem otrzymałem od Pana to, co wam przekazałem, że Pan Jezus tej nocy, kiedy został wydany, wziął chleb i dzięki uczyniwszy połamał i rzekł: «To jest Ciało moje za was [wydane]. **Czyńcie to na moją pamiątkę**». Podobnie, skończywszy wieczerzę, wziął kielich, mówiąc: «Ten kielich jest Nowym Przymierzem we Krwi mojej. Czyńcie to, ile razy pić będziecie, na moją pamiątkę»". Wers 26, nieużyty a mocny: „**Ilekroć bowiem spożywacie ten chleb albo pijecie kielich, śmierć Pańską głosicie, aż przyjdzie**".
+
+**Wj 12,26–27 oraz 13,8.14–15** ✔ **ZWERYFIKOWANE** — i okazały się **mocniejsze dla tezy rozdziału, niż zakładał konspekt; tekst główny został wzmocniony**. Brzmienia:
+
+- **Wj 12,26–27:** „Gdy się was zapytają dzieci: cóż to za święty zwyczaj? — tak im odpowiecie: «To jest ofiara Paschy na cześć Pana, który w Egipcie ominął domy Izraelitów»".
+- **Wj 13,8:** „W tym dniu będziesz opowiadał synowi swemu: Dzieje się tak ze względu na to, co uczynił Pan **dla mnie** w czasie wyjścia z Egiptu".
+- **Wj 13,14:** „Gdy cię syn zapyta w przyszłości: Co to oznacza? — odpowiesz mu: Pan ręką mocną wywiódł **nas** z Egiptu, z domu niewoli".
+
+**Dlaczego to jest zysk.** Rozdział twierdził, że pamiątka „wprowadza to, co przeszło, w teraźniejszość zgromadzenia" — i podpierał to ogólnikiem („miała być wspominana tak, żeby każde pokolenie stawało w niej"). Tymczasem Księga Wyjścia stawia tezę **gramatycznie**: mówiący ma powiedzieć „dla **mnie**" i „wywiódł **nas**", choć jego samego w Egipcie nie było. To nie jest interpretacja — to jest przepis o zaimku. Tekst główny przepisany tak, by pokazać ten zaimek zamiast go streszczać.
 
 **Noty redakcyjne (poza tekstem książki):**
 
@@ -100,5 +124,6 @@ Myśl pokrewna — i **rzeczywiście** Ratzingerowska — dotyczy tego, że litu
 - Klamry: rozdz. 35 (pytanie „Bóg jest tutaj?" i „elegancka forma pustki" — otwarcie; echo sceny środowej: kobieta ze siatką, młody przy drzwiach — ruch V, jedno zdanie), rozdz. 20 (Yalom — granica nieusuwalna: ruch III jednym zdaniem, ruch IV pełny), rozdz. 26 (próg pokoju — jedno zdanie, dyscyplina konspektu pkt 4), rozdz. 25 (wiara ≠ odczucie obecności — ruch V), rozdz. 34 (dar, nie lek — logika, bez cytatu), rozdziały 24–26 (pascha jako to, co przeszło — bez powtórek teologicznych), rozdz. 32 (relacja u początku bytu — jedno odesłanie w ruchu II).
 - Wyliczenie odpowiedzi w ruchu VI kontynuuje konwencję rozdz. 31/31/32: 25 („Tu jestem"), 26 („jest — i przeszedł"), 30 („jest — i nigdy nie był sam"), 31 („jest Syn"), 32 („można Go posadzić naprzeciwko"), 33 („Jest — i przyjechało ich więcej"); rozróżnienie: tamte były odpowiedziami słowa albo osoby, ta jest odpowiedzią podaną.
 - Podział pracy z sąsiadami: 33 (forma i stół — tu obecność; „Eucharystia tworzy Kościół" nie powtarzana), 30 (ikona Rubliewa nie wraca — zapowiedziana do epilogu), 35 (caritas — odroczone, most), 36 (samotni na mszy — pełny sprawdzian), 19/25 (granica/próg — echo zgodne z dyscyplinami konspektu), 24 (odczucie obecności — jedno zdanie).
-- [?] do redakcji: brzmienia BT (Łk 24,30–31; 1 Kor 10,16–17; 11,23–26; Wj 12,26–27; 13,8.14–15), *Duch liturgii* (wyd. pol. Znak 2002 — strony), *Deus caritas est* § 13–14 (brzmienie), realia sceny (godzina mszy, przebieg obrzędu łamania i komunii).
+- ✔ **Brzmienia BT — WSZYSTKIE ZAMKNIĘTE 2026-09-09** u źródła (`biblia.deon.pl`): Łk 24,30–31.35 ✔ (przyp. ¹), 1 Kor 10,16–17 ✔ (przyp. ³), 1 Kor 11,23–26 ✔ (przyp. ⁶ — **wykryta i poprawiona przestawka „to czyńcie" → „Czyńcie to"**), Wj 12,26–27 i 13,8.14–15 ✔ (przyp. ⁶ — tekst główny wzmocniony o zaimki „dla mnie" / „nas").
+- **[?] do redakcji — zostaje:** *Duch liturgii* (wyd. pol. Znak 2002 — strony) oraz realia sceny (godzina mszy, przebieg obrzędu łamania i komunii). Żadne z nich nie podpiera cytatu.
 - Znaczniki ruchów I–VI znikają w wersji drukowanej.

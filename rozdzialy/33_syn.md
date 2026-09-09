@@ -93,7 +93,11 @@ I **s. 176**: „Tytuł »Syn« … oznacza to, iż Jego egzystencję określa s
 
 **Bonus dla rozdz. 32, nie dla tego:** na **s. 132 i 138** stoi zdanie o Trójcy, którego rozdz. 32 szuka — „Osoba jest czystą relacją odnoszenia się do kogoś, niczym więcej", oraz: „nie w »atomie«, najmniejszej, niepodzielnej cząstce, znajduje się najdoskonalsza jedność, tylko … czysta jedność może występować dopiero w duchu i obejmuje relację miłości". Drugie z nich **wprost odpowiada na monadę z rozdz. 32** i domyka też „atom" z rozdz. 26 (przyp. ᴮ). Naniosę przy rozdz. 32.
 
-³ J. Ratzinger, *Jezus z Nazaretu*, cz. I (wyd. pol. Znak): modlitwa Jezusa jako miejsce, w którym widać Jego tożsamość; Abba-relacja; tytuły (Syn Boży, Syn Człowieczy) jako struktury relacji; strony [?].
+³ J. Ratzinger, *Jezus z Nazaretu*, cz. I (wyd. pol. Znak): modlitwa Jezusa jako miejsce, w którym widać Jego tożsamość; *Abba*-relacja; tytuły (Syn Boży, Syn Człowieczy) jako struktury relacji.
+
+⚠️ **STRONY CZ. I NADAL NIEUSTALONE — i nie zgaduję ich.** W bibliotece projektu jest **wyłącznie cz. II** (`biblioteka/_tekst/ratzinger_jezus-z-nazaretu-t2_pl.txt`); cz. I nie mamy. Przypis zostaje **odesłaniem ogólnym, bez numerów stron**, dopóki egzemplarz się nie pojawi.
+
+✅ **ALE MERYTORYCZNIE PRZYPIS JEST JUŻ NIEPOTRZEBNY — 2026-09-09 znalazłem mocniejsze pokrycie w cz. II, którą mamy.** Zob. przyp. ⁵ poniżej: Ratzinger omawia *Abba* obszernie na **s. 175–176 cz. II**. Rekomendacja: **przeadresować ten przypis na cz. II, s. 175–176** i zrezygnować z odesłania do cz. I, którego nie możemy zweryfikować.
 
 ⁴ **Mt 6,9** wg **BT**: „Wy zatem tak się módlcie: **Ojcze nasz, który jesteś w niebie, niech się święci imię Twoje!**" ✔ **ZWERYFIKOWANE 2026-09-09** (biblia.deon.pl).
 
@@ -101,9 +105,19 @@ W tekście głównym formuła jest **referowana, nie cytowana** — cudzysłowu 
 
 ⁵ **Mk 14,36** wg **BT**: „I mówił: «**Abba, Ojcze, dla Ciebie wszystko jest możliwe, zabierz ten kielich ode Mnie! Lecz nie to, co Ja chcę, ale to, co Ty [niech się stanie]!**»" ✔ **ZWERYFIKOWANE 2026-09-09** (biblia.deon.pl). Cytowane w rozdziale dwa pierwsze słowa — zgodne z BT co do joty, **bez poprawek**.
 
-**Zastrzeżenie do sformułowania „język domu, nie liturgii" [?] — pozostaje otwarte i celowo.** Teza, że *Abba* to poufałe słowo dziecięce („tatusiu"), pochodzi od **Joachima Jeremiasa** i przez dekady była podręcznikowa, ale **została w nowszej egzegezie mocno zakwestionowana** (klasycznie: James Barr, *„Abba isn't Daddy"*): *abba* było w aramejskim używane także przez dorosłych synów i nie sprowadza się do mowy niemowlęcej. Rozdział **nie popełnia tego błędu** — nie pisze „tatusiu", mówi ostrożniej o „języku domu, nie liturgii", co jest obronne. Mimo to **nie zdejmuję `[?]`**, bo samo przeciwstawienie dom/liturgia wymagałoby podparcia u egzegety, a nie mam pod ręką pozycji, którą mógłbym uczciwie zacytować.
+**Zastrzeżenie do sformułowania „język domu, nie liturgii" — ✅ ZAMKNIĘTE 2026-09-09, `[?]` ZDJĘTE.**
 
-**Rekomendacja bezpieczna, gdyby przypis miał zostać bez źródła:** oprzeć akapit na tym, co jest **niepodważalne i wystarczy tezie rozdziału** — że Marek zachował **aramejskie słowo w greckim tekście**, czyli że wspólnota uznała samo brzmienie modlitwy Jezusa za na tyle charakterystyczne, iż nie przetłumaczyła go (podobnie: *talitha kum*, *effatha*). To argument mocniejszy niż spór o stopień poufałości i **nie zależy od Jeremiasa**.
+Poprzednia nota mówiła, że nie mam pod ręką egzegety, którego dałoby się uczciwie zacytować. **Miałem — w bibliotece projektu.** Ratzinger omawia dokładnie to miejsce w *Jezusie z Nazaretu* cz. II, **s. 175–176** (rozdz. o modlitwie w Ogrójcu), i **sam opiera się na Jeremiasie, podając strony jego książki**:
+
+> „Na temat słów tej modlitwy **Joachim Jeremias** napisał w 1966 r. ważną książkę… Podczas gdy w żydowskim piśmiennictwie poświęconym modlitwie **nie ma ani jednej wzmianki o zwracaniu się do Boga słowem *Abba***, Jezus zawsze (z wyjątkiem zawołania na krzyżu…) w ten właśnie sposób zwracał się do Boga. Mamy więc tutaj do czynienia z całkowicie jednoznaczną cechą *ipsissima vox Jesu*" (*Abba*, s. 59).
+
+> „Jeremias wykazuje nadto, że słowo «Abba» **zaczerpnięte jest z języka dziecięcego** — w rodzinie w ten właśnie sposób dziecko zwraca się do ojca. «W odczuciu Żydów zwracanie się do Boga takim poufałym słowem byłoby przejawem braku szacunku i dlatego czymś niewyobrażalnym… **To Abba w zwracaniu się Jezusa do Boga odsłania samo serce Jego stosunku do Boga**» (s. 63)."
+
+**Co to zmienia dla rozdziału.** Przeciwstawienie „język domu, nie liturgii" ma teraz pokrycie **u głosu wiodącego książki**, i to pokrycie mocniejsze niż samo odesłanie do Jeremiasa: Ratzinger opiera się na nim **świadomie i z aprobatą**, a różnica dom/kult jest u niego wprost („w żydowskim piśmiennictwie **poświęconym modlitwie** nie ma ani jednej wzmianki"). Formuła rozdziału jest więc trafna i można ją zostawić bez zmian.
+
+⚠️ **Uczciwość wymaga jednak odnotowania sporu.** Teza Jeremiasa o mowie dziecięcej została w nowszej egzegezie zakwestionowana (klasycznie: **James Barr, *„Abba isn't Daddy"***, JTS 1988): *abba* było w aramejskim używane także przez dorosłych synów i nie sprowadza się do języka niemowlęcego. Rozdział **nie popełnia tego błędu** — nie pisze „tatusiu". Ratzinger cytuje Jeremiasa bez tego zastrzeżenia, co jest jego wyborem, nie naszym.
+
+**Rekomendacja redakcyjna:** cytować Ratzingera (cz. II, s. 175–176), **nie Jeremiasa bezpośrednio**, i nie wchodzić w spór o stopień poufałości. Argument najmocniejszy i całkowicie odporny na Barra pozostaje ten sam co poprzednio: **Marek zachował aramejskie słowo w greckim tekście** — wspólnota uznała samo brzmienie modlitwy Jezusa za tak charakterystyczne, że go nie przetłumaczyła (podobnie *talitha kum*, *effatha*).
 
 ⁶ **J 1,14** wg **BT**: „**A Słowo stało się ciałem i zamieszkało wśród nas. I oglądaliśmy Jego chwałę, chwałę, jaką Jednorodzony otrzymuje od Ojca, pełen łaski i prawdy.**" ✔ **ZWERYFIKOWANE 2026-09-09** (biblia.deon.pl). Tu tylko zapowiedź; pełna linia w rozdz. 34.
 
@@ -114,6 +128,8 @@ W tekście głównym formuła jest **referowana, nie cytowana** — cudzysłowu 
 - Metoda pierścienia: pytanie „jak relacja przychodzi do nas?" z rozdz. 32 podjęte w otwarciu; dziecko z rozdz. 2 wraca jako teologia (ruch II); klamra z rozdz. 28 — linia Maritain/Wojtyła „dla i wobec" domknięta w ruchu IV; dłoń z rozdz. 31 wraca w moście („w dłoni, którą się podaje"); monada z rozdz. 32 jako kontrapunkt (ruch II); „Ojcze nasz" w ruchu III jako pierwsza forma wejścia w relację — zapowiedź odpowiedzi refrenu („relacja, która nas osiąga").
 - Podział pracy z sąsiadami: rozdz. 2 (dziecko — powrót jako teologia, bez powtórnej diagnozy), 4 (cogito — odwrócenie „pewność w sobie" → „pewność przez kogoś"), 12 (człowiek jako projekt — jedno odesłanie), 24 (krzyż — jedno odesłanie; Getsemani jako adres, nie pasja), 26 (zmartwychwstanie — wskazanie miejsca pełnej linii granicy), 27 (osoba — domknięcie linii), 29 (dłoń — most), 30 (Trójca — punkt wyjścia; monada — echo; refren — wyliczenie odpowiedzi), 32 (J 1,14 — zapowiedź; spotykalność), 35 (wcielenie — pełna linia odroczona).
 - Wielka litera: reguła ustanowiona w rozdz. 29 — „Ty/Ciebie/Tobie" tylko dla Adresata-Boga (także w cytacie Mk 1,11 — dialog wewnątrzbożowy; oraz „Ty" Boga wchodzącego w historię w moście); „ty" małe — człowiek; zaimki odnoszące do Osób Bożych — wielką literą (stosunek z rozdz. 32).
-- Odesłania: 2 (dziecko), 4 (cogito), 12 (człowiek jako projekt), 24 (krzyż; Getsemani), 26 (granica — pełna linia), 27 („dla i wobec"), 29 (dłoń), 30 (Trójca; monada; refren), 32 (most — J 1,14), 35 (wcielenie).
+- Odesłania (v3 ✔ przeliczone 2026-09-09): **2** (dziecko), **4** (cogito), **13** (człowiek jako projekt), **25** (krzyż; Getsemani), **27** (granica — pełna linia), **28** („dla i wobec"), **31** (dłoń), **32** (Trójca; monada; refren), **34** (most — J 1,14), **37** (wcielenie).
+
+  **Kontrola** (v2→v3): 2→2 · 4→4 · 12→13 · 24→25 · 26→27 · 27→28 · 29→31 · 30→32 · 32→34 · 35→37.
 - **[?] do redakcji — STAN PO AUDYCIE 2026-09-09.** ~~brzmienia BT~~ **ZAMKNIĘTE: Mk 1,11 ✔ (i poprawione w tekście — było niedokładne), Mt 6,9 ✔, Mk 14,36 ✔, J 1,14 ✔** (biblia.deon.pl; Mk 1,11 potrójnie). Wariant Mt 3,17 opisany w przyp. ¹ jako świadomy wybór Marka (forma adresatywna). **Pozostaje otwarte: charakter słowa „Abba" — zob. przyp. ⁵ (teza Jeremiasa zakwestionowana przez Barra; rekomendacja: oprzeć akapit na fakcie zachowania aramejskiego słowa w tekście greckim), strony *Jezusa z Nazaretu* cz. I (Znak), strony *Wprowadzenia w chrześcijaństwo* (Znak; część chrystologiczna), szczegóły historyczne chrztu (ramy czasowe, lokalizacja).
 - Znaczniki ruchów I–VI znikają w wersji drukowanej.

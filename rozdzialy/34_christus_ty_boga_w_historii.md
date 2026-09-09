@@ -99,7 +99,17 @@ Jeżeli „Ty” jest spotykalne, trzeba sprawdzić, czy spotkanie działa: czy 
 
 **Odesłanie ogólne (Wcielenie w strukturze wyznania wiary) — bez konkretnej strony, świadomie.** Ruch III nie cytuje Ratzingera, tylko referuje kompozycję Credo („nie wykład o naturze Boga, lecz biografia"), a to jest obserwacja dotycząca samego tekstu wyznania, nie teza wymagająca firmowania nazwiskiem. **Gdyby jednak przy redakcji miał tu stanąć cytat**, właściwe miejsce jest sprawdzone i leży blisko: **s. 137** — „byt pochodzący od drugiego i ku drugim skierowany… byt »od« i »ku«" — oraz **s. 176**, gdzie Ratzinger wiąże tytuł „Syn" z całkowitą relatywnością egzystencji Jezusa (pełny zapis w rozdz. 33, przyp. ²). `[?]` zdejmuję: nie ma tu nieznanej strony, jest decyzja, żeby nie cytować tam, gdzie cytat nie jest potrzebny.
 
-⁴ J. Ratzinger, *Jezus z Nazaretu*, cz. I (wyd. pol. Znak): metoda — Jezus historyczny i Chrystus wiary jako jedność; Jezus modlący się, spotykający, jedzący; strony [?].
+⁴ J. Ratzinger, *Jezus z Nazaretu* — metoda: Jezus historyczny i Chrystus wiary jako jedność.
+
+✅ **`[?]` ZDJĘTE 2026-09-09 — przypis PRZEADRESOWANY z cz. I (której nie mamy) na cz. II, Przedmowa, s. 7–8** (`biblioteka/_tekst/ratzinger_jezus-z-nazaretu-t2_pl.txt`). Odczytane w egzemplarzu projektu:
+
+> „Chciałem znaleźć **rzeczywistego Jezusa**, bo dopiero na tej podstawie możliwe jest w ogóle coś takiego jak «chrystologia oddolna». **«Jezus historyczny» — taki, jakiego na bazie swych własnych założeń hermeneutycznych ukazuje główny nurt egzegezy krytycznej — jest w swej treści nazbyt ubogi, żeby mógł wywierać znaczący wpływ na historię; jest za bardzo zamknięty w przeszłości, żeby możliwe było nawiązywanie z Nim relacji osobowych.**"
+
+**To jest lepsze źródło niż to, którego przypis szukał** — i to z trzech powodów. Po pierwsze, jest **w naszym egzemplarzu**, więc sprawdzalne. Po drugie, Ratzinger mówi tu o metodzie **wprost i w pierwszej osobie**, a nie przez referat. Po trzecie i najważniejsze: jego zarzut wobec „Jezusa historycznego" jest sformułowany dokładnie w kategorii, na której stoi cały rozdział — że z tak zrekonstruowaną postacią **nie da się nawiązać relacji osobowej**. Rozdział mówi o Chrystusie jako „Ty" Boga w historii; Ratzinger mówi, że redukcja krytyczna daje kogoś, do kogo nie można powiedzieć „Ty". **To jest ta sama teza.**
+
+**Rekomendacja:** oprzeć ruch metodologiczny na tym zdaniu (parafraza lub krótki cytat) — mocniejsze niż obecne odesłanie ogólne. ⚠️ Limit rozdziału: **maks. 2 cytaty, w tym ≤1 blokowy** — sprawdzić bilans przed wstawieniem.
+
+⚠️ Cz. I nadal nie mamy; **żadnych stron cz. I nie wpisywać.** Jeśli egzemplarz się pojawi, warto sprawdzić tam rozdz. o modlitwie Jezusa — ale przypis jest już domknięty bez tego.
 
 ⁵ **Galeria spotkań — ✔ ZWERYFIKOWANA 2026-09-09** (biblia.deon.pl). Brzmienia BT:
 
@@ -121,6 +131,8 @@ rany jako adres spotkania — klamra z rozdz. 27 (jedno zdanie, bez powtórzeń)
 - Podział pracy z sąsiadami: rozdz. 22 (samotność, której nie da się wyleczyć — jedno odesłanie), 23 (zejście — jedno odesłanie, bez powtórzenia zdania centralnego), 26 (rany — klamra, jedno zdanie), 28 (linia „ja–ty” — domknięcie w ruchu V, bez nazywania Bubera), 29 („wierzę w Ciebie” — wyliczenie refrenu), 30 (Trójca — źródło „Ty”; monada — kontrapunkt), 31 (Syn — pomost bezpośredni; obietnica J 1,14), 33 (Kościoł — pytanie bez odpowiedzi), 35 (wcielenie — pełna linia odroczona), 36 (lek na samotność — zapowiedź sprawdzianu), 37–39 (zarzuty — tylko sygnał „pełny głos”, bez nazwisk).
 - Wielka litera: reguła ustanowiona w rozdz. 29 — „Ty/Ciebie/Tobie/Mi” tylko dla Adresata-Boga (także w cytacie J 4,7 — mówi Osoba Boża; oraz „Ten” o Logosie w ruchu II); „ty” małe — człowiek; zaimki odnoszące do Osób Bożych — wielką literą (stosunek z rozdz. 32).
 - Linia refrenu: konspektowe „można Go usiąść naprzeciwko” → „można Go posadzić naprzeciwko” (poprawka gramatyczna roboczej linii; do decyzji redakcyjnej).
-- Odesłania: 21, 23, 26, 28, 29, 30, 31, 33, 35, 36 (poza tym: prolog — zasada kompozycyjna; część VII — most).
+- Odesłania (v3 ✔ przeliczone 2026-09-09): **22, 24, 27, 29, 31, 32, 33, 35, 37, 40** (poza tym: prolog — zasada kompozycyjna; część VII — most).
+
+  **Kontrola** (v2→v3): 21→22 · 23→24 · 26→27 · 28→29 · 29→31 · 30→32 · 31→33 · 33→35 · 35→37 · 36→40.
 - **[?] do redakcji — STAN PO AUDYCIE 2026-09-09.** ZAMKNIĘTE: **wszystkie brzmienia BT ✔** (J 1,14; J 4,4.6–7.17–18.26.28 — **J 4,4 poprawione w tekście**; Mk 2,15–17; J 20,24–29); *eskenōsen* — rozstrzygnięte na rzecz „namiotu" z odesłaniem do Namiotu Spotkania (przyp. ¹); strony *Wprowadzenia* — cytat niepotrzebny, adres zapasowy podany (przyp. ³). POZOSTAJE OTWARTE (świadomie): odczytanie „szóstej godziny" jako unikania ludzi — interpretacja kaznodziejska, w tekście podana ostrożnie i tak ma zostać; strony *Jezusa z Nazaretu* cz.
 - Znaczniki ruchów I–VI znikają w wersji drukowanej.

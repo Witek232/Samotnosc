@@ -193,4 +193,8 @@ Ale zaraz — muszę jeszcze raz podnieść głos, bo nad tą budową wisi zdani
   **Strony do sprawdzenia w pierwszej kolejności** (punkty startowe wskazane przez polską literaturę przedmiotu, nie z autopsji `[?]`): **s. 168** — stan solidarności z umarłymi, najbliżej zdania rozdziału o Wielkiej Sobocie; dalej **s. 23–24**, **s. 35**, **s. 83**, **s. 98–99**, **s. 203** (kenoza). **Zdanie „Bóg leży martwy" pozostaje w tekście referatem bez cudzysłowu, dopóki nie zostanie sprawdzone w egzemplarzu** — i tak ma zostać.
 - Klauzula anty-apokatastastyczna (ruch VII) — zgodna z konspektem (ryzyko 1); krzyk Ps 22 — tylko nazwany (ruch II i most), pełna praca w rozdz. 25 (ryzyko 4).
 - Narracja „ja" (część V) — utrzymana; znaczniki ruchów I–VIII służą pracy warsztatowej i do zniknięcia w wersji drukowanej (struktura zostaje w kompozycji akapitów, z oddechem po ruchu V).
-- Odesłania: rozdz. 20 (pytanie Yaloma — odpowiedź), 21–22 (struktura śmierci), 24 (opuszczenie na krzyżu), 25 (próg — *Spe salvi* 32), 43–45 (drugi szczyt), epilog.
+- Odesłania (v3 ✔ ujednolicone 2026-09-09): rozdz. **20** (pytanie Yaloma — odpowiedź), **22–23** (struktura śmierci), **25** (opuszczenie na krzyżu), **26** (próg — *Spe salvi* 32), **47–49** (drugi szczyt), epilog.
+
+  ⚠️ **Ta lista była MIESZANA** — najgroźniejszy z wykrytych wariantów, bo nie wygląda na błędną. „20 (Yalom)" było już przeliczone na v3, ale „21–22", „24", „25" i „43–45" pozostały w v2. Przy takim zestawieniu nie da się na oko poznać, której numeracji się patrzy. **Kontrola** (v2→v3): 19→20 ✔ (już było) · 21–22→**22–23** · 24→**25** · 25→**26** · 43–45→**47–49**.
+
+  Tekst główny był **poprawny** i nie wymagał zmian: mówi „rozdział dwudziesty trzeci" o fenomenologii śmierci (v3 = 23 ✔), „rozdział dwudziesty drugi" o Heideggerze (v3 = 22 ✔) i „rozdział dwudziesty" o Yalomie (v3 = 20 ✔).

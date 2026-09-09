@@ -215,7 +215,43 @@ Sprawdzone w konspektach v3 (2026-09-09). Marcel występuje w czterech miejscach
 
 ## A3. Irvin Yalom, *Psychoterapia egzystencjalna*
 
-**Wydanie:** przeł. A. Tanalska-Dulęba, Instytut Psychologii Zdrowia PTP, Warszawa 2008. Tom gruby (~600 s.), ale potrzebna jest **jedna część**.
+**Wydanie podstawowe:** przeł. **Anna Tanalska-Dulęba**, Instytut Psychologii Zdrowia PTP, Warszawa **2008**, 503 s., ISBN 978-83-60747-12-4 (dodruk 2013).
+**Wznowienie:** **Czarna Owca, Warszawa 2023**, wyd. 2, 560 s., ISBN 978-83-8252-036-1 — **ten sam przekład Tanalskiej-Dulęby**, inna paginacja.
+
+> **Ustalenie 2026-09-09 — przekład NIE jest nowy.** Wznowienie z 2023 r. bywa brane za nowe tłumaczenie; to nieporozumienie. Przekład pochodzi z **2008** roku i jest jeden. Konsekwencja praktyczna: **istnieje ustalona polska terminologia Yaloma**, którą literatura przedmiotu cytuje od kilkunastu lat, więc **nie ma powodu tłumaczyć samodzielnie** — a robiąc to, weszlibyśmy w konflikt z terminologią, którą czytelnik zna.
+>
+> **Uwaga przy cytowaniu:** trzeba zdecydować, **które wydanie** podajemy w przypisach (2008 czy 2023), bo numery stron się różnią. Rekomendacja: **2023 (Czarna Owca)** — jest w sprzedaży, więc czytelnik może sprawdzić.
+
+### Dostępność cyfrowa (sprawdzone 2026-09-09)
+
+- **Wydanie polskie jest w sprzedaży jako e-book (`ibuk.pl`, EPUB)** — to jedyna legalna droga do pełnego tekstu i **jedyna, z której wolno cytować**. Pozycja przestaje więc być „do zdobycia w antykwariacie" — jest do kupienia od ręki.
+- **Angielski oryginał** (*Existential Psychotherapy*, Basic Books 1980): na archive.org i Open Library **tylko podgląd / wypożyczenie**, bez pełnego dostępu. Link podany przez autora (`OL21544305M`) prowadzi do egzemplarza opisanego jako *unavailable*.
+- **Skanu polskiego wydania nie ma** w otwartym dostępie (Jagiellońska Biblioteka Cyfrowa ma tylko rekord katalogowy).
+
+### Terminologia polska — do trzymania się w tekście
+
+Ustalona w przekładzie Tanalskiej-Dulęby i powtarzana w polskiej literaturze psychologicznej:
+
+| Termin | Polskie brzmienie |
+|---|---|
+| *ultimate concerns* | **troski ostateczne** (nie „ostateczne zmartwienia") |
+| cztery troski | **śmierć, wolność, izolacja, brak sensu** |
+| *interpersonal isolation* | **izolacja interpersonalna** |
+| *intrapersonal isolation* | **izolacja intrapersonalna** (odcięcie od części siebie) |
+| *existential isolation* | **izolacja egzystencjalna** |
+| *fusion* | **zlanie się / stopienie** z drugim jako obrona przed izolacją |
+
+**Rozstrzygnięcie dla rozdz. 20 i 47:** książka posługuje się terminem **„izolacja egzystencjalna"** i tak też brzmi on w polskim wydaniu — nie trzeba nic tłumaczyć ani uzgadniać. Sam Yalom odróżnia ją wyraźnie od samotności społecznej, co jest dokładnie tym rozróżnieniem, którego potrzebuje rozdz. 20.
+
+### Czy tłumaczyć samodzielnie? — **NIE**
+
+W odróżnieniu od Marcela tutaj **polski przekład istnieje, jest jeden i jest dostępny w sprzedaży cyfrowej**. Własne tłumaczenie z angielskiego byłoby więc nie tylko zbędne, ale i szkodliwe: rozjechałoby się z terminologią, którą czytelnik znajdzie w każdym polskim opracowaniu. **Cytujemy wyłącznie z wydania Tanalskiej-Dulęby.**
+
+### Co mogę potwierdzić dziś, a czego nie
+
+Z opisów wydawniczych i literatury przedmiotu **potwierdzone są pojęcia i struktura** (cztery troski ostateczne; trójpodział izolacji; teza, że izolacji egzystencjalnej nie da się usunąć relacją, a próby jej usuwania niszczą związki). To wystarcza, żeby **referować Yaloma poprawnie** w rozdz. 20 i 47.
+
+**Czego nie mam:** dosłownych brzmień z paginacją. Wszystkie zdania Yaloma w tekście pozostają **parafrazami z przypisem „referowane, nie cytowane"**, dopóki nie sprawdzimy ich w e-booku. Lekcja z Bubera obowiązuje: krążące po sieci „cytaty z Yaloma" (serwisy z cytatami, prace zaliczeniowe) **nie są źródłem** — bywają tłumaczone ad hoc.
 
 **Potrzebne dla:** rozdz. 20, **47**, 48.
 

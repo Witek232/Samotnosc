@@ -83,7 +83,31 @@ Zostaje pytanie, które nie może czekać: do kogo powierzam siebie? Model dziec
 
 **Przypisy:**
 
-¹ J. Ratzinger, *Wprowadzenie w chrześcijaństwo* (wyd. pol. Znak): rozróżnienie credere Deum / credere Deo / credere in Deum oraz wiara jako „stan zaufania” — rozważania o wierze w części pierwszej; fragment „Credo — wierzę w Ciebie” wg kartoteki, lokalizacja stron [?]; **Ha 2,4** — w tekście głównym **referowane, nie cytowane**; brzmienie Biblii Tysiąclecia: „Oto zginie ten, co jest ducha nieprawego, a **sprawiedliwy żyć będzie dzięki swej wierności**” ✔ zweryfikowane. *Uwaga:* forma „sprawiedliwy żyje z wierności”, obecna w wersji pierwotnej rozdziału w cudzysłowie, **nie jest brzmieniem BT** — cudzysłów usunięto (sprostowanie 2026-09-08). Warto odnotować, że tekst hebrajski mówi o *wierności*, a przekład grecki i za nim NT (Rz 1,17; Ga 3,11; Hbr 10,38) — o *wierze*; ta dwuznaczność jest dla rozdziału o wierze jako zaufaniu **materiałem, nie kłopotem**; obraz podtrzymywania wiary „kroplami” — parafraza robocza, nie cytat.
+¹ J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, wyd. pol. Znak — egzemplarz w bibliotece projektu: `biblioteka/_tekst/ratzinger_wprowadzenie-w-chrzescijanstwo_pl.txt`.
+
+✔ **ZWERYFIKOWANE U ŹRÓDŁA 2026-09-09.** Trzy miejsca, wszystkie z paginacją książkową obecną w pliku:
+
+**(a) Wiara jako „stanie przy czymś" — s. 31**, podrozdział **„5. Wiara jako stanie przy czymś i rozumienie"**. Dosłownie: „wiara w Boga okazuje się **trwaniem przy Bogu**, przez co osiąga człowiek trwałe oparcie w życiu. Słowa te określają wiarę jako zajęcie pewnego stanowiska, **ufne stanięcie na gruncie słowa Bożego**". Ratzinger wylicza tam znaczenia rdzenia *amen*: „prawda, stałość, bezpieczny grunt, podstawa; a dalej: wierność, zaufać, powierzyć się, stanąć na czymś, wierzyć w coś".
+
+**(b) Amen jako zaufanie — s. 36–37.** „**stanąć z pełnym zaufaniem na określonym gruncie, nie dlatego, że ja tę podstawę stworzyłem i sprawdziłem, ale właśnie dlatego, że jej nie stworzyłem i nie mogę jej sprawdzić**; powierzyć się temu, czego nie możemy ani nie potrzebujemy sami wykonać" (s. 36); dalej: „w którym przenikają się wzajemnie pojęcia takie jak zaufanie, zawierzenie, wierność, stałość, bezpieczny grunt, trwanie, prawda" (s. 37). Ratzinger natychmiast zastrzega, że „**to co się tutaj dokonuje, nie jest powierzeniem się na ślepo**" — to zdanie jest ważniejsze dla ruchu V niż cokolwiek, co napisałem tam wcześniej.
+
+**(c) *credo in Deum* — s. 108.** „Gdy mówimy *credo in Deum*, »wierzę w Boga«, wyrażamy przekonanie, że obiektywny duch wynika z subiektywnego Ducha…". **Uwaga: to jest wywód metafizyczny (materializm vs idealizm), NIE gramatyczny.**
+
+**KOREKTA WAŻNA DLA RUCHU II — ROZSTRZYGNIĘTA.** Odziedziczony przypis przypisywał Ratzingerowi **trójpodział *credere Deum* / *credere Deo* / *credere in Deum*** jako strukturę wyłożoną we *Wprowadzeniu*. **W tekście tej książki takiego trójpodziału nie ma** — przeszukanie całego pliku daje jedynie *credo in Deum* na s. 108, w zupełnie innym kontekście. Trójpodział jest klasyczny (Augustyn, *In Ioannis Evangelium* 29,6; Tomasz, *STh* II-II q.2 a.2), obiegowy w podręcznikach — ale **nie pochodzi stąd**. To ten sam mechanizm, co przy DCE § 16 i „rationalis": prawdziwa treść, zmyślony adres.
+
+**ADRES POPRAWNY USTALONY 2026-09-09 — trójpodział zostaje, zmienia się tylko przypis.** Sprawdziłem *Summę*: **Tomasz, *STh* II-II, q. 2, a. 2** — artykuł nosi wprost tytuł „Czy akt wiary właściwie dzieli się na *credere Deo*, *credere Deum* i *credere in Deum*?" i odpowiada twierdząco, powołując się na **Augustyna** (*In Ioannis Evangelium*, tract. 29; *Sermo* 61 *De verbis Domini*). Uzasadnienie Tomasza jest dokładnie tym, czego rozdział potrzebuje, i **jest lepsze niż moje**:
+
+- *credere Deum* — przedmiot **materialny** wiary (to, w co się wierzy);
+- *credere Deo* — przedmiot **formalny**: Prawda Pierwsza, ze względu na którą przyjmuję resztę;
+- *credere in Deum* — przedmiot **od strony woli**, która porusza rozum: wiara jako **ruch ku celowi**.
+
+To potwierdza intuicję ruchu II („gramatyka wchodzenia i oddawania się") **jako tezę Tomasza, nie moją** — i przy okazji tłumaczy, dlaczego trzeci odcień jest najgłębszy: bo jako jedyny angażuje wolę. Przypis w tekście trzeba więc rozdzielić: **trójpodział → Tomasz/Augustyn; *amen* i „trwanie przy" → Ratzinger, s. 31.**
+
+**Rekomendacja dla ruchu II:** oba źródła, w tej kolejności — najpierw Tomaszowa gramatyka (ścisła, sucha, trzy przypadki), potem Ratzingerowskie *amen* jako jej hebrajskie zaplecze i pomost do sceny pływalni (grunt, oparcie, dłoń). Ratzinger dostaje wtedy **ostatnie słowo**, zgodnie z regułą z pkt. 3 planu, a rozdział przestaje przypisywać mu cudzą systematykę.
+
+**BŁĄD DRUKARSKI W ŹRÓDLE — nie powielać.** Na s. 31 wydanie podaje lokalizację cytatu z Izajasza jako **„(Iz 9, 7)"**. To pomyłka: „jeśli nie uwierzycie, nie ostoicie się" to **Iz 7,9** (przestawione cyfry). Gra słów, o którą Ratzingerowi chodzi (*ta'aminu / te'amenu*), jest w 7,9. **W książce podajemy Iz 7,9.**
+
+**Wariant Lutra i Septuaginty — gotowy materiał do ruchu V.** Ratzinger zestawia tam trzy przekłady: Luter — „jeśli nie wierzycie, to się nie utrzymacie"; dosłownie z hebrajskiego — „jeśli nie uwierzycie (= nie będziecie trzymać się Jahwe), to się nie ostoicie"; Septuaginta — „**jeśli nie wierzycie, to i nie zrozumiecie**". I jego komentarz, że zhellenizowana wersja mimo wszystko „zachowała to, co zasadnicze", bo „»stanie« … ma tym samym coś wspólnego z »rozumieniem«". To jest dokładnie teza ruchu V (wiara wytwarza własne rozpoznanie) — **wypowiedziana przez Ratzingera, nie przeze mnie**. Warto ją tam wprowadzić zamiast mojej formuły autorskiej.
 
 ² Ch. Taylor, *Era sekularna*: „zrównanie warunków” wiary (conditions of belief) — jedno zdanie, brzmienie robocze; tytuł i wyd. pol. [?].
 
@@ -100,5 +124,5 @@ Zostaje pytanie, które nie może czekać: do kogo powierzam siebie? Model dziec
 - Wielka litera: reguła ustanowiona w rozdz. 29 obowiązująca w całym rozdziale — „Ty/Ciebie/Tobie” tylko dla Adresata-Boga; „ty” małe — człowiek; rzeczowniki „Bóg/Boga/Bogu/Jego” — kapitalizacja zwykła. Formy credere pozostają terminami łacińskimi (kursywa — decyzja redakcyjna; w rękopisie prostą).
 - Narracja „ja” (część VI, `STRUKTURA_V3.md` § 0.6) — utrzymana; scena pływalni w pierwszej osobie obserwatora („Widziałem…”), zgodnie ze sceną roboczą konspektu § 5; metoda pierścienia: zarzut o sentymencie z otwarcia wraca w puente (dwa zdania) i w moście (rzeczywistość dłoni); obraz poręczy łączy scenę (ruch I), tezę (ruch V) i refren (ruch VIII).
 - Odesłania: 4 (pewność odwrócona — „korzeń własnej pewności”), 17 (bezpieczna baza — Bowlby), 25 (obecność — echo Marcela; odpowiedź refrenu „Tu jestem”), 26 („jest — i przeszedł”), 27 (osoba jako relacja; droga powierzenia), 28 (gramatyka odpowiedzi; „Ty — jesteś?”), 30 (most — Bóg, który nie jest sam), 32 (zapowiedź — „Ty” Boga w historii), 33 (Kościół — most pauzy), 36 (zarzut rozmowy z samym sobą).
-- [?] do redakcji: strony *Wprowadzenia w chrześcijaństwo* (Znak; fragment „Credo” w części pierwszej), brzmienia BT (Hab 2,4; Dz 2,42; J 13,34–35; parafrazy Ps 131 i Mt 6,25–34), Taylor *Era sekularna* (tytuł i wyd. pol. do potwierdzenia), terminologia „stan zaufania”/„kroplówka” (parafrazy robocze konspektu — potwierdzić z lekturą).
+- [?] do redakcji: ~~strony *Wprowadzenia w chrześcijaństwo*~~ **ZAMKNIĘTE 2026-09-09 (s. 31, 36–37, 108 — zob. przyp. ¹); trójpodział przeadresowany na Tomasza *STh* II-II q.2 a.2.** Pozostaje: brzmienia BT (Hab 2,4; Dz 2,42; J 13,34–35; parafrazy Ps 131 i Mt 6,25–34), Taylor *Era sekularna* (tytuł i wyd. pol. do potwierdzenia), terminologia „stan zaufania”/„kroplówka” (parafrazy robocze konspektu — potwierdzić z lekturą).
 - Znaczniki ruchów I–VIII znikają w wersji drukowanej.

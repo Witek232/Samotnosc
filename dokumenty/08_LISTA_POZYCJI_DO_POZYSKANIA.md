@@ -336,43 +336,154 @@ Z opisów wydawniczych i literatury przedmiotu **potwierdzone są pojęcia i str
 3. **Uczestnictwo** — część o „uczestnictwie" jako sposobie, w jaki osoba spełnia się we wspólnocie; oraz postawy autentyczne (solidarność, sprzeciw) i nieautentyczne (konformizm, unik).
 > *Do czego:* rozdz. 28 opiera na tym **cały akapit o czynie**. Obecnie jest to referat bez pokrycia.
 
-## B2. Karol Wojtyła, *Miłość i odpowiedzialność*
+## B2. Karol Wojtyła, *Miłość i odpowiedzialność* — ✅ **ZAMKNIĘTA 2026-09-09: NIE TRZEBA NIC ZDOBYWAĆ**
 
-**Wydanie:** TN KUL, Lublin 1960 / wyd. późniejsze.
-**Fragment:** **norma personalistyczna** — osoba jest takim dobrem, że właściwą wobec niej postawą jest miłość, a nie użycie; oraz analiza „użycia" jako przeciwieństwa miłości.
-> *Do czego:* rozdz. 37 — obecnie parafraza bez cytatu.
+**Cała książka jest darmowa, legalnie, w PDF** — u karmelitów bosych, ten sam serwer, który dał nam *Sumę teologiczną*:
+`https://www.zwola-old.karmelicibosi.pl/p/z/formacja/milosc_i_odpowiedzialnosc.pdf` (195 s. w PDF).
 
-## B3. Jean-Paul Sartre
+⚠️ **Jak z niego korzystać:** plik trzeba **pobrać i przeszukać lokalnie**. Podgląd przez przeglądarkę/narzędzia sieciowe czyta tylko pierwsze strony — to samo ograniczenie, które wcześniej zablokowało *Sumę*. Numeracja stron w PDF **nie odpowiada** paginacji wydania TN KUL 1960, więc przy cytacie podawać: „wyd. elektroniczne udostępnione przez zwola-old.karmelicibosi.pl, s. X (PDF)" albo zweryfikować stronę w egzemplarzu papierowym.
+
+### Fragment 1 — **norma personalistyczna** (to jest ten fragment, którego potrzebuje rozdz. 37)
+
+Część I *Osoba a popęd*, sekcja **„Przykazanie miłości a norma personalistyczna"** — **s. 24 PDF**. Brzmienie dosłowne, odczytane 2026-09-09:
+
+> „Norma ta jako zasada o treści negatywnej stwierdza, że **osoba jest takim dobrem, z którym nie godzi się używanie**, które nie może być traktowane jako przedmiot użycia i w tej formie jako środek do celu. W parze z tym idzie treść pozytywna normy personalistycznej: **osoba jest takim dobrem, że właściwe i pełnowartościowe odniesienie do niej stanowi tylko miłość**."
+
+I doprecyzowanie, które warto znać, żeby nie popełnić skrótu:
+
+> „Ściśle biorąc, **przykazanie miłości tylko opiera się na normie personalistycznej** … normą personalistyczną nie jest, wyrasta z niej tylko jako z zasady … Ściśle biorąc, przykazanie mówi: «Miłuj osoby», a norma personalistyczna jako zasada mówi: «Osoba jest takim bytem, że właściwe i pełnowartościowe odniesienie do niej stanowi miłość»."
+
+**Uwaga merytoryczna:** popularne utożsamienie „norma personalistyczna = przykazanie miłości" jest wg samego Wojtyły **nieścisłe**. Norma jest *uzasadnieniem* przykazania, nie przykazaniem. Jeśli rozdz. 37 miałby to zrównać — nie wolno.
+
+### Fragment 2 — **dwa znaczenia słowa „używać"**
+
+Część I, sekcje „Pierwsze znaczenie słowa «używać»" i **„Drugie znaczenie słowa «używać»" — s. 17 PDF**. Drugie znaczenie (używać = szukać przyjemności) jest tym, które Wojtyła przeciwstawia miłości. Potrzebne, jeśli rozdział ma odróżnić „użycie" jako neutralne posłużenie się od „użycia" jako postawy.
+
+### Fragment 3 — miłość a wierność wobec słabości drugiego
+
+Część II, *Analiza etyczna miłości*, sekcja „Afirmacja wartości osoby", tuż przed podrozdziałem „Zaangażowanie wolności" — **s. 88 PDF**. Brzmienie dosłowne, odczytane 2026-09-09:
+
+> „Kochamy ją z jej zaletami i wadami, poniekąd niezależnie od zalet oraz pomimo wad. **Wielkość takiej miłości ujawnia się najbardziej wówczas, gdy osoba ta upada**, kiedy wychodzą na jaw jej słabości czy nawet grzechy. Człowiek prawdziwie miłujący nie tylko nie odmawia wtedy swej miłości, ale poniekąd bardziej jeszcze miłuje — miłuje, mając świadomość braków i wad i nie aprobując ich bynajmniej. Sama osoba bowiem nigdy nie traci swej istotnej wartości. **Uczucie, które idzie za wartością osoby, jest wierne człowiekowi.**"
+
+Materiał dla rozdz. 37 i 48 — mówi wprost, że miłość nie odchodzi, gdy druga strona przestaje być atrakcyjna. Wojtyła przeciwstawia to **idealizacji** właściwej miłości czysto uczuciowej: tam uczucie „samo stwarza wartości i wyposaża nimi osobę", tu kocha się osobę taką, jaka jest.
+
+> *Do czego:* rozdz. 37 — dotąd parafraza bez cytatu. **Teraz można cytować.**
+
+## B3. Jean-Paul Sartre — **struktura ustalona, cytat dostępny z drugiej ręki**
 
 **Wydanie:** *Byt i nicość*, przeł. J. Kiełbasa i in., Zielona Sowa, Kraków 2007.
-**Fragment:** część III, rozdz. 1 — **„spojrzenie" (le regard)**: scena człowieka przy dziurce od klucza, przyłapanego; przekształcenie mnie w przedmiot pod spojrzeniem drugiego.
+
+**Gdzie dokładnie szukać** (struktura potwierdzona 2026-09-09): **część III „Bycie dla innego"**, w niej po kolei:
+1. istnienie Innego (przegląd stanowisk: realizm/idealizm, Husserl, Hegel, Heidegger),
+2. **„Spojrzenie" (*le regard*)** ← **to jest nasz fragment**,
+3. ciało,
+4. konkretne relacje z Innym: miłość, język, masochizm — oraz obojętność, pożądanie, nienawiść, sadyzm.
+
+**Treść fragmentu:** scena człowieka przy dziurce od klucza, przyłapanego na podglądaniu — pod spojrzeniem drugiego przestaję być czystą świadomością i staję się **przedmiotem**; drugi „posiada sekret tego, czym jestem".
+
+**Droga bez zdobywania książki** — cytat z paginacją jest u M.A. Chojnackiej, *Czy mogę poznać innego?*, „Studia z Historii Filozofii" 2013, wolny dostęp:
+`https://repozytorium.umk.pl/bitstream/handle/item/1742/szhf.2013.052,Chojnacka.pdf` (s. ok. 149) —
+> „Inny mnie posiada; spojrzenie innego kształtuje moje ciało w jego nagości… Inny przechowuje sekret — sekret tego, czym jestem."
+
+Cytując tą drogą, **podać jawnie „cyt. za"** — to warunek rzetelności, nie ozdobnik.
+
 > ⚠️ **„Piekło to inni" pochodzi z dramatu *Przy drzwiach zamkniętych*, nie z *Bytu i nicości*** — jeśli cytować, to z dramatu (wyd. PIW, przeł. J. Lisowski).
-> *Do czego:* rozdz. 43 został napisany **bez ani jednego cytatu z Sartre'a**, co przy rozdziale o Sartrze jest wadą. Rozdz. 9 również.
+> *Do czego:* rozdz. 43 napisany **bez ani jednego cytatu z Sartre'a**, co przy rozdziale o Sartrze jest wadą. Rozdz. 9 również.
 
 ## B4. Sherry Turkle, *Samotni razem*
 
-**Wydanie:** przeł. M. Cierpisz, Wyd. UJ, Kraków 2013.
-**Fragmenty:** (1) formuła tytułowa — „oczekujemy więcej od technologii, a mniej od siebie nawzajem"; (2) **definicja „efektu ELIZY"** — skłonność do rzutowania uczuć na przedmioty i traktowania rzeczy jak osób.
-> *Do czego:* rozdz. 44 i 45 cytują ją **z przekładu własnego z angielskiego**; wydanie polskie usunęłoby dwa `[tł]` i jedno `[?]`.
+**Wydanie:** przeł. M. Cierpisz, Wyd. UJ, Kraków 2013. Tytuł oryg. *Alone Together*.
 
-## B5. Dietrich Bonhoeffer, *Wspólne życie* — wydanie polskie
+**Struktura książki — dwie części, i to one wyznaczają, gdzie czego szukać:**
+- **Część I: „Ruch robotyczny: w samotności nowe intymności"** — roboty społeczne, Tamagotchi, Furby, Paro, badania w domach opieki. **Tu leży „efekt ELIZY"** — Turkle wprowadza go, omawiając program ELIZA Josepha Weizenbauma i skłonność ludzi do przypisywania mu rozumienia. **Do rozdz. 44.**
+- **Część II: „W intymności nowe samotności"** — sieć, nastolatki, SMS-y zamiast rozmów telefonicznych, kontrola nad dystansem. **Do rozdz. 45.**
 
-Mamy oryginał niemiecki, więc to komfort, nie konieczność. Rozwiązałoby ostrzeżenie z rozdz. 39, że cytat-kotwica jest **złożeniem dwóch zdań**.
+**Formuła tytułowa** („oczekujemy więcej od techniki, a mniej od siebie nawzajem") jest w **podtytule polskiego wydania** — to najłatwiejszy do zweryfikowania element, bo widnieje na okładce i w każdym katalogu bibliotecznym.
 
----
+**Darmowe obejście, częściowe:** wykład TED Turkle *Connected, but alone?* ma **oficjalny polski przekład transkrypcji** (`ted.com/talks/sherry_turkle_connected_but_alone/transcript?language=pl`). Zawiera m.in. **„efekt Złotowłosej"** — „nie za blisko, nie za daleko, w sam raz" — czyli tezę o kontrolowanym dystansie, będącą sednem rozdz. 45. **To pozwala cytować Turkle po polsku, legalnie i za darmo**, z przypisem na wykład zamiast na książkę.
+⚠️ Ale **„efektu ELIZY" w wykładzie nie ma** — ten termin wymaga książki albo osobnego źródła.
+
+> *Do czego:* rozdz. 44 i 45 cytują ją **z przekładu własnego z angielskiego**; wydanie polskie (albo transkrypcja TED) usunęłoby dwa `[tł]` i jedno `[?]`.
+
+## B5. Dietrich Bonhoeffer — ⚠️ **UWAGA: TYTUŁ POLSKI JEST INNY, NIŻ MIELIŚMY ZAPISANY**
+
+**Poprawnie: *Życie wspólne*** (nie „Wspólne życie"). Tytuł oryginału: *Gemeinsames Leben*.
+**Wydanie polskie:** Wydawnictwo Alleluja, Kraków 2001, 128 s., ISBN 83-87440-86-8. Jest też nowsze wznowienie (2024) — dostępne w księgarniach chrześcijańskich, m.in. szaron.pl.
+
+**Dlaczego to ważne:** szukanie w katalogu bibliotecznym pod „Wspólne życie" **daje zero wyników**. To ta sama pułapka, co przy Balthasarze (*Teologia misterium paschalnego*, nie „Mysterium Paschale").
+
+**Priorytet: niski — to komfort, nie konieczność.** Mamy oryginał niemiecki, więc rozdz. 39 da się napisać. Wydanie polskie rozwiązałoby jedynie ostrzeżenie, że cytat-kotwica jest **złożeniem dwóch zdań**, a nie jednym zdaniem Bonhoeffera. Książka jest cienka (128 s.) i tania na rynku wtórnym — gdyby trafiła się okazyjnie, warto.
+
+**Fragment do sprawdzenia, gdyby egzemplarz się pojawił:** rozdział I (*Wspólnota*) — rozróżnienie wspólnoty **duchowej** (której centrum jest Chrystus) od **psychicznej**, opartej na ludzkiej sympatii. To rozróżnienie jest osią rozdz. 39 i to w nim leży cytat-kotwica.
 
 # CZĘŚĆ C — PRIORYTET 3: poprawiłyby jakość
 
-| Pozycja | Fragment | Do czego |
-|---|---|---|
-| **Josef Pieper**, *Tod und Unsterblichkeit* (München 1968) | wypieranie śmierci; „śmierć oswojona" | 46, 47 — Ratzinger sam się na niego powołuje, a Pieper jest filarem stylistycznym książki |
-| **Philippe Ariès**, *Człowiek i śmierć* (PIW) | przejście od „śmierci oswojonej" do „odwróconej" | 46 — obecnie znam **tylko z drugiej ręki**, nazwisko świadomie pominięte w tekście |
-| **Ernest Becker**, *Zaprzeczanie śmierci* (PIW/Czarna Owca) | „projekt heroiczny"; lęk śmierci jako motor kultury | 46 — referowany opisowo, działa |
-| **Zygmunt Bauman**, *Śmierć i nieśmiertelność* (PWN 1998) | strategie nieśmiertelności; ich indywidualizacja | 46 — **`[?]` przy przypisaniu mu tezy o indywidualizacji** |
-| **Robert Spaemann**, *Osoby. O różnicy między czymś a kimś* (Oficyna Naukowa) | różnica „coś"/„ktoś" | **28** — w tekście jest **zdanie w cudzysłowie przypisane Spaemannowi bez źródła**, patrz audyt |
-| **Abraham J. Heschel**, *Bóg szukający człowieka* (Esprit) | Bóg jako poszukujący, nie poszukiwany; patos Boży | **30 — rozdział nowy, jeszcze nienapisany, Heschel jest w nim głosem wiodącym** |
-| Heidegger, *Bycie i czas*; Jaspers, *Sytuacje graniczne* | po jednym zdaniu | 22, 47 — **świadomie nisko**: konspekt daje każdemu jedną linię, referat wystarczy; nie warto kupować *Bycia i czasu* dla jednej linii |
-| Viktor Frankl, *Człowiek w poszukiwaniu sensu* | świadectwo | 20, 47 — tania i wszędzie dostępna |
+*Rozbudowane 2026-09-09: zamiast samych tytułów — konkretne rozdziały, strony i darmowe drogi dojścia.*
+
+## C1. Josef Pieper, *Śmierć i nieśmiertelność* — ⚠️ **wydanie polskie jest emigracyjne**
+
+Tytuł oryg. *Tod und Unsterblichkeit* (1968). **Przekład polski: Anna Morawska, Éditions du Dialogue (Paryż), 1970 i 1979.** To wydawnictwo paryskiej emigracji, nie krajowe — dlatego książki **nie ma w typowej bibliotece miejskiej**. Szukać: biblioteki uniwersyteckie i KUL/PAT, katalog NUKAT, antykwariaty z drukami emigracyjnymi.
+
+**Czego szukamy:** rozróżnienia śmierci jako zdarzenia biologicznego i jako aktu osoby oraz krytyki nowożytnego wypierania śmierci. **Do rozdz. 46 i 47.**
+
+**Obejście bez zdobywania książki:** Ratzinger powołuje się na Piepera w *Eschatologii* — **można cytować Ratzingera cytującego Piepera**, co jest zgodne z linią książki i nie wymaga dostępu do oryginału. To jest zalecana droga.
+
+## C2. Philippe Ariès, *Człowiek i śmierć* — **mamy dokładną paginację, nawet bez egzemplarza**
+
+Wyd. PIW, przeł. Eliza Bąkowska. Spis treści ustalony 2026-09-09 z oferty antykwarycznej — **numery stron są z samej książki, nie z opracowania**:
+
+| Fragment | Strony |
+|---|---|
+| Ks. I, cz. I, rozdz. 1 **„Śmierć oswojona"** | od s. 19; wewnątrz: „Wiedząc, że śmierć nadchodzi" **19**, „Mors repentina" **24**, „W ogrodzie, wśród kwiatów" **37**, „Zgoda na nieuniknione" **39**, „Śmierć oswojona" **41** |
+| „Znowu śmierć oswojona" | **200** |
+| Cz. V, rozdz. 12 **„Śmierć na opak"** | od **549**; „Gdzie kryje się śmierć" **549**, „Początek kłamstwa" **550**, „Początek medykalizacji" **553**, „Nieprzyzwoitość żałoby" **567**, „Śmierć wyeliminowana" **568**, „Zwycięstwo medykalizacji" **572**, „Śmierć dzisiaj" **577** |
+
+**To wystarczy, żeby zamówić skan dwóch rozdziałów** (ok. 60 stron) w bibliotece albo znaleźć je punktowo w czytelni — zamiast szukać całego, drogiego tomu. Para „śmierć oswojona" (s. 19–41) ↔ „śmierć na opak" (s. 549–583) jest **całą osią**, której potrzebuje rozdz. 46.
+
+⚠️ Dopóki nie ma egzemplarza w ręku, **nazwisko Ariès pozostaje w tekście pominięte** — obecnie znamy go tylko z drugiej ręki.
+
+## C3. Ernest Becker, *Zaprzeczanie śmierci* — **użytkownik nie ma dostępu; nie cytować**
+
+Rozdz. 46 referuje „projekt heroiczny" **opisowo, bez cytatu** — i tak zostaje. Pozycja zamknięta decyzją, nie brakiem.
+
+## C4. Zygmunt Bauman, *Śmierć i nieśmiertelność* — **użytkownik nie ma dostępu; nie cytować**
+
+⚠️ Konsekwencja: **przypisanie Baumanowi tezy o „indywidualizacji strategii nieśmiertelności" musi zostać oznaczone `[?]` albo usunięte.** Nie wolno go zostawić jako twierdzenia pewnego. Do rozstrzygnięcia przy redakcji rozdz. 46.
+
+## C5. Robert Spaemann, *Osoby. O różnicy między czymś a kimś*
+
+Oficyna Naukowa, Warszawa 2001, 350 s. (seria Terminus).
+
+⚠️ **Nie wpisywać stron podanych za cudzym opracowaniem** — to już raz o mało nie weszło do tekstu (s. 167–168 / 220–223 / 296–297 pochodziły z artykułu, nie z książki).
+
+**Strony potwierdzone w niezależnych pracach naukowych** (nadal do sprawdzenia w egzemplarzu, ale wiarygodniejsze, bo zgodne u kilku autorów): **s. 83** (osoby są żyjącymi ludźmi; nie ma bycia osobą niezależnego od bycia człowiekiem), **s. 103** (osoba potrafi przekraczać własną naturę — w odróżnieniu od zwierząt), **s. 220 i 226** (osoby odnoszą się do siebie; rozpoznanie innego „jako takiego samego jak ja"), **s. 243**, **s. 303**.
+
+**Do rozdz. 28** potrzebne jest jedno: teza, że „ktoś" nigdy nie jest „czymś" i że bycie kimś nie jest cechą orzekaną o uprzednio zidentyfikowanej rzeczy. **W tekście rozdz. 28 stoi dziś zdanie w cudzysłowie przypisane Spaemannowi bez źródła — do czasu weryfikacji zamienić na parafrazę.**
+
+## C6. Abraham J. Heschel, *Bóg szukający człowieka* — ✅ **CAŁY ROZDZIAŁ II ZA DARMO**
+
+Wyd. Esprit, Kraków 2008. **Opoka udostępnia legalnie cały rozdział II** *Drogi do Jego obecności*:
+`https://opoka.org.pl/biblioteka/I/IR/espr_ajh_judaizm`
+
+Podrozdziały dostępne w tym fragmencie: „Biblia jest nieobecna" · „Pamięć i wejrzenie" · **„Człowiek poszukujący Boga"** · **„Szukajcie mojej twarzy"** · „Trzy drogi".
+
+**To pokrywa rdzeń rozdz. 30**, w którym Heschel jest głosem wiodącym. Zdania nadające się na kotwicę (odczytane 2026-09-09, brzmienie polskiego przekładu Esprit):
+- „Gdy mówią filozofowie, milkną prorocy."
+- „Dane są dwa źródła myślenia religijnego: **pamięć** (tradycja) oraz **osobiste wejrzenie**."
+- „Bóg oczekuje, iż człowiek będzie Go szukał."
+- talmudyczne: „Jeśli jakiś człowiek mówi do ciebie: starałem się, lecz nie znalazłem, nie wierz mu. Jeśli mówi: nie czyniłem wysiłków, a jednak znalazłem, nie wierz mu. Jeśli mówi: starałem się i znalazłem, zaufaj mu."
+
+⚠️ Fragment na Opoce **nie ma paginacji książkowej** — cytować jako: „przeł. [wg wyd. Esprit 2008], rozdz. II *Drogi do Jego obecności*, cyt. za opoka.org.pl" albo dopisać stronę po sprawdzeniu w egzemplarzu.
+
+⚠️ Uwaga: tytuł **odwraca** oryginał — ang. *God in Search of Man*. Nie mylić z *Człowiek nie jest sam* ani *Bóg szukający człowieka* w innych przekładach.
+
+## C7. Heidegger, *Bycie i czas*; Jaspers, *Sytuacje graniczne* — **świadomie nie zdobywać**
+
+Konspekt daje każdemu **jedną linię** (rozdz. 22 i 47). Referat z opracowań w zupełności wystarczy; kupowanie *Bycia i czasu* dla jednego zdania jest nieuzasadnione. Jedyny wymóg: nie wkładać im w usta cytatu w cudzysłowie — **parafraza z podaniem, że to referat**.
+
+## C8. Viktor Frankl, *Człowiek w poszukiwaniu sensu*
+
+Do rozdz. 20 i 47 — świadectwo. Najtańsza i najłatwiej dostępna pozycja z całej listy; jest w większości bibliotek miejskich. **Brak przeszkód.**
 
 ---
 
@@ -413,7 +524,7 @@ Obsługują rozdziały **29, 47 i 48** — filozoficzny szczyt książki i jej f
 
 ## § C. Mapa pokrycia pozycji z tabeli (stan 2026-09-09)
 
-Przegląd zamykający: dla każdej pozycji z tabeli podanej przez autora ustalono, **czy da się ją obsłużyć bez kupowania czegokolwiek**. Wynik: siedem z ośmiu — tak.
+Przegląd zamykający: dla każdej pozycji z tabeli podanej przez autora ustalono, **czy da się ją obsłużyć bez kupowania czegokolwiek**. Wynik: **osiem z ośmiu — tak.**
 
 | Pozycja | Status | Droga dojścia |
 |---|---|---|
@@ -424,8 +535,8 @@ Przegląd zamykający: dla każdej pozycji z tabeli podanej przez autora ustalon
 | **Becker**, *Zaprzeczanie śmierci* | ✔ bez zmian | Referat opisowy w rozdz. 46 działa; Becker jest tam echem, nie głosem wiodącym. |
 | **Heidegger / Jaspers** | ✔ decyzja podtrzymana | Świadomie po jednej linii każdy. Referat wystarcza. **Nie kupować** — koszt nieproporcjonalny do jednego zdania. |
 | **Frankl** | ✔ bez zmian | Obsłużony wcześniej; przywoływany opisowo. |
-| **Ariès**, *Człowiek i śmierć* | ⚠ **jedyna otwarta** | Pozostaje świadomie pominięty (rozdz. 46, nota końcowa pkt 3). Nie blokuje żadnego rozdziału: jego teza o przemianie obyczaju śmierci jest w tekście obecna przez Ratzingera i Piepera. **Rekomendacja: zostawić pominiętym.** Przywracać tylko, gdyby trafił się darmowo. |
+| **Ariès**, *Człowiek i śmierć* | ✔ **odblokowana 2026-09-09** | Ustalono **pełną paginację** dwóch kluczowych rozdziałów wyd. PIW (przeł. E. Bąkowska) ze spisu treści samej książki: „Śmierć oswojona" **s. 19–41** i „Śmierć na opak" **s. 549–583**. Wystarczy zamówić skan ok. 60 stron w bibliotece — zamiast szukać całego tomu. Szczegóły w § C2. |
 
-**Wniosek dla autora: nie ma już pozycji, której brak blokowałby pisanie.** Jedyne realne braki to Buber, Marcel i Yalom z § A — i te dotyczą rozdziałów 29, 47 i 48, gdzie autor ma być głosem wiodącym. Buber jest już w projekcie (skan). Reszta tabeli jest obsłużona.
+**Wniosek dla autora: nie ma już pozycji, której brak blokowałby pisanie — i po 2026-09-09 nie ma już nawet pozycji otwartej.** Doszły dwa przełomy: **cała *Miłość i odpowiedzialność* Wojtyły jest darmowa w PDF** (§ B2) i **Ariès ma ustaloną paginację** (§ C2). Jedyne realne braki to Buber, Marcel i Yalom z § A — i te dotyczą rozdziałów 29, 47 i 48, gdzie autor ma być głosem wiodącym. Buber jest już w projekcie (skan). Reszta tabeli jest obsłużona.
 
 **Metoda, która to umożliwiła — warto ją powtarzać.** Wyszukiwanie **frazy z polskiego przekładu** trafia w recenzowane artykuły PAN / ISP PAN, które cytują dane miejsce z przypisem i paginacją. To szybsze i pewniejsze niż polowanie na pełne teksty. Uwaga: **Powszechna Encyklopedia Filozofii sprawdza się tylko dla autorów, których obejmuje** — Wojtyła tak, Sartre'a w niej nie ma (hasła brak, sprawdzone).

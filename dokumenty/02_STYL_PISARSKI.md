@@ -61,7 +61,7 @@ Rozróżnienie jest konieczne, bo dotąd Ratzinger był w książce bazą stylu,
 | **Akcent** | Charles Péguy | poetycka nitka nadziei | 27 lub 49 | rytmu powtórzenia; nadziei jako najmłodszej z sióstr (robocza parafraza [?]) | zbyt częstego cytowania; naśladowania składni poza cytatem |
 | **Akcent** | Thomas Merton (tylko wczesny, do ~1958) | samotność vs izolacja; ton kontemplacyjny | 21; opcjonalnie 36 | rozróżnienia wewnętrznego; ciszy jako środka | późnego Mertona (zwrot międzyreligijny — poza decyzją kartoteki) |
 | **Narzędzie językowe** | Stefan Swieżawski | kalibracja polszczyzny eseju intelektualnego | rytm i leksyka całości | dowodu, że rejestr Ratzingera działa po polsku | kopiowania fraz |
-| **Źródło merytoryczne (nie styl)** | H. U. von Balthasar | teczka teologiczna zstąpienia | **tylko rozdz. 24** (*Mysterium Paschale*) | Wielkiej Soboty jako teologii, nie obrazu | barokowej gęstości prozy |
+| **Źródło merytoryczne (nie styl)** | H. U. von Balthasar | teczka teologiczna zstąpienia | **tylko rozdz. 24** (*Teologia misterium paschalnego*, WAM 2001) | Wielkiej Soboty jako teologii, nie obrazu | barokowej gęstości prozy |
 
 ## 3. Mapa akcentów (jedyna lista miejsc, w których akcenty się pojawiają)
 
@@ -118,7 +118,10 @@ Decyzja autora (`STRUKTURA_V2.md` § 0.2) wycofuje **świadectwa** protestanckie
 - **Giussani** — *Sens religijny* [?].
 - **Péguy** — *Portal tajemnicy nadziei* [?].
 - **Merton** — *Nikt nie jest wyspą*, *Siedmiopiętrowa góra* [?].
-- **Balthasar** — *Mysterium Paschale* (wydanie polskie [?]).
+- **Balthasar** ✔ **WYDANIE POLSKIE USTALONE 2026-09-09 — `[?]` zdjęte:** H. U. von Balthasar, ***Teologia misterium paschalnego***, przeł. **Edward Piotrowski**, Wydawnictwo WAM, Kraków **2001**, 281 s., ISBN 83-7097-745-6.
+  - ⚠️ **Uwaga terminologiczna, ważna przy szukaniu:** polski tytuł brzmi ***Teologia misterium paschalnego***, **nie** „Mysterium Paschale". Łaciński tytuł odnosi się do oryginału — rozprawy w tomie zbiorowym *Mysterium Salutis* III/2 (Einsiedeln 1969, s. 133–326), nie do osobnej książki. Kto szuka w katalogu „Mysterium Paschale" po polsku, **nie znajdzie nic**.
+  - ⚠️ **Wydawcą jest WAM (Kraków), nie Tyniec.** Wcześniejsze zapiski projektu podawały „Tyniec 1999" — **atrybucja błędna, poprawiona**.
+  - Miejsca cytowane w polskiej literaturze przedmiotu (punkty startowe dla rozdz. 24): **s. 23–24** (ujęcie ogólne misterium), **s. 35**, **s. 83**, **s. 98–99**, **s. 168** (Wielka Sobota, solidarność z umarłymi), **s. 203** (kenoza).
 - **Swieżawski** — *U źródeł tożsamości chrześcijaństwa* (wyd., strony [?]).
 
 ## 8. Wpływ na teczki i dalsze kroki

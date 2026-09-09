@@ -31,7 +31,7 @@ Definicja, której szukam, ma w zachodniej myśli twarz bardzo starą i powstał
 
 ### III
 
-Dwa wieki później Tomasz z Akwinu podjął to pojęcie w Sumie teologicznej i nadał mu odwagi, której sama definicja Boecjusza nie sugerowała: osoba, pisze, oznacza to, co jest najdoskonalsze w całej naturze (²). Trzeba zaraz sprostować, czego to zdanie nie mówi: nie mówi, że ktoś jest doskonalszy, bo jest mądrzejszy, silniejszy albo użyteczniejszy; doskonałość chodzi tu o sposób istnienia, nie o wynik. Skąd ta wyższość, Suma tłumaczy kilka zdań wcześniej: osoba jest tym, co istnieje w sobie — nie w czymś innym jako część. Kamień istnieje, ale jako egzemplarz gatunku; oko istnieje, ale tylko jako część kogoś innego. Osoba istnieje cała i na własny rachunek: nie jest fragmentem świata — jest jego pełnią. Nie jest też komórką większego organizmu: nie ma struktury, od plemienia po państwo, której osoba byłaby tylko częścią. I nie dzieli się na dane tak, jak ciało dzieli się na organy: jest w każdym swoim polu cała. Jest jeszcze jedno, co łatwo przeoczyć: Tomasz definiuje osobę nie w traktacie o człowieku, lecz w traktacie o Bogu. Pojęcie osoby dojrzewało w teologii Trójcy — najpierw nauczyło się mówić „osoba” o Ojcu, Synu i Duchu, dopiero potem o człowieku. Człowiek jest osobą, bo jego istnienie ma kształt istnienia Boga: istnieć na własny rachunek, a mimo to istnieć wobec. Co ta druga strona oznacza w Bogu — rozdział trzydziesty drugi; tu zostaje zapowiedź.
+Dwa wieki później Tomasz z Akwinu podjął to pojęcie w Sumie teologicznej i nadał mu odwagi, której sama definicja Boecjusza nie sugerowała: osoba, pisze, oznacza coś najdoskonalszego w całej naturze — a doprecyzowuje to od razu: chodzi o to, **co bytuje samoistnie w rozumnej naturze** (²). Trzeba zaraz sprostować, czego to zdanie nie mówi: nie mówi, że ktoś jest doskonalszy, bo jest mądrzejszy, silniejszy albo użyteczniejszy; doskonałość chodzi tu o sposób istnienia, nie o wynik. Skąd ta wyższość, Suma tłumaczy kilka zdań wcześniej: osoba jest tym, co istnieje w sobie — nie w czymś innym jako część. Kamień istnieje, ale jako egzemplarz gatunku; oko istnieje, ale tylko jako część kogoś innego. Osoba istnieje cała i na własny rachunek: nie jest fragmentem świata — jest jego pełnią. Nie jest też komórką większego organizmu: nie ma struktury, od plemienia po państwo, której osoba byłaby tylko częścią. I nie dzieli się na dane tak, jak ciało dzieli się na organy: jest w każdym swoim polu cała. Jest jeszcze jedno, co łatwo przeoczyć: Tomasz definiuje osobę nie w traktacie o człowieku, lecz w traktacie o Bogu. Pojęcie osoby dojrzewało w teologii Trójcy — najpierw nauczyło się mówić „osoba” o Ojcu, Synu i Duchu, dopiero potem o człowieku. Człowiek jest osobą, bo jego istnienie ma kształt istnienia Boga: istnieć na własny rachunek, a mimo to istnieć wobec. Co ta druga strona oznacza w Bogu — rozdział trzydziesty drugi; tu zostaje zapowiedź.
 
 ### IV
 
@@ -55,7 +55,7 @@ Karol Wojtyła dopisał ruch wewnętrzny. W Osobie i czynie osoba nie jest opisa
 
 ### VI
 
-Teraz można wypowiedzieć tezę, dla której ten rząd nazwisk został ustawiony. Joseph Ratzinger zebrał teologiczną pracę nad pojęciem osoby i wysunął z niej wniosek, który dla tej książki jest klamrą: w teologii osoba nie jest najpierw substancją, a potem relacją; osoba jest relacją (⁶). Pojęcie dojrzałe na Trójcy nie pozwala myśleć osoby bez „wobec” — więc i człowiek nie jest osobą dzięki relacjom, które zdążył zawrzeć; jest osobą przez relację, która go tworzy. Dlatego nie ma osoby całkiem prywatnej: istnieć jako osoba znaczy już być wystawionym na kogoś. Jednostka jest pozycją w klasyfikacji: egzemplarz gatunku, wiersz w tabeli, jedenaście pól formularza. Osoba jest tym, co istnieje dla i wobec — „dla” znaczy, że ma kierunek poza siebie; „wobec” znaczy, że ten kierunek ma adres. Jeżeli osoba jest „kimś”, a nie „czymś”, relacja nie jest dodatkiem do jej istnienia — dołączanym po fakcie, jak aplikacja do telefonu.
+Teraz można wypowiedzieć tezę, dla której ten rząd nazwisk został ustawiony. Joseph Ratzinger zebrał teologiczną pracę nad pojęciem osoby i wysunął z niej wniosek, który dla tej książki jest klamrą. Mówi go o Trójcy, ale mówi bez zastrzeżeń: obok substancji stoi dialog, relacja — i to „jako w równej mierze pierwotna forma bytu". A o samej osobie: **jest czystą relacją odnoszenia się do kogoś, niczym więcej** (⁶). Nie jest więc tak, że osoba najpierw jest, a potem wchodzi w relacje: relacja nic tu do osoby nie dodaje. Pojęcie dojrzałe na Trójcy nie pozwala myśleć osoby bez „wobec” — więc i człowiek nie jest osobą dzięki relacjom, które zdążył zawrzeć; jest osobą przez relację, która go tworzy. Dlatego nie ma osoby całkiem prywatnej: istnieć jako osoba znaczy już być wystawionym na kogoś. Jednostka jest pozycją w klasyfikacji: egzemplarz gatunku, wiersz w tabeli, jedenaście pól formularza. Osoba jest tym, co istnieje dla i wobec — „dla” znaczy, że ma kierunek poza siebie; „wobec” znaczy, że ten kierunek ma adres. Jeżeli osoba jest „kimś”, a nie „czymś”, relacja nie jest dodatkiem do jej istnienia — dołączanym po fakcie, jak aplikacja do telefonu.
 
 Relacja nie jest dodatkiem do osoby. Jest jej formą istnienia.
 
@@ -75,10 +75,33 @@ Odpowiedź na refren będzie miała kształt gramatyki. Gramatyka, o którą cho
 
 **Przypisy:**
 
-¹ Boecjusz, *Contra Eutychen et Nestorium* III (ok. 512–513): „naturae rationalis individua substantia” — „osoba jest indywidualną substancją natury rozumnej”; standardowe polskie brzmienie do sprawdzenia z wydaniem [?]; etymologia persona (personare) — do potwierdzenia [?].
+¹ Boecjusz, *Liber de persona et duabus naturis contra Eutychen et Nestorium*, **rozdz. III** (ok. 512–513). ✔ **ZWERYFIKOWANE 2026-09-09 w tekście łacińskim** (Documenta Catholica Omnia, `documentacatholicaomnia.eu`, plik *Contra Eutychen et Nestorium, LT*).
 
-² Tomasz z Akwinu, *Summa theologiae* I, q. 29, a. 3 — teza, że *persona significat id quod est perfectissimum in tota natura* (osoba oznacza to, co najdoskonalsze w całej naturze); a. 1–2 (subsystencja); kontekst trynitarny traktatu. **W tekście głównym referowane, nie cytowane** — polskie brzmienie nieustalone (wyd. pol. *Suma teologiczna*, Veritas). **[?]**
-**Sprostowanie 2026-09-08:** wersja pierwotna miała tę frazę w cudzysłowie mimo adnotacji „robocza parafraza” w tym samym przypisie. Cudzysłów usunięto; lokalizacja (I, q. 29, a. 3) jest standardowa i pewna, samo brzmienie polskiego przekładu — nie.
+**POPRAWKA BRZMIENIA — było „rationalis", jest „rationabilis".** Oryginał:
+
+> „reperta personae est definitio: **naturae rationabilis indiuidua substantia**."
+
+i powtórzone kilka zdań dalej w szyku odwróconym: „persona uero **rationabilis naturae indiuidua substantia**". Forma *rationalis* krąży powszechnie w opracowaniach (i tak właśnie stało w naszym przypisie), ale **u Boecjusza jej nie ma**. Różnica jest drobna leksykalnie, lecz to jest cytat łaciński w cudzysłowie — musi być dokładny.
+
+**Etymologia *persona* ✔ POTWIERDZONA — `[?]` zdjęte.** Boecjusz wywodzi ją wprost: „**Persona uero dicta est a personando**, circumflexa paenultima" — i tłumaczy dlaczego przez dźwięk: „quia concauitate ipsa maior necesse est uoluatur sonus" (przez samo wydrążenie maski głos musi brzmieć donośniej). Podaje też grecki odpowiednik *prosopon* — „od tego, że kładzie się je na twarzy i zasłania oblicze przed oczami" — oraz to, że aktorzy w maskach przedstawiali **jednostkowych ludzi**: Hekubę, Medeę, Simona, Chremesa.
+
+**To wzmacnia akapit rozdziału bardziej, niż zakładał.** Tekst główny mówi, że Boecjusz „znał to pochodzenie i wybrał to słowo świadomie" — i jest to prawda dosłowna: Boecjusz nie tylko je znał, ale **poświęcił mu osobny wywód**, łącznie z akcentem (*circumflexa paenultima*). Co więcej, jego uzasadnienie idzie po linii tej książki: maska nie ukrywa, lecz **wzmacnia głos**.
+
+Polskie brzmienie definicji („indywidualna substancja natury rozumnej") jest w tekście głównym **referatem, nie cytatem** — i tak zostaje; standardowego przekładu polskiego nie weryfikowałem [?].
+
+² Tomasz z Akwinu, *Suma teologiczna* I, **q. 29, a. 3**. ✔ **BRZMIENIE POLSKIE USTALONE 2026-09-09 — `[?]` ZDJĘTE.** Przekład o. **Piusa Bełcha OP**, tom 3 (*O Trójcy Przenajświętszej*, q. 27–43) — cała *Suma* po polsku jest darmowa na `zwola-old.karmelicibosi.pl` (`summa_03.pdf`; ten sam adres dał wcześniej tom 26 dla rozdz. 25).
+
+Zdanie z korpusu artykułu, co do słowa:
+
+> „Osoba oznacza coś najdoskonalszego w całej naturze, mianowicie to, co bytuje samoistnie w rozumnej naturze."
+
+**Poprawka w tekście głównym:** rozdział urywał tę myśl w połowie („oznacza to, co jest najdoskonalsze w całej naturze") i przez to gubił dopowiedzenie, które u Tomasza **jest w tym samym zdaniu** i które właśnie tłumaczy, o jaką „doskonałość" chodzi. Rozdział musiał to potem odzyskiwać własnym komentarzem („doskonałość chodzi tu o sposób istnienia, nie o wynik") — teraz stoi to u Tomasza wprost. Uzupełnione.
+
+**Definicja Boecjusza u Tomasza (a. 1) — polskie brzmienie Bełcha ✔:** „Osoba jest to jestestwo jednostkowe natury rozumnej". Warto odnotować dla redakcji, że przekład Bełcha ma **„jestestwo"**, nie „substancję" — jeśli w książce cytujemy oba miejsca, trzeba zdecydować, czy trzymamy się terminologii Bełcha, czy referujemy własnymi słowami (dziś: referujemy).
+
+**Znalezisko potwierdzające akapit o Boecjuszu:** Tomasz w tym samym artykule streszcza etymologię maski — „głos piętrzył się w zagłębieniu maski i potęgował. Grecy te właśnie maski zwali *prosopa*, gdyż zakładano je przed oczy na twarze" — czyli **niezależnie od Boecjusza potwierdza to, co rozdział mówi o teatralnym rodowodzie słowa**. Zob. przyp. ¹.
+
+**Kontekst trynitarny ✔ potwierdzony u źródła:** artykuł 3 pyta wprost „Czy nazwa »osoba« stosuje się do Boga?", a a. 4 — „w jakim znaczeniu". Zdanie rozdziału, że Tomasz definiuje osobę „nie w traktacie o człowieku, lecz w traktacie o Bogu", jest ścisłe.
 
 ³ Książka: R. Spaemann, *Personen. Versuche über den Unterschied zwischen „etwas" und „jemand"*, Klett-Cotta, Stuttgart 1996 (³2006); wyd. pol.: *Osoby. O różnicy między „czymś" a „kimś"*, przeł. **Jarosław Merecki SDS**, Oficyna Naukowa, Warszawa 2001, 345 s., seria „Terminus" t. 22, ISBN 83-88164-35-X. **Danych wydania polskiego NIE weryfikowałem samodzielnie u źródła** — pochodzą od autora projektu (katalog UKSW) [?].
 
@@ -110,7 +133,19 @@ oraz (s. 183): „Personalität gibt es überhaupt nur im Plural, als Personenge
 
 ⁵ K. Wojtyła, *Osoba i czyn*, w: *Osoba i czyn oraz inne studia antropologiczne*, TN KUL, Lublin 1994³ (kolejne wyd. 2000, 2019/2020). **Weryfikacja 2026-09-09** w *Powszechnej Encyklopedii Filozofii* (PTTA, hasło „Wojtyła Karol"), cytującej to wydanie z paginacją. Potwierdzone: metoda jako „studium czynu, który ujawnia osobę: studium osoby przez czyn" (s. 59); „W czynach zawiera się sprawczość, sprawczość uwydatnia konkretne »ja« jako świadomą siebie przyczynę działania. I to jest właśnie osoba" (s. 127); samostanowienie — osoba jest „tym, kto siebie samego posiada, i zarazem tym, kto jest posiadany tylko i wyłącznie przez siebie" (s. 152). Termin **transcendencja osoby w czynie** jest Wojtyłowy i potwierdzony. W tekście głównym **referowane, nie cytowane**; źródło wtórne recenzowane — do potwierdzenia z egzemplarzem przy korekcie.
 
-⁶ J. Ratzinger, „Uwagi o pojęciu osoby w teologii”, *Communio* (1990); wyd. pol. [?] — pomost do rozdz. 35.
+⁶ **ŹRÓDŁO WYMIENIONE 2026-09-09 — na sprawdzalne i mocniejsze.** Było: „Uwagi o pojęciu osoby w teologii", *Communio* 1990 — tekst, **którego projekt nie ma** i którego brzmienia nie da się zweryfikować (ten sam martwy odnośnik pojawiał się w rozdz. 26, gdzie również został zastąpiony).
+
+Jest: J. Ratzinger, *Wprowadzenie w chrześcijaństwo* (egzemplarz w bibliotece projektu: `biblioteka/_tekst/ratzinger_wprowadzenie-w-chrzescijanstwo_pl.txt`), **s. 134** — ✔ **ZWERYFIKOWANE CO DO SŁOWA:**
+
+> „obok substancji mamy dialog, relację, jako w równej mierze pierwotną formę bytu"
+
+> „**Osoba jest czystą relacją odnoszenia się do kogoś, niczym więcej. Relacja nic nie dodaje do osoby**, jak to jest u nas, polega tylko na możliwości odniesienia się do kogoś."
+
+Oraz, kilka wierszy dalej (s. 134), obraz, który rozdział mógłby wykorzystać: pierwsza Osoba nie tyle rodzi, ile **jest aktem rodzenia** — „jest »falą« a nie »cząsteczką«". Ratzinger sięga tu świadomie po Schrödingera (s. 126: materia jako „wiązka fal", byt „nie substancjalny, tylko czysto aktualny").
+
+**Uwaga, którą trzeba utrzymać przy redakcji.** Zdanie „osoba jest czystą relacją" Ratzinger wypowiada **o Osobach Boskich**, nie wprost o człowieku; przeniesienie na człowieka jest ruchem rozdziału, nie cytatem. Tekst główny został tak przeredagowany, żeby to było widać („Mówi go o Trójcy…"), a wniosek antropologiczny formułuje już własnymi słowami. **Nie wolno przy redakcji skrócić tego tak, by wyszło, że Ratzinger nazywa człowieka czystą relacją.**
+
+**Wzmocnienie z tego samego tomu (s. 251–252), przydatne w ruchu VI i w rozdz. 32:** Bóg „jest odniesieniem do siebie trzech Osób […] jest aktem-substancją miłości absolutnej", *relatio subsistens*; oraz teza, że „nieśmiertelność człowieka może być pomyślana tylko we współistnieniu ludzi" — to jest most między tym rozdziałem a rozdz. 26–27.
 
 **Noty redakcyjne (poza tekstem książki):**
 

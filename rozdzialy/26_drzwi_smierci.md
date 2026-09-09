@@ -125,13 +125,26 @@ Jeśli relacja przetrwa, musi istnieć coś, co ją gwarantuje — nie nastrój,
 
 ² Odczytanie śmierci Chrystusa jako przejścia. W tekście głównym **referat, nie cytat** — i tak zostaje. Odesłanie do *Wprowadzenia w chrześcijaństwo* pozostaje ogólne, bez numeru strony [?]; teza jest w tym rozdziale niesporna i nie wymaga cytatu, a właściwa robota źródłowa nad przejściem została wykonana w rozdz. 24.
 
-³ G. Marcel, *Być i mieć* (1935), wyd. pol. — rozróżnienie problemu i tajemnicy, **s. 170–171**.
+³ G. Marcel, *Być i mieć* (1935) — rozróżnienie problemu i tajemnicy. **Lokalizacja: s. 170–171 wydania z 2001 r.** (zob. sprostowanie niżej — NIE jest to paginacja PAX 1986).
 
 **Brzmienie ustalone 2026-09-09** (za niezależnym opracowaniem, nie z egzemplarza — zob. zastrzeżenie niżej): „Problem jest czymś, co napotykam, co znajduje się w całości przede mną i co tym samym mogę określić i ograniczyć — podczas gdy tajemnica jest czymś, w czym ja sam jestem zaangażowany…"; dalej Marcel dodaje, że w tej strefie zanika rozróżnienie między tym, co „we mnie", a tym, co „przede mną", oraz że tajemnica z istoty przekracza wszelką technikę.
 
 **Wariant równoległy, przydatny jako zabezpieczenie:** tę samą formułę Marcel powtarza w *Od sprzeciwu do wezwania* (przeł. S. Ławicki, PAX, Warszawa 1965, **s. 93**): „Problem jest czymś, co się spotyka, co nam zagradza drogę. […] tajemnica jest czymś, w co zostaję zaangażowany, a więc w konsekwencji do istoty jej należy, że nie znajduje się cała przede mną".
 
-**UWAGA BIBLIOGRAFICZNA — do rozstrzygnięcia przed drukiem [?].** *Być i mieć* ma po polsku co najmniej cztery edycje: przeł. **Piotr Lubicz**, PAX 1962; wyd. 2 popr. 1986; **wyd. 3 rozszerzone, przeł. Donata Eska, 1998**; oraz wydanie 2001. **Strona 170–171 może się między nimi różnić**, a przy zmianie tłumacza — również brzmienie. Dopóki nie ustalimy, z której edycji cytujemy, **w tekście głównym zostaje parafraza bez cudzysłowu** (tak jest dziś). Cytat dosłowny wolno wstawić dopiero z konkretnym rokiem wydania.
+**SPROSTOWANIE BIBLIOGRAFICZNE 2026-09-09 (wieczór) — strony przypisane były do złego wydania.**
+
+Wcześniejsza wersja tego przypisu sugerowała, że s. 170–171 może pochodzić z któregokolwiek z polskich wydań. **Celowane sprawdzenie wykazało, że tak nie jest.** Opracowanie naukowe, z którego brzmienie pochodzi, lokalizuje je zapisem **„Marcel 2001, 170–171"** — a więc odsyła do **wydania z 2001 r.**
+
+**To rozstrzyga wątpliwość, która wisiała nad tym przypisem, i rozstrzyga ją w stronę, której się obawialiśmy.** Wydanie **PAX 1986 liczy 202 strony** — s. 170–171 w nim istnieją, ale **nie ma żadnej podstawy sądzić, że zawierają ten fragment**. Ekstrapolowanie paginacji z jednej edycji na drugą jest dokładnie tym błędem, który dał wcześniej „rationalis" u Boecjusza i cztery fałszywe atrybucje w tym audycie.
+
+**ZAPIS OBOWIĄZUJĄCY:**
+
+- ✅ wolno: *Być i mieć*, **wyd. 2001, s. 170–171** (lokalizacja za opracowaniem naukowym, nie z autopsji);
+- ❌ **nie wolno: „PAX 1986, s. 170–171"** — to przypisanie jest błędne i zostało wycofane.
+
+**Dane wydania PAX 1986, gdyby to ono miało być egzemplarzem roboczym:** G. Marcel, *Być i mieć*, przeł. **Piotr Lubicz**, wyd. 2 popr. i przejrz., Instytut Wydawniczy PAX, Warszawa 1986, **202 s.** Dwa punkty orientacyjne potwierdzone w literaturze **dla tej właśnie edycji**: **s. 74** — metafizyka jako „egzorcyzmowanie rozpaczy"; **s. 161** — związek rozwoju technik z „maksymalnym zubożeniem życia wewnętrznego". Żaden z nich nie dotyczy pary problem/tajemnica, ale **s. 74 jest dla tej książki łakomym kąskiem osobno** — „egzorcyzmowanie rozpaczy" wchodzi wprost w oś Pieperowską ruchu VIII (rozpacz jako akt, nie nastrój) i warto ją rozważyć jako dodatkowy głos w rozdz. 26 lub 47.
+
+**Konsekwencja praktyczna — bez zmian w tekście głównym.** Parafraza bez cudzysłowu zostaje. Cytat dosłowny wolno wstawić dopiero wtedy, gdy będziemy mieli **fizyczny wgląd w konkretne strony konkretnego wydania**. Zabezpieczeniem pozostaje wariant z *Od sprzeciwu do wezwania* (PAX 1965, s. 93), gdzie edycja jest jedna i problem paginacji nie występuje — **jeśli trzeba będzie cytować dosłownie, rekomenduję sięgnąć właśnie tam.**
 
 **Ustalenie porządkujące część VI:** u Marcela oba rozróżnienia są sprzężone — porządek **problemu** idzie z porządkiem **mieć**, porządek **tajemnicy** z porządkiem **być**. Stąd podział pracy: tu (rozdz. 26) używamy pary problem/tajemnica przy grobie — śmierć nie jest problemem do rozwiązania, bo pytający sam jest w nią zaangażowany; para być/mieć zostaje dla rozdz. 29.
 

@@ -141,6 +141,20 @@ Do tego proponuję dwa dodatkowe, spoza listy autora:
 **Wydanie:** *Homo viator. Wstęp do metafizyki nadziei*, przeł. **Piotr Lubicz**, posłowie Antoni Podsiad, IW PAX, Warszawa **1984**, **318 s.**, ISBN 83-211-0557-2.
 **Alternatywa:** *Być i mieć*, IW PAX (1962; wznowienia 1986, 1998, De Agostini 2001).
 
+> **⚠️ USTALENIE 2026-09-09 (wieczór) — paginacja *Być i mieć* NIE jest wspólna dla wydań. Sprawdzone celowanym wyszukiwaniem.**
+>
+> Krążąca w opracowaniach lokalizacja rozróżnienia **problem/tajemnica** na **s. 170–171** pochodzi z zapisu **„Marcel 2001, 170–171"** — czyli odsyła do **wydania z 2001 r.** **Nie wolno jej przenosić na PAX 1986**, które liczy **202 s.** i ma inną paginację. Wcześniejszy zapis „PAX 1986, s. 170–171" był **błędny i został wycofany** z rozdz. 26 i 29.
+>
+> **Dane pełne wyd. 1986:** G. Marcel, *Być i mieć*, przeł. Piotr Lubicz [= Donata Eska], wyd. 2 popr. i przejrz., IW PAX, Warszawa 1986, 202 s.
+>
+> **Punkty orientacyjne potwierdzone w literaturze dla wyd. 1986** (przydatne, jeśli to ten egzemplarz trafi nam w ręce):
+> - **s. 74** — metafizyka jako **„egzorcyzmowanie rozpaczy"**;
+> - **s. 161** — rozwój technik a **„maksymalne zubożenie życia wewnętrznego"**.
+>
+> **Uwaga: s. 74 to znalezisko wartościowe samo w sobie**, niezależnie od problemu/tajemnicy. „Egzorcyzmowanie rozpaczy" wchodzi wprost w oś Pieperowską rozdz. 26 (ruch VIII: rozpacz jako akt, nie nastrój) i w rozdz. 47. **Dopisane do listy fragmentów jako pozycja (6).**
+>
+> **Reguła na przyszłość:** przy *Być i mieć* **każdy numer strony musi mieć przy sobie rok wydania**. Bez roku strona jest bezużyteczna.
+
 > **Sprostowanie 2026-09-09 (za autorem):** wcześniejsza wersja tej sekcji ostrzegała przed „dwoma różnymi przekładami" *Być i mieć* — Lubicza i Eski. **To był błąd.** „Piotr Lubicz" to **pseudonim Donaty Eski**, czyli **ta sama tłumaczka**. Różne opisy bibliograficzne w literaturze naukowej (raz Lubicz, raz Eska, przy tym samym wydawcy) biorą się stąd, a nie z istnienia dwóch przekładów. **Nie ma potrzeby rozstrzygać, „który przekład"** — przy cytowaniu wystarczy trzymać się jednego opisu i podać rok wydania.
 
 ### ⚠️ Stan poszukiwań cyfrowych (sprawdzone 2026-09-09)
@@ -223,6 +237,9 @@ Sprawdzone w konspektach v3 (2026-09-09). Marcel występuje w czterech miejscach
 > *Do czego:* rozdz. 47 i epilog. **Najważniejszy pojedynczy fragment Marcela dla tej książki.**
 
 **(5) Homo viator.** Formuła człowieka w drodze — kilka zdań z otwarcia lub zamknięcia tomu.
+
+**(6) Metafizyka jako „egzorcyzmowanie rozpaczy"** — *Być i mieć*, **wyd. PAX 1986, s. 74** (lokalizacja potwierdzona w literaturze **dla tej edycji**; przy innym wydaniu strona będzie inna).
+> *Do czego:* rozdz. 26 (ruch VIII) i 47. **Fragment krótki, a trafia dokładnie w oś Pieperowską**: u Piepera rozpacz jest aktem woli, nie nastrojem — u Marcela filozofia jest czynnością, która rozpacz *wypędza*. Dwa niezależne głosy, ta sama teza: rozpacz to coś, co się robi, więc można temu przeciwdziałać. **To jest najłatwiejszy do zdobycia fragment Marcela z całej tej listy** — jedna strona, znana lokalizacja, wydanie pospolite w bibliotekach.
 
 ---
 

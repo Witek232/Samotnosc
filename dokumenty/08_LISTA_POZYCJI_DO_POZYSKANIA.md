@@ -126,7 +126,9 @@ Do tego proponuję dwa dodatkowe, spoza listy autora:
 ## A2. Gabriel Marcel — **pozycja nr 2**
 
 **Wydanie:** *Homo viator. Wstęp do metafizyki nadziei*, przeł. **Piotr Lubicz**, posłowie Antoni Podsiad, IW PAX, Warszawa **1984**, **318 s.**, ISBN 83-211-0557-2.
-**Alternatywa:** *Być i mieć* — **uwaga, dwa różne przekłady**: P. Lubicza (PAX 1962) oraz **Donaty Eski** (PAX 1998 / De Agostini 2001). W literaturze cytowane są oba; przy cytowaniu **trzeba podać, który**.
+**Alternatywa:** *Być i mieć*, IW PAX (1962; wznowienia 1986, 1998, De Agostini 2001).
+
+> **Sprostowanie 2026-09-09 (za autorem):** wcześniejsza wersja tej sekcji ostrzegała przed „dwoma różnymi przekładami" *Być i mieć* — Lubicza i Eski. **To był błąd.** „Piotr Lubicz" to **pseudonim Donaty Eski**, czyli **ta sama tłumaczka**. Różne opisy bibliograficzne w literaturze naukowej (raz Lubicz, raz Eska, przy tym samym wydawcy) biorą się stąd, a nie z istnienia dwóch przekładów. **Nie ma potrzeby rozstrzygać, „który przekład"** — przy cytowaniu wystarczy trzymać się jednego opisu i podać rok wydania.
 
 ### ⚠️ Stan poszukiwań cyfrowych (sprawdzone 2026-09-09)
 
@@ -153,7 +155,19 @@ Poniższe numery pochodzą z przypisów w recenzowanych publikacjach — **nie z
 | *sursum* zamiast *sum* jako formuła ludzkiego sposobu istnienia | — | rozdz. 47, epilog |
 | Napięcie „być" / „mieć"; granica biegnąca przez ciało | *Być i mieć*, s. 100 (przekł. Eski, wyd. 1986/1998) | rozdz. 29 |
 
-**Uwaga do fotografowania:** przy każdym zdjęciu potrzebna jest **strona z widoczną paginacją** oraz strona redakcyjna z rokiem i nazwiskiem tłumacza — inaczej nie odróżnimy przekładu Lubicza od Eski.
+**Uwaga do fotografowania:** przy każdym zdjęciu potrzebna jest **strona z widoczną paginacją** oraz strona redakcyjna (rok wydania) — dla poprawnego przypisu.
+
+### Czy tłumaczyć samodzielnie z francuskiego oryginału?
+
+Rozważone 2026-09-09 na wniosek autora. **Odpowiedź: nie jako droga podstawowa — i tak czy owak nie rozwiązuje to problemu.**
+
+**Powód główny — bariera nie jest językowa, tylko dostępowa.** Francuskiego *Homo viator. Prolégomènes à une métaphysique de l'espérance* (Aubier-Montaigne, 1944/1945, 358 s.) też **nie mam**. Na archive.org jest jeden egzemplarz, `homoviator0000unse`, ale z `Access-restricted-item: true` — do wypożyczenia, nie do pobrania. Dzieło **nie jest w domenie publicznej** (Marcel zm. 1973). Własny przekład wymagałby więc tłumaczenia z urywków, co jest gorsze niż brak cytatu.
+
+**Powód drugi — spójność warsztatu.** Cała książka cytuje polskie wydania kanoniczne (Ratzinger–Znak, Buber–Doktór, BT). Wstawienie w tym miejscu przekładu własnego zrobiłoby wyrwę: czytelnik szukający zdania w polskim *Homo viator* **nie znalazłby go**, bo brzmiałoby inaczej niż u Eski.
+
+**Kiedy przekład własny byłby dopuszczalny** (gdyby oryginał był dostępny w całości): wyłącznie z **jawnym oznaczeniem** „przeł. autor z: *Homo viator*, Aubier 1945, s. …" **oraz** przytoczeniem francuskiego brzmienia w przypisie. To uczciwa praktyka naukowa, ale w książce popularnej obciąża aparat i sygnalizuje kłopot tam, gdzie ma być teza.
+
+**Wniosek:** francuski oryginał zostaje w tej samej roli co angielski — **nawigacja i kontrola sensu**, nigdy źródło cytatu. Cytujemy dopiero z egzemplarza polskiego.
 
 
 

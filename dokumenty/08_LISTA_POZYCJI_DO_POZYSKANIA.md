@@ -169,6 +169,28 @@ Rozważone 2026-09-09 na wniosek autora. **Odpowiedź: nie jako droga podstawowa
 
 **Wniosek:** francuski oryginał zostaje w tej samej roli co angielski — **nawigacja i kontrola sensu**, nigdy źródło cytatu. Cytujemy dopiero z egzemplarza polskiego.
 
+### Droga alternatywna: czy brak Marcela blokuje pisanie? — **NIE**
+
+Sprawdzone w konspektach v3 (2026-09-09). Marcel występuje w czterech miejscach i **w żadnym nie jest głosem rozstrzygającym**:
+
+| Rozdz. | Rola Marcela | Czy blokuje? |
+|---|---|---|
+| 26 | problem/tajemnica przy grobie — **jeden akapit**, już napisany jako parafraza | nie |
+| 29 | być/mieć, „obok" vs „z" — **trzy akapity**, napisane jako parafraza | nie |
+| 31 | echo obecności — jedno odesłanie | nie |
+| 47 | ruch 4 z sześciu: obecność jako towarzystwo w granicy | **nie — patrz niżej** |
+
+**Kluczowe ustalenie dla rozdz. 47.** Wedle konspektu (§ 5 i § 9) Marcel zajmuje **jeden z sześciu ruchów**, a reguła ostatniego słowa oddaje puentę Ratzingerowi. Co więcej, sam konspekt formułuje ograniczenie Marcela jako **element tezy**: filozofia obecności „najbliżej przyszła do wyjaśnienia nitki — **ale nie mówi, skąd pochodzi**". Marcel jest tam więc z założenia **głosem niedomkniętym**, a nie autorytetem wieńczącym.
+
+**Konsekwencja praktyczna:** rozdział 47 można napisać w całości **bez ani jednego cytatu z Marcela** — referując rozróżnienie obecności i bycia obok tak, jak zrobiły to już rozdz. 26 i 29 (parafraza + przypis z wyraźnym „referowane, nie cytowane"). Ryzyko merytoryczne: **zerowe**; ryzyko stylistyczne: brak jednego mocnego zdania w ruchu 4, które i tak nie miało być puentą.
+
+**Pokrycie zastępcze dla tez, które miał nieść Marcel:**
+- *Nadzieja nie jest optymizmem ani przewidywaniem wyniku* → **Pieper**, *O nadziei* (oś nadzieja–rozpacz–pycha, już filar rozdz. 26) oraz ***Spe salvi* § 32** (kotwica, **✔ zweryfikowana**) — obie pozycje projekt ma potwierdzone.
+- *Obecność nie jest lokalizacją ani usługą* → **Buber**, „Relacja jest wzajemnością" i „Każdy środek jest przeszkodą" — **✔ zweryfikowane dosłownie 2026-09-09**. Buber niesie tę tezę równie dobrze, a teraz jest jedynym w pełni udokumentowanym filozofem dialogu w projekcie.
+- *Człowiek w drodze (homo viator)* → formuła jest **własnością tradycji** (Augustyn, Hbr 13,14 „nie mamy tutaj trwałego miasta"), nie wynalazkiem Marcela; można jej użyć bez przypisu do niego.
+
+**Decyzja:** *Homo viator* pozostaje na liście jako **wzmocnienie, nie warunek**. Pisania rozdz. 47 **nie wstrzymujemy**. Gdy egzemplarz się znajdzie, cytat wchodzi punktowo w ruch 4 — bez przebudowy rozdziału.
+
 
 
 **Potrzebne dla:** rozdz. **47** (punkt zwrotny całego rozdziału), 29, 26.

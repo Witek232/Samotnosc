@@ -54,7 +54,7 @@ Rozróżnienie jest konieczne, bo dotąd Ratzinger był w książce bazą stylu,
 |---|---|---|---|---|---|
 | **Baza ~80%** | J. Ratzinger / Benedykt XVI | rejestr eseju intelektualnego; dialog z tradycją i z przeciwnikiem | całość | rezerwy tonu, pracy ze zdaniem wiary, uczciwości wobec kogoś, kto ma rację tylko częściowo | akademickiej suchości bez obrazu |
 | **Filar** | Romano Guardini | fenomenologia doświadczenia wewnętrznego; „najpierw opisać, potem interpretować" | części VI–VII (rozdz. 28–36) | uważności na konkret; ciepła bez sentymentu | dewocyjnego słownictwa |
-| **Filar** | Gabriel Marcel | egzystencjalna gramatyka samotności i obecności | części III–IV (14–21) oraz 28–29 | homo viator, „świat rozdarty", dostępność (disponibilité), rozróżnienie problem/tajemnica | pustych ogólników; dublowania (echo Marcela już wbudowane w 31) |
+| **Filar** | Gabriel Marcel | egzystencjalna gramatyka samotności i obecności | części III–IV (14–21) oraz 28–29 | homo viator, „świat rozdarty", rozporządzalność (disponibilité) — zob. § 7, rozróżnienie problem/tajemnica | pustych ogólników; dublowania (echo Marcela już wbudowane w 31) |
 | **Filar** | Josef Pieper | oś nadzieja — rozpacz — pycha | 26–27, 40, 49 | definicyjnej jasności: desperatio vs praesumptio | suchych wyliczeń |
 | **Filar-metoda** | Luigi Giussani | pedagogika pytania; „pytanie przed odpowiedzią" | otwarcia części VI–VIII; rozdz. 40 | realizmu doświadczenia jako punktu wyjścia | metodycznej powtarzalności |
 | **Akcent ≤5%** | **Fulton J. Sheen** | epigrafy + puent | **37, 48, epilog** | antytezy, zdania domykające ≤8 słów, bezpośrednie „Ty" | kadencji kaznodziejskiej, tryad, rozstrzygania napięć |
@@ -112,7 +112,8 @@ Decyzja autora (`STRUKTURA_V2.md` § 0.2) wycofuje **świadectwa** protestanckie
 
 - **Sheen** — polskie wydania: *Życie Chrystusa* [?], wybór mów/kazań [?]; dosłowne brzmienia [?].
 - **Guardini** — *Pan*, *O sensie Kościoła* (istnieją polskie wydania — wskazać konkretnie [?]).
-- **Marcel** — *Homo viator*, *Być i mieć* [?]; terminologia (dostępność/dyspozycyjność) do ujednolicenia [?].
+- **Marcel** — *Homo viator*, *Być i mieć*. **Paginacja: ostrożnie** — s. 170–171 krążące w opracowaniach odsyła do wyd. 2001, **nie** do PAX 1986 (202 s.); zob. rozdz. 26 przyp. ³.
+- **Marcel — terminologia ✔ USTALONA 2026-09-09:** *disponibilité* = **„rozporządzalność"** (przy pierwszym użyciu z francuskim w nawiasie). **Nie:** „dyspozycyjność" (skażone sensem pracowniczym, który Marcel wprost odrzuca), „dostępność" (dziś termin techniczny). **„Gotowość"** — dopuszczalna wyłącznie w cytacie z Ricœura, którego polski tłumacz tak oddaje ten termin. Racja rozstrzygająca: tylko para **rozporządzalność / nierozporządzalność** oddaje po polsku opozycję Marcela, w której „przestrzenią nierozporządzalności jest **mieć**". Pełne uzasadnienie: rozdz. 29, przyp. ².
 - **Pieper** — *O nadziei* [?]; *O miłości* [?].
 - **Giussani** — *Sens religijny* [?].
 - **Péguy** — *Portal tajemnicy nadziei* [?].

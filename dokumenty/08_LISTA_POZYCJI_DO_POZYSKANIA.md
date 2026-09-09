@@ -125,8 +125,37 @@ Do tego proponuję dwa dodatkowe, spoza listy autora:
 
 ## A2. Gabriel Marcel — **pozycja nr 2**
 
-**Wydanie, pierwszy wybór:** *Homo viator. Wstęp do metafizyki nadziei*, przeł. P. Lubicz, IW PAX, Warszawa 1959 (wyd. II 1984).
-**Alternatywa:** *Być i mieć*, przeł. P. Lubicz, PAX 1962/1998 (cieńsze, łatwiejsze do zdobycia).
+**Wydanie:** *Homo viator. Wstęp do metafizyki nadziei*, przeł. **Piotr Lubicz**, posłowie Antoni Podsiad, IW PAX, Warszawa **1984**, **318 s.**, ISBN 83-211-0557-2.
+**Alternatywa:** *Być i mieć* — **uwaga, dwa różne przekłady**: P. Lubicza (PAX 1962) oraz **Donaty Eski** (PAX 1998 / De Agostini 2001). W literaturze cytowane są oba; przy cytowaniu **trzeba podać, który**.
+
+### ⚠️ Stan poszukiwań cyfrowych (sprawdzone 2026-09-09)
+
+**Polskiego przekładu NIE MA w sieci.** Sprawdzone bez rezultatu: biblioteka PDF na `prchiz.pl` (tam, gdzie znalazł się Buber — Marcela nie ma), archive.org (18 rekordów *Homo viator*, wszystkie **angielskie, francuskie i hiszpańskie**, w trybie wypożyczenia), otwarte repozytoria. **Trzeba egzemplarza fizycznego** — antykwariaty mają go tanio (rzędu kilkunastu zł), jest też w każdej bibliotece uniwersyteckiej.
+
+**Wariant awaryjny:** angielskie *Homo Viator: Introduction to a Metaphysic of Hope* jest na archive.org do wypożyczenia. Pozwala **zlokalizować fragment i sprawdzić sens**, ale **nie wolno z niego cytować po polsku** — tłumaczenie z angielskiego przekładu francuskiego oryginału byłoby cytatem nieistniejącym. Służy wyłącznie do nawigacji.
+
+### Spis treści wyd. PAX 1984 — do namierzania fragmentów
+
+Przedmowa do nowego wydania · Wstęp Autora · **Ja i inni** · **Zarys fenomenologii i metafizyki nadziei** (s. 29–70) · Tajemnica rodziny (s. 71–99) · Pragnienie twórcze istotą ojcostwa · Posłuszeństwo i wierność · **Wartość i nieśmiertelność** (ok. s. 150 nn.) · Niebezpieczna sytuacja wartości etycznych · Byt i niebyt · Odrzucenie zbawienia i wywyższenie człowieka absurdu · Rilke, świadek spraw ducha · Człowiek zbuntowany.
+
+**Wniosek nawigacyjny:** dwa eseje wystarczą dla całej książki — **„Zarys fenomenologii i metafizyki nadziei" (s. 29–70)** dla rozdz. 47 i epilogu, oraz **„Wartość i nieśmiertelność"** dla rozdz. 26 i 46.
+
+### Strony wskazane przez prace naukowe cytujące to wydanie
+
+Poniższe numery pochodzą z przypisów w recenzowanych publikacjach — **nie z autopsji**. Traktować jak namiary, nie jak potwierdzone brzmienia (lekcja z Bubera: cztery opracowania, cztery różne cytaty).
+
+| Temat | Strona (wg przypisów) | Do czego |
+|---|---|---|
+| Nadzieja jako akt zakorzeniony w **komunii**, nie w przewidywaniu wyniku; „gotowość duszy zaangażowanej dostatecznie głęboko w doświadczenie komunii…" | **s. 70** (koniec eseju o nadziei) | rozdz. 47 — **punkt zwrotny** |
+| Rozpacz jako „bezczynność, która osiągnęła najbardziej wyostrzoną świadomość samej siebie"; człowiek zrozpaczony jako ten, kto „już nic nie daje" | **s. 150** („Wartość i nieśmiertelność") | rozdz. 26, 46 — oś nadzieja–rozpacz |
+| Śmierć a to, co w człowieku czynne; „ja" jako źródło aktów duchowych | **s. 158–159** | rozdz. 26 |
+| Powołanie jako **odpowiedź na wezwanie** | (esej „Ja i inni") | rozdz. 29, 31 — spina się z Buberowskim „mówić **do**" |
+| *sursum* zamiast *sum* jako formuła ludzkiego sposobu istnienia | — | rozdz. 47, epilog |
+| Napięcie „być" / „mieć"; granica biegnąca przez ciało | *Być i mieć*, s. 100 (przekł. Eski, wyd. 1986/1998) | rozdz. 29 |
+
+**Uwaga do fotografowania:** przy każdym zdjęciu potrzebna jest **strona z widoczną paginacją** oraz strona redakcyjna z rokiem i nazwiskiem tłumacza — inaczej nie odróżnimy przekładu Lubicza od Eski.
+
+
 
 **Potrzebne dla:** rozdz. **47** (punkt zwrotny całego rozdziału), 29, 26.
 

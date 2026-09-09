@@ -7,9 +7,9 @@
 
 ---
 
-> „Wiara, którą kocham najbardziej, mówi Bóg, to nadzieja."
+> „W wierze najbardziej miłuję nadzieję."
 >
-> — Charles Péguy, *Portyk tajemnicy drugiej cnoty*ᴱ
+> — Charles Péguy, *Przedsionek tajemnicy drugiej cnoty*ᴱ
 
 Poprzedni rozdział zostawił w powietrzu twierdzenie, którego nie zdążył udźwignąć: że śmierć może zabrać relacji wszystkie formy, ale nie kierunek — i że kierunek, żeby przetrwał naprawdę, potrzebuje podłoża, które nie umiera. Tym podłożem nie będzie nastrój, ani cisza pod pokojem, ani pamięć żywych: będzie wydarzenie. Ten rozdział czyta to wydarzenie. Czyta zmartwychwstanie — nie jako dachówkę dociągniętą nad częścią piątą, żeby pod nią nic nie kapało, lecz jako jej ostatni, najciszej postawiony ruch: odpowiedź na pytanie, które filozofowie śmierci zostawili otwarte, a rozdział dwudziesty szósty postawił już wprost: czy śmierć może zerwać relację na zawsze.
 
@@ -98,13 +98,20 @@ Otwiera natomiast pytanie następne — prostsze od tamtego, a bardziej wymagaj�
 
 **Znalezisko o szerszym znaczeniu (s. ~248 i ~252) — dla rozdz. 28 i 32.** Ratzinger prowadzi tam wprost tezę, że „nieśmiertelność człowieka może być pomyślana tylko we współistnieniu ludzi", oraz że Bóg „jest odniesieniem do siebie trzech Osób […] jest aktem-substancją miłości absolutnej" — *relatio subsistens*. Jest to ta sama linia, dla której rozdz. 26 szukał źródła w niedostępnym eseju z „Communio". **Zapisane do wykorzystania.**
 
-ᴱ **Epigraf — POPRAWIONY 2026-09-09, to była fałszywa atrybucja.**
+ᴱ Ch. Péguy, *Przedsionek tajemnicy drugiej cnoty*, przeł. **Leon Zaręba**, Wydawnictwo Karmelitów Bosych, Kraków 2007, **s. 31**. ISBN 978-83-7305-248-2.
 
-Wersja odziedziczona podawała zdanie **potrojone** („…to nadzieja. …to nadzieja. …to nadzieja.") jako cytat z Péguy. **Takiego potrojenia u Péguy nie ma.** Zdanie pada **raz**, w otwarciu monologu Boga, po czym poemat idzie dalej („La foi, ça ne m'étonne pas…"). Potrojenie było najwyraźniej realizacją zamysłu stylistycznego z `02_STYL_PISARSKI.md` § 6 („rytm trójkrotnego powtórzenia") — ale **zamysł stylistyczny nie może zmieniać cudzego tekstu w cudzysłowie**. Zdanie skrócone do jednego.
+**Status: cytat POLSKI, nie mój przekład — epigraf jest gotowy do druku.** Brzmienie i stronę podaje niezależne opracowanie naukowe (N. Przybylska, Uniwersytet Szczeciński, w czasopiśmie wydawanym przez UAM — `pressto.amu.edu.pl`), cytując wprost: „Ch. Péguy ośmiela się w ustach Boga umieścić stwierdzenie: »W wierze najbardziej miłuję nadzieję«", z przypisem „tłum. L. Zaręba, Kraków 2007, s. 31".
 
-Poprawiony też **tytuł**: było *Portal tajemnicy nadziei*, jest ***Portyk tajemnicy drugiej cnoty*** (*Le Porche du mystère de la deuxième vertu*, 1911). „Drugą cnotą" jest właśnie nadzieja — stary tytuł podmieniał metaforę Péguy'ego na jej rozwiązanie.
+**Dwie poprawki wprowadzone razem z tym przypisem — obie były potrzebne:**
 
-Oryginał ✔ (źródła francuskie, 2026-09-09): **„La foi que j'aime le mieux, dit Dieu, c'est l'espérance."** Polskie brzmienie podane wyżej jest **przekładem roboczym** — wierne, ale **nie jest cytatem z wydania polskiego** [?]. **Do decyzji autora:** albo podać je jako przekład własny (z adnotacją), albo zdobyć wydanie polskie (przekł. L. Zwierzyński / W. Dłuski — do sprawdzenia). Dopóki to nie jest rozstrzygnięte, **nie wolno drukować tego jako cytatu z polskiego przekładu**.
+1. **Potrojenie usunięte (2026-09-09).** Wersja odziedziczona podawała zdanie **trzykrotnie**. U Péguy pada **raz**; potrojenie było realizacją reguły stylistycznej `02_STYL_PISARSKI.md` § 6 zastosowanej do cudzego tekstu w cudzysłowie — czego robić nie wolno.
+2. **Tytuł poprawiony dwukrotnie.** Było *Portal tajemnicy nadziei* (tytuł nieistniejący, podmieniający metaforę na jej rozwiązanie); przejściowo wpisałem *Portyk tajemnicy drugiej cnoty* — również błędnie, bo **polskie wydanie nosi tytuł *Przedsionek…***. Wariant „Portyk misterium drugiej cnoty" to propozycja B. Ostromęckiego z 1978 r., nigdy niewydana w całości. Obowiązuje **Zaręba 2007**.
+
+**Formuła „mówi Bóg" celowo poza cudzysłowem.** Oryginał ma wtrącenie w środku zdania (*La foi que j'aime le mieux, **dit Dieu**, c'est l'espérance*), ale w brzmieniu Zaręby cytowanym przez opracowanie wtrącenia **nie ma** — jest samo „W wierze najbardziej miłuję nadzieję". Nie dopisuję go do cytatu, bo nie wiem, jak Zaręba je rozwiązał; to, że mówi Bóg, wynika z kontekstu poematu (monolog Boga otwierany przez Madame Gervaise) i można to podać w zdaniu wprowadzającym, **poza cudzysłowem**.
+
+**Pozostaje jedno `[?]`, drobne:** brzmienie znam z drugiej ręki (opracowanie, nie egzemplarz). Ryzyko oceniam jako **niskie** — cytat jest krótki, podany z dokładną stroną w recenzowanym tekście naukowym, a zdanie jest w literaturze o Péguym sztandarowe. **Przy korekcie warto zerknąć na s. 31 egzemplarza**, jeśli kiedyś wpadnie w ręce; do druku to wystarcza.
+
+**Znalezisko dodatkowe:** to samo wydanie (s. 40–43) jest cytowane w oficjalnym polskim tekście orędzia papieskiego — czyli przekład Zaręby ma status obiegowy, nie niszowy.
 
 ᶠ **Mk 16,6** wg BT ✔ (`biblia.deon.pl`, Mk 16 = id 315): „Nie bójcie się! Szukacie Jezusa z Nazaretu, ukrzyżowanego; **powstał, nie ma Go tu**. Oto miejsce, gdzie Go złożyli". **Poprawka:** rozdział cytował samo „Nie ma Go tu” — co jest urwaniem zdania w połowie i gubi czasownik, na którym wszystko stoi („powstał"). Przywrócone.
 

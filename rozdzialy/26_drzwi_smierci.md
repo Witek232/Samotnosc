@@ -97,7 +97,9 @@ Ratzinger prowadzi tę linię do końca i robi to na terenie, na którym najłat
 
 Twierdzenie to nie automatyzuje jednak niczego. Trwanie relacji nie jest zatwierdzeniem wszystkiego, co było, a człowiek umie odrzucić to, co mu dane — chrześcijaństwo zna to zbyt dobrze, by budować z trwania automat. Twierdzi tylko tyle, i to jest wszystko: nic osobowego nie zostaje skasowane po cichu, bez adresata, który by to odnotował.
 
-Josef Pieper, który poświęcił nadziei jedną z najciszej słynnych prac tego stulecia, podaje do tego dwie definicje, w dwóch linijkach każda. Rozpacz (desperatio) to odmowa przyjęcia tego, bez czego człowiek nie może żyć mimo wszystko — „nie” powiedziane własnemu potrzebowaniu. Pycha (praesumptio) to błąd drugi, mniej widoczny: zapewnienie, że człowiek sam się uratuje — że dokona tego, co może być tylko darem. Nadzieja stoi między nimi: nie produkuje wyniku i nie odmawia potrzebowania — trzyma się Tego, kto może. Modlitwa z ruchu drugiego jest dokładnie gestem nadziei w tym znaczeniu: ma adres, dlatego nie jest rozpaczą; nie produkuje wyniku, dlatego nie jest pychą.
+Josef Pieper, który poświęcił nadziei jedną z najciszej słynnych prac tego stulecia, ustawia to w sposób zaskakująco symetryczny. Człowiek jest istotą w drodze — jego formą istnienia jest „jeszcze nie": brak spełnienia i zarazem skierowanie ku niemu. Są więc dwa sposoby, żeby tę drogę unieważnić, i oba polegają na tym samym: na przedwczesnym rozstrzygnięciu. Rozpacz (*desperatio*) przedwcześnie uznaje niespełnienie za przesądzone — zamienia „jeszcze nie" w „nie". Zuchwała ufność (*praesumptio*) przedwcześnie uznaje spełnienie za już posiadane — zamienia „jeszcze nie" w „już". Obie są sprzeczne z rzeczywistością, bo obie niszczą charakter drogi; obie unieważniają prawdziwe stawanie się.⁷ Nadzieja jest cnotą „jeszcze nie": nie orzeka wyniku w żadną stronę — pozostaje otwarta aż do końca. Modlitwa z ruchu drugiego jest dokładnie tym gestem: ma adres, dlatego nie jest rozpaczą; niczego nie przesądza, dlatego nie jest zuchwałością.
+
+Warto dodać jedno, bo bez tego cały ten rozdział byłby okrutny wobec ludzi w żałobie: Pieper nie mówi tu o nastroju. Rozpacz w jego sensie nie jest przygnębieniem ani lękiem, lecz aktem — postawą wobec własnego ostatecznego spełnienia. Ból nie jest rozpaczą. Człowiek może płakać w tym pokoju i pozostawać w nadziei; to nie są stany, które się wykluczają.
 
 Paweł zapisał klamrę tego rozdziału zdaniem, którego lepiej nie parafrazować: „ani śmierć, ani życie… nie zdoła nas odłączyć od miłości Boga” (Rz 8,38–39). Zdanie nie mówi, że śmierć nie boli. Mówi, że śmierć nie jest ostatnim „ty” — bo między człowiekiem a Bogiem stoi miłość, która już przeszła przez wszystko, co śmierć umie. I jedno zdanie o ciele: gdy Paweł mówi o zmartwychwstaniu, mówi o ciele — nie o duchu bez ciała; pełna praca nad tym należy do następnego rozdziału i tam zostanie zrobiona.
 
@@ -123,7 +125,15 @@ Jeśli relacja przetrwa, musi istnieć coś, co ją gwarantuje — nie nastrój,
 
 ² Odczytanie śmierci Chrystusa jako przejścia. W tekście głównym **referat, nie cytat** — i tak zostaje. Odesłanie do *Wprowadzenia w chrześcijaństwo* pozostaje ogólne, bez numeru strony [?]; teza jest w tym rozdziale niesporna i nie wymaga cytatu, a właściwa robota źródłowa nad przejściem została wykonana w rozdz. 24.
 
-³ G. Marcel, *Być i mieć* (1935): parafraza rozróżnienia problemu i tajemnicy; terminologia (problem/tajemnica, być/mieć, dostępność) do ujednolicenia [?] — `02_STYL_PISARSKI.md` § 7.
+³ G. Marcel, *Być i mieć* (1935), wyd. pol. — rozróżnienie problemu i tajemnicy, **s. 170–171**.
+
+**Brzmienie ustalone 2026-09-09** (za niezależnym opracowaniem, nie z egzemplarza — zob. zastrzeżenie niżej): „Problem jest czymś, co napotykam, co znajduje się w całości przede mną i co tym samym mogę określić i ograniczyć — podczas gdy tajemnica jest czymś, w czym ja sam jestem zaangażowany…"; dalej Marcel dodaje, że w tej strefie zanika rozróżnienie między tym, co „we mnie", a tym, co „przede mną", oraz że tajemnica z istoty przekracza wszelką technikę.
+
+**Wariant równoległy, przydatny jako zabezpieczenie:** tę samą formułę Marcel powtarza w *Od sprzeciwu do wezwania* (przeł. S. Ławicki, PAX, Warszawa 1965, **s. 93**): „Problem jest czymś, co się spotyka, co nam zagradza drogę. […] tajemnica jest czymś, w co zostaję zaangażowany, a więc w konsekwencji do istoty jej należy, że nie znajduje się cała przede mną".
+
+**UWAGA BIBLIOGRAFICZNA — do rozstrzygnięcia przed drukiem [?].** *Być i mieć* ma po polsku co najmniej cztery edycje: przeł. **Piotr Lubicz**, PAX 1962; wyd. 2 popr. 1986; **wyd. 3 rozszerzone, przeł. Donata Eska, 1998**; oraz wydanie 2001. **Strona 170–171 może się między nimi różnić**, a przy zmianie tłumacza — również brzmienie. Dopóki nie ustalimy, z której edycji cytujemy, **w tekście głównym zostaje parafraza bez cudzysłowu** (tak jest dziś). Cytat dosłowny wolno wstawić dopiero z konkretnym rokiem wydania.
+
+**Ustalenie porządkujące część VI:** u Marcela oba rozróżnienia są sprzężone — porządek **problemu** idzie z porządkiem **mieć**, porządek **tajemnicy** z porządkiem **być**. Stąd podział pracy: tu (rozdz. 26) używamy pary problem/tajemnica przy grobie — śmierć nie jest problemem do rozwiązania, bo pytający sam jest w nią zaangażowany; para być/mieć zostaje dla rozdz. 29.
 
 ⁴ M. Buber, *Ja i Ty. Wybór pism filozoficznych*, przeł. J. Doktór, IW PAX, Warszawa 1992, s. 44–45. **Weryfikacja 2026-09-09:** brzmienie potwierdzone w skanie tego wydania — „Każde prawdziwe życie jest spotkaniem". Wcześniejsze zastrzeżenie o trzech spornych wariantach **nieaktualne**; zdanie jest cytowane, nie referowane. Pełna nota — rozdz. 29, przyp. ¹.
 
@@ -147,6 +157,20 @@ Jeśli relacja przetrwa, musi istnieć coś, co ją gwarantuje — nie nastrój,
 - **Ruch VIII został odciążony** — trzy cytaty z *Eschatologii* zamieniono na parafrazę, żeby utrzymać limit dwóch cytatów Ratzingera na rozdział i jednego blokowego (`04_PLAN…` pkt 3). Treść bez zmian, przypis ⁶ trzyma lokalizacje.
 - **Ostatnie słowo przed puentą należy do linii Ratzingerowskiej** — spełnione dosłownie: autorskie zdanie o relacji stoi teraz **po** cytacie, jako jednozdaniowe domknięcie, nie przed nim.
 - Rozdział zyskał przy tym uczciwszą hierarchię: nie autor formułuje wniosek, którego nie ma prawa sformułować, lecz encyklika, od której rozdział wyszedł.
+
+⁷ J. Pieper, *Über die Hoffnung* (1935), rozdz. 3; wyd. cytowane: München, Kösel, 1977⁷ = *Werke in acht Bänden*, Bd. 4, hrsg. B. Wald, Felix Meiner, Hamburg 1996, **s. 274–283** (samo *Über die Hoffnung* zajmuje w tym tomie s. 256–295).
+
+✔ **ZWERYFIKOWANE 2026-09-09 w tekście niemieckim, w dwóch niezależnych źródłach** (przedruk rozdz. 3 oraz studium B. Walda *Viatorische Existenz* z Josef-Pieper-Arbeitsstelle):
+
+> „Die *praesumptio* ist die seinswidrige Vorwegnahme der Erfüllung. Auch die Verzweiflung ist Vorwegnahme. Sie ist die seinswidrige Vorwegnahme der Nicht-Erfüllung."
+
+> „…beide den Weg-Charakter des menschlichen Daseins im *status viatoris* zerstören. Beide heben das echte Werden auf. Das »Noch nicht« wird wirklichkeitswidrig umgedeutet entweder in das »Nicht« oder in das »Schon« der Erfüllung."
+
+**BŁĄD MERYTORYCZNY POPRAWIONY.** Wersja odziedziczona definiowała *praesumptio* jako „zapewnienie, że człowiek sam się uratuje" — a *desperatio* jako „odmowę przyjęcia tego, bez czego człowiek nie może żyć". **U Piepera obie definicje brzmią inaczej i, co ważniejsze, są względem siebie symetryczne**: obie są *Vorwegnahme*, przedwczesną antycypacją — jedna niespełnienia, druga spełnienia. Poprzednia wersja tę symetrię gubiła i sprowadzała zuchwałość do banalnej „pychy" (samowystarczalności), co jest lekturą obiegową, ale nie Pieperowską. Ruch VIII przepisany.
+
+**Terminologia:** *praesumptio* tłumaczę jako **„zuchwała ufność"**, nie „pycha". Pieper sam zaznacza, że niemieckie *Vermessenheit* jest gorsze niż **Vorwegnahme** („uprzedzenie", „antycypacja"), bo to drugie trafia w sedno. „Pycha" myli trop, bo u Piepera pycha (*Hochmut*) jest osobnym pojęciem — „tajemnym kanałem", który łączy obie formy beznadziei.
+
+**MATERIAŁ DO ROZDZ. 46 — znalezisko pierwszej klasy, nie dla tego rozdziału.** Pieper zauważa, że człowiek w najgłębszym sensie zrozpaczony może w warstwach powierzchownych „durchaus als »Optimist« erscheinen" — i że współczesny „człowiek światowy" doszedł w tym do prawdziwej wirtuozerii; rozpacz słabości maskuje się „rastlose Aktivität und schallender Optimismus" (niespokojną aktywnością i hałaśliwym optymizmem). **To jest gotowa teza rozdz. 46 o epoce, która nie chce umierać** — i działa dokładnie tam, gdzie nie mamy dostępu do Baumana i Beckera.
 
 **Noty redakcyjne (poza tekstem książki):**
 

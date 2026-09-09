@@ -87,7 +87,11 @@ i powtórzone kilka zdań dalej w szyku odwróconym: „persona uero **rationabi
 
 **To wzmacnia akapit rozdziału bardziej, niż zakładał.** Tekst główny mówi, że Boecjusz „znał to pochodzenie i wybrał to słowo świadomie" — i jest to prawda dosłowna: Boecjusz nie tylko je znał, ale **poświęcił mu osobny wywód**, łącznie z akcentem (*circumflexa paenultima*). Co więcej, jego uzasadnienie idzie po linii tej książki: maska nie ukrywa, lecz **wzmacnia głos**.
 
-Polskie brzmienie definicji („indywidualna substancja natury rozumnej") jest w tekście głównym **referatem, nie cytatem** — i tak zostaje; standardowego przekładu polskiego nie weryfikowałem [?].
+Polskie brzmienie definicji („indywidualna substancja natury rozumnej") jest w tekście głównym **referatem, nie cytatem** — i tak zostaje.
+
+✔ **PRZEKŁAD POLSKI USTALONY 2026-09-09 — `[?]` zdjęte.** Boecjusz, *Przeciw Eutychesowi i Nestoriuszowi* (*Contra Eutychen et Nestorium*), w: tenże, ***Traktaty teologiczne*, przeł. Rafał Bielak i Agnieszka Kijewska, Wydawnictwo Antyk, Kęty 2001, s. 66–84** (definicja osoby i wywód o *persona* — rozdz. III, w okolicach s. 78–80; wznowienie 2007 ma inną paginację, ok. s. 122–123). Łacina za PL 64, 1337–1354.
+
+Formuła łacińska powtarzana w polskiej literaturze przedmiotu bez wahań: ***persona est naturae rationalis individua substantia***. **Uwaga:** obiegowy polski szyk „indywidualna substancja natury rozumnej" jest wierny, ale **standardowego brzmienia przekładu Bielaka i Kijewskiej nie mam z autopsji** — dlatego w tekście pozostaje referat bez cudzysłowu. To 19 stron w jednym tomie, **do sprawdzenia w każdej bibliotece akademickiej**.
 
 ² Tomasz z Akwinu, *Suma teologiczna* I, **q. 29, a. 3**. ✔ **BRZMIENIE POLSKIE USTALONE 2026-09-09 — `[?]` ZDJĘTE.** Przekład o. **Piusa Bełcha OP**, tom 3 (*O Trójcy Przenajświętszej*, q. 27–43) — cała *Suma* po polsku jest darmowa na `zwola-old.karmelicibosi.pl` (`summa_03.pdf`; ten sam adres dał wcześniej tom 26 dla rozdz. 25).
 
@@ -129,7 +133,15 @@ oraz (s. 183): „Personalität gibt es überhaupt nur im Plural, als Personenge
 
 **To jest znalezisko o randze tezy książki, nie przypisu.** Zdanie „osoby istnieją tylko w liczbie mnogiej" łączy w jedno: Bubera (Ja–Ty), Ratzingera (*relatio subsistens*, rozdz. 27 przyp. ⁶) i temat całej książki — samotność przestaje być stanem zewnętrznym wobec osoby, a staje się brakiem w jej konstytucji. **Zdanie o Trójcy w tym samym miejscu** („Ein nicht trinitarischer Monotheismus kann Gott nicht wirklich als Person denken") jest gotowym mostem do rozdz. 32.
 
-⁴ J. Maritain, *La personne et le bien commun* (1947); wyd. pol. *Osoba i dobro wspólne* — wyd. i strony [?].
+⁴ J. Maritain, *La personne et le bien commun*, Desclée de Brouwer, Paris 1947.
+
+⚠️ **USTALENIE 2026-09-09 — polskiego wydania tej książki najprawdopodobniej NIE MA, a przypis obiecywał je jako istniejące.** Kwerenda po polskiej literaturze przedmiotu (Kowalczyk, Grzybowski, prace o *bonum commune* z KUL, UWr i UŁ) daje wynik jednoznaczny: **polscy autorzy cytują tę pozycję z oryginału francuskiego albo z angielskiego *The Person and the Common Good*, nigdy z polskiego wydania książkowego.** Tytuł „*Osoba i dobro wspólne*" funkcjonuje w polszczyźnie jako **tłumaczenie tytułu w przypisach**, nie jako osobna książka. Formuła przypisu („wyd. pol. … — wyd. i strony [?]") sugerowała istnienie edycji, której nie udało się potwierdzić — **usunięta**.
+
+Po polsku dostępne są **inne** teksty Maritaina, m.in. *Pisma filozoficzne*, przeł. Janina Fenrychowa, Znak, Kraków 1988 (tam m.in. *Osoba ludzka i społeczeństwo*) — pokrewne tematycznie, ale **to nie jest ta praca** i nie wolno ich mieszać w przypisie.
+
+✅ **ROZWIĄZANIE DLA PROJEKTU BEZ KOSZTÓW:** pełny angielski przekład *The Person and the Common Good* jest udostępniony legalnie i w całości, za darmo, przez **Jacques Maritain Center przy University of Notre Dame** (`maritain.nd.edu`, PDF). Tezę z tekstu głównego — że dobro wspólne jest dobrem **całości i części**, a nie całości kosztem części — Maritain stawia tam wprost: dobro wspólne „is not a collection of private goods, nor the proper good of a whole which, like the species with respect to its individuals or the hive with respect to its bees, **relates the parts to itself alone and sacrifices them to itself**. … It is therefore common to both **the whole and the parts** into which it flows back and which, in turn, must benefit from it".
+
+**Obraz ula jest jego, nie nasz** — i jest mocniejszy niż zdanie rozdziału o „państwie, rynku, instytucji". Przy redakcji warto go wykorzystać; **`[?]` zdjęte co do tezy**, otwarta zostaje wyłącznie decyzja, czy cytować (limit 2 cytatów na rozdział jest tu już wyczerpany).
 
 ⁵ K. Wojtyła, *Osoba i czyn*, w: *Osoba i czyn oraz inne studia antropologiczne*, TN KUL, Lublin 1994³ (kolejne wyd. 2000, 2019/2020). **Weryfikacja 2026-09-09** w *Powszechnej Encyklopedii Filozofii* (PTTA, hasło „Wojtyła Karol"), cytującej to wydanie z paginacją. Potwierdzone: metoda jako „studium czynu, który ujawnia osobę: studium osoby przez czyn" (s. 59); „W czynach zawiera się sprawczość, sprawczość uwydatnia konkretne »ja« jako świadomą siebie przyczynę działania. I to jest właśnie osoba" (s. 127); samostanowienie — osoba jest „tym, kto siebie samego posiada, i zarazem tym, kto jest posiadany tylko i wyłącznie przez siebie" (s. 152). Termin **transcendencja osoby w czynie** jest Wojtyłowy i potwierdzony. W tekście głównym **referowane, nie cytowane**; źródło wtórne recenzowane — do potwierdzenia z egzemplarzem przy korekcie.
 
@@ -158,5 +170,6 @@ Oraz, kilka wierszy dalej (s. 134), obraz, który rozdział mógłby wykorzysta�
   - **Czego wciąż brakuje:** polskiego brzmienia i paginacji, gdyby zapadła decyzja o **cytowaniu** Spaemanna po polsku. Wtedy — i tylko wtedy — potrzebne jest wydanie Oficyny Naukowej 2001 (przekł. J. Merecki).
   - **Zasada utrzymana:** stron polskiego wydania podanych za cudzymi opracowaniami (s. 167–168, 220–223, 296–297) **nie wpisuję do przypisów**. Strona z opracowania to informacja z drugiej ręki; wpisana do aparatu wygląda jak weryfikacja, którą nie jest. Jeśli zdobędziemy egzemplarz — sprawdzimy je jako pierwsze.
   - **Do wykorzystania gdzie indziej:** zdanie o dziecku, które „nie uczy się mówić od komputera" → rozdz. 45 (AI); zdanie o monoteizmie nietrynitarnym → rozdz. 32; „osoby tylko w liczbie mnogiej" → rozdz. 29 i epilog.
-- [?] do redakcji: polskie brzmienie Boecjusza (*Contra Eutychen* III) i etymologia persona, strony *ST* I q. 29 (wyd. pol.), strony **polskiego** wydania Spaemanna (*Osoby*, Oficyna Naukowa 2001) — tezy zamknięte na tekście niemieckim, zob. nota wyżej; Maritaina (*Osoba i dobro wspólne*), Wojtyły (*Osoba i czyn*), Ratzingera (*Communio*).
+- **Stan na 2026-09-09 — wszystkie tezy rozdziału mają pokrycie w źródłach; otwarta jest wyłącznie paginacja wydań polskich.** Zamknięte: Boecjusz (przekład Bielak/Kijewska, Antyk 2001, s. 66–84 — przyp. ¹), etymologia *persona* (łacina z autopsji — przyp. ¹), *ST* I q. 29 a. 3 (przekład Bełcha, PDF darmowy — przyp. ²), Maritain (angielski pełny tekst z `maritain.nd.edu`; **polskiego wydania książki brak** — przyp. ⁴).
+- Do redakcji zostaje: strony **polskiego** Spaemanna (*Osoby*, Oficyna Naukowa 2001; tezy zamknięte na tekście niemieckim, zob. nota wyżej), Wojtyły (*Osoba i czyn*) i Ratzingera (*Communio*). **Żadna z nich nie podpiera cytatu** — wszystkie trzy miejsca są w tekście referatem.
 - Znaczniki ruchów I–VII znikają w wersji drukowanej.

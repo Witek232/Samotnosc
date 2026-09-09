@@ -391,3 +391,24 @@ Mamy oryginał niemiecki, więc to komfort, nie konieczność. Rozwiązałoby os
 Obsługują rozdziały **29, 47 i 48** — filozoficzny szczyt książki i jej finał. W każdym z nich autor występuje **jako głos wiodący, nie echo**; referat opisowy wystarcza dla echa (precedens Baumana w 46), ale nie dla autora, na którym stoi cały rozdział.
 
 **A gdyby tylko jedną: Buber.** Jest najcieńszy, najłatwiejszy do zdobycia, a jego brak jest w tej chwili najbardziej dotkliwy — bo rozdz. 29 jest **nienapisany**, więc jeszcze można go napisać dobrze, zamiast poprawiać.
+
+---
+
+## § C. Mapa pokrycia pozycji z tabeli (stan 2026-09-09)
+
+Przegląd zamykający: dla każdej pozycji z tabeli podanej przez autora ustalono, **czy da się ją obsłużyć bez kupowania czegokolwiek**. Wynik: siedem z ośmiu — tak.
+
+| Pozycja | Status | Droga dojścia |
+|---|---|---|
+| **Sartre**, *Byt i nicość* / *Przy drzwiach zamkniętych* | ✔ **zamknięta** | M. Błaszczyk, *Człowiek według Jeana-Paula Sartre'a*, „Przegląd Filozoficzny — NS" 28 (2019) nr 2, DOI 10.24425/pfns.2019.128376 — PAN, wolny dostęp przez CEJSH. Paginacja cudzych cytatów, teza o samotności jako danej podstawowej, formuła Szydłowskiej. Wpisane do rozdz. 43 przyp. ⁴. |
+| **Bauman**, *Śmierć i nieśmiertelność* | ✔ **zamknięta, z korektą** | Dwa artykuły z „Kultury i Społeczeństwa" (IFiS PAN, otwarty dostęp): E. Tarkowska o detemporalizacji oraz Ł. Musielak, *Człowiek wobec śmierci*. Ujawniły, że wcześniejsza teza rozdz. 46 była **błędna** — poprawiona. |
+| **Pieper**, *Tod und Unsterblichkeit* | ✔ obsłużona pośrednio | Ratzinger, *Eschatologia*, referuje Piepera wiernie i z aprobatą; cytujemy **za Ratzingerem, jawnie**. Dane wydawnicze potwierdzone (Kösel 1968, 208 s.). Samej książki nie zdobywamy — nie ma przekładu polskiego. |
+| **Heschel**, *Bóg szukający człowieka* | ✔ **materiał zdobyty** | opoka.org.pl udostępnia legalnie **cały rozdział II** („Drogi do Jego obecności", Esprit 2008). Wystarcza na nowy rozdz. 30 — na parafrazach. **Bez paginacji** (tekst WWW): przy cytacie `[s?]`. |
+| **Becker**, *Zaprzeczanie śmierci* | ✔ bez zmian | Referat opisowy w rozdz. 46 działa; Becker jest tam echem, nie głosem wiodącym. |
+| **Heidegger / Jaspers** | ✔ decyzja podtrzymana | Świadomie po jednej linii każdy. Referat wystarcza. **Nie kupować** — koszt nieproporcjonalny do jednego zdania. |
+| **Frankl** | ✔ bez zmian | Obsłużony wcześniej; przywoływany opisowo. |
+| **Ariès**, *Człowiek i śmierć* | ⚠ **jedyna otwarta** | Pozostaje świadomie pominięty (rozdz. 46, nota końcowa pkt 3). Nie blokuje żadnego rozdziału: jego teza o przemianie obyczaju śmierci jest w tekście obecna przez Ratzingera i Piepera. **Rekomendacja: zostawić pominiętym.** Przywracać tylko, gdyby trafił się darmowo. |
+
+**Wniosek dla autora: nie ma już pozycji, której brak blokowałby pisanie.** Jedyne realne braki to Buber, Marcel i Yalom z § A — i te dotyczą rozdziałów 29, 47 i 48, gdzie autor ma być głosem wiodącym. Buber jest już w projekcie (skan). Reszta tabeli jest obsłużona.
+
+**Metoda, która to umożliwiła — warto ją powtarzać.** Wyszukiwanie **frazy z polskiego przekładu** trafia w recenzowane artykuły PAN / ISP PAN, które cytują dane miejsce z przypisem i paginacją. To szybsze i pewniejsze niż polowanie na pełne teksty. Uwaga: **Powszechna Encyklopedia Filozofii sprawdza się tylko dla autorów, których obejmuje** — Wojtyła tak, Sartre'a w niej nie ma (hasła brak, sprawdzone).

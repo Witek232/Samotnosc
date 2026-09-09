@@ -58,7 +58,7 @@ Pełna lista: `05_KARTOTEKA_RATZINGEROWSKA.md` § 5 (pozycje R1–R10). Nie dubl
 | Kierkegaard | „pojedynczy" (*hiin Enkelte*) | 5, 39 | `[?]` | przekład polski terminu — ujednolicić |
 | Nietzsche, *Wiedza radosna* 125 | „Bóg umarł" — pełny kontekst szaleńca | 7, 42 | `[?]` | **nie cytować samej frazy** — bez kontekstu jest karykaturą |
 | Sartre, *Przy drzwiach zamkniętych* | „piekło to inni" | 9, 43 | `[?]` | |
-| Buber, *Ja i Ty* | „wszelkie prawdziwe życie jest spotkaniem" | 29 | `[?]` | |
+| Buber, *Ja i Ty* | „Każde prawdziwe życie jest spotkaniem" | 26, 29 | ✔ | Doktór, PAX 1992, s. 44–45; zweryfikowane w skanie 2026-09-09 |
 | Marcel | rozróżnienie problem/tajemnica; *disponibilité* | 29, 21 | `[?]` | |
 | Frankl, *Człowiek w poszukiwaniu sensu* | Nietzscheańskie „kto ma po co żyć…" | 19 | `[?]` | Frankl cytuje Nietzschego — **podwójna atrybucja do zaznaczenia** |
 | Yalom | cztery dane ostateczne; samotność egzystencjalna | 20, 40 | `[?]` | |

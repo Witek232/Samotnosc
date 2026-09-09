@@ -40,6 +40,56 @@ Ratzinger: *Wprowadzenie w chrześcijaństwo*, *Eschatologia*, *Jezus z Nazaretu
 **(5) Wieczne „Ty".** Koniec części trzeciej: każde pojedyncze „ty" jest **prześwitem** ku wiecznemu „Ty"; Boga nie da się uczynić „Ono".
 > *Do czego:* most z filozofii do teologii — miejsce, w którym rozdz. 29 przechodzi w 31.
 
+## ✅ A1 ZAMKNIĘTA 2026-09-09 — *Ja i Ty* ZDOBYTE
+
+**Pełny skan wydania Doktóra (PAX 1992) jest dostępny publicznie:**
+`https://www.prchiz.pl/storage/app/media/1992/12/martin-buber/buber-martin-ja-i-ty.pdf`
+(250 s., tekst przeszukiwalny, ISBN 83-211-1161-0 — to **właściwe wydanie**, nie inny przekład).
+
+Kopia robocza: `/home/user/buber.pdf`, tekst wyekstrahowany: `/home/user/buber_pages.json`.
+
+**Uwaga o zawartości tomu:** to *Ja i Ty. Wybór pism filozoficznych* — oprócz *Ich und Du* zawiera
+*Urdistanz und Beziehung*, *Elemente des Zwischenmenschlichen*, *Zwischen Gesellschaft und Staat*,
+*Bilder von Gut und Böse*, *Zwiesprache*, a także obszerny wstęp Doktóra (ok. 30 s.) o biografii
+i chasydzkich korzeniach idei spotkania. **Nie zawiera** *Dwóch typów wiary*, *Problemu człowieka*
+ani *Zaćmienia Boga*.
+
+### Spór o najsłynniejsze zdanie — ROZSTRZYGNIĘTY
+
+Poprawne brzmienie u Doktóra: **„Każde prawdziwe życie jest spotkaniem"**.
+
+Wszystkie trzy warianty krążące w opracowaniach („Wszelkie…", „Całe…", „Wszystkie…") są **błędne**.
+Zdanie **wraca do książki jako cytat** — w rozdz. 26 i 29 zdjęto tryb referowania.
+
+Morał do zapisania na przyszłość: cztery niezależne opracowania podawały to zdanie z adresem
+„Doktór, PAX 1992" i **żadne nie trafiło**. Potwierdza to zasadę — cytujemy wyłącznie z tekstu.
+
+### Zweryfikowane w skanie (znaczniki `[?]` zdjęte)
+
+| Treść | Status |
+|---|---|
+| Dwa słowa podstawowe; „postawa człowieka jest dwojaka…" | ✔ |
+| „Każde prawdziwe życie jest spotkaniem" | ✔ **cytat** |
+| „Staję się ja w zetknięciu z Ty. Stając się ja, mówię Ty" | ✔ |
+| „Każdy środek jest przeszkodą. Tylko tam, gdzie rozpadły się wszelkie środki, dokonuje się spotkanie" | ✔ |
+| „Na początku jest relacja" (dwa wystąpienia) | ✔ |
+| „Relacja jest wzajemnością" | ✔ |
+| „w naszym świecie każde Ty musi stać się Ono" | ✔ |
+| „Przedłużone linie relacji przecinają się w wiecznym Ty. Każde pojedyncze Ty jest prześwitem ku niemu" | ✔ |
+| wieczne Ty „z istoty swej nie może stać się Ono" | ✔ |
+| „nie tylko o Bogu, lecz również do Niego" | ✔ **most 29 → 31** |
+
+**Nie potwierdzone:** „relacja do człowieka jest właściwym obrazem relacji do Boga" (rzekomo s. 104)
+oraz „na prawdziwe zagadnięcie zostaje tu udzielona prawdziwa odpowiedź". Przeszukanie całego tekstu
+nie znajduje tych fraz. Myśl pokrewna jest w części trzeciej obecna, ale **w tym brzmieniu cytować nie wolno** —
+prawdopodobnie parafraza opracowania albo fragment z innego pisma Bubera. Pozostaje `[?]`.
+
+**Odrzucone:** „Odkrycie Ja przez Ty…" — urwana fraza, nie zdanie.
+
+---
+
+### Materiał archiwalny — triage sprzed zdobycia skanu
+
 ### Uzupełnienie 2026-09-09 — numery stron i triage wiarygodności
 
 Autor dostarczył zestawienie fragmentów z numerami stron wyd. PAX 1992 (przeł. J. Doktór), oparte na opracowaniach cytujących to wydanie (m.in. ZPE) — **nie na autopsji egzemplarza**. Poniżej podział na to, co można wykorzystać od razu, i to, co nadal wymaga zdjęcia strony.

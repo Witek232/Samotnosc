@@ -78,7 +78,17 @@ Pozostałe miejsca wykorzystane w tym rozdziale, zweryfikowane w tym samym skani
 ⁴ Sobór Watykański II, konstytucja duszpasterska *Gaudium et spes* (1965), **nr 24**: „człowiek […] nie może odnaleźć się w pełni inaczej jak tylko poprzez bezinteresowny dar z siebie samego”. ✔ **zweryfikowane** (tekst polski, numeracja akapitów stała we wszystkich wydaniach).
 **Sprostowanie 2026-09-08:** w wersji pierwotnej tego rozdziału zdanie o darze z siebie było przypisane encyklice *Deus caritas est* § 16. **Jest to atrybucja błędna** — w DCE takiego zdania nie ma. Fraza „człowiek staje się w pełni sobą” występuje w *Deus caritas est* **§ 5**, ale w innym kontekście: dotyczy jedności ciała i duszy („Jedynie wówczas, kiedy obydwa wymiary stapiają się naprawdę w jedną całość, człowiek staje się w pełni sobą”), a nie daru z siebie. Właściwym źródłem myśli o darze jest *Gaudium et spes* 24 — dokument, którego Karol Wojtyła był współautorem, co dodatkowo wzmacnia użycie w tym miejscu.
 
-⁵ J. Ratzinger, *Wprowadzenie w chrześcijaństwo* (wyd. pol. Znak): struktura credo jako osobowa odpowiedź; wg kartoteki — „rozdział «Wierzę w Ciebie»”; lokalizacja stron do potwierdzenia [?]; pełne czytanie credere Deum / credere Deo / credere in Deum — rozdz. 31.
+⁵ J. Ratzinger, *Wprowadzenie w chrześcijaństwo* (egzemplarz w bibliotece projektu: `biblioteka/_tekst/ratzinger_wprowadzenie-w-chrzescijanstwo_pl.txt`), podrozdział **„Wierzę w Ciebie"**, **s. 39–41**. ✔ **ZWERYFIKOWANE 2026-09-09 — `[?]` ZDJĘTE.** Tytuł podrozdziału potwierdzony w spisie treści; brzmienia:
+
+> „W tym, co dotąd powiedzieliśmy, nie został jeszcze poruszony najgłębszy i główny rys wiary chrześcijańskiej, mianowicie jej **charakter osobowy**. […] Jej zasadnicze sformułowanie nie brzmi »wierzę w coś«, ale **»wierzę w Ciebie«**" (s. 39).
+
+> „wiara jest znalezieniem jakiegoś »ty«, które jest dla mnie oparciem i które w całym niespełnieniu i ostatecznej niespełnialności ludzkich spotkań, obdarza obietnicą niezniszczalnej miłości" (s. 40).
+
+**To jest dokładnie oś tego rozdziału — i zarazem podtytuł całej książki.** Zdanie „nie »wierzę w coś«, ale »wierzę w Ciebie«" jest Ratzingerowskim odpowiednikiem różnicy coś/ktoś, którą rozdz. 28 wziął od Spaemanna; warto, żeby redakcja połączyła te dwa miejsca świadomie.
+
+Ratzinger dorzuca też pytanie, które sam nazywa osią własnej książki: **„Czy to naprawdę Ty?"** (s. 41) — „wszystkie rozważania tej książki są ostatecznie podporządkowane temu pytaniu". Dla refrenu „czy ktoś tam jest?" jest to najbliższy odpowiednik, jaki ta książka ma u Ratzingera. **Do rozważenia jako motto części VI.**
+
+*Credere Deum / Deo / in Deum* — s. 108 (`credo in Deum`); pełne czytanie zaplanowane w rozdz. 31.
 
 **Noty redakcyjne (poza tekstem książki):**
 

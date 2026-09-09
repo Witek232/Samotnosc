@@ -39,7 +39,7 @@ Druga linia: jeżeli u początku jest Ojciec, Syn i Duch, miłość nie czeka na
 
 Chrześcijaństwo nie mówi tylko, że człowiek potrzebuje miłości. Mówi, że miłość znajduje się u początku samego bytu.
 
-Jan zapisał, jak ta wewnętrzna miłość otwiera się na świat — zapisał w formie modlitwy, którą Jezus odmawia przed śmiercią: „aby wszyscy byli jedno… Ty, Ojcze, we Mnie, a Ja w Tobie" — i dalej: „Ojcze, chcę, aby ci, których Mi dałeś, byli ze Mną tam, gdzie Ja będę".² To nie jest plan ani żądanie; jest zaproszeniem wypowiedzianym wewnątrz relacji, która się nie kończy: Syn chce, żeby to, co odwieczne, stało się miejscem dla tych, których Ojciec dał. Wolny bok stołu z ikony ma w tej modlitwie swoje brzmienie — i na odwrót: kto stoi przed tym obrazem, już jest we wstępie do tej modlitwy.
+Jan zapisał, jak ta wewnętrzna miłość otwiera się na świat — zapisał w formie modlitwy, którą Jezus odmawia przed śmiercią: „aby wszyscy stanowili jedno, jak Ty, Ojcze, we Mnie, a Ja w Tobie" — i dalej: „Ojcze, chcę, aby także ci, których Mi dałeś, byli ze Mną tam, gdzie Ja jestem".² To nie jest plan ani żądanie; jest zaproszeniem wypowiedzianym wewnątrz relacji, która się nie kończy: Syn chce, żeby to, co odwieczne, stało się miejscem dla tych, których Ojciec dał. Wolny bok stołu z ikony ma w tej modlitwie swoje brzmienie — i na odwrót: kto stoi przed tym obrazem, już jest we wstępie do tej modlitwy.
 
 ### IV
 
@@ -83,17 +83,65 @@ Zostaje pytanie, które ta teza otwiera i którego ten rozdział podjąć nie mo
 
 **Przypisy:**
 
-¹ J. Ratzinger, *Wprowadzenie w chrześcijaństwo* (wyd. pol. Znak): rozdział o Bogu — Trójca jako „wielość w jedności"; formuła chrzcielna Mt 28,19 jako „imię" Boga w liczbie mnogiej; strony wyd. [?].
+¹ J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, wyd. pol. Znak — egzemplarz: `biblioteka/_tekst/ratzinger_wprowadzenie-w-chrzescijanstwo_pl.txt`.
 
-² 1 J 4,8 oraz J 17,21.24 — brzmienia robocze wg konspektu; sprawdzenie z BT [?].
+✔ **ZWERYFIKOWANE U ŹRÓDŁA 2026-09-09 — cztery miejsca, wszystkie kluczowe dla tego rozdziału.**
 
-³ Augustyn, *De Trinitate* ks. IX–XV — kochający–kochany–miłość (ks. IX); memoria, intelligentia, voluntas (roboczo, ks. XIV); wyd. pol. [?]; użycie wyłącznie jako obrazu (konspekt § 10, ryzyko 4).
+**(a) s. 134 — relacja jako pierwotna forma bytu, nie przypadłość.** „Dla Arystotelesa była ona [relacja] przypadłością… Doświadczenie, że **w Bogu występuje dialog, że Bóg który jest nie tylko Logos, lecz także Dia-logos**, nie tylko myślą i sensem, lecz także rozmową i słowem, we wzajemnym odnoszeniu się do siebie — to doświadczenie burzy starożytny podział rzeczywistości na substancję… Teraz staje się jasne, że **obok substancji mamy dialog, relację, jako w równej mierze pierwotną formę bytu**".
 
-⁴ Tomasz z Akwinu, *Summa theologiae* I, q. 27–43; q. 28 — relacje realne; q. 29 — osoba (pomost z rozdz. 28); „w Bogu wszystko jest jedno, tam, gdzie nie stoi sprzeczność relacji" — parafraza robocza wg konspektu; strony wyd. pol. [?].
+**(b) s. 134–135 — czym są „trzy Osoby".** „**Nie są one substancjami, osobowościami we współczesnym znaczeniu, tylko są wzajemną relacją**, której czysta aktualność … nie usuwa jedności najwyższej Istoty, **ale tę jedność sprawia**". Dalej, za Augustynem: „»Ojciec« jest czystym pojęciem relacji… **Osoba jest czystą relacją odnoszenia się do kogoś, niczym więcej**".
 
-⁵ Ps 139,7–10 oraz Iz 43,1 — brzmienia robocze wg konspektu (wersja v2: świadectwa adresowania w funkcji wycofanego głosu żydowskiego — decyzja autora, `STRUKTURA_V3.md` § 0.2); sprawdzenie z BT [?].
+**(c) s. 135 — konsekwencja filozoficzna.** „**Złamane zostało jedynowładztwo substancji, odkryto relację jako równorzędny, pierwotny sposób istnienia rzeczywistości.**"
 
-⁶ J. Ratzinger, „Uwagi o pojęciu osoby w teologii", „Communio" 13 (1990) nr 1: osoba jako relacja; wyd. pol. [?] — klamra z rozdz. 28.
+**(d) s. 138 — ODPOWIEDŹ NA MONADĘ, wprost.** „**nie w »atomie«, najmniejszej, niepodzielnej cząstce, znajduje się najdoskonalsza jedność, tylko … czysta jedność może występować dopiero w duchu i obejmuje relację miłości**".
+
+**To jest najważniejsze znalezisko dla tego rozdziału i trzeba je wykorzystać w ruchu II.** Cała konstrukcja „monada versus Trójca" jest dziś moja — a Ratzinger stawia ją **sam, tym samym obrazem**: doskonała jedność nie jest jednością niepodzielnego punktu, lecz jednością relacji. Zdanie z **s. 134–135** („nie usuwa jedności … ale tę jedność sprawia") **odpowiada na zarzut z ruchu VIII** (że Trójca to komplikacja monoteizmu) jednym ruchem: wielość relacji nie osłabia jedności, tylko ją wytwarza.
+
+**Klamra, której rozdział jeszcze nie widzi:** ten sam obraz „atomu" pojawia się w rozdz. 26 (przyp. ᴮ, *Eschatologia*, s. 176) w kontekście nieśmiertelności. **To ten sam argument Ratzingera zastosowany dwa razy** — raz do Boga, raz do człowieka. Warto to w części VI odnotować jednym zdaniem, bo pokazuje, że linia Ratzingerowska tej książki jest jedną myślą, nie zbiorem cytatów.
+
+**Uwaga rzetelnościowa:** formuły chrzcielnej **Mt 28,19 jako „imienia Boga w liczbie mnogiej"** — którą przypis zapowiadał — **w tym miejscu książki nie znalazłem**. Nie przypisuję jej Ratzingerowi. Jeśli ma zostać w rozdziale, potrzebuje własnego adresu; sama obserwacja („chrzcijcie ich w imię" — l. poj. przy trzech imionach) jest klasyczna i można ją podać bez firmowania nazwiskiem.
+
+² **1 J 4,8** wg **BT**: „Kto nie miłuje, nie zna Boga, **bo Bóg jest miłością**". ✔ **ZWERYFIKOWANE 2026-09-09** (biblia.deon.pl). Formuła powtórzona w **1 J 4,16**: „Bóg jest miłością: kto trwa w miłości, trwa w Bogu, a Bóg trwa w nim" — wersja z 4,16 jest dla ruchu VI użyteczniejsza, bo od razu wiąże tezę o Bogu z ludzkim trwaniem; do rozważenia jako drugie miejsce.
+
+**J 17,21.24** wg **BT** — ✔ zweryfikowane, **z poprawką w tekście głównym**. Brzmienia dokładne: „**aby wszyscy stanowili jedno, jak Ty, Ojcze, we Mnie, a Ja w Tobie, aby i oni stanowili w Nas jedno, aby świat uwierzył, żeś Ty Mnie posłał**" (17,21); „**Ojcze, chcę, aby także ci, których Mi dałeś, byli ze Mną tam, gdzie Ja jestem, aby widzieli chwałę moją, którą Mi dałeś, bo umiłowałeś Mnie przed założeniem świata**" (17,24).
+
+**Wersja odziedziczona miała trzy odstępstwa** — „aby wszyscy **byli** jedno" zamiast „stanowili jedno", brak „jak" (co gubi porównanie: jedność uczniów **na wzór** jedności Ojca i Syna) i „gdzie Ja **będę**" zamiast „gdzie Ja **jestem**". Ostatnie jest najpoważniejsze: czas przyszły przesuwa sens ku eschatologii przyszłej, podczas gdy „jestem" mówi o stanie obecnym Syna. Poprawione.
+
+**Znalezisko dla ruchu III — zakończenie 17,24 wzmacnia tezę rozdziału bardziej niż cokolwiek, co tam stoi:** „**bo umiłowałeś Mnie przed założeniem świata**". To jest dosłowne biblijne potwierdzenie, że miłość jest **przed** stworzeniem, czyli że nie czeka na obiekt — dokładnie druga linia ruchu III, dziś oparta na samym rozumowaniu. Rekomenduję dopisać ten człon do cytatu.
+
+³ Augustyn, *De Trinitate*, ks. IX–XV — triada kochający/kochany/miłość (ks. IX) oraz memoria/intelligentia/voluntas (ks. X i XIV); użycie wyłącznie jako obrazu (konspekt § 10, ryzyko 4). Wyd. pol.: *O Trójcy Świętej*, przeł. **M. Stokowska**, Poznań **1962** — ✔ **dane ustalone 2026-09-09**: Ratzinger cytuje dokładnie ten przekład we *Wprowadzeniu* (przypis na s. 136). Numeracja ksiąg/rozdziałów jest w wydaniach jednolita, więc lokalizacja „ks. IX" wystarcza i **nie wymaga stron**.
+
+**Dwa cytaty Augustyna gotowe do użycia — z drugiej ręki, ale z ręki pewnej** (Ratzinger, *Wprowadzenie*, s. 134–135, z podanymi adresami źródłowymi): „**Ojciec nazywa się Ojcem nie ze względu na siebie, ale ze względu na Syna, odnośnie do siebie jest po prostu Bogiem**" (*Enarrationes in Psalmos* 68 I, 5) oraz „**W Bogu nie ma żadnych przypadłości, jest tylko substancja i relacja**". Pierwszy jest dla ruchu IV lepszy niż triada z ks. IX, bo mówi wprost o relacji, a nie o analogii psychologicznej — a przy tym **omija ryzyko 4** (obraz brany za opis wnętrza Boga).
+
+⁴ Tomasz z Akwinu, *Summa theologiae* I, q. 27–43; **q. 28 — relacje realne w Bogu**; q. 29 — osoba (pomost z rozdz. 28).
+
+✔ **ZWERYFIKOWANE 2026-09-09** (tekst *Summy*). Ruch IV referuje Tomasza wiernie: **q. 28 a. 1** pyta wprost „czy w Bogu są relacje realne" i odpowiada twierdząco — relacje wynikające z pochodzeń Bożych „są **koniecznie relacjami realnymi**", ponieważ pochodzenia dokonują się w tożsamości tej samej natury; przeciwne stanowisko Tomasz nazywa **herezją Sabeliusza** (czyli tym, co rozdział nazywa modalizmem — argument idzie więc dokładnie w stronę, w którą rozdział go prowadzi). **q. 28 a. 2** stawia drugą połowę: relacje te **są samą istotą Bożą**, nie czymś zewnętrznym wobec niej — co jest teologicznym zapleczem zdania z ruchu IV, że relacja nie dzieli Boga.
+
+**Formuła „w Bogu wszystko jest jedno, tam, gdzie nie stoi sprzeczność relacji" — UWAGA.** To **nie jest zdanie Tomasza z q. 28**. Jest to formuła soborowa: **Sobór Florencki, bulla *Cantate Domino* (1442)** — „*omniaque sunt unum, ubi non obviat relationis oppositio*". Rozdział podaje ją jako parafrazę Tomasza, co jest **fałszywym adresem** — czwartym w tym audycie. Sens jest zgodny z linią tomistyczną, więc treści nie trzeba ruszać; **trzeba poprawić przypisanie**. Rekomendacja: albo zacytować Florencję z podaniem soboru (mocniejsze, bo to tekst magisterialny), albo usunąć formułę i zostawić samo q. 28.
+
+**Wyd. pol. *Summy* [?]** — dla q. 27–43 to tom o Trójcy w wydaniu londyńskim (Veritas, przeł. **P. Bełch**); numeracji kwestii i artykułów nie trzeba uzupełniać stronami, bo jest identyczna we wszystkich wydaniach i tak się *Summę* cytuje. **Traktuję ten `[?]` za zamknięty** — strony wyd. pol. [?].
+
+⁵ **Ps 139(138),7–10** wg **BT** — ✔ **ZWERYFIKOWANE 2026-09-09** (biblia.deon.pl):
+
+> „**Gdzież się oddalę przed Twoim duchem? Gdzie ucieknę od Twego oblicza? Gdy wstąpię do nieba, tam jesteś; jesteś przy mnie, gdy się w Szeolu położę. Gdybym przybrał skrzydła jutrzenki, zamieszkał na krańcu morza: tam również Twa ręka będzie mnie wiodła i podtrzyma mię Twoja prawica.**"
+
+**Dwie uwagi warsztatowe.** (1) BT numeruje ten psalm **139(138)** — przy pierwszym przywołaniu w książce warto podać obie numeracje, potem samo 139. (2) Werset 8 mówi „**w Szeolu**", nie „w otchłani" — a rozdz. 23/24 operują „otchłanią". Nota redakcyjna zapowiada Ps 139,8 jako **echo otchłani**; żeby to echo działało, trzeba albo zacytować „Szeol" i jednym słowem wyjaśnić, że to jest owa otchłań, albo świadomie mówić o niej opisowo. **Nie wolno podmienić słowa wewnątrz cudzysłowu.**
+
+**Iz 43,1** wg **BT** — ✔ **ZWERYFIKOWANE 2026-09-09** (biblia.deon.pl):
+
+> „Ale teraz tak mówi Pan, Stworzyciel twój, Jakubie, i Twórca twój, o Izraelu: «**Nie lękaj się, bo cię wykupiłem, wezwałem cię po imieniu; tyś moim!**»"
+
+**To jest najmocniejsze świadectwo adresowania w całym rozdziale i warto je wyeksponować.** „**Wezwałem cię po imieniu**" to dokładnie ta struktura, którą część VI buduje od rozdz. 29: tożsamość nie znaleziona w sobie, lecz otrzymana od Kogoś, kto mówi **do** mnie. Werset domyka też klamrę z rozdz. 33: nad Jordanem („Tyś jest mój Syn") działa **ta sama gramatyka** co u Izajasza („tyś moim") — druga osoba, imię, przynależność. Bóg Starego i Nowego Testamentu mówi tym samym trybem.
+
+**Uwaga o wielkiej literze:** w BT „tyś moim" odnosi się do **człowieka**, więc zgodnie z regułą z rozdz. 29 zostaje **małe „ty"** — mimo że zdanie wypowiada Bóg. Nie podnosić.
+
+**Kontekst wzmacniający (Iz 43,2), gdyby rozdział potrzebował jeszcze jednego zdania:** „Gdy pójdziesz przez wody, Ja będę z tobą… Gdy pójdziesz przez ogień, nie spalisz się" — to samo „Tu jestem", które książka notuje jako odpowiedź refrenu.
+
+⁶ **PRZYPIS DO WYMIANY — decyzja jak w rozdz. 28.**
+
+Odziedziczona wersja odsyłała do J. Ratzingera, „Uwagi o pojęciu osoby w teologii", „Communio" 13 (1990) nr 1. **Tego tekstu nie mam i nie mogę zweryfikować ani brzmienia, ani rocznika, ani numeru.** W rozdz. 28 ten sam problem rozwiązaliśmy 2026-09-09 przez **wymianę adresu na *Wprowadzenie w chrześcijaństwo*, s. 134** — i tu robię tak samo, bo teza „osoba jest relacją" stoi tam **dosłownie i sprawdzalnie** (zob. przyp. ¹ (b): „Osoba jest czystą relacją odnoszenia się do kogoś, niczym więcej", s. 134–135).
+
+**Zalecenie: skasować ten przypis i odesłać do przyp. ¹.** Klamra z rozdz. 28 wtedy nie tylko się utrzymuje, ale **wzmacnia**: oba rozdziały cytują to samo miejsce tej samej książki, którą mamy na dysku, zamiast artykułu z czasopisma, którego nikt z nas nie widział. Zostawiam przypis w tej formie tylko po to, żeby decyzja była świadoma, a nie cichym usunięciem.
 
 **Noty redakcyjne (poza tekstem książki):**
 
@@ -102,5 +150,5 @@ Zostaje pytanie, które ta teza otwiera i którego ten rozdział podjąć nie mo
 - Podział pracy z sąsiadami: rozdz. 16 — agape jako struktura jednym zdaniem (linia a, ruch VI), bez ponownego czytania DCE; rozdz. 24 — zejście jednym zdaniem (linia b) + Ps 139,8 jako echo otchłani, bez dublowania teologii zstąpienia; rozdz. 25 — krzyk Syna jednym zdaniem (precyzja „Bóg nie zna samotności"), bez powtórnego czytania psalmów; rozdz. 26 — próg i obietnica trwania jednym zdaniem (linia c); rozdz. 28 — klamra „dla i wobec" w ruchu V, q. 29 jako pomost (kierunek odwrotny: tam teologia dawała pojęcie osobie, tu osoba odbiera fundament z Trójcy); rozdz. 31 — pytanie o dłoń podjęte w otwarciu i domknięte w moście; rozdz. 33 — most (Syn: słowo, które brzmi jak tytuł); rozdz. 34 — odroczone („Ty" Boga w historii); rozdz. 35 — obraz stołu zapowiedziany (ruch I); epilog — powrót obrazu zapowiedziany; rozdz. 40–37 — zarzut „teologii nadąsanej" odnotowany jednym zdaniem (ruch VII), pełne rozliczenie odroczone.
 - Wielka litera: reguła ustanowiona w rozdz. 29 obowiązująca w całym rozdziale — „Ty/Ciebie/Tobie" tylko dla Adresata-Boga (także w cytatach Ps 139 i J 17); „ty" małe — człowiek; „Ojciec/Syn/Duch" — kapitalizacja zwykła.
 - Odesłania: 15 (agape), 23 (otchłań — Ps 139,8), 24 (krzyk Syna), 25 (próg; obietnica trwania), 27 (osoba jako relacja; „dla i wobec"), 29 (dłoń; skarga, która ma adres), 31 (most — Syn), 32 (odroczone), 33 (obraz stołu), 36–37 (zarzuty odroczone), epilog (obraz stołu).
-- [?] do redakcji: strony *Wprowadzenia w chrześcijaństwo* (Znak; rozdział o Bogu), wyd. pol. „Communio" (1990), strony *ST* I q. 27–43 (wyd. pol.), wyd. pol. *De Trinitate* (ks. IX–XV), brzmienia BT (1 J 4,8; J 17,21.24; Ps 139,7–10; Iz 43,1; Mt 28,19), data ikony Rubliewa i lokalizacja (Galeria Trietiakowska — potwierdzić), fraza „zrzut struktury Boga" (termin roboczy konspektu).
+- **[?] do redakcji — STAN PO AUDYCIE 2026-09-09.** ZAMKNIĘTE: strony *Wprowadzenia* (**s. 134–135, 138** — przyp. ¹); *ST* I q. 28 (numeracja kwestii wystarcza, wyd. Veritas/Bełch); *De Trinitate* wyd. pol. (Stokowska, Poznań 1962); brzmienia BT (**1 J 4,8 ✔, J 17,21.24 ✔ i poprawione w tekście, Ps 139,7–10 ✔, Iz 43,1 ✔**). ROZSTRZYGNIĘTE INACZEJ: „Communio" 1990 — **do wymiany na *Wprowadzenie* s. 134** (przyp. ⁶); formuła „gdzie nie stoi sprzeczność relacji" — **to Sobór Florencki, nie Tomasz** (przyp. ⁴); Mt 28,19 jako teza Ratzingera — **nie potwierdzone, nie przypisywać** (przyp. ¹). POZOSTAJE: data ikony Rublowa i lokaliza
 - Znaczniki ruchów I–VIII znikają w wersji drukowanej.

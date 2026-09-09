@@ -15,7 +15,7 @@ Ten rozdział domyka część szóstą i dlatego pilnuje trzech dyscyplin naraz.
 
 Miasto Sychar w Samarii, przy studni Jakuba, w południe. Jezus siedzi przy studni, zmęczony podróżą — Ewangelia nie ukrywa tego słowa; uczniowie odeszli do miasta kupić żywności, więc jest sam. Wchodzi kobieta z dzbanem. Jezus wchodzi w rozmowę jednym zdaniem: „Daj Mi pić”.² To wszystko, co widać: kamień studni, upał, zmęczenie, prośba.
 
-Zostaje jeszcze jedno, czego łatwo nie zauważyć: miejsce. Sychar leży w Samarii, a Samaria była dla Żydów terytorium obcym — nie w sensie geograficznym, w sensie społecznym: ludzie, których się omija; droga, na którą się nie wchodzi. Ewangelia notuje zdanie, które brzmi jak wtrącenie: „musiał przejść przez Samarię”.² Trzeba być ostrożnym z tym „musiał”, bo geograficznie można było iść inną drogą; robocze odczytanie mówi, że ta konieczność nie była topograficzna. Ten, który wchodzi w historię jako „Ty”, nie omija ludzi, których inni omijają — jego droga prowadzi przez teren obcy i przystaje w południe tam, gdzie stoi ktoś sam.
+Zostaje jeszcze jedno, czego łatwo nie zauważyć: miejsce. Sychar leży w Samarii, a Samaria była dla Żydów terytorium obcym — nie w sensie geograficznym, w sensie społecznym: ludzie, których się omija; droga, na którą się nie wchodzi. Ewangelia notuje zdanie, które brzmi jak wtrącenie: „Trzeba Mu było przejść przez Samarię”.² Trzeba być ostrożnym z tym „trzeba było”, bo geograficznie można było iść inną drogą; robocze odczytanie mówi, że ta konieczność nie była topograficzna. Ten, który wchodzi w historię jako „Ty”, nie omija ludzi, których inni omijają — jego droga prowadzi przez teren obcy i przystaje w południe tam, gdzie stoi ktoś sam.
 
 Zanim scena pójdzie dalej, trzeba się zatrzymać przy tym, kto tu kogo prosi. Jeżeli rozdział trzydziesty drugi był prawdziwy — jeżeli u początku bytu stoi relacja, nie samodzierżca — to ta prośba nie jest dydaktycznym zabiegiem; jest objawieniem formy. Bóg, który się adresuje, zaczyna od prośby: prośba czyni miejsce na odpowiedź i wystawia proszącego na ryzyko odmowy. Absolut filozofów nie prosi — o wszystko prosi się Absolutu. Ten przy studni zaczyna od drugiej strony; i nie przy asyście chóru, lecz w południe, sam, w rozmowie, której nikt nie notuje.
 
@@ -73,15 +73,45 @@ Jeżeli „Ty” jest spotykalne, trzeba sprawdzić, czy spotkanie działa: czy 
 
 **Przypisy:**
 
-¹ J 1,14 — brzmienie robocze wg konspektu; sprawdzenie z BT [?]; gr. *eskenōsen* — dosł. „rozbił (namiot) wśród nas”; linia o przenośni namiotu — robocza, uściślenie terminologiczne (namiot/przybytek) wg stanu badań [?].
+¹ **J 1,14** wg **BT**: „**A Słowo stało się ciałem i zamieszkało wśród nas. I oglądaliśmy Jego chwałę, chwałę, jaką Jednorodzony otrzymuje od Ojca, pełen łaski i prawdy.**" ✔ **ZWERYFIKOWANE 2026-09-09** (biblia.deon.pl). Cytat w rozdziale (zdania pierwsze) — **zgodny co do joty, bez poprawek**.
 
-² J 4,1–42 (zwł. 4,7 — „Daj Mi pić”; 4,6 — godzina szósta, studnia Jakuba; 4,17–18; 4,26; 4,28) — brzmienie robocze wg konspektu; sprawdzenie z BT [?]; wielka litera „Mi” w cytacie — wg reguły z rozdz. 29 (mówi Osoba Boża); robocze odczytanie pory przyjścia kobiety — do decyzji redakcyjnej [?].
+**Do *eskenōsen* — uściślenie, które wzmacnia rozdział.** Etymologia jest pewna: czasownik pochodzi od *skēnē* („namiot") i dosłownie znaczy „rozbił namiot", „zamieszkał w namiocie". Rozdział używa tego trafnie. **Warto jednak wiedzieć, dlaczego to słowo jest tak dobrane**, bo to argument mocniejszy niż sama dosadność obrazu: *skēnē* i hebrajskie *šākan* („mieszkać") to rdzeń, od którego pochodzi **Szekina** — obecność Boga zamieszkująca **Namiot Spotkania** i świątynię. Jan nie mówi więc tylko „Bóg się u nas zatrzymał"; mówi, że **miejscem Bożej obecności przestała być świątynia, a stało się ciało tego człowieka**. To jest dokładnie teza rozdziału („Bóg nie odwiedza świata z delegacją") — tyle że umocowana w Starym Testamencie, a nie tylko w metaforze biwaku.
 
-³ J. Ratzinger, *Wprowadzenie w chrześcijaństwo* (wyd. pol. Znak): Wcielenie w strukturze wyznania wiary; strony [?].
+**`[?]` terminologiczne — moja rekomendacja.** Para „namiot/przybytek" nie jest sporem, tylko wyborem rejestru: „przybytek" to język liturgiczny (i tak zwykle tłumaczy się *skēnē* w Wj), „namiot" — obrazowy. Rozdział jest esejem, nie komentarzem, więc **zostawiłbym „namiot"**, dopisując pół zdania o Namiocie Spotkania. `[?]` zdejmuję jako rozstrzygnięte redakcyjnie: nie ma tu błędu do naprawienia, jest decyzja stylistu badań [?].
+
+² **J 4,1–42** wg **BT** — ✔ **ZWERYFIKOWANE 2026-09-09** (biblia.deon.pl). Brzmienia użyte w scenie:
+
+- **4,6**: „Było tam źródło Jakuba. **Jezus zmęczony drogą siedział sobie przy studni. Było to około szóstej godziny.**" (przypis BT: „**Tzn. około południa**" — potwierdza porę przyjętą w scenie);
+- **4,7**: „Nadeszła [tam] kobieta z Samarii, aby zaczerpnąć wody. Jezus rzekł do niej: «**Daj Mi pić!**»" — cytat w rozdziale **zgodny**, wielka litera „Mi" jest w samej BT, więc reguła z rozdz. 29 i tekst źródłowy tu się pokrywają;
+- **4,17**: „**Nie mam męża**" — **zgodny**;
+- **4,18**: „Miałaś bowiem pięciu mężów, a ten, którego masz teraz, nie jest twoim mężem" — parafraza w rozdziale wierna;
+- **4,28**: „Kobieta zaś **zostawiła swój dzban** i odeszła do miasta" — obraz dzbana ma pokrycie w tekście.
+
+**POPRAWKA W TEKŚCIE GŁÓWNYM — J 4,4.** Rozdział cytował „musiał przejść przez Samarię"; **BT ma „Trzeba Mu było przejść przez Samarię"**. Poprawione, wraz z odwołaniem w zdaniu następnym („trzeba było" zamiast „musiał"). Różnica nie jest kosmetyczna: forma bezosobowa **lepiej służy tezie rozdziału**, bo nie mówi o przymusie wewnętrznym Jezusa, tylko o konieczności nienazwanej — a właśnie o to autorowi chodzi, gdy pisze, że „ta konieczność nie była topograficzna".
+
+**Jedno miejsce, które rozdział pomija, a jest jego najmocniejszym punktem: 4,26.** Na słowa kobiety o Mesjaszu Jezus odpowiada: „**Jestem nim Ja, który z tobą mówię**". To **pierwsze w Ewangelii Jana wyraźne wyznanie Jezusa, komu — Samarytance, przy studni, bez świadków**. Dla rozdziału, którego tezą jest „Bóg staje się spotykalnym »Ty«", to jest dowód rzeczowy: samoobjawienie pada **w drugiej osobie, w rozmowie z jedną osobą**, a nie z ambony. Przypis zapowiadał 4,26, ale **scena go nie wykorzystuje**. Mocno rekomenduję dopisać jedno zdanie w ruchu I — to najlepszy materiał, jaki ten rozdział ma pod ręką.
+
+**Uwaga o wielkiej literze** — wg reguły z rozdz. 29 (mówi Osoba Boża); w tym wypadku BT sama pisze „Mi" wielką literą, więc reguła i źródło się pokrywają.
+
+**Odczytanie pory przyjścia kobiety — `[?]` ZOSTAJE, i to jest właściwa decyzja.** Rozdział pisze ostrożnie („tak przynajmniej brzmi robocze odczytanie"), i słusznie. Fakt jest pewny: **BT podaje szóstą godzinę i objaśnia ją jako południe** — pora nietypowa, bo po wodę chodzono rano i wieczorem. Ale wniosek, że kobieta **unikała** innych z powodu swojej historii, to **interpretacja psychologiczna**, popularna w kaznodziejstwie, w egzegezie zaś dyskutowana (część komentatorów widzi w „szóstej godzinie" motyw teologiczny Janowy, nie realistyczny — Jan datuje sceny symbolicznie, por. godzinę u J 19,14). **Nie usuwam `[?]` i nie usuwam ostrożnego sformułowania w tekście** — jest dokładnie takie, jakie powinno być: obraz podany jako odczytanie, nie jako fakt.
+
+³ J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, wyd. pol. Znak — egzemplarz: `biblioteka/_tekst/ratzinger_wprowadzenie-w-chrzescijanstwo_pl.txt`.
+
+**Odesłanie ogólne (Wcielenie w strukturze wyznania wiary) — bez konkretnej strony, świadomie.** Ruch III nie cytuje Ratzingera, tylko referuje kompozycję Credo („nie wykład o naturze Boga, lecz biografia"), a to jest obserwacja dotycząca samego tekstu wyznania, nie teza wymagająca firmowania nazwiskiem. **Gdyby jednak przy redakcji miał tu stanąć cytat**, właściwe miejsce jest sprawdzone i leży blisko: **s. 137** — „byt pochodzący od drugiego i ku drugim skierowany… byt »od« i »ku«" — oraz **s. 176**, gdzie Ratzinger wiąże tytuł „Syn" z całkowitą relatywnością egzystencji Jezusa (pełny zapis w rozdz. 33, przyp. ²). `[?]` zdejmuję: nie ma tu nieznanej strony, jest decyzja, żeby nie cytować tam, gdzie cytat nie jest potrzebny.
 
 ⁴ J. Ratzinger, *Jezus z Nazaretu*, cz. I (wyd. pol. Znak): metoda — Jezus historyczny i Chrystus wiary jako jedność; Jezus modlący się, spotykający, jedzący; strony [?].
 
-⁵ J 3,1–21; Mk 2,15–17; J 20,24–29 — brzmienia robocze; sprawdzenie z BT [?]; rany jako adres spotkania — klamra z rozdz. 27 (jedno zdanie, bez powtórzeń).
+⁵ **Galeria spotkań — ✔ ZWERYFIKOWANA 2026-09-09** (biblia.deon.pl). Brzmienia BT:
+
+- **Mk 2,15–17** — Jezus przy stole w domu Lewiego: „wielu celników i grzeszników siedziało razem z Jezusem"; zarzut: „**Czemu On je i pije z celnikami i grzesznikami?**"; odpowiedź: „**Nie potrzebują lekarza zdrowi, lecz ci, którzy się źle mają. Nie przyszedłem powołać sprawiedliwych, ale grzeszników.**"
+- **J 20,24–29** — Tomasz: „**Podnieś tutaj swój palec i zobacz moje ręce. Podnieś rękę i włóż [ją] do mego boku, i nie bądź niedowiarkiem, lecz wierzącym!**"; odpowiedź Tomasza: „**Pan mój i Bóg mój!**"
+- **J 3,1–21** — Nikodem; rozdział przywołuje scenę jednym zdaniem, bez cytatu, więc nic tu nie wymaga korekty.
+
+**Uwaga do „lekarza" — dotyczy dyscypliny ruchu IV.** Zdanie z Mk 2,17 jest jedynym miejscem w galerii, gdzie Jezus sam używa metafory lekarskiej. Ruch IV pilnuje, żeby nie zrobić z Niego terapeuty — i dlatego, **jeśli ten cytat ma wejść dosłownie, powinien stać obok drugiej połowy zdania** („Nie przyszedłem powołać sprawiedliwych, ale grzeszników"), która przesuwa sens z leczenia na powołanie. Sam pierwszy człon, wyrwany, gra przeciw tezie rozdziału.
+
+**Znalezisko dla klamry z rozdz. 27 — mocniejsze, niż przypis zakłada.** Rany u Jana **nie są dowodem tożsamości, lecz miejscem dotyku**: Jezus nie mówi „popatrz i sprawdź", mówi „**włóż rękę**". Zmartwychwstały pozostaje kimś, kogo można dotknąć — i to rany są tym adresem. Dla rozdziału o Bogu spotykalnym to jest domknięcie: obecność nie stała się po zmartwychwstaniu mniej cielesna. Warto też zestawić z **J 20,16** — „**Mario!**" — gdzie rozpoznanie następuje dopiero wtedy, gdy Zmartwychwstały **woła po imieniu**. To ta sama gramatyka co Iz 43,1 („wezwałem cię po imieniu") z rozdz. 32; klamra całej części VI zamyka się tu sama.
+
+rany jako adres spotkania — klamra z rozdz. 27 (jedno zdanie, bez powtórzeń).
 
 **Noty redakcyjne (poza tekstem książki):**
 
@@ -92,5 +122,5 @@ Jeżeli „Ty” jest spotykalne, trzeba sprawdzić, czy spotkanie działa: czy 
 - Wielka litera: reguła ustanowiona w rozdz. 29 — „Ty/Ciebie/Tobie/Mi” tylko dla Adresata-Boga (także w cytacie J 4,7 — mówi Osoba Boża; oraz „Ten” o Logosie w ruchu II); „ty” małe — człowiek; zaimki odnoszące do Osób Bożych — wielką literą (stosunek z rozdz. 32).
 - Linia refrenu: konspektowe „można Go usiąść naprzeciwko” → „można Go posadzić naprzeciwko” (poprawka gramatyczna roboczej linii; do decyzji redakcyjnej).
 - Odesłania: 21, 23, 26, 28, 29, 30, 31, 33, 35, 36 (poza tym: prolog — zasada kompozycyjna; część VII — most).
-- [?] do redakcji: brzmienia BT (J 1,14; J 4,1–42 zwł. 4,6–7.17–18.26.28; J 3,1–21; Mk 2,15–17; J 20,24–29), terminologia *eskenōsen* (namiot/przybytek — uściślić wg stanu badań), strony *Jezusa z Nazaretu* cz. I (Znak; przedmowa metodologiczna), strony *Wprowadzenia w chrześcijaństwo* (Znak), szczegóły topograficzne (Sychar, studnia Jakuba) i odczytanie pory przyjścia kobiety.
+- **[?] do redakcji — STAN PO AUDYCIE 2026-09-09.** ZAMKNIĘTE: **wszystkie brzmienia BT ✔** (J 1,14; J 4,4.6–7.17–18.26.28 — **J 4,4 poprawione w tekście**; Mk 2,15–17; J 20,24–29); *eskenōsen* — rozstrzygnięte na rzecz „namiotu" z odesłaniem do Namiotu Spotkania (przyp. ¹); strony *Wprowadzenia* — cytat niepotrzebny, adres zapasowy podany (przyp. ³). POZOSTAJE OTWARTE (świadomie): odczytanie „szóstej godziny" jako unikania ludzi — interpretacja kaznodziejska, w tekście podana ostrożnie i tak ma zostać; strony *Jezusa z Nazaretu* cz.
 - Znaczniki ruchów I–VI znikają w wersji drukowanej.

@@ -37,7 +37,7 @@ Jeśli śmierć jest tylko ustaniem funkcji biologicznych, artykuł wiary „zst
 
 ## 6. Kluczowe cytaty (z lokalizacją)
 
-- Ratzinger, *Wprowadzenie* (rozdz. chrystologiczny): robocza parafraza: „Nie wystarczy powiedzieć: Jezus umarł. Trzeba zapytać: co znaczy umrzeć?" (dosłowność do sprawdzenia w wyd. Znak [?]).
+- ⛔ **ROZSTRZYGNIĘTE 2026-09-10: „Nie wystarczy powiedzieć: Jezus umarł. Trzeba zapytać: co znaczy umrzeć?" — TAKIEGO ZDANIA W WYDANIU NIE MA.** Sprawdzone w `biblioteka/_tekst/ratzinger_wprowadzenie-w-chrzescijanstwo_pl.txt`. Myśl jest Ratzingerowska i pada w tym miejscu (s. 244–245), ale **sformułowanie pochodzi od redaktora kartoteki** — nie wolno go cytować ani przypisywać. Autentyczne brzmienie: „Myślę, że teraz dopiero otwiera się problem, czym właściwie jest śmierć i co się dzieje, gdy ktoś umiera […]. Nikt tego naprawdę nie wie, gdyż wszyscy żyjemy po tej stronie życia i nie możemy śmierci doświadczyć".
 - Ps 88 (robocza linia): „Poznany jestem od niedoli, jakby człowiek bez pomocy… czy w grobie słyną z Twojej wierności?" — modlitwa z szeolu.
 - Robocze zdanie rozdziału: „Śmierć nie jest momentem. Jest przestrzenią — i to jest najtrudniejsze zdanie, jakie dziś możemy o niej wypowiedzieć."
 
@@ -61,3 +61,16 @@ Wszystkie cztery definicje leżą na stole. Teraz Ratzinger czyta wyznanie: mię
 
 - **REFREN NIE PADA** (dok. 07 § A2): zawieszenie refrenu bezpośrednio przed centrum książki (24) podnosi jego wagę w 24 o rząd wielkości.
 - **Źródło do pozyskania — priorytet:** Ratzinger, *Eschatologia. Śmierć i życie wieczne* (poz. R5, `05_KARTOTEKA` § 5). Śmierć jako wydarzenie osobowe, nie biologiczne; nieśmiertelność „dialogiczna" — człowiek trwa, bo jest znany przez Boga. **To jest prawdopodobnie najważniejsze nieużyte dotąd źródło książki** i pracuje w czterech rozdziałach (23, 26, 47, 49). Do czasu pozyskania pliku — parafraza.
+
+---
+
+## ⚠️ KOREKTY WNIESIONE PRZY PISANIU (2026-09-10)
+
+Rozdział **napisany**: `rozdzialy/23_czym_jest_smierc.md`.
+
+1. ⛔ **Fałszywa parafraza usunięta** (zob. § 4) — cytat z pkt. 2 i 6 nie istnieje w wydaniu. W rozdziale myśl funkcjonuje jako **zdanie narratora**, bez przypisania Ratzingerowi.
+2. 🟢 ***Eschatologia* NIE jest już „źródłem do pozyskania"** — wbrew nocie v3.2. Plik jest w bibliotece projektu (`biblioteka/_tekst/ratzinger_eschatologia-smierc-i-zycie-wieczne_pl.txt`, 3111 linii, znaczniki stron). **Nie trzeba parafrazować.** Dotyczy także rozdz. **26, 47, 49**.
+3. **Sprzeczność refrenu rozstrzygnięta na korzyść noty v3.2:** refren **NIE PADA** (pkt 5.7 uchylony).
+4. **Ps 6,6 nieużyty** — pracuje w rozdz. 24. Jedyny cytat biblijny: **Ps 88(87), 6.9.19**.
+5. **Błąd renumeracji w pkt. 5.4:** „Heidegger (echo z 23)" — powinno być **z 22**.
+6. **Podział pracy z rozdz. 24 utrzymany bezwzględnie** — zero interpretacji zstąpienia, szeol tylko jako nazwa.

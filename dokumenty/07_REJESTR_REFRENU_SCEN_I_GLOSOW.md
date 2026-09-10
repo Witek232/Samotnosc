@@ -36,6 +36,7 @@ Wypełniać przy każdym napisanym rozdziale. Cel: żadne dwie odpowiedzi nie mo
 | Rozdz. | Odpowiedź | Status |
 |---|---|---|
 | **22** | **„Czy ktoś jest po drugiej stronie?" — BEZ ODPOWIEDZI** | **napisany 2026-09-10** — ⚠️ **jedyne wystąpienie refrenu bez odpowiedzi w całej książce**. Rozdział otwiera część V (zejście) i nie ma prawa odpowiedzieć na własne pytanie; pierwsze użycie formy „po drugiej stronie" (kartoteka). Ubocznie: seria otwarć na „Jest" pozostaje przerwana |
+| **23** | — **REFREN NIE PADA** | **napisany 2026-09-10** — zawieszenie refrenu tuż przed centrum książki (§ A2). ⚠️ Konspekt 23 pkt 5.7 przewidywał refren; **nota v3.2 go uchyla** — zastosowano notę. Dodatkowy powód: rozdz. 22 użył już formy „po drugiej stronie" bez odpowiedzi, powtórka byłaby manierą |
 | 25 | „Tu jestem" | napisany |
 | 26 | „jest — i przeszedł" | napisany |
 | 30 (v3: 32) | „jest — i nigdy nie był sam" | napisany |
@@ -75,6 +76,7 @@ Sceny są najmocniejszą stroną rękopisu — niosą więcej niż argumenty. Gr
 |---|---|---|---|
 | 11 | ośrodek medytacyjny, dziesięć dni ciszy | odosobnienie | napisany |
 | **22** | dom po pogrzebie, wdowa w płaszczu | **dom** | **napisany 2026-09-10** — kobieta jako **podmiot** sceny (§ C4); rozdział wraca do niej 3× jako do instancji sprawdzającej filozofów |
+| **23** | dwie śmierci jednego dnia: dom wiejski / OIT | **szpital/hospicjum** | **napisany 2026-09-10** — ⚠️ rejestr szpitalny **ZUŻYTY**; dla rozdz. 46 (i 17) trzeba innego ujęcia |
 | 24 | (centrum — Wielka Sobota) | liturgia/ciemność | napisany |
 | 36 | łamanie chleba, niedzielna msza | kościół | napisany |
 | 37 | nocny patrol pod mostem | ulica | napisany |
@@ -84,7 +86,7 @@ Sceny są najmocniejszą stroną rękopisu — niosą więcej niż argumenty. Gr
 **Wolne rejestry do obsadzenia (propozycje przypisania):**
 
 - ~~**dom** → rozdz. 2 albo 22~~ → **OBSADZONY: rozdz. 22** (żałoba, 2026-09-10). Dla rozdz. 2 (dziecko, które woła) potrzebny **inny rejestr** — dom jest zajęty.
-- **szpital / hospicjum** → 17 (ciało wie) albo 46
+- ~~**szpital / hospicjum** → 17 albo 46~~ → **OBSADZONY: rozdz. 23** (OIT, 2026-09-10). Dla **46** (śmierć w epoce, która nie chce umierać) potrzebne **inne ujęcie** — np. dom opieki (już przypisany), zakład pogrzebowy, krematorium, kancelaria. Do rozstrzygnięcia przy pisaniu 46.
 - **praca** → 13 (człowiek jako projekt) — open space o 21:00
 - **sieć** → 44 (połączeni, ale samotni) — oczywiste; 45
 - **wieś / mała miejscowość** → 12 (Bowling Alone) — polski wariant, nie amerykański

@@ -24,6 +24,17 @@ Ratzinger nie niszczy erosu — oczyszcza go i integruje z agape (kartoteka). Er
 
 ## 4. Materiał źródłowy (z lokalizacją)
 
+> ⚠️⚠️ **KOREKTA 2026-09-10 (przy pisaniu rozdziału): NUMERACJA PARAGRAFÓW PONIŻEJ BYŁA BŁĘDNA WE WSZYSTKICH KLUCZOWYCH MIEJSCACH.** Sprawdzone w tekście polskim z `vatican.va`:
+> - **§ 3** — trzy słowa greckie (eros, philia, agape), pominięcie *erosu* w NT, **zarzut Nietzschego** („dało erosowi do picia truciznę") oraz pytanie „czy Kościół swymi przykazaniami i zakazami nie czyni gorzkim tego, co w życiu jest najpiękniejsze?" *(konspekt podawał: trzy słowa § 4, Nietzsche § 9)*
+> - **§ 4** — kulty płodności, świątynny nierząd, „pozbawia go jego godności, czyni go nieludzkim", „narzędzia"; „eros potrzebuje dyscypliny, oczyszczenia"
+> - **§ 5** — „Nie jest to odrzuceniem *erosu*, jego »otruciem«, lecz jego **uzdrowieniem w perspektywie jego prawdziwej wielkości**" ⭐ (świadoma riposta na Nietzschego — to samo słowo)
+> - **§ 6** — *Pieśń nad Pieśniami*, dodim/ahabà, ⭐ **„miłość jest »ekstazą«… jako droga, trwałe wychodzenie z »ja« zamkniętego w samym sobie"**, definitywność („tylko ta jedyna osoba", „na zawsze")
+> - **§ 7** — ⭐⭐ **„eros i agape — miłość wstępująca i miłość zstępująca — nie dają się nigdy całkowicie oddzielić"**, „w przeciwnym razie eros upada i traci swoją własną naturę", ⭐ **„Kto chce ofiarować miłość, sam musi ją otrzymać w darze"**, **drabina Jakuba**, Grzegorz Wielki *(konspekt podawał: drabina § 10, nierozdzielność § 16)*
+> - **§ 11** — mit z *Uczty* Platona (wykorzystany już w rozdz. 15)
+> - ⛔ **§ 16 dotyczy CZEGO INNEGO:** czy można kochać Boga, którego się nie widzi, i czy miłość można nakazać.
+>
+> ⚠️ Ten paragraf § 4 zawiera nadto **uszkodzony fragment** (zlepek zdań o § 7, wtrącona „scena robocza" i punkt puenty w środku wyliczenia) oraz literówki: „zatrulo", „purytatyńskie", „nakształtem", „pytan", „Romanum".
+
 - **Benedykt XVI, *Deus caritas est* (2005)** — rdzeń rozdziału:
   - **§ 4** — „miłość jest jednym, a jednak ma różne wymiary"; trzy greckie słowa: eros, philia, agape; nowotestamentowy wybór agape;
   - **§ 5** — eros jako „ogień", ale też jako siła, która może zejść do czystego seksualności; pytanie o czystość i uzdrowienie erosu;

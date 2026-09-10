@@ -36,6 +36,7 @@ Wypełniać przy każdym napisanym rozdziale. Cel: żadne dwie odpowiedzi nie mo
 | Rozdz. | Odpowiedź | Status |
 |---|---|---|
 | **22** | **„Czy ktoś jest po drugiej stronie?" — BEZ ODPOWIEDZI** | **napisany 2026-09-10** — ⚠️ **jedyne wystąpienie refrenu bez odpowiedzi w całej książce**. Rozdział otwiera część V (zejście) i nie ma prawa odpowiedzieć na własne pytanie; pierwsze użycie formy „po drugiej stronie" (kartoteka). Ubocznie: seria otwarć na „Jest" pozostaje przerwana |
+| **10** | — **REFREN NIE PADA** | **napisany 2026-09-10** — cisza wykonana zgodnie z § A2. ⚠️ **Konspekt 10 § 5.8 przewidywał refren dwuczłonowy** („Czy jest ktoś, kto pamięta tę historię razem ze mną?" / „Pewnie, że jest — ale czy jest komu?") — **nota v3.2 tego samego konspektu oraz niniejszy § A2 go uchylają**; zastosowano notę (tak samo jak w rozdz. 23). ⚠️ **Konspekt § 5.8 do poprawienia jako nieaktualny.** ⭐ **Rekompensata:** myśl z odrzuconego refrenu nie przepadła — weszła do ruchu II jako zdanie tezy w trybie oznajmującym („ma pamięć, ale nie ma nikogo, kto pamiętałby to razem z nim"), bez formy pytajnej. Pomiar: refren **0×** ✔. ⭐ Dodatkowy powód za ciszą: rozdział **domyka część II** pytaniem otwartym („to kto ma to zrobić?"), a refren udzieliłby w tym miejscu odpowiedzi, której część II udzielić nie ma prawa |
 | **23** | — **REFREN NIE PADA** | **napisany 2026-09-10** — zawieszenie refrenu tuż przed centrum książki (§ A2). ⚠️ Konspekt 23 pkt 5.7 przewidywał refren; **nota v3.2 go uchyla** — zastosowano notę. Dodatkowy powód: rozdz. 22 użył już formy „po drugiej stronie" bez odpowiedzi, powtórka byłaby manierą |
 | 25 | „Tu jestem" | napisany |
 | 26 | „jest — i przeszedł" | napisany |
@@ -95,6 +96,7 @@ Sceny są najmocniejszą stroną rękopisu — niosą więcej niż argumenty. Gr
 | **6** | biurko wygnańca: człowiek pisze o sobie do sądu, który się nigdy nie zbierze | **biurko/pisanie siebie** | **napisany 2026-09-10** — ⚠️ przy redakcji sprawdzić dystans wobec **prologu** (pokój z lampą, człowiek czyta własną książkę): tam czytanie siebie po latach, tu pisanie siebie bez adresata |
 | **7** | Turyn, 3 I 1889: Piazza Carlo Alberto, bity koń, załamanie | **ulica/plac, załamanie** | **napisany 2026-09-10** — ⚠️ **anegdota o koniu może być apokryfem** (brak potwierdzenia w źródłach współczesnych); reszta sceny pewna. ⚠️ Przy redakcji sprawdzić dystans wobec rejestru „ulica" w rozdz. 37 |
 | **8** | **pokój dziecka nocą — REWIZYTA sceny z rozdz. 2**, ta sama ciemność widziana oczami Freuda | **dom / pokój dziecka — ŚWIADOME POWTÓRZENIE** | **napisany 2026-09-10** — ⚠️ **jedyne zamierzone powtórzenie rejestru w książce**; wymaga tego konspekt § 5.1 (ta sama scena „z drugiej strony"). ⚠️ **Przy redakcji sprawdzić, czy opis nie powiela zdań z rozdz. 2** — pisany bez zaglądania do tamtego tekstu |
+| **10** | mieszkanie po zmarłym rodzicu, noc po pogrzebie, pudełko po butach z listami i zdjęciami, których nie ma kto objaśnić | **dom po zmarłym / dziedziczenie bez klucza** | **napisany 2026-09-10** — nowy rejestr. ⚠️ Sprawdzić dystans wobec rozdz. 22 („dom") i 23 (śmierć w domu wiejskim): tam przedmiotem jest **umieranie**, tu **to, co zostaje po** — uznane za wystarczająco odległe, ale ⚠️ **przy redakcji sprawdzić sąsiedztwo z 23**. ⚠️ Szczegół „Zaleszczyki 1938" identyfikuje pokolenie, czego konspekt § 9 nie chciał — **do rozstrzygnięcia przez autora** |
 | **9** | pokój bez okien i bez luster, światło niegasnące, troje zamkniętych na wieki (*Przy drzwiach zamkniętych*, 1944) | **pokój zamknięty / teatr** | **napisany 2026-09-10** — nowy rejestr. ⚠️ Sprawdzić dystans wobec rozdz. 4 („pokój z piecem"): tam samotność **wybrana i metodyczna**, tu **narzucona i przeludniona** — uznane za wystarczająco odległe |
 | 24 | (centrum — Wielka Sobota) | liturgia/ciemność | napisany |
 | 36 | łamanie chleba, niedzielna msza | kościół | napisany |
@@ -141,7 +143,7 @@ Ryzyko konkretne: czytelniczka, która rozpozna, że o jej samotności mówi si�
 |---|---|---|---|
 | **Simone Weil** | 22 lub 26 | uwaga (*attention*) jako forma miłości; nieszczęście (*malheur*) jako to, co odbiera głos | myśl trudna i nieortodoksyjna — **wprowadzić jako świadka, nie jako autorytet doktrynalny**; cytaty do weryfikacji |
 | **Edyta Stein** | 28 lub 29 | fenomenologia wczucia (*Einfühlung*) — dostęp do drugiej osoby; + świadek | domyka oś III od strony fenomenologicznej i jest w pełni w tradycji |
-| **Hannah Arendt** | 10 lub 12 | rozróżnienie **samotność / osamotnienie / bycie sobą** (*loneliness / solitude*) i jego związek z totalitaryzmem | **to jest brakujące ogniwo pojęciowe całej książki** — patrz niżej |
+| **Hannah Arendt** ✅ **WPROWADZONA — rozdz. 10 (2026-09-10)** | **10** (wykonane; ⭐ powraca w 21 i części III) | rozróżnienie **samotność / osamotnienie / bycie sobą** (*loneliness / solitude*) i jego związek z totalitaryzmem | **to jest brakujące ogniwo pojęciowe całej książki** — patrz niżej |
 
 ## C3. Dlaczego Arendt jest tu najważniejsza
 
@@ -149,7 +151,22 @@ Książka operuje rozróżnieniem samotność/izolacja (dziś przypisanym Merton
 
 Umiejscowienie: **rozdz. 10 (rozdział kontrolny)** — naturalne, bo to miejsce podsumowania części II.
 
-**Zastrzeżenie:** brzmienia i lokalizacje do weryfikacji; nie mam pod ręką sprawdzonych cytatów z *Korzeni totalitaryzmu*. Do czasu sprawdzenia — parafraza (reguła z dok. 06).
+~~**Zastrzeżenie:** brzmienia i lokalizacje do weryfikacji; nie mam pod ręką sprawdzonych cytatów z *Korzeni totalitaryzmu*. Do czasu sprawdzenia — parafraza (reguła z dok. 06).~~
+
+✅ **WYKONANE 2026-09-10 — zastrzeżenie zdjęte.** Pozyskano tekst angielski (*The Origins of Totalitarianism*, Harcourt Brace Jovanovich 1973, **z paginacją**) i zweryfikowano cztery brzmienia z autopsji, rozdz. 13 („Ideology and Terror"):
+
+| Brzmienie (przekład własny) | Oryginał | Strona |
+|---|---|---|
+| „Osamotnienie nie jest samotnością. Samotność wymaga bycia samemu, podczas gdy osamotnienie pokazuje się najostrzej **w towarzystwie innych**." | „Loneliness is not solitude. Solitude requires being alone whereas loneliness shows itself most sharply in company with others." | **476** |
+| „Dla potwierdzenia mojej tożsamości **zależę całkowicie od innych ludzi**." | „For the confirmation of my identity I depend entirely upon other people." | **476** |
+| „**Opiera się ono na osamotnieniu**, na doświadczeniu nieprzynależenia do świata w ogóle…" | „It bases itself on loneliness, on the experience of not belonging to the world at all…" | **475** |
+| „Samotność może stać się osamotnieniem; dzieje się tak, gdy będąc zupełnie sam, zostaję opuszczony przez własne ja." | „Solitude can become loneliness; this happens when all by myself I am deserted by my own self." | **476–477** |
+
+⚠️ **Polskie *Korzenie totalitaryzmu* (przeł. Szawiel, Grinberg) pozostają niedostępne** — cytaty są **przekładem własnym z oryginału**, oznaczonym w każdym przypisie; brzmień polskiego wydania **nie podajemy**.
+
+⭐ **Dodatkowo z autopsji (nieużyte, do części III):** samotność jako **„dwoje-w-jednym"** i myślenie jako dialog ze sobą; wyrwanie z korzeniami i **zbędność** jako przygotowanie osamotnienia w masach nowoczesnych; Epiktet jako pierwszy autor rozróżnienia; Cato u Cycerona (*De re publica* I, 17): „nigdy nie był mniej sam, niż gdy był sam"; ⭐ **Nietzsche w Sils Maria** jako przykład drogi **odwrotnej** — od osamotnienia do myślącej samotności (⭐ spina rozdz. 10 z rozdz. 7).
+
+⚠️⚠️ **DECYZJA TERMINOLOGICZNA O ZASIĘGU CAŁEJ KSIĄŻKI — WYMAGA POTWIERDZENIA AUTORA.** W rozdz. 10 przyjęto: *loneliness* = **osamotnienie** (negatywne), *solitude* = **samotność** (pozytywne, warunek myślenia). ⛔ **To odwraca potoczne polskie odczucie i koliduje z tytułem książki**, w którym „samotność" jest słowem negatywnym. Wyjścia: **(a)** przyjąć terminologię Arendt i sygnalizować różnicę raz, w rozdz. 10 — **tak zrobiono**; **(b)** zmienić przekład terminów w całej książce. ⚠️ **Rozstrzygnąć najpóźniej przy rozdz. 21 (Merton), bo tam to samo rozróżnienie wraca jako nośne.**
 
 ## C4. Kobiety jako podmioty scen, nie tylko jako autorki
 

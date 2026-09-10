@@ -593,3 +593,18 @@ Przegląd zamykający: dla każdej pozycji z tabeli podanej przez autora ustalon
 **Wniosek dla autora: nie ma już pozycji, której brak blokowałby pisanie — i po 2026-09-09 nie ma już nawet pozycji otwartej.** Doszły dwa przełomy: **cała *Miłość i odpowiedzialność* Wojtyły jest darmowa w PDF** (§ B2) i **Ariès ma ustaloną paginację** (§ C2). Jedyne realne braki to Buber, Marcel i Yalom z § A — i te dotyczą rozdziałów 29, 47 i 48, gdzie autor ma być głosem wiodącym. Buber jest już w projekcie (skan). Reszta tabeli jest obsłużona.
 
 **Metoda, która to umożliwiła — warto ją powtarzać.** Wyszukiwanie **frazy z polskiego przekładu** trafia w recenzowane artykuły PAN / ISP PAN, które cytują dane miejsce z przypisem i paginacją. To szybsze i pewniejsze niż polowanie na pełne teksty. Uwaga: **Powszechna Encyklopedia Filozofii sprawdza się tylko dla autorów, których obejmuje** — Wojtyła tak, Sartre'a w niej nie ma (hasła brak, sprawdzone).
+
+---
+
+## ZGŁOSZENIE AUTORA (2026-09-10) — Dietrich Emme, biografia Lutra
+
+**Status: ODNOTOWANE, NIEAUTORYZOWANE, POZA TEKSTEM.** Autor zapowiedział materiał rzucający inne światło na Lutra: badania **Dietricha Emmego** (m.in. *Martin Luther. Seine Jugend- und Studentenzeit 1483–1505*), wedle których skrupuły sumienia młodego Lutra mogły mieć podłoże w konkretnych czynach, a wstąpienie do klasztoru nie było skutkiem samej burzy pod Stotternheim.
+
+**Do rozstrzygnięcia, zanim cokolwiek wejdzie do książki:**
+
+1. **Teza Emmego nie ma poparcia w źródłach współczesnych Lutrowi** — opiera się na poszlakach i rekonstrukcji. Do sprawdzenia: czy istnieje jakikolwiek dokument z epoki, a nie tylko interpretacja.
+2. ⚠️ **Ostrożnie z argumentem „dyskredytowany z powodów wyznaniowych".** Krytyka Emmego przychodziła **także od historyków katolickich**, nie tylko protestanckich. Jeśli teza ma wejść, trzeba to pokazać rzetelnie — inaczej książka o rzetelności użyje argumentu *ad hominem* wobec krytyków.
+3. **Rozdz. 39 jest wobec tego sporu ODPORNY — i tak ma zostać.** Rozdział nie twierdzi niczego o *przyczynach* skrupułów Lutra. Twierdzi tylko, że **rozgrzeszenie ich nie sięgało**. Ta teza pozostaje prawdziwa niezależnie od tego, czy Emme ma rację — a nawet **zyskuje**, jeśli ma: im cięższa wina, tym ostrzej widać granicę pocieszenia instytucjonalnego.
+4. **Gdzie ewentualnie wprowadzić:** NIE w rozdz. 39 (tryptyk siostrzany, tam polemika biograficzna zniszczyłaby symetrię i zabrzmiała konfesyjnie). Naturalne miejsce to **przypis** albo aneks historyczny.
+
+**Do pozyskania:** D. Emme, *Martin Luther. Seine Jugend- und Studentenzeit 1483–1505*, oraz **co najmniej jedna recenzja krytyczna** (najlepiej katolicka) — teza nie może wejść bez głosu przeciwnego.

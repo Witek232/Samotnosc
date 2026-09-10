@@ -48,6 +48,7 @@ Wypełniać przy każdym napisanym rozdziale. Cel: żadne dwie odpowiedzi nie mo
 | **38** | **„Pokój, przed którym uciekasz, jest już zamieszkany. Usiądź."** | **napisany 2026-09-09** — ⚠️ wariant konspektowy („Jest — i pokój…") **odrzucony**, żeby przerwać serię otwarć na „Jest" |
 | 39 | „Nie musisz tego usłyszeć od siebie. Ktoś stoi między tobą a bratem — i dlatego możecie się spotkać." | **napisany 2026-09-09** — wariant konspektowy („Jest — i stoi między mną…") **odrzucony**; nowa odpowiedź otwiera się **przeczeniem** (forma dotąd nieużyta), co domyka serię „Jest" (26/32/33/35) |
 | **PROLOG** | **„Czy ktoś tam jest?" — BEZ ODPOWIEDZI** | **napisany 2026-09-10** — ⚠️ **OTWARCIE SERII**: pytanie w wersji dziecięcej, bez komentarza i bez odpowiedzi (konspekt § 6.7). Domyka się dopiero w epilogu („Jesteś.") — **klamra całej książki, 51 jednostek** |
+| **1** | **„Czy ktoś tam jest?" — BEZ ODPOWIEDZI** | **napisany 2026-09-10** — otwarcie części I; forma z konspektu („Liczb są tysiące. Pytanie jedno…"). ⚠️ **Drugie z rzędu wystąpienie bez odpowiedzi** (po prologu) — zamierzone jako seria otwarcia, ale **rozdz. 2 nie może jej przedłużyć**: trzy pod rząd zamieniłyby figurę w manierę |
 | **40** | „Samotność nie jest miernikiem obecności" | napisany 2026-09-08 |
 | **41** | „Wołaj także wtedy, gdy nic z tego nie masz" | napisany 2026-09-08 |
 | **43** | „Jest — i patrzy. I to spojrzenie nie zamienia mnie w rzecz, bo nie potrzebuje mnie do niczego." | napisany 2026-09-08 |

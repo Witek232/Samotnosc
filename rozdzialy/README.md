@@ -86,6 +86,8 @@ Rękopis pisany był od centrum (część V–VI). Po wgraniu naturalna kontynua
 
 ⭐ **CZĘŚĆ IV (17–21) — napisane 17, 18, 19, 20; zostaje 21.** Łuk: ciało wie (17) → baza (18) → sens (19) → **granica, której nic nie usuwa (20)**.
 
+⭐⭐ **ROZDZ. 19 UZUPEŁNIONY (2026-09-10, wskazania autora) — MA JUŻ DWA CYTATY BLOKOWE.** ✔✔ **Nietzsche z autopsji**: *Zmierzch bożyszcz*, przeł. **Wyrzykowski** (Wolne Lektury, domena publiczna, tekst pełny), „Sentencje i strzały" **af. 12** — **„Mając swe »dlaczego?« życiowe, godzimy się z każdym niemal »jak?«."** ⭐ Wersja Wyrzykowskiego **lepsza od obiegowej**, bo zachowuje **dwa znaki zapytania**: mówi o **pytaniu**, na które człowiek ma odpowiedź, nie o „celu życiowym" wpisywanym do kalendarza; ⚠️ ⛔ nie mylić z **af. 8** („co mnie nie zabija"). ✔ **Frankl — lokalizacja ustalona: Czarna Owca 2009, s. 68–70**: **„Miłość jest najwyższym i najszlachetniejszym celem, do jakiego może dążyć człowiek."** ⭐⭐ Dopisane rozwinięcie: najważniejsze są **okoliczności** — myśl przychodzi do człowieka, któremu odebrano **wszystko, czym miłość zwykle się wyraża** (nie może nic dać, załatwić, napisać listu); zostaje **kontemplacja kogoś, kogo nie ma obok** — „ogołocona ze swoich zwykłych postaci, miłość okazuje się nieść". Rozdz. 19 ma teraz **2350 słów**, ✅ w celu. ⚠️ **Pozostały dług jest wąski: strony dla trzech dróg sensu i dla „najlepsi z nas stamtąd nie powrócili"** — jeden rzut oka do egzemplarza (dok. 14 § 2c); ⛔ do tego czasu bez cudzysłowu i bez stron.
+
 Następne: **rozdz. 21, potem 11 (Wschód — jedyny bez wersji v2)**. Część VII (35–39) zamknięta.
 
 ⚠️ **Sprostowanie:** wcześniejsza notatka mówiła, że rozdz. 22 nie ma konspektu — **ma** (`konspekty_v3/22_samotnosc_ktorej_nie_da_sie_wyleczyc.md`, szablon lekki).

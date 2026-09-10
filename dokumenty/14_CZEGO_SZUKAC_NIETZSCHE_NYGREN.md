@@ -113,34 +113,36 @@ Autor wskazał linię argumentacyjną, która sama się układa:
 
 ---
 
-## 2c. ⚠️ NOWE DŁUGI Z ROZDZ. 19 (Frankl) — NAJPILNIEJSZE W CAŁEJ KSIĄŻCE
+## 2c. ⭐ ROZDZ. 19 — DWA CYTATY WPROWADZONE (2026-09-10). ZOSTAJĄ DWIE STRONY
 
-⚠️⚠️ **Rozdział 19 jest źródłowo najsłabszy w książce: ZERO cytatów, zero stron, wszystko z omówień.** Obie potrzebne pozycje są tanie i powszechne.
+### ✅ Nietzsche — ZAMKNIĘTE CAŁKOWICIE
 
-### (1) ⭐⭐ Viktor Frankl, *Człowiek w poszukiwaniu sensu* — PRIORYTET
+⭐ **Autor wskazał Wolne Lektury — tekst pobrany, sprawdzony z autopsji.**
 
 | | |
 |---|---|
-| **Wydanie polskie** | przeł. A. Wolnicka, **Czarna Owca**, Warszawa (⚠️ **rok do sprawdzenia** — konspekt podaje 2010, spotykałem też 2009) |
-| **Oryginał** | *…trotzdem Ja zum Leben sagen* (1946); ang. *Man's Search for Meaning* |
-| **Gdzie** | ⭐ jedna z najczęściej wznawianych książek w Polsce — **każda biblioteka publiczna**, wznowienia co roku |
+| **Wydanie** | *Zmierzch bożyszcz, czyli jak filozofuje się młotem*, przeł. **Stanisław Wyrzykowski**, Wolne Lektury (domena publiczna) |
+| **Miejsce** | część **„Sentencje i strzały", aforyzm 12** |
+| **Brzmienie** | „Mając swe »*dlaczego*?« życiowe, godzimy się z każdym niemal »*jak*?«. — Człowiek *nie* dąży do szczęścia; czyni to tylko Anglik." |
 
-**Potrzebne dokładnie trzy miejsca (część I to relacja obozowa, część II to wykład logoterapii):**
+✅ Wprowadzone do rozdz. 19 **jako cytat blokowy**. ⭐ Wersja Wyrzykowskiego okazała się **lepsza od obiegowej** („kto ma po co żyć, zniesie prawie każde jak"), bo zachowuje **dwa znaki zapytania**: mówi o **pytaniu**, na które człowiek ma odpowiedź, a nie o „celu życiowym" wpisywanym do kalendarza.
+⚠️ **Uwaga: nie mylić z aforyzmem 8** tego samego zbioru („Co mnie nie zabija, to mnie wzmacnia") — stoją cztery wersy od siebie, pomyłka jest częsta.
+⚠️ Strona: wydanie cyfrowe **nie ma paginacji książkowej**; ⛔ nie podaję „s. 7" ze wskazania, bo nie wiadomo, którego wydania dotyczy — numer aforyzmu jest i tak pewniejszy (identyczny we wszystkich wydaniach).
+⚠️ Nowszy przekład: **Grzegorza Sowińskiego** (Wyd. UJ) — niewidziany, do ewentualnego porównania przy redakcji.
 
-1. ⭐⭐ **SCENA CHODNIKA** (część I) — marsz przed świtem, myśl o żonie, i zdanie o miłości jako **„ostatecznym i najwyższym celu, do jakiego człowiek może dążyć"** oraz o zbawieniu człowieka „przez miłość i w miłości". **To jest najważniejszy cytat rozdziału** — dziś podany bez cudzysłowu.
-2. **TRZY DROGI SENSU** (część II) — dzieło · spotkanie/miłość · **postawa wobec nieuniknionego cierpienia**; oraz teza, że sensu się **nie nadaje, lecz znajduje**.
-3. ⭐ **Zdanie „najlepsi nie wrócili"** (część I, zwykle blisko zakończenia relacji) — **konieczne**, bo blokuje fałszywe odczytanie „kto miał sens, ten przeżył". Potrzebne dokładne brzmienie i strona.
+### ⭐ Frankl — JEDNO MIEJSCE ZAŁATWIONE, DWA ZOSTAJĄ
 
-⭐ Przydatne też: potwierdzenie, że **Frankl wielokrotnie przywołuje aforyzm Nietzschego** — i przy której stronie.
+**V. E. Frankl, *Człowiek w poszukiwaniu sensu*, Czarna Owca, Warszawa 2009.**
 
-### (2) Friedrich Nietzsche, *Zmierzch bożyszcz*, „Sentencje i strzały" **12**
+| Miejsce | Status | Uwaga |
+|---|---|---|
+| ⭐ **Scena chodnika, s. 68–70** | ✅ **USTALONE** (wskazanie autora + niezależne opracowanie odsyłające do „Frankl 2009, s. 68–70") | Brzmienie: „**Miłość jest najwyższym i najszlachetniejszym celem, do jakiego może dążyć człowiek.**" ✅ **wprowadzone jako cytat blokowy** |
+| **Trzy drogi sensu** | ⚠️ **treść potwierdzona, STRONY BRAK** | dzieło/czyn · doświadczenie lub spotkanie · **postawa wobec nieuniknionego cierpienia**; roboczo: „część **»Podstawy logoterapii«**, fragment o sposobach odkrywania sensu". ⛔ **Nie wpisywać strony, dopóki niezweryfikowana** |
+| **„Najlepsi z nas stamtąd nie powrócili"** | ⚠️ **brzmienie polskie potwierdzone, STRONY BRAK** | ⛔ w tekście nadal **bez cudzysłowu** |
 
-⚠️⚠️ **UWAGA — konspekt mylił lokalizację.** Podawał *Wiedza radosna* § 12; **sprawdziłem w posiadanych plikach: tam tego nie ma.** Poprawnie: ***Zmierzch bożyszcz*** (*Götzen-Dämmerung*, 1888), zbiór otwierający **„Sentencje i strzały"** (*Sprüche und Pfeile*), aforyzm **12**.
+⭐ **Obie brakujące rzeczy to jeden rzut oka do egzemplarza** — książka jest w każdej bibliotece. ⚠️ Przy okazji warto potwierdzić **rok wydania** (2009 vs 2010) i nazwisko tłumacza.
 
-> Oryginał: „Hat man sein *warum*? des Lebens, so verträgt man sich fast mit jedem *wie*?"
-> Standardowo po polsku: „Kto ma po co żyć, zniesie prawie każde jak".
-
-⭐ **Przekład Leopolda Staffa jest w domenie publicznej** — a skoro *Poza dobrem i złem* znalazł się Panu w Polonie, ten prawdopodobnie też tam będzie. Potrzebne: **brzmienie polskie + strona + dane wydania**. To znów **jedna strona**, i to na samym początku książki (aforyzm 12 z krótkiego zbioru otwierającego).
+⚠️ **Ważne dla trzeciej drogi:** nie chodzi o poszukiwanie cierpienia, lecz o nadanie sensu sytuacji, **której człowiek nie jest już w stanie zmienić** — rozdział 19 stawia ten ogranicznik wprost i ⛔ nie wolno go usuwać.
 
 ---
 
@@ -162,7 +164,8 @@ Wymieniam **tylko to, co realnie zmieniłoby tekst**; ⛔ nie kupować niczego.
 
 ✅✅ **OBA DŁUGI ZAMKNIĘTE tego samego dnia:** Nygren znalazł się w Internet Archive (wolny dostęp), Nietzschego odnalazł autor w Polonie (Mortkowicz 1907, s. 112, af. 167a).
 
-⚠️ **Ale doszły nowe, z rozdz. 19 — i są PILNIEJSZE niż Lasch**, bo tam brak źródła dotyczy **całego rozdziału**, a nie jednego przypisu:
-1. ⭐⭐ **Frankl, *Człowiek w poszukiwaniu sensu*** (Czarna Owca) — § 2c;
-2. **Nietzsche, *Zmierzch bożyszcz*, „Sentencje i strzały" 12** (Staff, domena publiczna) — § 2c;
-3. **Lasch, s. 10** — § 3.
+⭐⭐ **STAN NA 2026-09-10 wieczór: Nietzsche (*Zmierzch bożyszcz*) ZAMKNIĘTY, Frankl w połowie.**
+
+Do znalezienia zostają już tylko **trzy strony w dwóch książkach**:
+1. **Frankl** (Czarna Owca 2009) — strony dla **trzech dróg sensu** i dla **„najlepsi z nas stamtąd nie powrócili"** → § 2c. Każda biblioteka.
+2. **Lasch**, *Kultura narcyzmu* — **s. 10** → § 3. Największy dług książki, nadal otwarty.

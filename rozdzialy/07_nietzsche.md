@@ -32,7 +32,7 @@ Zdanie „Bóg umarł" jest dziś sloganem i przez to nie znaczy już nic. Warto
 
 W *Wiedzy radosnej* (1882), w słynnym fragmencie 125, na rynek wbiega człowiek z zapaloną latarnią w biały dzień i krzyczy, że szuka Boga. Ludzie na rynku śmieją się z niego — są niewierzący i uważają pytanie za zabawne. Wtedy on odwraca się do nich:
 
-> „Zabiliśmy go — wy i ja! Wszyscy jesteśmy jego zabójcami! Lecz jakżeż to uczyniliśmy? Jakżeż zdołaliśmy wypić morze? Kto dał nam gąbkę, by zetrzeć cały widnokrąg? Cóż uczyniliśmy, odpętując ziemię od jej słońca? Dokąd zdąża teraz? Dokąd my zdążamy? Precz od wszystkich słońc? Nie spadamyż ustawicznie? (…) Czyż nie musimy sami stać się bogami, by tylko zdawać się jego godnymi?"¹
+> „Zabiliśmy go — wy i ja! Wszyscy jesteśmy jego zabójcami! Lecz jakżeż to uczyniliśmy? Jakżeż zdołaliśmy wypić morze? Kto dał nam gąbkę, by zetrzeć cały widnokrąg? Cóż uczyniliśmy, odpętując ziemię od jej słońca? Dokąd zdąża teraz? Dokąd my zdążamy? Precz od wszystkich słońc? Nie spadamyż ustawicznie? I w tył, i w bok, i w przód, we wszystkich kierunkach? Jestże jeszcze jakieś na dole i w górze? Czyż nie błądzimy jakby w jakiejś nieskończonej nicości? (…) Bóg umarł! Bóg nie żyje! Myśmy go zabili! Jakże się pocieszymy, mordercy nad mordercami? (…) Jakaż woda obmyć by nas mogła? (…) Czyż nie musimy sami stać się bogami, by tylko zdawać się jego godnymi?"¹
 
 Trzy rzeczy w tym fragmencie są zwykle przeoczane, a są najważniejsze.
 
@@ -62,6 +62,16 @@ Nietzsche był w tej sprawie znacznie bardziej przenikliwy niż jego zwolennicy.
 
 **Pierwszy: nie zauważyć.** Żyć dalej tak samo, korzystać z moralności, która wyrosła z porzuconej wiary, i nie liczyć rachunku. To są właśnie ci wyśmiewający na rynku. Nietzsche uważał ich za tchórzy — nie dlatego, że nie wierzą, tylko dlatego, że **nie wyciągają wniosków**.
 
+Wrócił do tego kilkaset stron dalej, w tej samej książce, i sformułował rzecz, która jest chyba najtrafniejszą diagnozą kolejnych stu lat:
+
+> „Największe z nowych zdarzeń — że »Bóg umarł«, że wiara w Boga chrześcijańskiego niewiarogodna się stała — poczyna już na Europę swe pierwsze rzucać cienie. (…) zdarzenie samo zbyt jest wielkie, zbyt dalekie, zbyt odległe od zdolności pojmowania wielu, by można powiedzieć, że choćby tylko **wieść o nim już doszła**; nie mówiąc już, by wielu wiedziało, co się właściwie przez to wydarzyło — i **ile wszystkiego, po podkopaniu tej wiary, zapaść się musi, jako na niej zbudowane**, na niej oparte, w nią wrosłe: na przykład cała nasza europejska moralność."²
+
+To jest obraz człowieka patrzącego na gwiazdę, która zgasła dawno temu, ale której światło jeszcze idzie. Nietzsche twierdzi, że żyjemy w tym opóźnieniu: budowla stoi, choć fundament został usunięty, i **jeszcze nie zauważyliśmy**. Runie później.
+
+Zapisał też obraz krótszy i lepszy. Po śmierci Buddy pokazywano przez stulecia jego cień w pewnej jaskini — olbrzymi, straszliwy cień. „Bóg umarł: lecz taki jest już rodzaj ludzki, iż będą może jeszcze przez stulecia istniały jaskinie, w których będą pokazywali cień jego. — A my — my musimy jeszcze cień jego zwyciężać!"³
+
+Zwróćmy uwagę na to ostatnie zdanie, bo jest w nim przyznanie się do czegoś ważnego: **sprawa nie jest zakończona**. Nietzsche nie ogłasza faktu dokonanego, tylko zapowiada pracę na stulecia. Wobec kogoś, kogo już nie ma, nie trzeba by pracować.
+
 **Drugi: nihilizm.** Uznać, że skoro nie ma instancji nadrzędnej, to nic nie ma znaczenia, wszystko wolno i nic nie warto. Nietzsche opisał ten stan dokładniej niż ktokolwiek i **bał się go** — uważał go za chorobę, która zbliża się do Europy, a nie za wyzwolenie.
 
 **Trzeci: wziąć to na siebie.** Skoro nikt mnie nie nazwie — nazwę się sam. Skoro nikt nie ustanowi wartości — ustanowię je sam. To jest program nadczłowieka i to jest jedyne wyjście, jakie Nietzsche uznawał za nietchórzliwe.
@@ -78,7 +88,7 @@ W prologu *Tako rzecze Zaratustra* pojawia się figura, którą Nietzsche uważa
 > Opuszczają okolice, gdzie życie twarde było: gdyż ciepła potrzeba. (…)
 > Cierpienie i nieufność uchodzą za rzeczy grzeszne: ostatni człowiek baczy troskliwie na siebie. (…)
 > Nieco trucizny kiedy niekiedy — to darzy słodkimi snami. A w końcu — dużo trucizny, aby mile zemrzeć.
-> Pracuje się jeszcze, gdyż praca jest rozrywką. Dba się jednak o to, by ta rozrywka nie stała się zbyt uciążliwa."²
+> Pracuje się jeszcze, gdyż praca jest rozrywką. Dba się jednak o to, by ta rozrywka nie stała się zbyt uciążliwa."⁴
 
 Przeczytajmy to jeszcze raz, powoli, i zapytajmy uczciwie, o kim to jest.
 
@@ -107,6 +117,18 @@ Program brzmi: jestem własnym źródłem. Sam ustanawiam, kim jestem i co jest 
 **Trwanie.** Czy mogę sam sobie udzielić istnienia po śmierci? Pytanie brzmi absurdalnie i właśnie o to chodzi: to jedyna z czterech pozycji, przy której człowiek nie może nawet udawać. Tu program samostworzenia po prostu się kończy.
 
 Nietzsche o tym wiedział. To nie jest zarzut, który mu tu stawiam zza węgła — on sam nazwał ten program pracą **najcięższą z możliwych** i nigdzie nie obiecywał, że będzie lekko. Mówił o tworzeniu siebie jako o zadaniu bez wytchnienia, i to jest uczciwe.
+
+Co więcej — i to jest miejsce, w którym Nietzsche wyprzedza własnych czytelników — sam opisał, co się z człowiekiem dzieje, kiedy te pozycje zostają puste. Zrobił to w książce późniejszej o pięć lat, badając, skąd się wzięły ideały ascetyczne. Jego odpowiedź brzmi: wzięły się stąd, że **człowiek nie wytrzymuje pustego miejsca**.
+
+> „Ideał ascetyczny znaczy właśnie to: że czegoś **brakło**, że olbrzymia **luka** otaczała człowieka — nie umiał on samego siebie usprawiedliwić, wyjaśnić, potwierdzić, **cierpiał z powodu problematu swojego istnienia**. I cierpiał naprożno (…); lecz **nie** cierpienie samo było jego problematem, tylko to, że brakło odpowiedzi na okrzyk pytający: »**po co** cierpieć?«"⁵
+
+To jest, o ile umiem czytać, ten sam rachunek co powyżej, tylko zapisany ręką przeciwnika. Cztery nieobsadzone pozycje Nietzsche nazywa jednym słowem: **luka**. I zauważa rzecz, którą warto powtórzyć wolno, bo jest kontrintuicyjna: **przekleństwem człowieka nie było cierpienie, lecz bezsensowność cierpienia**. Ludzie znoszą niemal wszystko, pod warunkiem że wiedzą, po co.
+
+Wniosek, jaki z tego wyciąga, zamyka całą książkę i jest chyba najciemniejszym zdaniem, jakie napisał:
+
+> „człowiek woli raczej jeszcze chcieć **nicości**, niż **nie** chcieć…"⁶
+
+Proszę zauważyć, co tu zostało powiedziane. Nie to, że człowiek potrzebuje Boga — Nietzsche twierdzi coś dokładnie odwrotnego, że człowiek raczej rzuci się w nicość, niż zniesie brak celu. Ale przesłanka jest wspólna z tą książką i jest to przesłanka mocna: **człowiek nie umie żyć bez adresu**. Nietzsche uważa to za słabość, którą trzeba przezwyciężyć. Ta książka będzie pytać, czy przypadkiem nie jest to informacja o tym, jak człowiek jest zbudowany. Sam fakt — że pustego miejsca nikt nie wytrzymuje — obaj opisujemy tak samo.
 
 Rzecz w tym, jak wygląda życie, w którym te cztery pozycje są nieobsadzone. Nikt mnie nie nazywa, więc muszę nazywać się sam, codziennie od nowa, bo nazwa nadana sobie nie trzyma. Nikt mi nie przebacza, więc wina zostaje. Nikt mnie nie przechowa, więc wszystko, co robię, jest pisane na wodzie.
 
@@ -152,7 +174,7 @@ Nie ma tu odpowiedzi i nie będzie jej jeszcze przez piętnaście rozdziałów.
 
 Zostaje obraz, który sam Nietzsche podarował tej książce, choć nie w tym celu:
 
-> „Człowiek jest liną rozpiętą między zwierzęciem i nadczłowiekiem, — liną ponad przepaścią."³
+> „Człowiek jest liną rozpiętą między zwierzęciem i nadczłowiekiem, — liną ponad przepaścią."⁷
 
 Obraz jest doskonały i chcę go zatrzymać. Zwróćmy tylko uwagę na jedno: **lina, żeby dało się po niej przejść, musi być przywiązana z obu stron.**
 
@@ -182,21 +204,32 @@ Nazywał się Sigmund Freud i zadał chrześcijaninowi pytanie, które wraca do 
 
 ## PRZYPISY
 
-¹ **F. Nietzsche, *Wiedza radosna*, fragment 125 („Człowiek oszalały"), przeł. Leopold Staff** (wyd. pol. Warszawa 1907).
-⚠️ **Cytowanie pośrednie — oznaczone.** **Nie mam tego wydania**; przekładu Staffa nie ma w serwisie Wolne Lektury (są tam *Zaratustra*, *Wola mocy*, *Jutrzenka*, *Zmierzch bożyszcz*, ale **nie *Wiedza radosna***). Brzmienie złożone z fragmentów cytowanych zgodnie przez **trzy niezależne źródła** powołujące się na przekład Staffa (m.in. P. Dybel, *Schulz, Nietzsche i śmierć Boga*, RCIN — repozytorium PAN). ⚠️ **Trzy źródła podają drobne warianty** („by tylko zdawać się jego godnymi" / „by choć tylko okazać się godnymi"); przyjąłem wersję powtarzaną najczęściej. **Przed drukiem sprawdzić w wydaniu.**
-⚠️ **KOREKTA WOBEC KONSPEKTU.** Konspekt podawał „Gdzie jest Bóg? Powiem wam! Zabiliśmy go — wy i ja!" z adnotacją „robocza parafraza, sprawdzenie przy redakcji [?]". Sprawdzone: u Staffa jest „**Zabiliśmy go — wy i ja! Wszyscy jesteśmy jego zabójcami!**". Użyto brzmienia przekładu.
-⚠️ Tytuł fragmentu u Staffa: **„Człowiek oszalały"** (nie „Szalony człowiek", jak w konspekcie).
+¹ **F. Nietzsche, *Wiedza radosna*, ks. III, fragment 125 („Człowiek oszalały"), przeł. Leopold Staff.**
+✔✔ **BRZMIENIE ZWERYFIKOWANE Z AUTOPSJI** — tekst przekładu pozyskany 2026-09-10 (skan wydania w Internet Archive, wskazany przez autora). ⚠️ **Wydanie elektroniczne bez wiarygodnej paginacji — nie podaję stron; numeracja fragmentów u Nietzschego jest stała we wszystkich wydaniach i wystarcza za lokalizację.**
+✅ **Poprzednie zastrzeżenie zdjęte.** W wersji z 2026-09-10 cytat był podany **pośrednio**, z trzech niezależnych źródeł, z uwagą o wariantach przekładu. **Sprawdzenie w tekście potwierdziło brzmienie co do słowa**, łącznie ze spornym miejscem „by tylko zdawać się jego godnymi". Cytat **rozszerzono** o zdania, których wcześniej nie mogłem przytoczyć („Bóg umarł! Bóg nie żyje! (…) Jakaż woda obmyć by nas mogła?").
+⚠️ Opuszczenia `(…)` — kolejność zdań zachowana, nic nie przestawione.
+⚠️ **KOREKTA WOBEC KONSPEKTU** (utrzymana): konspekt podawał „Gdzie jest Bóg? Powiem wam! Zabiliśmy go — wy i ja!" jako „roboczą parafrazę"; u Staffa: „Gdzie się Bóg podział? — zawołał. — Powiem wam! **Zabiliśmy go — wy i ja! Wszyscy jesteśmy jego zabójcami!**". Tytuł fragmentu u Staffa: **„Człowiek oszalały"**.
 
-² **F. Nietzsche, *Tako rzecze Zaratustra*, Przedmowa Zaratustry, cz. 5, przeł. Wacław Berent.** ✔ **Brzmienie zweryfikowane w tekście przekładu** (Wolne Lektury, domena publiczna).
+² **Tamże, ks. V, fragment 343 („W sprawie naszej pogody").** ✔✔ **Zweryfikowane z autopsji.**
+⚠️ **USTALENIE ISTOTNE — konspekt mylił się co do treści.** Konspekt § 4 opisywał fr. 343 jako „śmierć Boga jako nowość dopiero zauważana; **pogoda wieczności — triumfalny głos Nietzschego**". Sprawdzone: fragment **nie mówi o „pogodzie wieczności"** — tytuł „W sprawie naszej pogody" znaczy tyle co „o naszym nastroju/usposobieniu", a treść jest **dwudzielna**: najpierw obraz katastrofy jeszcze niezauważonej (cytowany w tekście), a dopiero **potem** ton radosny („czujemy się (…) jakby opromienieni nową jutrzenką (…) nasze morze znów stoi otworem"). **Użyto pierwszej części**; druga jest w rozdziale świadomie pominięta, bo należy do wątku „wolności po Bogu", który książka podejmuje w części VII. ⚠️ **Przy redakcji rozważyć dopisanie zdania o drugiej części** — bez niego Nietzsche wypada ciemniej, niż jest w tym miejscu naprawdę.
+⚠️ Uwaga edytorska: w wydaniu Staffa fragment **343 występuje dwukrotnie** — raz jako *Incipit tragoedia* (koniec ks. IV), raz jako *W sprawie naszej pogody* (początek ks. V). To znana właściwość numeracji tego wydania, nie błąd skanu. **Cytowany jest ten drugi.**
+
+³ **Tamże, ks. III, fragment 108 („Nowe walki").** ✔✔ **Zweryfikowane z autopsji.** ⚠️ Tytuł u Staffa: „**Nowe walki**" (konspekt podawał „Nowe bitwy").
+
+⁴ **F. Nietzsche, *Tako rzecze Zaratustra*, Przedmowa Zaratustry, cz. 5, przeł. Wacław Berent.** ✔ **Brzmienie zweryfikowane w tekście przekładu** (Wolne Lektury, domena publiczna).
 ⚠️ **KOREKTA WOBEC KONSPEKTU.** Konspekt podawał „myśmy wynaleźli szczęście"; u Berenta: „**Myśmy szczęście wynaleźli**". Cytat blokowy złożony z **pięciu kolejnych zdań tego samego ustępu**, z opuszczeniami zaznaczonymi `(…)` — kolejność zachowana, nic nie przestawione.
 
-³ **Tamże, Przedmowa Zaratustry, cz. 4.** ✔ **Brzmienie zweryfikowane w tekście przekładu.**
+⁵ **F. Nietzsche, *Z genealogii moralności*, rozprawa III, § 28, przeł. Leopold Staff.** ✔✔ **Zweryfikowane z autopsji** (tekst pozyskany 2026-09-10, ta sama kolekcja archive.org co *Wiedza radosna*; wyd. Tower Press, Gdańsk 2000, przedruk przekładu Staffa z 1905–1912 — domena publiczna). ⚠️ Wydanie elektroniczne bez wiarygodnej paginacji — lokalizacja przez numer rozprawy i paragrafu, stała we wszystkich wydaniach.
+⚠️ **OCR pozbawiony polskich znaków diakrytycznych** („czlowiek", „braklo") — **diakrytyki zrekonstruowane przeze mnie**; brzmienie i szyk zdania **nie były zmieniane**. Wyróżnienia (spacjowania) Staffa oddane pogrubieniem, zgodnie z zapisem oryginału.
+
+⁶ **Tamże, rozprawa III, § 28 — zdanie zamykające całą książkę.** ✔✔ Zweryfikowane z autopsji. Oryginał przekładu: „człowiek woli raczej jeszcze chcieć n i c o ś c i, niż n i e chcieć…". ⚠️ Nietzsche przytacza tu **samego siebie** — to samo zdanie pada w § 1 tej samej rozprawy („potrzebuje on celu — i woli raczej jeszcze chcieć nicości, niż nie chcieć"), a w § 28 wraca jako klamra, co zaznacza słowami „żeby zaś jeszcze na końcu rzec, co rzekłem na początku". ✔ Sprawdzone: obie lokalizacje istnieją.
+
+⁷ **F. Nietzsche, *Tako rzecze Zaratustra*, Przedmowa Zaratustry, cz. 4, przeł. Wacław Berent.** ✔ **Brzmienie zweryfikowane w tekście przekładu.**
 ⚠️ Konspekt podawał „między zwierzęciem a nadczłowiekiem"; u Berenta „**między zwierzęciem i nadczłowiekiem**".
 
 **Bez przypisu — referowane, nie cytowane:**
 - **Scena turyńska (3 I 1889), listy podpisane „Dionizos" i „Ukrzyżowany", jedenaście lat pod opieką matki i siostry** — fakty biograficzne, powszechnie podawane. ⚠️ **Anegdota o koniu nie ma potwierdzenia w źródłach współczesnych zdarzeniu** i część biografów uważa ją za legendę narosłą później. **Świadomie zostawiona w tekście** jako scena, ale ⚠️ **przy redakcji rozważyć dopisanie tego zastrzeżenia do tekstu głównego** — książka nie powinna opierać otwarcia rozdziału szczytowego na czymś, co może być apokryfem. **Reszta sceny (data, adres, załamanie, listy) jest pewna.**
-- **Fragment 343 *Wiedzy radosnej*** i **fragment 108** — konspekt je przewidywał; **pominięte**, bo nie mam tekstu, a ich treść (śmierć Boga jako nowość jeszcze niezauważona) jest w rozdziale oddana własnymi słowami w ruchu II, pkt pierwszy.
-- ***Genealogia moralności*** — konspekt przewidywał; **pominięta**, brak tekstu. Nihilizm zreferowany bez cytatu.
+- ✅ **Fragmenty 343 i 108 WPROWADZONE 2026-09-10** — po pozyskaniu przekładu Staffa (skan wskazany przez autora). Wcześniej pominięte z braku tekstu. Wzmacniają ruch II obrazem **gwiazdy, która zgasła, a której światło jeszcze idzie** oraz **cienia Buddy w jaskini**.
 - **Spór o przyczyny załamania** — referowany jednym zdaniem, celowo bez wchodzenia w hipotezy medyczne (nota ryzyka 10.3 konspektu).
 
 ---
@@ -205,7 +238,9 @@ Nazywał się Sigmund Freud i zadał chrześcijaninowi pytanie, które wraca do 
 
 - ⚠️ **RATZINGER NIEOBECNY — TAK NAKAZUJE KONSPEKT.** To **nie jest** odstępstwo jak w rozdz. 4 i 5. Konspekt § 4 i nota ryzyka 10.4 wprost zakazują: „nie cytować w tym rozdziale; tylko jedna linia pytania, bez odpowiedzi". Wykonane: ruch V kończy się **pytaniem** „Czy człowiek jest własnym źródłem?" — formuła kartoteki postawiona w trybie pytającym, **bez cytatu i bez nazwiska**. ✅ Zgodne z zasadą funkcjonalnego rozdzielenia części II i VII.
 - ⚠️ **ZAKAZ Z KONSPEKTU RESPEKTOWANY:** formuła „ma rację — i nie ma racji" (zarezerwowana dla rozdz. 42) **nie pada**. Ruch V mówi „ma rację w rzeczy zasadniczej" i **nie dopowiada drugiego członu** — odpowiedź odroczona jawnie („ta książka nie odpowiada tu Nietzschemu").
-- **Cytaty: TRZY** (Nietzsche ×3, w tym 2 blokowe). **Ratzinger: ZERO** — zgodnie z konspektem.
+- **Cytaty: SIEDEM** (Nietzsche ×7, w tym 6 blokowych). **Ratzinger: ZERO** — zgodnie z konspektem.
+- ⭐ **AKTUALIZACJA DRUGA 2026-09-10 — *GENEALOGIA MORALNOŚCI* DOŁĄCZONA** (decyzja autora). Znaleziona w tej samej kolekcji archive.org co *Wiedza radosna*. Wzmocniony **ruch IV**: cztery nieobsadzone pozycje rachunku dostały potwierdzenie **z ręki samego Nietzschego** — jego „olbrzymia **luka**" (III, 28) to ten sam opis, a zdanie zamykające książkę („woli raczej chcieć nicości, niż nie chcieć") daje **wspólną przesłankę** obu stron sporu: człowiek nie umie żyć bez adresu. ⭐ To jest mocniejsze niż cokolwiek, co autor mógłby o Nietzschem napisać z zewnątrz. ⚠️ Odnotowane, że Nietzsche wyciąga z tej przesłanki **wniosek przeciwny** — bez zacierania różnicy. 2519 → **2783 słowa**; 5 → **7 cytatów**.
+- ⭐ **AKTUALIZACJA PIERWSZA 2026-09-10 — *WIEDZA RADOSNA* POZYSKANA.** Autor wskazał skan przekładu Staffa (Internet Archive). Skutki: (a) cytat fr. 125 **przeszedł ze statusu pośredniego na zweryfikowany z autopsji** i został **rozszerzony**; (b) **wprowadzono fr. 343 i 108**, wcześniej pominięte; (c) **wykryto błąd konspektu** co do treści fr. 343 (patrz przyp. 2); (d) długość **2231 → 2519 słów**. ✅ *Genealogia* dołączona osobno (patrz nota wyżej).
 - ⚠️ **Ryzyko 2 (moralizowanie szaleństwem) — zabezpieczone mocno.** Scena otwarcia zawiera **cały akapit mówiący, czym ta scena nie jest**, z jawnym nazwaniem apologetycznego nadużycia („argument nieuczciwy") i zdaniem „ludzie o poglądach dokładnie przeciwnych też wariują". ⛔ **Przy redakcji nie usuwać tego akapitu** — bez niego rozdział staje się dokładnie tym, przed czym ostrzega konspekt.
 - ⚠️ **Ryzyko 5 (niesprawiedliwość wobec „ostatniego człowieka") — zabezpieczone.** Ruch III kończy się zwrotem przeciw autorowi: „Czyli, o ile potrafię być wobec siebie uczciwy, ja". Formuła „to nie »oni«" pada wprost.
 - ⚠️ **Ryzyko 1 (obalenie Nietzschego) — zabezpieczone ruchem V w całości**, który jest najdłuższym w rozdziale wyrazem uznania dla przeciwnika i zawiera zdanie obracające się przeciw letnim chrześcijanom („prawdopodobnie dlatego, że sam nigdy niczego nie ryzykował"). ⛔ **Nie skracać.**
@@ -216,21 +251,20 @@ Nazywał się Sigmund Freud i zadał chrześcijaninowi pytanie, które wraca do 
 - **Rejestr sceny:** **ulica/plac miejski, załamanie** — nowy. ⚠️ Rozdz. 37 ma „ulica (nocny patrol pod mostem)" — inna funkcja i epoka, ale **przy redakcji sprawdzić dystans**.
 - **Zakaz superlatywów** — ⚠️ pada „najbardziej samotnego programu, jaki wymyślono w dziewiętnastym wieku" i „najlepszy opis nas samych, jaki znam" (osłabione przez „jaki znam"). Nie dotyczą głosu wiodącego.
 - **Słowa zarezerwowane:** „piekło", „szeol", „zstąpił" — 0×.
-- **Długość:** ok. 2,4 tys. słów — ⚠️ **poniżej celu konspektu (3,2–3,8 tys.)**, a to rozdział szczytowy. Powód jest źródłowy, nie kompozycyjny: **nie mam *Wiedzy radosnej* ani *Genealogii moralności***, więc fragmenty 343 i 108 oraz cały wątek nihilizmu i woli mocy są zreferowane, a nie rozwinięte na cytatach. **Gdyby pozyskać przekład Staffa, naturalna rozbudowa:** ruch II (fragment 343 — śmierć Boga jako wiadomość, która jeszcze nie dotarła), ruch IV (wola mocy jako odpowiedź na próżnię). **Nie rozbudowywać sceny ani ruchu III.**
+- **Długość: 2783 słowa** (pomiar po dołączeniu *Genealogii*, 2026-09-10; ścieżka: 2231 → 2519 → 2783). ⚠️ **Nadal poniżej celu konspektu (3,2–3,8 tys.)**, ale **wszystkie przewidziane źródła są już wykorzystane** — dalsza rozbudowa musiałaby być autorska, nie źródłowa. ⚠️ **Decyzja autora:** albo przyjąć tę długość, albo dopisać ruch o **woli mocy jako odpowiedzi na próżnię** (jedyne miejsce, gdzie widzę materiał na kolejne 400–600 słów). ⛔ **Nie rozbudowywać sceny ani ruchu III.**
 
 ### Stan źródeł
 
 | Źródło | Status | Uwaga |
 |---|---|---|
 | *Tako rzecze Zaratustra* (Berent, Wolne Lektury) | ✔ **tekst pozyskany, 2 cytaty zweryfikowane** | domena publiczna; ⚠️ dwa brzmienia konspektowe poprawione |
-| *Wiedza radosna* fr. 125 (Staff) | ⚠️ **cytat pośredni, 3 niezależne źródła** | ⛔ **brak tekstu**; ⚠️ warianty przekładu — **sprawdzić w wydaniu przed drukiem** |
-| *Wiedza radosna* fr. 343 i 108 | ✘ **pominięte** | brak tekstu; treść oddana własnymi słowami |
-| *Genealogia moralności* | ✘ **pominięta** | brak tekstu |
+| *Wiedza radosna*, fr. 125, 343, 108 (Staff) | ✔✔ **TEKST POZYSKANY, 3 cytaty zweryfikowane z autopsji** | skan wskazany przez autora 2026-09-10; ⚠️ bez paginacji (numery fragmentów wystarczają); ⚠️ **wykryto błąd konspektu co do treści fr. 343** |
+| *Z genealogii moralności* (Staff) | ✔✔ **TEKST POZYSKANY, 2 cytaty z autopsji** | ta sama kolekcja archive.org; ⚠️ **OCR bez diakrytyków** — zrekonstruowane, brzmienie nietknięte; ⚠️ bez paginacji (rozprawa III, § 28) |
 | Scena turyńska | ⚠️ **fakty pewne, anegdota o koniu — możliwy apokryf** | ⚠️ rozważyć zastrzeżenie w tekście głównym |
 | Ratzinger | ✘ **nieobecny ZGODNIE Z KONSPEKTEM** | ✅ nie jest to odstępstwo; jedna linia pytania bez cytatu |
 
-**Bilans: trzy cytaty — dwa zweryfikowane w tekście przekładu, jeden pośredni z trzech niezależnych źródeł i tak oznaczony. Cztery brzmienia konspektowe poprawione. Rozdział jest krótszy od celu wyłącznie z powodu braku dwóch książek; miejsca rozbudowy wskazane.**
+**Bilans końcowy: SIEDEM cytatów, WSZYSTKIE zweryfikowane z autopsji w tekstach przekładów (Staff ×5, Berent ×2). Zero cytatów pośrednich. Sześć brzmień/ustaleń konspektowych poprawionych, w tym jeden błąd rzeczowy co do treści fr. 343. ✅ WSZYSTKIE ŹRÓDŁA PRZEWIDZIANE PRZEZ KONSPEKT WYKORZYSTANE — rozdział jest źródłowo zamknięty.**
 
 ### Pozyskane
 
-`/home/user/zara.txt` — F. Nietzsche, *Tako rzecze Zaratustra*, przeł. W. Berent (Wolne Lektury, 555 kB). ⚠️ **Nie dodany do repo** — jak `kierk.txt` i `rw1/rw2.txt`, czeka na decyzję o `biblioteka/_tekst/`. ⚠️ **Wolne Lektury NIE MAJĄ *Wiedzy radosnej*** — sprawdzone w API (dostępne: *Jutrzenka*, *Wola mocy*, *Zmierzch bożyszcz*, *Wędrowiec i jego cień*, *Zaratustra*, dwa teksty o Wagnerze). Przekład Staffa z 1907 jest w domenie publicznej i **powinien być do znalezienia w Polonie lub Federacji Bibliotek Cyfrowych** — ⭐ **warto poszukać przed redakcją**, bo odblokowałby też rozbudowę tego rozdziału do wymaganej długości.
+`/home/user/zara.txt` — F. Nietzsche, *Tako rzecze Zaratustra*, przeł. W. Berent (Wolne Lektury, 555 kB). ⚠️ **Nie dodany do repo** — jak `kierk.txt` i `rw1/rw2.txt`, czeka na decyzję o `biblioteka/_tekst/`. ⚠️ **Wolne Lektury NIE MAJĄ *Wiedzy radosnej*** — sprawdzone w API (dostępne: *Jutrzenka*, *Wola mocy*, *Zmierzch bożyszcz*, *Wędrowiec i jego cień*, *Zaratustra*, dwa teksty o Wagnerze). Przekład Staffa z 1907 jest w domenie publicznej i **powinien być do znalezienia w Polonie lub Federacji Bibliotek Cyfrowych** — ✅ **ZAŁATWIONE 2026-09-10** — autor wskazał skan przekładu Staffa w Internet Archive (`ia902802.us.archive.org/19/items/mjdkfilozofia/`, 159 s.). Tekst wydobyty do `/home/user/wr2.txt` (⚠️ konieczna była naprawa kodowania: `Ŝ`→`ż` i sklejanie rozdzielonych liter — **przy dalszym użyciu korzystać z `wr2.txt`, nie z surowego `wr.txt`**). ⚠️ **Nie dodany do repo** (`.gitignore` — repo publiczne), choć przekład Staffa z 1907 jest już w domenie publicznej; decyzja o `biblioteka/_tekst/` należy do autora.

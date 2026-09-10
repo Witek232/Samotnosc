@@ -68,6 +68,18 @@ Nie nowy rozdział — struktura v3 jest zamknięta i nie warto jej ruszać po t
 Zasada redakcyjna, prosta i niewidoczna dla czytelnika: **w każdym rozdziale, w którym pojawia się więcej niż jeden głos teologiczny, ostatni głos przed puentą należy do Ratzingera.** Nie najgłośniejszy — ostatni. To jest technika, którą on sam stosuje: pozwolić przeciwnikowi mówić do końca, a potem powiedzieć jedno zdanie, które zmienia całą płaszczyznę. Zastosowana konsekwentnie przez trzydzieści rozdziałów daje efekt, którego nie da żadna liczba cytatów: czytelnik zaczyna słyszeć jego głos jako **głos, który rozstrzyga**, nie jako głos, który dołącza.
 Sprawdzian: w rozdz. 38 ostatnie słowo przed puentą **nie może** należeć do Zizioulasa; w 39 — nie do Bonhoeffera; w 30 — nie do Heschla. Tam wszędzie po świadectwie ma iść jedno zdanie z linii Ratzingerowskiej, wiążące świadectwo z tezą książki.
 
+> ### ⭐ WYJĄTEK OD ŚRODKA B — CZĘŚĆ II (rozdz. 5–11). Decyzja autora, 2026-09-10.
+>
+> **W części II reguła ostatniego słowa NIE OBOWIĄZUJE. Ratzinger jest w niej nieobecny — celowo.**
+>
+> Powód jest funkcjonalny, nie przypadkowy. Część II („Narodziny samotnego ja") ma pozwolić przeciwnikom — Rousseau, Nietzschemu, Freudowi, Sartre'owi — **przemówić bez kontry**. Dopisanie na końcu każdego z tych rozdziałów zdania Ratzingerowskiego zamieniłoby je w apologetykę z ozdobnym przeciwnikiem i zniszczyłoby efekt, na którym stoi cała konstrukcja książki: czytelnik ma najpierw **poczuć siłę zarzutu**, a odpowiedź dostać dopiero w części VII (rozdz. 41–43).
+>
+> Zwolnienie dotyczy rozdziałów **5–11**. Zrealizowane: **7** (zakaz wprost w konspekcie, nota 10.4), **8**, **9**. ⚠️ Rozdz. **6** wykonuje regułę (Ratzinger zamyka) — **to nie jest niekonsekwencja**: rozdz. 6 był pisany przed podjęciem tej decyzji i reguła była tam potrzebna po dwóch rozdziałach nieobecności (4 i 5). ⚠️ **Do rozstrzygnięcia przy redakcji, czy zostawić rozdz. 6 jako wyjątek w wyjątku**, czy ujednolicić.
+>
+> ⛔ **Nie odkrywać tej reguły na nowo przy każdym rozdziale części II** — była ustalana trzy razy z rzędu (7, 8, 9), zanim została zapisana.
+>
+> **Środek B obowiązuje bez zmian w częściach III–VIII.** Kontrapunkt do części II stanowi część VII, gdzie linia Ratzingerowska odpowiada wszystkim czterem bohaterom naraz.
+
 **Środek C: przenieść Ratzingera z przypisów do argumentu.**
 Dziś w rękopisie (rozdz. 34, 36, 37) występuje głównie jako **źródło cytatu**. Dominacja zaczyna się w momencie, w którym jego twierdzenie staje się **przesłanką rozumowania**, a nie ozdobą wniosku. Konkretnie: zamiast „jak pisze Ratzinger, wiara jest…", pisać rozdział, którego tok **nie działa bez** tej tezy. Test redakcyjny: usuń z akapitu nazwisko i cytat — jeśli akapit stoi, Ratzinger był ozdobą.
 

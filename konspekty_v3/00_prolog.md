@@ -97,3 +97,17 @@ Prolog nie deklaruje tezy, ale wbudowuje napięcie: najdłuższe doświadczenie 
 5. ✅ **KLAMRA Z EPILOGIEM SPRAWDZONA PUNKT PO PUNKCIE** — cztery elementy, do których odwołuje się scena epilogu (pokój i książka sprzed 30 lat; zakaz poprawiania poza przedmową; sprawdzenie, czy pytanie się nie wyczerpało; brzmienie pytania programowego) są w prologu obecne i zgodne. **Jedyna zależność „tekst napisany wiąże tekst nienapisany" w całej książce — ZAMKNIĘTA.**
 
 6. **Słowo „śledztwo"** — w tekście głównym **raz** (nagłówek ruchu IV zmieniony z „Zasada śledztwa" na „Trzy zasady", żeby nie dublować). Bilans: prolog 1 → epilog 1, nic pomiędzy ✔
+
+
+---
+
+## ✅ AKTUALIZACJA 2026-09-10 (druga tego dnia): PRZEDMOWA Z 2000 POZYSKANA
+
+Punkt 1 sekcji „KOREKTY WNIESIONE PRZY PISANIU" (brak dostępu do przedmowy z 2000) **jest nieaktualny — luka została zamknięta.**
+
+- **Co pozyskano:** brzmienie kluczowego zdania przedmowy z 2000 („Wprowadzenie w chrześcijaństwo — wczoraj, dziś, jutro"), z dokładną lokalizacją: **WCh, wyd. pol. Znak, Kraków 2005, s. 25–26.**
+- **Jak:** cytowanie **pośrednie** za recenzowanym artykułem: ks. S. Mycek, *Podstawowe zasady chrześcijaństwa według Josepha Ratzingera – Benedykta XVI*, „Śląskie Studia Historyczno-Teologiczne" 42 (2009), z. 2, s. 113–128, tu **s. 115, przyp. 7**. Link do PDF-a hurtowni Znaku podany przez autora zwrócił **404**.
+- **Co z tego weszło do tekstu:** ruch wstępny prologu (+67 słów, **1115 → 1182**), z cytatem w linii: „Sądzę jednak, że nie popełniłem błędu, jeśli chodzi o główny kierunek".
+- **Korekta samego konspektu:** konspekt zakładał, że przedmowa daje **bilans epoki** (upadek systemu, media, kultura). Autentyczne zdanie daje coś innego i lepszego — **bilans własnej pracy**: rozróżnienie na to, co autor by dziś zmienił (doświadczenia trzydziestu lat, kontekst międzyreligijny), i na **kierunek**, którego broni. Prolog korzysta z tej drugiej wersji. Reszty treści przedmowy **nadal nie znamy** — nie dopisywać jej.
+- ⚠️ **Zadanie dla korekty:** autor ma wyd. **Znak 2018**, cytat lokalizowany wg wyd. **2005** — sprawdzić s. 25–26 i w razie potrzeby poprawić paginację.
+- **Długość:** 1182 słowa. Nadal poniżej celu 2,2–2,8 tys. **Rekomendacja bez zmian: nie dopisywać na siłę.**

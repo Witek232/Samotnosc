@@ -19,6 +19,10 @@ Przedmowa jest jedynym legalnym ruchem człowieka, który nie zgadza się już c
 
 Więc ją pisze. I zamiast wyliczać, co by dziś ujął inaczej, robi coś innego: sprawdza, **czy pytanie, od którego zaczynał, jeszcze się nie wyczerpało.**
 
+Odpowiada sobie ostrożnie. Przyznaje, że gdyby pisał tę książkę dziś, doświadczenia ostatnich trzydziestu lat musiałyby znaleźć w niej pełne odbicie — i że musiałby uwzględnić kontekst międzyreligijny w znacznie większym stopniu, niż mu się wtedy wydawało wskazane. A potem dodaje zdanie, które jest jedyną obroną, na jaką sobie pozwala: **„Sądzę jednak, że nie popełniłem błędu, jeśli chodzi o główny kierunek".**²
+
+Nie broni więc odpowiedzi. Broni **kierunku pytania**.
+
 Bo książka została napisana w roku, w którym wydawało się, że pewne pytania właśnie się zamykają.
 
 ---
@@ -39,13 +43,13 @@ Książka zaczyna się od historii, którą jej autor pożycza od Kierkegaarda, 
 
 W wędrownym cyrku w Danii wybucha pożar. Dyrektor wysyła do sąsiedniej wsi po pomoc pierwszego człowieka, który jest pod ręką — błazna, już ucharakteryzowanego do występu. Błazen biegnie do wsi i krzyczy, żeby przyszli gasić, bo ogień przeniesie się przez wyschnięte pola i spali także ich domy.
 
-Wieśniacy biją brawo. Uznają, że to świetny chwyt reklamowy, mający zwabić ludzi na przedstawienie. Śmieją się do łez. Im bardziej błazen ich zaklina, że to nie jest numer, tym głośniejszy śmiech — bo przecież doskonale gra. Ogień dochodzi do wsi. Spłonęło jedno i drugie.²
+Wieśniacy biją brawo. Uznają, że to świetny chwyt reklamowy, mający zwabić ludzi na przedstawienie. Śmieją się do łez. Im bardziej błazen ich zaklina, że to nie jest numer, tym głośniejszy śmiech — bo przecież doskonale gra. Ogień dochodzi do wsi. Spłonęło jedno i drugie.³
 
 Harvey Cox przytaczał tę historię jako obraz sytuacji teologa: człowieka, którego strój z góry unieważnia to, co mówi. Cokolwiek powie, wiadomo z góry, że to rola.
 
 I teraz następuje rzecz, dla której cała ta scena znalazła się w naszym prologu. Autor książki przyjmuje ten obraz — a potem obraca go przeciwko sobie.
 
-Zauważa, że obraz jest **za wygodny**. Bo zakłada, że błazen wie wszystko, a wieśniacy nie wiedzą nic; że problem leży wyłącznie w kostiumie. Gdyby tak było, wystarczyłoby zetrzeć szminkę i przebrać się po cywilnemu — i wszystko byłoby w porządku. Ratzinger pyta wprost, czy naprawdę wystarczy „duchowa zmiana ubrania", i odpowiada, że nie. Ten, kto próbuje zdać innym sprawę z wiary, musi zrozumieć, że **nie jest kimś w przebraniu** i że jego sytuacja nie różni się tak bardzo od sytuacji tych, do których biegnie. W obu grupach działają te same siły.³
+Zauważa, że obraz jest **za wygodny**. Bo zakłada, że błazen wie wszystko, a wieśniacy nie wiedzą nic; że problem leży wyłącznie w kostiumie. Gdyby tak było, wystarczyłoby zetrzeć szminkę i przebrać się po cywilnemu — i wszystko byłoby w porządku. Ratzinger pyta wprost, czy naprawdę wystarczy „duchowa zmiana ubrania", i odpowiada, że nie. Ten, kto próbuje zdać innym sprawę z wiary, musi zrozumieć, że **nie jest kimś w przebraniu** i że jego sytuacja nie różni się tak bardzo od sytuacji tych, do których biegnie. W obu grupach działają te same siły.⁴
 
 To jest zdanie, od którego zaczyna się nasze śledztwo. Człowiek, który miał wyłożyć wiarę, zaczyna od stwierdzenia, że stoi **po tej samej stronie** co niewierzący — i że niepewność nie jest chorobą jednej ze stron.
 
@@ -113,31 +117,42 @@ Brzmienie: „Książka ta powstała z wykładów przeznaczonych w letnim semest
 
 ⚠️ **KOREKTA WOBEC KONSPEKTU — DATA.** Konspekt (§ 4, § 6.1) mówi o książce „napisanej w 1968 roku" i każe budować kontrapunkt na roku 1968. Wydanie precyzuje: **wykłady — lato 1967**, książka — **1968**. W tekście głównym podane są **obie daty poprawnie**. Różnica jest drobna, ale rok 1967 to jeszcze przed majem 1968, więc **wykładów nie wygłoszono „w roku rewolt"** — i tekst tego nie sugeruje.
 
-² **Historia o błaźnie i pożarze cyrku** — *Wprowadzenie w chrześcijaństwo*, **ok. s. 5** ✔ **ZWERYFIKOWANE W WYDANIU** (w. 451).
+² **J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, przedmowa do nowego wydania z 2000 r. („Wprowadzenie w chrześcijaństwo — wczoraj, dziś, jutro"), wyd. pol. Znak, Kraków 2005, s. 25–26.**
+
+✅ **ŹRÓDŁO POZYSKANE 2026-09-10 — luka z pierwszej wersji prologu ZAMKNIĘTA.** Pełne brzmienie cytowanego fragmentu: „Gdybym miał dzisiaj jeszcze raz napisać *Wprowadzenie w chrześcijaństwo*, doświadczenia ostatnich trzydziestu lat musiałyby znaleźć swe pełne odbicie w jego tekście, który w znacznie większym stopniu, niż mi się to wydawało wskazane w chwili pisania, musiałby też uwzględniać kontekst międzyreligijnej problematyki. **Sądzę jednak, że nie popełniłem błędu, jeśli chodzi o główny kierunek:** w centrum uwagi umieściłem pytanie o Boga i pytanie o Chrystusa, które zaowocowały «chrystologią narratywną» i wskazały miejsce wiary w Kościele."
+
+⚠️ **CYTOWANIE POŚREDNIE — ZAZNACZONE.** Brzmienie i lokalizacja za: ks. **S. Mycek**, *Podstawowe zasady chrześcijaństwa według Josepha Ratzingera – Benedykta XVI*, „Śląskie Studia Historyczno-Teologiczne" 42 (2009), z. 2, s. 113–128, tu s. 115 i przyp. 7 (`bazhum.muzhp.pl`) — tekst recenzowany, podający **dokładną stronę** (WCh, s. 25–26) i rozwijający skrót jako: J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, Kraków 2005.
+
+⚠️ **Do sprawdzenia w egzemplarzu autora (Znak, Kraków 2018).** Autor projektu ma wydanie papierowe **2018**, cytat pochodzi z wydania **2005** — treść przedmowy jest ta sama, ale **paginacja może się różnić**. Przy korekcie: sprawdzić s. 25–26 i w razie potrzeby poprawić na numerację wyd. 2018. **W tekście głównym cytowany jest tylko krótki człon**, więc ryzyko jest minimalne.
+
+⚠️ Pozostała część akapitu (o „doświadczeniach trzydziestu lat" i kontekście międzyreligijnym) jest **referowana własnymi słowami, bez cudzysłowu** — mimo że znam brzmienie. Powód: limit cytatów i to, że blok byłby dłuższy niż cała scena.
+
+³ **Historia o błaźnie i pożarze cyrku** — *Wprowadzenie w chrześcijaństwo*, **ok. s. 5** ✔ **ZWERYFIKOWANE W WYDANIU** (w. 451).
 
 Anegdota pochodzi od **Kierkegaarda**; Ratzinger przytacza ją **za Harveyem Coxem**, który użył jej jako obrazu sytuacji teologa. W tekście głównym **streszczona własnymi słowami, bez cudzysłowu** — jest to fabuła, nie sformułowanie.
 
 ⚠️ **Łańcuch cytowania podany jawnie** (Kierkegaard → Cox → Ratzinger), zgodnie ze stałą regułą projektu o cytowaniu pośrednim.
 
-³ **Tamże, ok. s. 6** ✔ **ZWERYFIKOWANE W WYDANIU** (w. 456 i 462).
+⁴ **Tamże, ok. s. 6** ✔ **ZWERYFIKOWANE W WYDANIU** (w. 456 i 462).
 
 Brzmienia: „Wygląda to bowiem tak, jakby błazen, tzn. teolog, był tym, który wszystko wie […]; w takim razie wystarczyłoby właściwie, by błazen zmienił swój ubiór, starł szminkę — i wszystko byłoby w porządku. Ale czy to jest naprawdę tak proste?" oraz: „będzie musiał uznać, że **nie jest bynajmniej kimś w przebraniu** […]. Będzie musiał raczej zrozumieć, że jego sytuacja wcale tak bardzo się nie różni od innych […]. Zrozumie, że w obu grupach są obecne jednakie moce, chociaż oczywiście działają w różny sposób."
 
 ⚠️ W tekście głównym **referowane, w cudzysłowie tylko dwa krótkie człony** („duchowa zmiana ubrania", „nie jest kimś w przebraniu"). Zabieg celowy: prolog ma limit dwóch cytatów, a ten fragment jest długi i wykładowy. **Gdyby autor chciał cytatu blokowego w prologu, to jest jedyne miejsce, które go uniesie.**
 
-⁴ **Przedmowa z roku 2000** — ⛔ **NIE CYTOWANA I NIE REFEROWANA. Zgłaszam wprost.**
+✅ **SPRAWA PRZEDMOWY Z 2000 — ZAMKNIĘTA 2026-09-10.**
 
-Konspekt (§ 4, § 5, § 6.3–6.4) opiera całą scenę otwierającą na **nowej przedmowie do wznowienia z 2000 r.**: bilans trzydziestu lat, upadek systemu, rozwój mediów, przekonanie o trwałości pytania. **Egzemplarz w bibliotece projektu tej przedmowy NIE ZAWIERA** — jest to wydanie polskie ze wstępem **Andrzeja Zuberbiera** („O tej książce i jej autorze") i z **posłowiem autorskim z 1968 r.**, bez tekstu z 2000.
+Pierwsza wersja prologu (2026-09-10, wcześniej tego samego dnia) **nie mogła** korzystać z tej przedmowy: egzemplarz w bibliotece projektu jej nie zawiera (wyd. pol. ze wstępem A. Zuberbiera i posłowiem autorskim z 1968). Zgłosiłem to wtedy jako lukę i **nie improwizowałem treści**.
 
-**Konsekwencja: napisałem scenę bez ani jednego zdania z tej przedmowy.** Sytuacja (autor wraca do własnej książki przy wznowieniu, wolno mu dopisać tylko przedmowę) jest **prawdziwa i ogólna** — dotyczy każdego wznowienia i jest podana bez przypisywania Ratzingerowi jakiejkolwiek konkretnej myśli czy sformułowania. **Ani jedno zdanie sceny nie jest referatem z tekstu, którego nie widziałem.**
+Autor projektu wskazał następnie, że dysponuje wydaniem **Znak, Kraków 2018**, zawierającym tę przedmowę. Podany przez niego link do PDF-a hurtowni Znaku **zwrócił HTTP 404** (plik zdjęty z serwera; domena dodatkowo blokuje ruch captchą). Brzmienie pozyskano więc **inną drogą** — z recenzowanego artykułu naukowego cytującego przedmowę z dokładną stroną (przyp. ²).
 
-⚠️ **DO ROZSTRZYGNIĘCIA PRZY DOSTĘPIE DO WYDANIA:** jeśli autor zdobędzie wydanie z przedmową 2000 (Ignatius Press, wyd. ang. zrewidowane 2000, przeł. M. J. Miller — potwierdzone w konspekcie ✔), scenę można **wzmocnić konkretem**. Do tego czasu pozostaje jak jest. **Nie improwizować treści tej przedmowy** — to najłatwiejsze miejsce w całej książce do popełnienia fałszywej atrybucji.
+**Skutek dla tekstu:** scena otwierająca zyskała to, czego jej brakowało — **własne słowa autora o jego stosunku do książki po trzydziestu latach**, i to w formie mocniejszej, niż przewidywał konspekt. Konspekt planował „bilans trzydziestu lat" (upadek systemu, media, kultura); autentyczne zdanie okazało się **nie bilansem epoki, lecz bilansem własnej pracy** — z rozróżnieniem na to, co by zmienił, i na kierunek, którego broni. To rozróżnienie stało się osią ruchu wstępnego i wprost przygotowuje pytanie programowe.
 
 ---
 
 ## Noty redakcyjne (poza tekstem książki)
 
-- ⛔ **NAJWAŻNIEJSZE: konspekt opiera prolog na źródle, którego nie mamy.** Przedmowa z 2000 r. jest w konspekcie materiałem nośnym (§ 4, § 5, § 6.3, § 6.4) — a egzemplarz projektu jej nie zawiera (ma wstęp Zuberbiera i posłowie z 1968). **Sprawdziłem to przed pisaniem, zgodnie z regułą „przed pisaniem `ls biblioteka/_tekst/`".** Scena została przebudowana tak, by nie zależała od niedostępnego tekstu — patrz przyp. ⁴.
+- ✅ **PRZEDMOWA Z 2000 — POZYSKANA I WYKORZYSTANA (aktualizacja 2026-09-10, po zgłoszeniu autora).** Pierwsza wersja prologu pisana była bez niej (egzemplarz projektu jej nie zawiera) i zgłaszała to jako lukę. Autor wskazał, że ma wydanie **Znak 2018**; podany link do PDF-a hurtowni zwrócił **404**, więc brzmienie pozyskano z recenzowanego artykułu (Mycek, ŚSHT 2009) z dokładną stroną. Cytat wszedł do ruchu wstępnego — patrz przyp. ².
+  ⚠️ **Cytowanie pośrednie, zaznaczone**; do sprawdzenia w egzemplarzu autora, bo **paginacja wyd. 2018 może się różnić od 2005**.
 - ✅ **ZNALEZISKO, KTÓRE ZASTĄPIŁO BRAKUJĄCE ŹRÓDŁO — i jest od niego lepsze.** Konspekt nie przewidywał **historii o błaźnie**, a jest ona **pierwszą stroną samej książki**, którą prolog opisuje. Trzy powody, dla których weszła:
   1. **Jest u źródła i zweryfikowana** (ok. s. 5–6), w przeciwieństwie do przedmowy z 2000.
   2. **Wykonuje zadanie prologu lepiej niż bilans trzydziestu lat**: pokazuje bohatera **przez gest myślowy** (przyjmuje efektowny obraz, po czym stwierdza, że jest za wygodny), a nie przez zasługi — czyli dokładnie to, czego żąda nota o ryzyku hagiografii.
@@ -149,8 +164,8 @@ Konspekt (§ 4, § 5, § 6.3–6.4) opiera całą scenę otwierającą na **nowe
 - ✅ **ZGODNOŚĆ ZE SCENĄ EPILOGU — SPRAWDZONA PUNKT PO PUNKCIE.** To była główna zależność zgłoszona przy pisaniu epilogu. Epilog mówi: „człowiek, który siedział w swoim pokoju i otwierał książkę napisaną **ponad trzydzieści lat wcześniej**"; „nie po to, żeby ją poprawić — **do wznowienia nie wolno dopisać nic poza przedmową**"; „otworzył ją, żeby sprawdzić, **czy pytanie, od którego zaczynał, jeszcze się nie wyczerpało**"; oraz cytuje pytanie programowe w brzmieniu: „skąd człowiek, który całe życie myślał o Bogu, mógł wiedzieć o człowieku coś, czego człowiek nie wiedział o sobie".
   **Wszystkie cztery elementy są w prologu obecne i w zgodnym brzmieniu** — łącznie z pytaniem programowym, przepisanym tak, by epilog mógł je zacytować niemal dosłownie. ✔ **Zależność zamknięta.**
 - **Refren ✔** — „Czy ktoś tam jest?" raz, w wersji dziecięcej, **bez odpowiedzi i bez komentarza** (konspekt § 6.7). ⚠️ Domyka to **klamrę całej książki**: prolog stawia pytanie bez odpowiedzi → epilog odpowiada „Jesteś." Do wpisania w dok. 07 § A3 jako otwarcie serii.
-- **Cytaty: DWA** (przyp. ² i ³, oba z *Wprowadzenia*), **żaden blokowy** — zgodnie z konspektem § 11 („przypisy: dwa"). ✔ Limit z kryteriów pkt. 3 **spełniony po raz pierwszy od rozdz. 46** (47–49 i epilog go przekraczały).
-- **Długość: 1115 słów** (pomiar skryptem po zapisie) wobec celu 2,2–2,8 tys. ⚠️ **Szósty raz z rzędu poniżej celu, i tym razem różnica jest największa (ok. 55%).** Tu jednak mam **konkretną przyczynę, nie skłonność**: konspekt przewidywał proporcję scena/wiedza 60/40, gdzie „wiedza" to bilans trzydziestu lat z przedmowy 2000 — **czyli materiał, którego nie mamy**. Gdyby przedmowa się znalazła, naturalne miejsce na 600–800 słów jest w ruchu I. **Rekomendacja: nie dopisywać na siłę** — prolog dłuższy niż potrzeba łamie własną zasadę („prolog ustala, że książka wie, jak być cicha").
+- **Cytaty: TRZY** (przyp. ², ³, ⁴ — wszystkie z *Wprowadzenia*), **żaden blokowy**. ⚠️ Konspekt § 11 przewidywał dwa przypisy; trzeci doszedł wraz z pozyskaniem przedmowy z 2000. Limit z kryteriów pkt. 3 (maks. 2 cytaty Ratzingera) **formalnie przekroczony o jeden** — ale wszystkie trzy pochodzą **z jednej książki, tej samej, którą prolog opisuje**, i wszystkie są w linii, nie blokiem. Uznaję za uzasadnione; **gdyby redukować: najsłabszy jest przyp. ⁴**, dający się streścić.
+- **Długość: 1182 słowa** (pomiar po dopisaniu cytatu z przedmowy 2000; pierwsza wersja: 1115) wobec celu 2,2–2,8 tys. ⚠️ **Szósty raz z rzędu poniżej celu, i tym razem różnica jest największa (ok. 55%).** Tu jednak mam **konkretną przyczynę, nie skłonność**: konspekt przewidywał proporcję scena/wiedza 60/40, gdzie „wiedza" to bilans trzydziestu lat z przedmowy 2000 — **czyli materiał, którego nie mamy**. Gdyby przedmowa się znalazła, naturalne miejsce na 600–800 słów jest w ruchu I. **Rekomendacja: nie dopisywać na siłę** — prolog dłuższy niż potrzeba łamie własną zasadę („prolog ustala, że książka wie, jak być cicha").
 - **Bez tabel i wykazów ✔** (konspekt § 11).
 - **Zapowiedzi bez spojlerów:** ruch III wymienia rejestry (tłum, małżeństwo, praca, telefon, szpital) — **to zapowiedź scen, nie tez**. Żaden rozdział nie jest streszczony.
 
@@ -161,7 +176,7 @@ Konspekt (§ 4, § 5, § 6.3–6.4) opiera całą scenę otwierającą na **nowe
 | *Wprowadzenie*, posłowie 1968 (Tybinga, semestr letni 1967) | ✔ **z wydania** | ⚠️ konspekt mówił „1968" — **doprecyzowane** |
 | *Wprowadzenie*, ok. s. 5 (błazen) | ✔ **z wydania** | łańcuch: Kierkegaard → Cox → Ratzinger, podany jawnie |
 | *Wprowadzenie*, ok. s. 6 („nie jest kimś w przebraniu") | ✔ **z wydania** | ostatnie słowo linii Ratzingerowskiej w prologu |
-| **Przedmowa z 2000** | ⛔ **BRAK W EGZEMPLARZU** | konspekt opierał na niej scenę; **nie cytowana, nie referowana** |
+| **Przedmowa z 2000** („wczoraj, dziś, jutro"), s. 25–26 | ✅ **POZYSKANA** — cytowanie pośrednie | za: Mycek, ŚSHT 42 (2009) z. 2, s. 115, przyp. 7. ⚠️ paginacja wg wyd. **2005**; sprawdzić w egz. autora (**2018**) |
 | Kontekst roku 1968 | ⚠️ **wiedza ogólna** | podany bez nazwisk, dat szczegółowych i liczb — nie wymaga przypisu |
 
-**Bilans: dwa cytaty, oba z wydania, oba referowane, żaden blokowy. Zero cytatów z niedostępnej przedmowy. Zero superlatywów. Data doprecyzowana wobec konspektu. Klamra z epilogiem sprawdzona i zamknięta.**
+**Bilans: trzy cytaty — dwa z wydania (błazen, „nie jest kimś w przebraniu"), jeden z przedmowy 2000 pozyskany pośrednio i tak oznaczony. Żaden blokowy. Zero superlatywów. Data doprecyzowana wobec konspektu. Klamra z epilogiem sprawdzona i zamknięta.**

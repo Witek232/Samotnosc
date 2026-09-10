@@ -9,44 +9,39 @@
 
 **Nie trzeba go szukać.** Znalazł się w Internet Archive w **wolnym dostępie** (bez wypożyczania) i jest już na dysku roboczym: `/home/user/nygren.txt`, całość, **paginacja wiarygodna**. Szczegóły w § 2 — zostawiam je, bo mogą się przydać, gdyby ktoś chciał wydanie papierowe albo polskie.
 
-**Do znalezienia zostaje więc TYLKO NIETZSCHE — i to jedna strona.**
+⭐⭐ **AKTUALIZACJA 2026-09-10 wieczorem: NIETZSCHE TAKŻE ZNALEZIONY** (przez autora, Polona — Mortkowicz 1907, s. 112). **Oba długi tego dokumentu są zamknięte.** Zostaje lista z § 3 — długi innych rozdziałów.
 
 ---
 
-## 1. NIETZSCHE — dokładnie czego szukać
+## 1. NIETZSCHE — ✅ ZNALEZIONY PRZEZ AUTORA (2026-09-10). ZAMKNIĘTE
 
-### Co jest potrzebne
-
-**Jedno zdanie.** Nic więcej.
+**Nie trzeba już szukać.** Autor odnalazł egzemplarz w zbiorach cyfrowych **Polony**.
 
 | | |
 |---|---|
-| **Dzieło** | *Jenseits von Gut und Böse* — pol. ***Poza dobrem i złem*** |
-| **Miejsce** | **Aforyzm 168** (numer ten sam we wszystkich wydaniach — aforyzmy są numerowane ciągle) |
-| **Rozdział** | Część IV: *Sprüche und Zwischenspiele* — pol. zwykle „**Sentencje i międzysłowia**" albo „Przypowieści i międzyakcia" |
-| **Położenie** | To bardzo **krótki** aforyzm — jedno zdanie. Cała część IV to zbiór takich jednozdaniowych sentencji, numerowanych mniej więcej **63–185**. Aforyzm 168 leży więc **mniej więcej w dwóch trzecich tej części** |
+| **Wydanie** | F. Nietzsche, *Poza dobrem i złem*, przeł. **Stanisław Wyrzykowski** (1869–1949), nakł. **J. Mortkowicza**, **Warszawa 1907**; druk: W. L. Anczyc, Kraków |
+| **Odmiana** | **Wyd. 2**, przejrzane i ponownie porównane z oryginałem |
+| **Strona** | **112** |
+| **Numer aforyzmu** | **167a** w tym wydaniu ⚠️ (= **168** w numeracji powszechnie przyjętej) |
 
-### Brzmienie oryginalne (do porównania)
+### Brzmienie — do cytowania
 
-> „Das Christentum gab dem Eros Gift zu trinken — er starb zwar nicht daran, aber entartete, zum Laster."
+> „Chrześcijaństwo napoiło erosa trucizną — nie umarł on wprawdzie, lecz wyrodził się, w występek."
 
-Dosłownie: *Chrześcijaństwo dało erosowi truciznę do picia — nie umarł wprawdzie od niej, ale wyrodniał, w występek.*
+### ⭐⭐ Dlaczego to znalezisko było warte zachodu
 
-### Co dokładnie chcę wiedzieć
+**Przekład Wyrzykowskiego jest mocniejszy niż parafraza encykliki — i dlatego w rozdz. 16 cytujemy jego, nie ją.**
 
-1. **Brzmienie polskiego przekładu** — jak tłumacz oddał **`entartete, zum Laster`**. To jest cały problem: encyklika parafrazuje to jako „przerodził się w **wadę**", a niemieckie *Laster* jest mocniejsze — bliżej „**występku**" albo „nałogu". ⭐ Jeśli polski przekład ma „występek", cytat będzie ostrzejszy i lepszy dla rozdziału.
-2. **Numer strony** w tym wydaniu, które Pan znajdzie.
-3. **Dane wydania**: tłumacz, wydawnictwo, rok.
+- *Deus caritas est* § 3 streszcza: „przerodził się w **wadę**".
+- Wyrzykowski: „**wyrodził się, w występek**" (niem. *entartete, zum Laster*).
 
-### Gdzie to jest najłatwiej dostępne
+Różnica jest istotna. „Wada" to osłabienie; „**występek**" to przeniesienie erosu **do rejestru rzeczy wstydliwych** — wolno go mieć, ale nie wolno się do niego przyznać. ⭐ Zarzut Nietzschego brzmi teraz **jego własnym głosem**, a nie w streszczeniu strony przeciwnej, co jest zgodne z regułą z dok. 04 (przeciwników wzmacniać).
 
-- **Przekład Stanisława Wyrzykowskiego** (przedwojenny, wielokrotnie wznawiany, m.in. Zielona Sowa, vis-à-vis/Etiuda) — **domena publiczna**, więc bywa w wolnodostępnych bibliotekach cyfrowych (Polona, Wolne Lektury, Chmura Czytania).
-- **Przekład Pawła Pieniążka** (PWN / Officyna) — nowszy, prawdopodobnie lepszy, ale chroniony.
-- ⭐ **Podpowiedź praktyczna:** w wersji cyfrowej najszybciej znaleźć przez wyszukanie słowa „**eros**" albo „**truciznę**" — aforyzm jest krótki i wyskoczy od razu.
+### Co z tym zrobiono
 
-### Status w tekście książki
+✅ Wprowadzone do **rozdz. 16 jako cytat blokowy** (ruch II) wraz z akapitem analizującym słowo „występek". Bilans cytatów blokowych w tym rozdziale: **3** — dwa Ratzingera i **jeden Nietzschego**; limit z dok. 04 dotyczy cytatów Ratzingera i pozostaje dochowany.
 
-⚠️ **Dziś w rozdz. 16 zarzut Nietzschego jest referowany BEZ CUDZYSŁOWU**, za encykliką (która sama go streszcza w § 3 i odsyła do aforyzmu 168). ⛔ Cudzysłowu nie postawię, dopóki nie zobaczę wydania. Rozdział jest poprawny również bez tego — to ulepszenie, nie łatanie dziury.
+⚠️ **Uwaga edytorska na przyszłość:** w przypisie podajemy **oba numery aforyzmu** (167a / 168), żeby czytelnik odnalazł go w dowolnym wydaniu.
 
 ---
 
@@ -107,4 +102,6 @@ Wymieniam **tylko to, co realnie zmieniłoby tekst**; ⛔ nie kupować niczego.
 
 ## 4. Podsumowanie w jednym zdaniu
 
-**Do znalezienia jest właściwie jedna strona: aforyzm 168 z *Poza dobrem i złem*** — reszta z tej dwójki już się znalazła.
+✅✅ **OBA DŁUGI ZAMKNIĘTE tego samego dnia:** Nygren znalazł się w Internet Archive (wolny dostęp), Nietzschego odnalazł autor w Polonie (Mortkowicz 1907, s. 112, af. 167a).
+
+**Do szukania zostaje tylko lista z § 3 — a w niej realnie jedna pozycja: LASCH, s. 10.**

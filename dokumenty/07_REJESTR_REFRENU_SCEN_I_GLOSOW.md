@@ -35,6 +35,7 @@ Wypełniać przy każdym napisanym rozdziale. Cel: żadne dwie odpowiedzi nie mo
 
 | Rozdz. | Odpowiedź | Status |
 |---|---|---|
+| **22** | **„Czy ktoś jest po drugiej stronie?" — BEZ ODPOWIEDZI** | **napisany 2026-09-10** — ⚠️ **jedyne wystąpienie refrenu bez odpowiedzi w całej książce**. Rozdział otwiera część V (zejście) i nie ma prawa odpowiedzieć na własne pytanie; pierwsze użycie formy „po drugiej stronie" (kartoteka). Ubocznie: seria otwarć na „Jest" pozostaje przerwana |
 | 25 | „Tu jestem" | napisany |
 | 26 | „jest — i przeszedł" | napisany |
 | 30 (v3: 32) | „jest — i nigdy nie był sam" | napisany |
@@ -73,6 +74,7 @@ Sceny są najmocniejszą stroną rękopisu — niosą więcej niż argumenty. Gr
 | Rozdz. | Scena | Rejestr | Status |
 |---|---|---|---|
 | 11 | ośrodek medytacyjny, dziesięć dni ciszy | odosobnienie | napisany |
+| **22** | dom po pogrzebie, wdowa w płaszczu | **dom** | **napisany 2026-09-10** — kobieta jako **podmiot** sceny (§ C4); rozdział wraca do niej 3× jako do instancji sprawdzającej filozofów |
 | 24 | (centrum — Wielka Sobota) | liturgia/ciemność | napisany |
 | 36 | łamanie chleba, niedzielna msza | kościół | napisany |
 | 37 | nocny patrol pod mostem | ulica | napisany |
@@ -81,7 +83,7 @@ Sceny są najmocniejszą stroną rękopisu — niosą więcej niż argumenty. Gr
 
 **Wolne rejestry do obsadzenia (propozycje przypisania):**
 
-- **dom** → rozdz. 2 (dziecko, które woła) albo 22 (żałoba)
+- ~~**dom** → rozdz. 2 albo 22~~ → **OBSADZONY: rozdz. 22** (żałoba, 2026-09-10). Dla rozdz. 2 (dziecko, które woła) potrzebny **inny rejestr** — dom jest zajęty.
 - **szpital / hospicjum** → 17 (ciało wie) albo 46
 - **praca** → 13 (człowiek jako projekt) — open space o 21:00
 - **sieć** → 44 (połączeni, ale samotni) — oczywiste; 45

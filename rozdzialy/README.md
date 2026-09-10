@@ -50,9 +50,11 @@ Rękopis pisany był od centrum (część V–VI). Po wgraniu naturalna kontynua
 4. `dokumenty/04_PLAN_PISANIA_I_LINIA_RATZINGEROWSKA.md` § 2 — kolejność pisania.
 
 **Kolejność zaktualizowana (v3.2):**
-~~38~~ → ~~39~~ → ~~40~~ → ~~41~~ → ~~42~~ → ~~43~~ → ~~44~~ → 22 → 23 → ~~45~~ → ~~46~~ → 47 → 48 → 49 → Epilog → Prolog → 1–10 → 12–21.
+~~38~~ → ~~39~~ → ~~40~~ → ~~41~~ → ~~42~~ → ~~43~~ → ~~44~~ → ~~22~~ → 23 → ~~45~~ → ~~46~~ → 47 → 48 → 49 → Epilog → Prolog → 1–10 → 12–21.
 
-**Następny w kolejce: 22 i 23** (dwa rozdziały o śmierci — 23 ma konspekt v3, 22 nie), dalej 47–49 i epilog. Część VII (35–39) zamknięta.
+**22 ✔ (2026-09-10)** — otwarcie części V (zejście). **Następny w kolejce: 23** (*Czym jest śmierć* — konspekt v3 gotowy), dalej 47–49 i epilog. Część VII (35–39) zamknięta.
+
+⚠️ **Sprostowanie:** wcześniejsza notatka mówiła, że rozdz. 22 nie ma konspektu — **ma** (`konspekty_v3/22_samotnosc_ktorej_nie_da_sie_wyleczyc.md`, szablon lekki).
 
 **Przepisania zaplanowane (po kwerendzie Ratzingerowskiej, nie wcześniej):** 24 (oś II + ewentualna scena), 31 (oś I — R1/R2), 32 (oś III — R4), 37 (rejestr sceny i otwarcie refrenu).
 

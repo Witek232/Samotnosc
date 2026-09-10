@@ -56,3 +56,16 @@ Czytelnik ma już wszystko, czego potrzebował: definicje samotności, relacji, 
 - Świadectwa hospicyjne — do doboru w redakcji (literatura opieki paliatywnej); bez pompatyczności.
 - Metafora: „przejście dokonane" — kontrola zgodnie z gradacją (25 drzwi → 27 próg → 46 przejście).
 - Refren raz; długość ~2,3–2,6 tys. słów.
+
+---
+
+## ⚠️ KOREKTY WNIESIONE PRZY PISANIU (2026-09-10)
+
+Rozdział **napisany**: `rozdzialy/47_czy_smierc_jest_samotnoscia.md`.
+
+1. ⛔ **KONSPEKT MA NIEPRZELICZONE ODESŁANIA v2** — najgroźniejszy przypadek listy mieszanej (`STRUKTURA_V3.md` § 1 ostrzega przed nim wprost). W § 1, 3, 4, 5 i 9 występują numery **v2**: „25" (Ratzinger mówiący pierwszy / zstąpienie) → **v3: 24**; „27" (próg) → **v3: 26**; „46" (przejście dokonane) → **v3: 47, czyli ten rozdział**. **W tekście użyto wyłącznie numerów v3.** Spodziewać się tego samego w konspektach **48 i 49**.
+2. **Marcel bez ani jednego cytatu** — zgodnie z `08_LISTA_POZYCJI_DO_POZYSKANIA.md` § A2. Robocze parafrazy z § 6 **nieużyte** (były w cudzysłowie). *Homo viator* nie pada nawet jako tytuł.
+3. **Świadectwa hospicyjne — miejsce wskazane, nie zapełnione.** Zgodnie z `[?]` w § 4. W tekście głównym stoi jawne zastrzeżenie o braku źródła.
+4. **Dwie rezerwacje zrealizowane:** *Eschatologia* ok. s. 115 (komunikacja/komunia — zachowane przy pisaniu rozdz. 23) oraz obraz **„przesieki" Schleiermachera** za Ratzingerem (zachowany przy pisaniu rozdz. 46).
+5. **Gradacja metafory skontrolowana:** słowo „drzwi" **nie pada ani razu**; przejście dokonane oddane bez rekwizytu.
+6. **Długość ~1,54 tys. słów** wobec celu 2,3–2,6 tys. — do decyzji autora.

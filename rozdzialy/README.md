@@ -50,9 +50,9 @@ Rękopis pisany był od centrum (część V–VI). Po wgraniu naturalna kontynua
 4. `dokumenty/04_PLAN_PISANIA_I_LINIA_RATZINGEROWSKA.md` § 2 — kolejność pisania.
 
 **Kolejność zaktualizowana (v3.2):**
-~~38~~ → ~~39~~ → ~~40~~ → ~~41~~ → ~~42~~ → ~~43~~ → ~~44~~ → ~~22~~ → ~~23~~ → ~~45~~ → ~~46~~ → ~~47~~ → ~~48~~ → 49 → Epilog → Prolog → 1–10 → 12–21.
+~~38~~ → ~~39~~ → ~~40~~ → ~~41~~ → ~~42~~ → ~~43~~ → ~~44~~ → ~~22~~ → ~~23~~ → ~~45~~ → ~~46~~ → ~~47~~ → ~~48~~ → ~~49~~ → Epilog → Prolog → 1–10 → 12–21.
 
-**22 ✔ (2026-09-10)** — otwarcie części V (zejście). **23 ✔ (2026-09-10)**. **Część V ma komplet rozdziałów przed centrum: 22 → 23 → 24.** **47 ✔ (2026-09-10)**. **48 ✔ (2026-09-10) — DRUGI SZCZYT KSIĄŻKI** (Getsemani; formuła „Nie będziesz tam sam"; 2. z 3 wystąpień zdania kanonicznego osi II). Następne w kolejce: **49 (zmartwychwstanie — finał) → Epilog** (⚠️ epilog niesie OSTATNIE wystąpienie zdania kanonicznego), potem uzupełnienia wstecz (Prolog, 1–21). Część VII (35–39) zamknięta.
+**22 ✔ (2026-09-10)** — otwarcie części V (zejście). **23 ✔ (2026-09-10)**. **Część V ma komplet rozdziałów przed centrum: 22 → 23 → 24.** **47 ✔ (2026-09-10)**. **48 ✔ (2026-09-10) — DRUGI SZCZYT KSIĄŻKI** (Getsemani; formuła „Nie będziesz tam sam"; 2. z 3 wystąpień zdania kanonicznego osi II). **49 ✔ (2026-09-10) — FINAŁ przed epilogiem** (Wigilia Paschalna jako klamra z rozdz. 24; „życie wniesione w środek śmierci"; pytanie Marty oddane epilogowi). **Część VIII zamknięta.** Następny: **EPILOG** (⚠️ niesie OSTATNIE, trzecie wystąpienie zdania kanonicznego osi II oraz odpowiedź „Wierzę w Ciebie"), potem uzupełnienia wstecz, potem uzupełnienia wstecz (Prolog, 1–21). Część VII (35–39) zamknięta.
 
 ⚠️ **Sprostowanie:** wcześniejsza notatka mówiła, że rozdz. 22 nie ma konspektu — **ma** (`konspekty_v3/22_samotnosc_ktorej_nie_da_sie_wyleczyc.md`, szablon lekki).
 

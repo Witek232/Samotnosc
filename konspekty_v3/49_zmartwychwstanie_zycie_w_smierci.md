@@ -84,3 +84,30 @@ Pytanie Marty (J 11,26: „Czy wierzysz w to?") pozostaje otwarte — i jest wł
 ---
 
 *Powiązania: rozdz. 24 (wejście w śmierć), 26 (obecność), 27 (zmartwychwstanie jako odpowiedź), 48 (obietnica), epilog (odpowiedź Marty).*
+
+
+---
+
+## ⚠️ KOREKTY WNIESIONE PRZY PISANIU (2026-09-10)
+
+Rozdział napisany. Rozbieżności rozstrzygnięte na niekorzyść konspektu:
+
+1. **TRZY BŁĘDNE CYTATY BIBLIJNE** (konspekt cytuje z pamięci — wzorzec stały):
+   - **1 Kor 15,20**: konspekt „co **posnęli**" → BT **„co pomarli"**.
+   - **Rz 8,11**: konspekt „…**ożywi także** wasze śmiertelne ciała" → BT **„…przywróci do życia wasze śmiertelne ciała mocą mieszkającego w was swego Ducha"**.
+   - **J 11,26**: konspekt „**Czy** wierzysz w to?" → BT **„Wierzysz w to?"** (dwa słowa, twardsze).
+   Wszystkie sprawdzone w `biblia.deon.pl` i poprawione.
+
+2. **BŁĄD ODESŁANIA w § 6.5.** Konspekt: „echo 24 (wejście) i **47** (obecność)". Rozdziałem obecności jest **26** (*Spe salvi* § 32, „Tu jestem"); 47 to „czy śmierć jest samotnością". Poprawione. Reszta odesłań konspektu — wbrew wzorcowi z 23/47/48 — **jest przeliczona poprawnie**.
+
+3. **SCENA — kolizja obrócona w klamrę.** Wigilia Paschalna rozgrywa się w tym samym kościele co rozdz. 24 (Wielka Sobota). Zamiast unikać powtórzenia rejestru, wykorzystano zdanie kończące scenę 24: „pusty kościół, który wie o czymś, co zrozumie dopiero **nocna wigilia**". 49 jest tą wigilią. **Jedyne świadome powtórzenie rejestru w książce.**
+
+4. **Rubryki liturgiczne niecytowane** — brak *Mszału*; opis obrzędu ogólny, bez terminów technicznych („paschał", „Exsultet", „lucernarium" nie padają) i bez numerów rubryk.
+
+5. **Odesłanie do *Wprowadzenia w chrześcijaństwo* bez strony i bez cudzysłowu** — zdania Ratzingera o kolejności członów wyznania **nie odnaleziono w dostępnym tekście**; podane jako referat myśli, nie cytat. Do domknięcia przy dostępie do wydania.
+
+6. **Zachodzenie z rozdz. 27 skontrolowane**: jedyny wspólny element to **Rz 8,11**, w 27 użyty w parafrazie (trwanie relacji), tu jako cytat i w innej funkcji (adres obietnicy, ciało). 1 Kor 15,35–44 pominięte w całości — należy do 27.
+
+7. **Zdanie kanoniczne osi II NIE PADA** (0 wystąpień, sprawdzone `grep`-em) — należy do epilogu jako trzecie i ostatnie. Zdanie finałowe rozdziału to **osobna formuła autorska**.
+
+8. **Długość: 1821 słów** wobec celu 2,6–3,0 tys. — **czwarty raz z rzędu poniżej** (47: 1540, 48: 1996). Zgłoszone autorowi jako cecha, nie usterka.

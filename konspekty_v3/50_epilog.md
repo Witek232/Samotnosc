@@ -87,3 +87,24 @@ Epilog nie ma mostu „do następnego rozdziału" — ma **otwarte ostatnie zdan
 - **Oś II — trzecie i ostatnie wystąpienie** zdania kanonicznego (24 → 48 → **epilog**), brzmienie identyczne. Po nim nie ma już żadnego powtórzenia.
 - **Zakaz superlatywu** obowiązuje także tutaj: nazwisko Ratzingera **nie zostaje opatrzone żadną oceną**. Jeśli struktura książki zadziałała, czytelnik sam wie, czyj to był głos.
 - Finał J 11,26 — cichy i osobisty; ustalenie nienaruszone.
+
+
+---
+
+## ⚠️ KOREKTY WNIESIONE PRZY PISANIU (2026-09-10)
+
+1. ⛔ **BŁĄD NAJPOWAŻNIEJSZY: § 6.5 twierdzi, że zdanie tytułowe „Wierzę w Ciebie" pada w epilogu PO RAZ PIERWSZY.** Nieprawda — padło w **rozdz. 29** (w. 54 i 62), uroczyście, z notą „wielka litera wchodzi do druku po raz pierwszy"; nagłówek konspektu 29 mówi wprost: „pierwsza pełna formuła «Wierzę w Ciebie»". Wykonanie polecenia oznaczałoby okłamanie czytelnika. **Rozwiązanie: ruch V jawnie przyznaje, że formuła już padła, i pokazuje różnicę stanu.**
+
+2. ⛔ **DUBLET: „Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On".** Kartoteka § 4h rezerwuje je dla 24/48/epilogu, ale **rozdz. 26 już go zużył** (w. 134, cytat blokowy, s. 247). Zostawione w epilogu; **zdanie wprowadzające („dotąd nie zacytowaliśmy ani razu") jest przy obecnym stanie 26 NIEŚCISŁE** — do rozstrzygnięcia przez autora (albo usunąć cytat z 26, albo przeformułować wprowadzenie w epilogu).
+
+3. **J 11,26** — konspekt „Czy wierzysz w to?" → BT **„Wierzysz w to?"**. Poprawione (ta sama korekta co w 49).
+
+4. **Sprzeczność wewnętrzna: § 4 podaje PIĘĆ głosów, § 6.2 — CZTERY.** Wybrano czwórkę z § 6.2 (dziecko, dorosły, człowiek nowoczesny, umierający); głosy „kochającego" i „cierpiącego" mają własne rozdziały. Akapity zmierzone: 43/42/54/43 słowa.
+
+5. **Klamra z prologiem oparta na NIENAPISANYM tekście** — scena zbudowana wyłącznie na konspekcie prologu § 5, celowo oszczędna (bez Rzymu, roku, jubileuszu, opisu gabinetu). **Przy pisaniu prologu obowiązkowa kontrola zgodności.**
+
+6. **Przedmowa z 2000 niecytowana** — brzmienie polskie niezweryfikowane; wyłącznie referat.
+
+7. **Zdanie kanoniczne osi II: trzecie i ostatnie wystąpienie ✔** — licznik 3/3 zamknięty, brzmienie identyczne we wszystkich trzech miejscach (sprawdzone `grep`-em w całym katalogu `rozdzialy/`).
+
+8. **Długość: 1273 słowa** wobec celu 2,2–2,6 tys. Tu **rekomendacja: NIE rozbudowywać** — konspekt § 10 sam żąda krótkości, a epilog dłuższy od finału (49: 1821) osłabiłby oba.

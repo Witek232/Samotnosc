@@ -56,7 +56,7 @@ Wypełniać przy każdym napisanym rozdziale. Cel: żadne dwie odpowiedzi nie mo
 | **46** | „A śmierć wraca — wraca w miejscach, z których kultura usunęła wspólnotę." (wersja rozdziału; wariant nośny w cz. VII: „przychodzi o godzinie, w której nikogo przy tym nie ma") | napisany 2026-09-08 |
 | **48 — DRUGI SZCZYT** | **„Będę."** | **napisany 2026-09-10** — ⚠️ **jedyna odpowiedź w książce w PIERWSZEJ OSOBIE i w CZASIE PRZYSZŁYM**: mówi ją Ten, o kogo pytano, nie narrator. Jednosłowna. Nie zaczyna się od „Jest" (seria przerwana od 38 pozostaje przerwana). Poprzedzona pełnym pytaniem refrenu („Czy ktoś tam jest?") |
 | **49 — FINAŁ** | **„Życie jest tam, gdzie byliśmy najgłębiej sami."** | **napisany 2026-09-10** — odpowiedź **opisowa, nie „tak"** (zgodnie z konspektem § 6.7). Powrót do trybu „my" po odstępstwie 48. Ostatni refren przed epilogiem |
-| epilog | ⚠️ **trzecie i OSTATNIE wystąpienie zdania kanonicznego osi II** (24 ✔ / 48 ✔ / epilog) — brzmienie musi być identyczne | — |
+| **EPILOG** | **„Jesteś."** | **napisany 2026-09-10** — ⚠️ **PIERWSZY I JEDYNY RAZ, GDY REFREN WYPOWIADA CZŁOWIEK**: nie odpowiedź Kogoś, kogo pytano (26 „Tu jestem", 48 „Będę"), lecz rozpoznanie wypowiedziane przez pytającego. Zamknięcie serii. Po nim już tylko pytanie Marty (J 11,26). ✔ **Zdanie kanoniczne osi II: 3/3 — LICZNIK ZAMKNIĘTY** (24 / 48 / epilog, brzmienie identyczne, sprawdzone `grep`-em) |
 | Epilog | J 11,26, ciche i osobiste | konspekt |
 
 **Ostrzeżenie widoczne już teraz:** odpowiedzi 30, 33, 38, 39 zaczynają się od słowa „Jest". Cztery razy ten sam początek to za dużo. Przy pisaniu 38 i 39 — zmienić otwarcie przynajmniej jednej z nich.
@@ -85,6 +85,7 @@ Sceny są najmocniejszą stroną rękopisu — niosą więcej niż argumenty. Gr
 | 37 | nocny patrol pod mostem | ulica | napisany |
 | 38 | cela Ojca Pustyni | pustynia/cela | napisany |
 | 39 | Finkenwalde, dzień seminarium (1935–1937) | wspólnota/historia | **napisany** — scena podana jako *plan dnia = teza* |
+| **epilog** | powrót do pokoju z lampą (klamra z prologiem) | **klamra, nie rejestr** | **napisany 2026-09-10** — ⚠️ scena oparta **wyłącznie na konspekcie prologu** (prolog NIENAPISANY). Napisana oszczędnie (bez Rzymu, bez roku, bez opisu gabinetu), żeby dała się dopasować. **Przy pisaniu prologu OBOWIĄZKOWO sprawdzić zgodność** |
 | **49** | Wigilia Paschalna: ciemny kościół, jedna świeca niesiona do środka, płomień podawany z rąk do rąk | **liturgia/ciemność** | **napisany 2026-09-10** — ⚠️ **JEDYNE ŚWIADOME POWTÓRZENIE REJESTRU w książce**: ten sam kościół co w rozdz. 24 (Wielka Sobota, w dzień). Wyjątek od reguły „każda scena z innego rejestru", zamierzony: rozdz. 24 kończy się zdaniem „pusty kościół, który wie o czymś, co zrozumie dopiero **nocna wigilia**" — 49 **jest** tą wigilią. **Klamra przez 25 rozdziałów.** Rubryk liturgicznych nie cytowano (brak Mszału) |
 | **48** | kurs nurkowy: sygnał „nie mam powietrza", podanie automatu zapasowego, wynurzanie za przedramię | **natura/woda** | **napisany 2026-09-10** — ⚠️ **scena ZMIENIONA wobec konspektu**, który proponował instruktora wyłączającego sobie powietrze na 30 m: praktyka **nieprawdziwa i niebezpieczna**, nie występuje w szkoleniu rekreacyjnym. Funkcja zachowana (druga ręka, twarda fizyka), bez nieprawdy faktycznej |
 

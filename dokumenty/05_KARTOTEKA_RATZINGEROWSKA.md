@@ -335,7 +335,7 @@ Ratzinger odpowiada wprost na zarzut Feuerbacha/Freuda — rozdz. „O prawdzie"
 
 **Odkryte przy pisaniu rozdz. 43 (2026-09-08); nieprzewidziane w konspekcie ani w § 5.**
 
-Cz. II, rozdz. o zstąpieniu do piekieł [s?]:
+Cz. II, rozdz. o zstąpieniu do piekieł, **s. 246** ✔ (paginacja ustalona 2026-09-10 — patrz sprostowanie niżej):
 
 > „Gdyby istniała taka samotność, do której nie przenikałoby żadne słowo, gdyby powstało tak głębokie opuszczenie, że nikt by do niego nie dotarł, wtedy mielibyśmy istotnie całkowitą samotność i lęk, który teologowie nazywają »piekłem«. Możemy teraz dokładnie zdefiniować, co ten wyraz oznacza: **oznacza on samotność, której nie dosięga słowo miłości** i która przez to jest zagrożeniem całej egzystencji."
 
@@ -346,6 +346,16 @@ Kilka zdań dalej — **wprost o Sartrze**: „Sartre — jak wiadomo — zbudow
 **Ostrzeżenie:** kontynuacja fragmentu („Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On") należy do **osi II** — limit trzech wystąpień (24, 48, epilog). W rozdz. 43 **celowo nieużyta**.
 
 **Status:** ✔ ZAŁATWIONE dla rozdz. 43. Wykorzystane w `rozdzialy/43_sartre_ma_racje_i_nie_ma_racji.md`, przyp. 2–3.
+
+### ⚠️ SPROSTOWANIE 2026-09-10 — paginacja ustalona, znacznik `[s?]` ZDJĘTY
+
+Przy pisaniu rozdz. 43 zapisano lokalizację jako `[s?]` z uzasadnieniem „MOBI bez wiarygodnej paginacji". **To było przeoczenie:** plik `biblioteka/_tekst/ratzinger_wprowadzenie-w-chrzescijanstwo_pl.txt` **zawiera numery stron** — jako osamotnione linie z samą liczbą (nie w nawiasach, stąd wcześniejsze `grep`-y ich nie znajdowały).
+
+Ustalenie: numery stron w okolicy fragmentu padają w wierszach 3377 (**244**), 3383 (**245**), 3387 (**246**), 3398 (**247**). Definicja piekła stoi w wierszu **3389**, zdanie o Sartrze w tym samym wierszu, ciąg o szeolu w wierszu **3396** — wszystkie **między znacznikiem 246 a 247**.
+
+**→ Definicja piekła, zdanie o Sartrze, Hesse i szeol: *Wprowadzenie w chrześcijaństwo*, s. 246.** Poprawiono w `rozdzialy/43_...md`, przyp. 2 i 3.
+
+⚠️ **Wniosek metodyczny:** wcześniejsze „MOBI nie ma paginacji" było fałszywe dla tego pliku. **Przy każdym `[s?]` odsyłającym do tego tekstu sprawdzić metodą `awk 'NR>X && NR<Y && /^[0-9]{3}$/'`** — możliwe, że inne `[s?]` też da się zdjąć. Do przejrzenia przy zamykaniu dok. 11.
 
 ### Uzupełnienie 2026-09-08 (z kwerendy do rozdz. 45) — akapit BEZPOŚREDNIO POPRZEDZAJĄCY, **s. 245–246** ✔
 

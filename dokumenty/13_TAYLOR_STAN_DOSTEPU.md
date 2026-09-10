@@ -91,3 +91,42 @@ Rozdział 6 jest napisany bez Taylora i **broni się bez niego**. Ale fragment z
 ⭐ **Gdy całość jest niedostępna, szukać: (a) krótszej książki tego samego autora o tej samej tezie, (b) legalnych fragmentów u wydawcy lub w czasopismach popularnonaukowych, (c) cytatów ze stronami w recenzjach i pracach naukowych w repozytoriach uczelnianych (`ruj.uj.edu.pl`, `cejsh.icm.edu.pl`, `dspace`).**
 
 Ta metoda dała w jednym podejściu: pełny legalny fragment przekładu + pięć cytatów ze stronami. **Stosować przy każdej pozycji z dok. 08**, zanim uzna się ją za niedostępną.
+
+---
+
+## 5. ⭐ TROP AUTORA (2026-09-10) — polska literatura o Taylorze i POLSKIE TEKSTY SAMEGO TAYLORA
+
+Autor wskazał ścieżkę obejścia niedostępności *Źródeł podmiotowości*: **zamiast polować na tysiącstronicową monografię, sięgnąć po polskie opracowania i po krótsze teksty Taylora wydane po polsku.** Ścieżka jest słuszna i ma dla nas dodatkową zaletę: opracowania podają **cytaty ze stronami z wydania polskiego**, czyli dokładnie to, czego nam brakuje.
+
+⚠️ **STATUS: ZAPISANE, NIESPRAWDZONE.** Poniższych pozycji **jeszcze nie weryfikowałem** — dane pochodzą od autora. Przed użyciem w przypisie każdą trzeba potwierdzić.
+
+| # | Pozycja | Dane wg autora | Po co nam |
+|---|---|---|---|
+| 1 | Opracowanie o *Źródłach podmiotowości* (jaźń, doświadczenie, **epifania**, sztuka, nowoczesna podmiotowość) | PDF dostępny online | ⭐ **rekomendowane przez autora jako pierwsze do przeczytania**; wątek **epifanii i sztuki** jest dla nas nowy — pokazuje, gdzie nowoczesny człowiek szuka „źródeł" ja po utracie porządku metafizycznego |
+| 2 | **T. Żuradzki**, recenzja *Źródeł podmiotowości* | *Principia* **34 (2003), s. 195–200**; repozytorium UJ | szybkie **wprowadzenie krytyczne**; ⭐ recenzje bywają najlepszym źródłem **cytatów ze stronami** |
+| 3 | *Jednostka a wspólnota w filozofii Charles'a Taylora* | „Filozofia Chrześcijańska", UAM | ⭐⭐ **kierunek najważniejszy dla książki**: napięcie **jednostka ↔ wspólnota** → atomizacja → utrata relacji → kryzys tożsamości. **Materiał wprost dla części III** |
+| 4 | *Rozważania nad podmiotowością a niepełnosprawność* | wykorzystuje **wstęp A. Bielik-Robson do Taylora** | wartość poboczna: pokazuje recepcję Taylora **poza filozofią**; ⭐ **wstęp Bielik-Robson** to osobny trop |
+| 5 | *Tożsamość narracyjna jako warunek autentycznej podmiotowości prawnej* | Wyd. UŁ, **2023** | ⭐ **tożsamość narracyjna** — spina Taylora z MacIntyre'em (rozdz. 10); bibliografia odsyła do *Źródeł*, *Etyki autentyczności*, *Human Agency and Language*, *Nowoczesnych imaginariów społecznych*, *Samointerpretujących się zwierząt*, *A Secular Age* |
+
+### 5a. ⭐⭐ NAJWAŻNIEJSZE: POLSKI PRZEKŁAD TEKSTU SAMEGO TAYLORA
+
+**Ch. Taylor, *Samointerpretujące się zwierzęta*, w: *Filozofia podmiotu. Fragmenty filozofii analitycznej*, Warszawa 2001, s. 261–295.**
+
+⭐ **To jest pozycja o najwyższym priorytecie z całej listy** — i autor ocenia ją jako **cenniejszą niż opracowania**. Powód jest warsztatowy: **to Taylor po polsku, w przekładzie, z paginacją**, czyli materiał, który wolno **cytować dosłownie**, a nie tylko referować. Dotąd mamy tylko 5 stron *Etyki autentyczności*.
+
+**Gdzie to pracuje:**
+- **rozdz. 10** — ⭐ **DŁUG DO SPŁATY**: genealogia sześciu kroków jest tam **referatem bez ani jednego cytatu** ze *Źródeł*; to jawnie nazwana główna słabość rozdziału. Tekst o samointerpretacji mógłby ją częściowo zamknąć.
+- **rozdz. 6** — Taylor jest tam cytowany **tym samym** fragmentem *Etyki autentyczności*, co w rozdz. 10 (kolizja odnotowana). Nowy tekst rozwiązałby ją.
+- **rozdz. 15** — autentyczność jako program vs jako warunek spotkania.
+- **część III** — poz. 3 z tabeli (jednostka ↔ wspólnota).
+
+**Teza tekstu (z tytułu, do potwierdzenia po lekturze):** człowiek jest zwierzęciem, które **samo siebie interpretuje**, i te interpretacje nie są opisem czegoś gotowego — one **współtworzą** to, co interpretują. ⭐ Gdyby to się potwierdziło, jest to **ogniwo brakujące między MacIntyre'em a Taylorem** z rozdz. 10: tożsamość narracyjna to nie opowiadanie o sobie, lecz **konstytuowanie siebie przez opowiadanie**.
+
+### 5b. Co z tym zrobić — kolejność
+
+1. **Poz. 5a** (*Samointerpretujące się zwierzęta*) — szukać w pierwszej kolejności; to jedyna pozycja dająca **cytaty Taylora po polsku ze stronami**.
+2. **Poz. 2** (Żuradzki, *Principia* 34) — krótka, w repozytorium UJ, więc realna do zdobycia; ⭐ recenzje cytują *Źródła* ze stronami.
+3. **Poz. 3** (UAM, jednostka ↔ wspólnota) — materiał dla części III.
+4. Poz. 1 i 5 — uzupełniająco.
+
+⚠️ **Reguła bez zmian:** to, co pochodzi z opracowania, cytujemy **jako cytat pośredni, z podaniem obu adresów** („cyt. za…"). ⛔ Nie wolno podawać strony *Źródeł podmiotowości* tak, jakbyśmy widzieli tę stronę — dotyczy to również przypisu w rozdz. 6 (s. 667), gdzie ostrzeżenie już stoi.

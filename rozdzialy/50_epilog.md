@@ -140,13 +140,21 @@ Pełny kontekst: „Dziecko uspokoi się, gdy mu ktoś poda rękę, która je po
 
 ³ **J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, s. 247** ✔ **ZWERYFIKOWANE W WYDANIU** (w. 3400).
 
-⚠️ **UWAGA — DUBLET, ZGŁASZAM WPROST.** Kartoteka (§ 4h) rezerwuje to zdanie dla osi II i pisze: „limit trzech wystąpień (24, 48, epilog)". Rozdz. 43 celowo go nie użył. **Ale rozdz. 26 użył go już w cytacie blokowym** (`rozdzialy/26_drzwi_smierci.md`, w. 134, ze stroną 247) — a 26 nie jest jednym z trzech zarezerwowanych miejsc.
+✅ **SPRAWA DUBLETU — ZAMKNIĘTA 2026-09-10, ALARM BYŁ FAŁSZYWY.**
 
-**Stan faktyczny: to jest drugie wystąpienie tego zdania w książce (26 → epilog), nie pierwsze.** Kartoteka mówiła o limicie osi II jako o **regule dla zdania kanonicznego** (przyp. ²) i objęła nią również to zdanie Ratzingera; w praktyce oba są liczone osobno i tylko zdanie kanoniczne ma pilnowany licznik.
+Przy pisaniu epilogu zgłosiłem, że rozdz. 26 już zużył to zdanie (w. 134, „cytat blokowy"). **Sprawdziłem dokładnie i myliłem się.** Tekst główny rozdz. 26 kończy się w w. 118; przypisy zaczynają się w w. 122. Wszystkie **trzy** wystąpienia zdania w pliku 26 leżą **w aparacie, nie w tekście książki**:
 
-**Decyzja: zostawiam.** Powody: (a) w 26 pada w środku wywodu o progu, tutaj jako ostatnie słowo książki; (b) to jedno z najmocniejszych zdań korpusu i finał ma do niego prawo; (c) nie jest to zdanie kanoniczne, więc reguła trzech wystąpień go nie wiąże. ⚠️ **Ale to jest realne powtórzenie i autor powinien o nim wiedzieć.** Alternatywa przy redakcji: usunąć z rozdz. 26 (gdzie jest jednym z kilku cytatów) i zostawić wyłącznie tutaj.
+- w. 134 — cytat w **przypisie ²**, w wykazie brzmień zweryfikowanych u źródła;
+- w. 142 — **nota redakcyjna** („refren «Tu jestem» ma u Ratzingera dokładny odpowiednik…");
+- w. 148 — **nota redakcyjna**, w formie *rekomendacji na przyszłość*: „zostawić jedno zdanie […] i zredukować drugie użycie *Spe salvi* do referatu".
 
-**Zdanie NIE jest wprowadzone słowami „po raz pierwszy"** — tekst mówi tylko, że nie było cytowane „w tej książce", co po ewentualnej korekcie w 26 stanie się ścisłe, a obecnie jest **nieścisłe**. ⚠️ **Do poprawienia razem z decyzją o dublecie** — jeśli cytat zostaje w 26, zdanie wprowadzające trzeba przeformułować.
+Pomiar: w tekście głównym rozdz. 26 zdanie pada **0 razy**.
+
+**Wniosek: epilog jest PIERWSZYM I JEDYNYM miejscem, gdzie to zdanie wchodzi do tekstu książki.** Rezerwacja z kartoteki § 4h (24 / 48 / epilog) **nie została naruszona** — rozdz. 26 jej nie złamał, bo cytował je tylko w aparacie, a rozdz. 43 celowo go nie użył.
+
+**Zdanie wprowadzające w tekście głównym („którego dotąd w tej książce nie zacytowaliśmy ani razu") jest zatem ŚCISŁE** i nie wymaga korekty. ⚠️ Poprzednia wersja tej noty twierdziła, że jest nieścisłe — **nieprawda, wycofuję**.
+
+⚠️ **Jedyna czynność do rozważenia przy redakcji:** nota redakcyjna w rozdz. 26 (w. 148) rekomendowała wprowadzenie tego zdania **do tekstu głównego 26**. Tej rekomendacji **NIE należy już wykonywać** — zdanie zostało zużyte tutaj. Dopisałem ostrzeżenie w pliku 26.
 
 ⁴ **J 11,26** wg **Biblii Tysiąclecia** ✔ **zweryfikowane 2026-09-10** (`biblia.deon.pl`, J 11) — „Wierzysz w to?", dwa słowa.
 
@@ -160,7 +168,7 @@ Pełny kontekst: „Dziecko uspokoi się, gdy mu ktoś poda rękę, która je po
 
 - ⛔ **BŁĄD KONSPEKTU — NAJPOWAŻNIEJSZY W CAŁEJ SERII.** Konspekt § 6.5 poleca: „zdanie tytułowe książki **padaje po raz pierwszy** — i musi mieć najkrótszy akapit epilogu". **To nieprawda.** Formuła „wierzę w Ciebie" **padła już w rozdz. 29** (`rozdzialy/29_ja_potrzebuje_ty.md`, w. 54 i 62), i to w sposób uroczysty: „Formuła, która stoi w podtytule, doczekała się swojego miejsca… **Wielka litera wchodzi do druku po raz pierwszy i zostaje do końca**". Nagłówek konspektu 29 nazywa to wprost: „pierwsza pełna formuła «Wierzę w Ciebie»".
   **Gdybym wykonał polecenie konspektu, epilog kłamałby czytelnikowi**, który to zdanie już czytał, dwadzieścia jeden rozdziałów wcześniej. **Rozwiązanie:** ruch V **jawnie przyznaje**, że formuła już padła, i pokazuje różnicę stanu („tamto było rozpoznaniem formy; to jest zdanie wypowiedziane po przejściu przez wszystko"). To jest mocniejsze niż udawany debiut — i uczciwe.
-- ⚠️ **DUBLET CYTATU „Tam gdzie nie może nas już dosięgnąć żaden głos"** — pełen opis w przyp. ³. Krótko: kartoteka rezerwowała go dla 24/48/epilogu, ale **rozdz. 26 już go zużył**. Zostawiłem w epilogu i zgłaszam do decyzji. ⚠️ **Zdanie wprowadzające („dotąd w tej książce nie zacytowaliśmy ani razu") jest przy obecnym stanie rozdz. 26 NIEŚCISŁE i wymaga korekty albo usunięcia cytatu z 26.** Nie ukrywam tego w tekście.
+- ✅ **DOMNIEMANY DUBLET — WYJAŚNIONY, ALARM FAŁSZYWY** (pełen wywód w przyp. ³). Trzy wystąpienia zdania w pliku 26 leżą **w przypisach i notach redakcyjnych, nie w tekście książki** (tekst główny 26 kończy się w w. 118, aparat zaczyna w w. 122; pomiar: 0 wystąpień w tekście głównym). **Epilog jest pierwszym i jedynym miejscem, gdzie zdanie wchodzi do książki.** Rezerwacja kartoteki § 4h nienaruszona, zdanie wprowadzające ścisłe. Moje wcześniejsze zgłoszenie było błędne — wycofane.
 - ⚠️ **KLAMRA Z PROLOGIEM — ZBUDOWANA NA NIENAPISANYM TEKŚCIE.** Prolog (`konspekty_v3/00_prolog.md`) **nie istnieje jako rozdział**. Scenę otwierającą epilog oparłem **wyłącznie na konspekcie prologu** (§ 5: pokój, lampa, książka, przedmowa z 2000, pytanie programowe). ⚠️ **Ryzyko: gdy prolog powstanie, może pójść inaczej — i wtedy scena epilogu przestanie się z nim zgadzać.** Napisałem ją więc **oszczędnie i bez szczegółów** (nie pada Rzym, nie pada rok 2000, nie pada „jubileusz", nie pada opis gabinetu), żeby dała się dopasować. **Przy pisaniu prologu OBOWIĄZKOWO sprawdzić zgodność z tą sceną** — to jedyne miejsce w książce, gdzie tekst już napisany wiąże tekst jeszcze nienapisany.
   ⚠️ **Nie użyłem słowa „śledztwo" jako cytatu z prologu**, tylko raz, w formie własnej („co śledztwo ustaliło"). Konspekt § 6.1 chciał „śledztwa po raz trzeci i ostatni" — licznik jest niesprawdzalny bez prologu.
 - **Cztery głosy ✔** (§ 6.2, ryzyko 4 — równość akapitów). Kartoteka podaje **pięć** głosów (dziecko, dorosły, kochający, cierpiący, umierający), konspekt § 6.2 podaje **cztery** (dziecko, dorosły, człowiek nowoczesny, umierający) — **sprzeczność wewnętrzna konspektu**. Wybrałem **czwórkę z § 6.2**, bo głos „kochającego" i „cierpiącego" są w książce obsłużone rozdziałami, a czwórka daje rytm. Akapity: **43/42/54/43 słowa** (pomiar skryptem) — równe; „człowiek nowoczesny" o 11 słów dłuższy, bo musi wyłożyć pojęcie autokreacji. Żaden nie dominuje.
@@ -179,14 +187,14 @@ Pełny kontekst: „Dziecko uspokoi się, gdy mu ktoś poda rękę, która je po
 | Źródło | Status | Uwaga |
 |---|---|---|
 | *Wprowadzenie w chrześcijaństwo*, s. 245–246 | ✔ **z wydania** | ⚠️ zachodzi z rozdz. 45 — zgłoszone |
-| *Wprowadzenie w chrześcijaństwo*, s. 247 | ✔ **z wydania** | ⛔ **DUBLET z rozdz. 26** — decyzja autora |
+| *Wprowadzenie w chrześcijaństwo*, s. 247 | ✔ **z wydania** | ✅ **bez dubletu** — w rozdz. 26 tylko w aparacie; tu pierwsze wejście do tekstu książki |
 | Zdanie kanoniczne osi II | ✔ **3/3 — licznik ZAMKNIĘTY** | 24 → 48 → epilog, brzmienie identyczne |
 | „Wierzę w Ciebie" | ⚠️ **drugie wystąpienie, nie pierwsze** | konspekt mylił się; ruch V przyznaje to jawnie |
 | J 11,26 | ✔ **BT** | ⚠️ konspekt miał „Czy wierzysz w to?" — poprawione |
 | Klamra prologu | ⚠️ **oparta na konspekcie** | prolog nienapisany — **sprawdzić zgodność przy pisaniu** |
 | Przedmowa z 2000 | ✘ **niecytowana** | brzmienie polskie niezweryfikowane — tylko referat |
 
-**Bilans: dwa cytaty Ratzingera, oba z wydania. Zdanie kanoniczne zamyka licznik osi II. Jeden zgłoszony dublet, jedno zgłoszone zachodzenie, jedna zgłoszona zależność od nienapisanego prologu. Konspekt mylił się co do statusu zdania tytułowego — sprostowane w tekście, nie ukryte.**
+**Bilans: dwa cytaty Ratzingera, oba z wydania. Zdanie kanoniczne zamyka licznik osi II. Domniemany dublet okazał się fałszywym alarmem (wyjaśnione), jedno zgłoszone zachodzenie, jedna zgłoszona zależność od nienapisanego prologu. Konspekt mylił się co do statusu zdania tytułowego — sprostowane w tekście, nie ukryte.**
 
 ---
 

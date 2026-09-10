@@ -147,6 +147,10 @@ Jeśli relacja przetrwa, musi istnieć coś, co ją gwarantuje — nie nastrój,
 
 **Limit cytatów:** rozdział ma już dwa miejsca cytowane (*Spe salvi* § 32). Wprowadzenie Ratzingera wymaga więc **decyzji, nie dopisania** — rekomendacja: zostawić jedno zdanie („Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On") i zredukować drugie użycie *Spe salvi* do referatu.
 
+⛔ **REKOMENDACJA POWYŻEJ JEST NIEAKTUALNA — NIE WYKONYWAĆ (2026-09-10).** Zdanie „Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On" zostało **zużyte w EPILOGU**, jako ostatni cytat Ratzingera w całej książce (`rozdzialy/50_epilog.md`, przyp. ³). Kartoteka `05_KARTOTEKA_RATZINGEROWSKA.md` § 4h rezerwuje je dla osi II (24 / 48 / epilog) — rozdz. 26 **nie jest** jednym z tych miejsc.
+
+**Stan obecny jest poprawny i należy go zachować:** w rozdziale 26 zdanie występuje **wyłącznie w aparacie** (ten przypis i noty redakcyjne), a **w tekście głównym nie pada ani razu** — sprawdzone pomiarem. Przeniesienie go do tekstu głównego 26 stworzyłoby realny dublet z epilogiem i osłabiło finał książki.
+
 ³ G. Marcel, *Być i mieć* (1935) — rozróżnienie problemu i tajemnicy. **Lokalizacja: s. 170–171 wydania z 2001 r.** (zob. sprostowanie niżej — NIE jest to paginacja PAX 1986).
 
 **Brzmienie ustalone 2026-09-09** (za niezależnym opracowaniem, nie z egzemplarza — zob. zastrzeżenie niżej): „Problem jest czymś, co napotykam, co znajduje się w całości przede mną i co tym samym mogę określić i ograniczyć — podczas gdy tajemnica jest czymś, w czym ja sam jestem zaangażowany…"; dalej Marcel dodaje, że w tej strefie zanika rozróżnienie między tym, co „we mnie", a tym, co „przede mną", oraz że tajemnica z istoty przekracza wszelką technikę.

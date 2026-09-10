@@ -121,7 +121,13 @@ Otwiera natomiast pytanie następne — prostsze od tamtego, a bardziej wymagaj�
 
 **Formuła „mówi Bóg" celowo poza cudzysłowem.** Oryginał ma wtrącenie w środku zdania (*La foi que j'aime le mieux, **dit Dieu**, c'est l'espérance*), ale w brzmieniu Zaręby cytowanym przez opracowanie wtrącenia **nie ma** — jest samo „W wierze najbardziej miłuję nadzieję". Nie dopisuję go do cytatu, bo nie wiem, jak Zaręba je rozwiązał; to, że mówi Bóg, wynika z kontekstu poematu (monolog Boga otwierany przez Madame Gervaise) i można to podać w zdaniu wprowadzającym, **poza cudzysłowem**.
 
-**Pozostaje jedno `[?]`, drobne:** brzmienie znam z drugiej ręki (opracowanie, nie egzemplarz). Ryzyko oceniam jako **niskie** — cytat jest krótki, podany z dokładną stroną w recenzowanym tekście naukowym, a zdanie jest w literaturze o Péguym sztandarowe. **Przy korekcie warto zerknąć na s. 31 egzemplarza**, jeśli kiedyś wpadnie w ręce; do druku to wystarcza.
+✅ **`[?]` ZAWĘŻONE 2026-09-10 — DRUGIE NIEZALEŻNE POŚWIADCZENIE.** Brzmienie i strona potwierdzone po raz drugi, w innym recenzowanym tekście naukowym: N. Przybylska (Uniwersytet Szczeciński), art. w „Człowiek i Społeczeństwo" (`pressto.amu.edu.pl`), przypis 1: „Ch. Péguy, *Przedsionek tajemnicy drugiej cnoty*, tłum. L. Zaręba, Kraków 2007, **s. 31**" — przy zdaniu w brzmieniu **identycznym co do słowa**: „W wierze najbardziej miłuję nadzieję".
+
+**Stan: dwa niezależne opracowania naukowe podają tę samą stronę i to samo brzmienie.** Dodatkowo Przybylska potwierdza, że zdanie jest u Péguy'ego **włożone w usta Boga** („Péguy ośmiela się w ustach Boga umieścić stwierdzenie") — co uzasadnia zdanie wprowadzające poza cudzysłowem.
+
+⚠️ **Formalnie nadal cytowanie pośrednie** (nie z egzemplarza) i tak pozostaje oznaczone. Ryzyko: **bardzo niskie**. Do druku wystarcza; przy korekcie z egzemplarzem — s. 31.
+
+**Dane wydawnicze uzupełnione 2026-09-10** (kwerenda księgarska, zgodne w pięciu niezależnych źródłach): **Wydawnictwo Karmelitów Bosych, Kraków 2007, 240 s., ISBN 978-83-7305-248-2**; tytuł oryginału *Le Porche du mystère de la deuxième vertu*. To **pierwsze pełne wydanie polskie** tego poematu.
 
 **Znalezisko dodatkowe:** to samo wydanie (s. 40–43) jest cytowane w oficjalnym polskim tekście orędzia papieskiego — czyli przekład Zaręby ma status obiegowy, nie niszowy.
 

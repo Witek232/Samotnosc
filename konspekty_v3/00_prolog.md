@@ -80,3 +80,20 @@ Prolog nie deklaruje tezy, ale wbudowuje napięcie: najdłuższe doświadczenie 
 ## 11. Rytm i długość
 
 ~2,2–2,8 tys. słów; proporcja scena/wiedza ≈ 60/40; przypisy: dwa (wydanie, przedmowa). Bez tabel, bez wykazów — prolog ustala, że książka wie, jak być cicha.
+
+
+---
+
+## ⚠️ KOREKTY WNIESIONE PRZY PISANIU (2026-09-10)
+
+1. ⛔ **KONSPEKT OPIERA PROLOG NA ŹRÓDLE, KTÓREGO NIE MAMY.** §§ 4, 5, 6.3, 6.4 budują scenę i „bilans trzydziestu lat" na **przedmowie z 2000 r.** Egzemplarz w bibliotece projektu **jej nie zawiera** — to wydanie polskie ze wstępem **Andrzeja Zuberbiera** i **posłowiem autorskim z 1968**. Przedmowa z 2000 **nie została ani zacytowana, ani zreferowana**; scena przebudowana tak, by nie zależała od niedostępnego tekstu (sytuacja wznowienia jest prawdziwa i ogólna, bez przypisywania Ratzingerowi konkretnych myśli).
+
+2. ✅ **ZNALEZISKO ZASTĘPUJĄCE: historia o błaźnie i pożarze cyrku** (ok. s. 5–6), nieprzewidziana w konspekcie, a będąca **pierwszą stroną samej książki**. Lepsza od bilansu trzydziestu lat, bo: jest zweryfikowana u źródła; pokazuje bohatera **przez gest myślowy** (przyjmuje obraz, po czym stwierdza, że jest za wygodny) zamiast przez zasługi; i **uzasadnia regułę wzmacniania przeciwnika słowami samego Ratzingera** („nie jest bynajmniej kimś w przebraniu", „w obu grupach są obecne jednakie moce"). Łańcuch cytowania Kierkegaard → Cox → Ratzinger podany jawnie.
+
+3. **DATA DOPRECYZOWANA.** Konspekt: książka „napisana w 1968". Wydanie: **wykłady — semestr letni 1967 w Tybindze**, książka — **1968**, podpis „Tübingen, lato 1968". Obie daty podane poprawnie; tekst **nie sugeruje**, że wykłady wygłoszono „w roku rewolt".
+
+4. **Długość: 1115 słów** wobec celu 2,2–2,8 tys. Przyczyna konkretna: konspektowa proporcja scena/wiedza 60/40 zakładała, że „wiedza" to bilans z przedmowy 2000 — **materiał niedostępny**. Gdyby przedmowa się znalazła, miejsce na 600–800 słów jest w ruchu I. **Rekomendacja: nie dopisywać na siłę.**
+
+5. ✅ **KLAMRA Z EPILOGIEM SPRAWDZONA PUNKT PO PUNKCIE** — cztery elementy, do których odwołuje się scena epilogu (pokój i książka sprzed 30 lat; zakaz poprawiania poza przedmową; sprawdzenie, czy pytanie się nie wyczerpało; brzmienie pytania programowego) są w prologu obecne i zgodne. **Jedyna zależność „tekst napisany wiąże tekst nienapisany" w całej książce — ZAMKNIĘTA.**
+
+6. **Słowo „śledztwo"** — w tekście głównym **raz** (nagłówek ruchu IV zmieniony z „Zasada śledztwa" na „Trzy zasady", żeby nie dublować). Bilans: prolog 1 → epilog 1, nic pomiędzy ✔

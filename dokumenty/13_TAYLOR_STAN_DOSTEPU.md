@@ -103,7 +103,7 @@ Autor wskazał ścieżkę obejścia niedostępności *Źródeł podmiotowości*:
 | # | Pozycja | Dane wg autora | Po co nam |
 |---|---|---|---|
 | 1 | Opracowanie o *Źródłach podmiotowości* (jaźń, doświadczenie, **epifania**, sztuka, nowoczesna podmiotowość) | PDF dostępny online | ⭐ **rekomendowane przez autora jako pierwsze do przeczytania**; wątek **epifanii i sztuki** jest dla nas nowy — pokazuje, gdzie nowoczesny człowiek szuka „źródeł" ja po utracie porządku metafizycznego |
-| 2 | **T. Żuradzki**, recenzja *Źródeł podmiotowości* | *Principia* **34 (2003), s. 195–200**; repozytorium UJ | szybkie **wprowadzenie krytyczne**; ⭐ recenzje bywają najlepszym źródłem **cytatów ze stronami** |
+| 2 | **T. Żuradzki**, recenzja *Źródeł podmiotowości* | *Principia* **XXXIV (2003), s. 195–200**; RUJ | ✅✅ **POZYSKANA 2026-09-10 — patrz § 6** |
 | 3 | *Jednostka a wspólnota w filozofii Charles'a Taylora* | „Filozofia Chrześcijańska", UAM | ⭐⭐ **kierunek najważniejszy dla książki**: napięcie **jednostka ↔ wspólnota** → atomizacja → utrata relacji → kryzys tożsamości. **Materiał wprost dla części III** |
 | 4 | *Rozważania nad podmiotowością a niepełnosprawność* | wykorzystuje **wstęp A. Bielik-Robson do Taylora** | wartość poboczna: pokazuje recepcję Taylora **poza filozofią**; ⭐ **wstęp Bielik-Robson** to osobny trop |
 | 5 | *Tożsamość narracyjna jako warunek autentycznej podmiotowości prawnej* | Wyd. UŁ, **2023** | ⭐ **tożsamość narracyjna** — spina Taylora z MacIntyre'em (rozdz. 10); bibliografia odsyła do *Źródeł*, *Etyki autentyczności*, *Human Agency and Language*, *Nowoczesnych imaginariów społecznych*, *Samointerpretujących się zwierząt*, *A Secular Age* |
@@ -130,3 +130,34 @@ Autor wskazał ścieżkę obejścia niedostępności *Źródeł podmiotowości*:
 4. Poz. 1 i 5 — uzupełniająco.
 
 ⚠️ **Reguła bez zmian:** to, co pochodzi z opracowania, cytujemy **jako cytat pośredni, z podaniem obu adresów** („cyt. za…"). ⛔ Nie wolno podawać strony *Źródeł podmiotowości* tak, jakbyśmy widzieli tę stronę — dotyczy to również przypisu w rozdz. 6 (s. 667), gdzie ostrzeżenie już stoi.
+
+---
+
+## 6. ✅ POZYCJA 2 POZYSKANA (2026-09-10) — co z niej wynika
+
+**T. Żuradzki, [rec.] Charles Taylor, *Źródła podmiotowości. Narodziny tożsamości nowoczesnej*, „Principia" XXXIV (2003), s. 195–200.**
+Plik: `/home/user/zuradzki.pdf` + `.txt` (6 s., Repozytorium UJ, pobrane bez przeszkód). ⛔ **Do repo nie trafia** (`.gitignore`).
+
+**Decyzja autora: DODAĆ, ale tylko punkt 2 — wykonane.** Pozostałe pozycje z § 5 zostają zapisane jako trop, **niesprawdzone**.
+
+### 6a. Co recenzja daje — konkretnie
+
+1. ✅ **Pełne dane wydania polskiego:** *Źródła podmiotowości. Narodziny tożsamości nowoczesnej*, **przekład zbiorowy**, Wydawnictwo Naukowe PWN (Biblioteka Współczesnych Filozofów), Warszawa **2001**, **s. 996**.
+2. ⭐ **Trzy źródła nowoczesnej tożsamości** (referat Żuradzkiego z Taylora) — **potwierdzają genealogię z rozdz. 10**:
+   - **(1) wnętrze** — jesteśmy podmiotami o „wewnętrznej głębi", odkrywanej autorefleksją i rozumem, który potrafi zająć **punkt Archimedesowy** wobec świata i siebie;
+   - **(2) afirmacja zwyczajnego życia** (z próbą wyeliminowania hierarchii życia wyższego i niższego);
+   - **(3) ekspresywizm romantyczny** — człowiek **sam dla siebie źródłem moralnym**, któremu nikt nie może narzucać norm zewnętrznych.
+3. ✔ **Cytaty ze *Źródeł* ze stronami** (dostępne **pośrednio**, „cyt. za: Żuradzki"):
+   - **s. 12** — moralność obejmuje „trzy osie", w tym „podstawy naszej własnej godności, jak też pytania o to, co nadaje naszemu życiu sens i wypełnia je treścią";
+   - **s. 181** — artykulacja „może przybliżyć nas do dobra jako źródła moralnego, może nadać mu moc";
+   - **s. 937** — postromantyczny modernizm: „poszukiwanie źródeł moralności **poza** podmiotem poprzez języki, które znalazły rezonans **wewnątrz** podmiotu; dostrzeganie pewnego porządku nierozerwalnie związanego z wizją osobistą".
+4. ⭐⭐ **POLSKA PAGINACJA MacINTYRE'A — nieoczekiwany zysk:** Żuradzki odsyła przy „narracyjnym" rozumieniu życia do **A. MacIntyre, *Dziedzictwo cnoty*, Warszawa 1996, s. 337**. ✅ To **potwierdza rok i miejsce wydania**, które rozdz. 10 podawał z zastrzeżeniem, i daje **pierwszy punkt zaczepienia w polskim wydaniu**.
+5. **Materiał krytyczny** (przydatny, gdyby rozdz. 10 lub 15 miał pokazać słabości Taylora): Żuradzki zarzuca mu, że w kluczowym momencie „zamysł się rozmywa"; że artykulacja dobra pozostaje niejasna; że odrzuca epistemologię analityczną, niewiele dając w zamian. ⭐ **Dla nas ważniejsze jest co innego:** recenzent potwierdza, że Taylor **docenia zdobycze nowoczesności** (prawa człowieka, wolność, równość, prawa kobiet i mniejszości) — czyli **dokładnie to, na czym opiera się ruch III rozdz. 10**.
+6. **Kontekst komunitariański:** *Źródła* jako sprzeciw wobec formuły Rawlsa („ja jest pierwotne wobec celów, które są przez nie afirmowane" — *Teoria sprawiedliwości*, Warszawa 1994, s. 756); Taylor obok **MacIntyre'a i Sandela**. ⭐ **Materiał dla części III** (jednostka ↔ wspólnota).
+
+### 6b. Co z tym zrobiono i co zostaje
+
+- ✅ **Rozdz. 10 uzupełniony** (przyp. 3): wpisano pełne dane wydania, trzy źródła tożsamości, trzy cytaty ze stronami **jako pośrednie**, oraz paginację MacIntyre'a.
+- ⚠️ **Dług NIE jest jeszcze spłacony:** ruch III rozdz. 10 nadal **nie ma ani jednego cytatu ze *Źródeł*** w tekście głównym. ⭐ **Przy redakcji rozważyć wprowadzenie cytatu ze s. 12 lub 181** — oba są krótkie i pasują do genealogii.
+- ⛔ **Reguła bez zmian:** wszystko powyższe to **cytaty pośrednie**. Recenzję widziałem, *Źródeł* nie. **Nie wolno podawać tych stron tak, jakby egzemplarz był widziany.**
+- ⭐ **Priorytet niezmieniony:** pozycja **5a — *Samointerpretujące się zwierzęta*** (Warszawa 2001, s. 261–295) pozostaje **najważniejsza**, bo jest to **Taylor po polsku do cytowania wprost**, a nie przez recenzenta.

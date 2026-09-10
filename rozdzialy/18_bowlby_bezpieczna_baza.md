@@ -32,9 +32,11 @@ Ten rozdział jest o tym, jak się nazywa to, czego mu brakuje — i skąd wiemy
 
 John Bowlby, brytyjski psychiatra dziecięcy, poświęcił życie badaniu tego, co dzieje się między dzieckiem a jego opiekunem. W rozdziale drugim spotkaliśmy jego opis rozstania: protest, rozpacz, odcięcie. Tam chodziło o to, **co się psuje**. Teraz o to, **co ma być**.
 
-Pojęcie, które od niego przejęliśmy — i które uważam za jedno z najtrafniejszych w całej psychologii — brzmi: **bezpieczna baza**.¹
+Pojęcie, które od niego przejęliśmy — i które uważam za jedno z najtrafniejszych w całej psychologii — brzmi: **bezpieczna baza**.
 
-Obraz jest wojskowy i całkiem dosłowny. Baza to miejsce, z którego się wyrusza i do którego się wraca. Nie jest celem wyprawy; jest jej warunkiem. Nikt nie wyrusza po to, żeby siedzieć w bazie — ale nikt też nie wyrusza daleko, jeśli bazy nie ma.
+Sam Bowlby opisuje ją jako „**bezpieczną bazę, z której dziecko lub nastolatek może wypuszczać się w świat zewnętrzny**" — i dodaje, co jest w tym obrazie najważniejsze: żeby móc do niej wrócić, wiedząc z góry, że **zostanie przyjęty, nakarmiony, pocieszony i uspokojony**.¹
+
+Obraz jest wojskowy i całkiem dosłowny — słowo, którego Bowlby używa o wyprawach dziecka (*sorties*), oznacza wypad z oblężonej twierdzy. Baza to miejsce, z którego się wyrusza i do którego się wraca. Nie jest celem wyprawy; jest jej warunkiem. Nikt nie wyrusza po to, żeby siedzieć w bazie — ale nikt też nie wyrusza daleko, jeśli bazy nie ma.
 
 Zobaczmy, jak to wygląda u dziecka, bo tam widać rzecz w stanie czystym. Dziecko puszczone na plac zabaw nie trzyma się matki kurczowo — przeciwnie, oddala się, wspina, wchodzi między obcych. Ale co pewien czas **ogląda się**. Nie po pozwolenie i nie po pochwałę. Sprawdza, czy ona jest tam, gdzie była. Kiedy jest, dziecko odchodzi dalej. Kiedy jej nie ma, świat, który przed chwilą był placem zabaw, natychmiast staje się terenem zagrożenia.
 
@@ -42,11 +44,15 @@ I tu jest rzecz, którą warto zrozumieć dokładnie, bo cała reszta rozdziału
 
 To odwraca dość powszechne przekonanie, że im ktoś bardziej niezależny, tym mniej potrzebuje. Wygląda na to, że jest odwrotnie: **ludzie ryzykują dokładnie na tyle, na ile mają dokąd wrócić.**
 
+Bowlby przywiązywał do tego rozróżnienia dużą wagę i warto powtórzyć je jego terminami, bo usuwa nieporozumienie, które ciąży nad całą tą tematyką. **Przywiązanie to nie jest to samo co zależność.** Zachowanie przywiązaniowe definiuje on jako dążenie do bliskości kogoś, kogo postrzega się jako **lepiej radzącego sobie ze światem**, a jego funkcję biologiczną widzi w **ochronie**: chodzi o to, żeby pozostawać w zasięgu kogoś, kto może przyjść z pomocą, gdy zrobi się niebezpiecznie.²
+
+Zauważmy, że tak opisane przywiązanie nie ma w sobie nic z niedojrzałości. Dorosły człowiek, który wie, do kogo zadzwonić w razie wypadku, nie jest przez to mniej samodzielny — jest **lepiej zabezpieczony**, a więc może pozwolić sobie na więcej. Zależność infantylna polega na tym, że ktoś **nie może** działać sam. Przywiązanie polega na tym, że ktoś **ma dokąd wrócić**, gdy działanie się nie powiedzie. To są dwie różne rzeczy i mylenie ich kosztuje nas sporo — o czym za chwilę.
+
 ---
 
 ## II. Czego naprawdę szuka dziecko w pokoju badawczym
 
-Wiemy o tym nie z rozważań, lecz z prostego i pomysłowego eksperymentu, który zbudowała współpracownica Bowlby'ego, Mary Ainsworth. Nazywa się **„nieznana sytuacja"** i wygląda tak: dziecko z matką w nieznanym pokoju z zabawkami, potem wchodzi ktoś obcy, potem matka na krótko wychodzi, potem wraca.²
+Wiemy o tym nie z rozważań, lecz z prostego i pomysłowego eksperymentu, który zbudowała współpracownica Bowlby'ego, Mary Ainsworth. Nazywa się **„nieznana sytuacja"** i wygląda tak: dziecko z matką w nieznanym pokoju z zabawkami, potem wchodzi ktoś obcy, potem matka na krótko wychodzi, potem wraca.³
 
 Uwaga badaczy skupiła się na czymś, czego można by nie zauważyć. **Najważniejsze nie jest to, jak dziecko reaguje na rozstanie. Najważniejsze jest to, jak reaguje na powrót.**
 
@@ -68,7 +74,7 @@ Po drugie, i ważniejsze: ⚠️ opisuję tę tradycję **z drugiej ręki**, bo 
 
 ## III. To samo, tylko z lepszym słownictwem
 
-Można by pomyśleć, że to wszystko dotyczy dzieci i że dorosły człowiek dawno z tego wyrósł. Otóż od lat osiemdziesiątych psychologia opisuje więzi dorosłych tymi samymi kategoriami — i, co ciekawsze, z niezłym skutkiem.³
+Można by pomyśleć, że to wszystko dotyczy dzieci i że dorosły człowiek dawno z tego wyrósł. Otóż od lat osiemdziesiątych psychologia opisuje więzi dorosłych tymi samymi kategoriami — i, co ciekawsze, z niezłym skutkiem.⁴
 
 Nie chcę tego rozwijać w wykład, bo rozdział nie jest o typologii. Wystarczy jedna obserwacja, którą każdy może sprawdzić na sobie.
 
@@ -80,7 +86,27 @@ Chcę to postawić ostrożnie, bo tu łatwo o krzywdzącą diagnozę stawianą l
 
 ---
 
-## IV. Rozróżnienie, dla którego napisałem ten rozdział
+## IV. Żeby wejść w siebie, trzeba mieć kogoś obok
+
+Zanim przejdziemy do rzeczy najważniejszej, trzeba odnotować rozszerzenie, które Bowlby zrobił pod koniec życia i które dla tej książki znaczy więcej niż cała reszta jego teorii.
+
+Przeniósł mianowicie pojęcie bezpiecznej bazy z relacji rodzic–dziecko na **relację terapeutyczną**. Zadaniem terapeuty — pisze — jest być dla pacjenta bazą, z której ten może wyruszać w **eksplorację samego siebie**: przyglądać się tym obszarom własnego życia, bolesnym i nieszczęśliwym, których bez obecności kogoś zaufanego **nie jest w stanie przemyśleć**.⁵
+
+Proszę zwrócić uwagę, co tu zostało powiedziane, bo brzmi to niepozornie, a jest zdumiewające.
+
+Bazy nie potrzebujemy tylko po to, żeby wyjść **na zewnątrz**. Potrzebujemy jej także po to, żeby wejść **do wewnątrz**.
+
+Wydawałoby się przecież, że własne wnętrze to jedyne miejsce, do którego człowiek ma dostęp zawsze i bez niczyjej pomocy. Nikt mi nie jest potrzebny, żebym pomyślał o sobie — myślę o sobie nieustannie, także w tej chwili. A jednak Bowlby twierdzi, i praktyka terapeutyczna zdaje się to potwierdzać, że **pewnych rzeczy o sobie człowiek nie potrafi pomyśleć w pojedynkę**. Nie dlatego, że są zbyt trudne intelektualnie. Dlatego, że są zbyt groźne, żeby się z nimi zostać samemu.
+
+Każdy to zna w wersji łagodnej: myśl, która o trzeciej nad ranem jest nie do zniesienia, a wypowiedziana przy stole następnego dnia okazuje się do wytrzymania. Nie zmieniła się jej treść. Zmieniło się to, że **ktoś jej wysłuchał i nie odszedł**.
+
+I tu ta książka może wreszcie coś domknąć. W rozdziale dziewiątym Garcin u Sartre'a potrzebował kogoś, kto zna prawdę o nim i mimo to nie potępia. W czternastym człowiek szukał twarzy, która potwierdzi, że istnieje. Teraz okazuje się, że stawka jest jeszcze wyższa, niż się wydawało: bez kogoś takiego człowiek nie tylko czuje się gorzej — **on nie ma dostępu do części samego siebie**. Samotność nie jest więc wyłącznie brakiem towarzystwa. Bywa **zamknięciem człowieka przed nim samym**.
+
+Wynika stąd rzecz dla samopoznania kłopotliwa. Cała nowoczesna droga „w głąb siebie", którą prześledziliśmy od Augustyna przez Kartezjusza po dzisiejszy przemysł rozwoju osobistego (rozdz. 4, 6, 13), zakłada, że jest to droga, którą przechodzi się **samotnie** — że wystarczy odosobnienie i szczerość wobec siebie. Bowlby, człowiek świecki i empiryk, mówi coś przeciwnego: **na tę wyprawę też potrzebna jest baza**. W pojedynkę można obejść siebie dookoła, ale nie wejdzie się w miejsca, które bolą.
+
+---
+
+## V. Rozróżnienie, dla którego napisałem ten rozdział
 
 Dochodzimy do rzeczy najważniejszej i pozornie drobnej. Chodzi o różnicę między dwoma zdaniami, które w potocznym użyciu mylą się ze sobą, a które są odpowiedziami na dwa zupełnie różne pytania.
 
@@ -104,7 +130,7 @@ Warto to przemyśleć praktycznie, bo z tego rozdziału wynika jedna rada — je
 
 ---
 
-## V. Pytanie, którego nie chcę zamykać
+## VI. Pytanie, którego nie chcę zamykać
 
 I tu dochodzimy do miejsca, w którym ta książka musi coś powiedzieć wprost, a jednocześnie nie może powiedzieć za dużo.
 
@@ -114,7 +140,7 @@ Nie mówię o tym, kto jej nie zauważa. Mówię o sytuacjach, których nie da s
 
 Chrześcijaństwo twierdzi w tym miejscu coś bardzo konkretnego i chcę to przytoczyć w postaci, w jakiej zostało napisane — nie jako argument, lecz jako **stanowisko, które w tej sprawie istnieje**:
 
-> „Jeśli nikt mnie już więcej nie słucha, Bóg mnie jeszcze słucha. Jeśli już nie mogę z nikim rozmawiać, nikogo wzywać, zawsze mogę mówić do Boga. (…) Gdy jestem skazany na całkowitą samotność… ale modlący się nigdy nie jest całkowicie samotny."⁴
+> „Jeśli nikt mnie już więcej nie słucha, Bóg mnie jeszcze słucha. Jeśli już nie mogę z nikim rozmawiać, nikogo wzywać, zawsze mogę mówić do Boga. (…) Gdy jestem skazany na całkowitą samotność… ale modlący się nigdy nie jest całkowicie samotny."⁶
 
 Trzeba tu uczciwie zaznaczyć trzy rzeczy, bo bez nich ten cytat byłby nadużyciem.
 
@@ -124,7 +150,7 @@ Trzeba tu uczciwie zaznaczyć trzy rzeczy, bo bez nich ten cytat byłby nadużyc
 
 **Po trzecie**, i to jest jedyne, co chcę tu zapisać po stronie mocnych stron tego stanowiska: warto zauważyć, że przytoczone zdanie **ma dokładnie kształt bazy, a nie obietnicy wyniku**. Nie mówi „będzie dobrze". Nie mówi „modlitwa rozwiąże twoją sprawę". Mówi: **jest ktoś, kto słucha, gdy nie słucha już nikt**. To jest struktura „jestem tu", a nie „wszystko się ułoży" — i to jest, przyznajmy, dziwne jak na religię oskarżaną zwykle o obiecywanie pociechy.
 
-Autor tych słów opisuje zresztą przy nich konkretny przypadek, nie teorię: wietnamskiego duchownego, który spędził w więzieniu trzynaście lat, z czego dziewięć w izolacji.⁵ Nie przywołuję tego jako dowodu — jeden przypadek niczego nie dowodzi. Przywołuję, bo pokazuje, że mowa o sytuacji granicznej, a nie o pocieszaniu ludzi, którym doskwiera nudny wtorek.
+Autor tych słów opisuje zresztą przy nich konkretny przypadek, nie teorię: wietnamskiego duchownego, który spędził w więzieniu trzynaście lat, z czego dziewięć w izolacji.⁷ Nie przywołuję tego jako dowodu — jeden przypadek niczego nie dowodzi. Przywołuję, bo pokazuje, że mowa o sytuacji granicznej, a nie o pocieszaniu ludzi, którym doskwiera nudny wtorek.
 
 Zostawiam tę sprawę otwartą. Część szósta tej książki wraca do niej i wtedy trzeba będzie rozstrzygać. Tutaj wystarczy odnotować, że **pytanie o ostateczną bazę stawia sama struktura opisana przez psychologię** — i że nie postawił go teolog, tylko badacz dzieci na placu zabaw.
 
@@ -158,28 +184,42 @@ Następny rozdział należy do człowieka, który postawił to drugie pytanie w 
 
 ## PRZYPISY
 
-¹ **J. Bowlby, *Attachment and Loss*, t. 1: *Attachment*, Hogarth Press, London 1969; t. 2: *Separation: Anxiety and Anger*, 1973** (wyd. pol.: *Przywiązanie*, przeł. M. Polaszewska-Nicke, PWN, Warszawa 2007; *Separacja*, ⚠️ **dane wydania polskiego niepotwierdzone**). Pojęcie **bezpiecznej bazy** (*secure base*) rozwinięte szerzej w: tegoż, *A Secure Base*, Routledge, London 1988.
-⛔ **BEZ CYTATU — REFERAT.** ⚠️ **Żadnej z tych książek nie mam w wydaniu**; w Internet Archive brak dostępnych tekstów (jedyne trafienie to nagranie audio). Referowane: baza jako **warunek eksploracji**, nie jej przeciwieństwo; dostępność figury przywiązania jako czynnik ważniejszy od samego faktu rozstań.
-⚠️ **Zastrzeżenie powtórzone w tekście głównym** (ruch II), nie tylko tutaj — bo rozdział opiera się na tej tradycji w całości. ⭐ To ta sama zasada, co w rozdz. 13 i 14 wobec Lascha.
-⚠️ **Obraz placu zabaw i oglądania się za matką** jest **standardowym przykładem podręcznikowym**, nie moim wynalazkiem, ale też **nie cytatem** z konkretnej strony. ⚠️ Przy redakcji: gdyby udało się zdobyć *A Secure Base*, wprowadzić jeden cytat — dziś rozdział nie ma ani jednego zdania Bowlby'ego w cudzysłowie.
-⚠️ Konspekt § 6 proponował „roboczą parafrazę" jako cytat Bowlby'ego — ⛔ **odrzucona**, to nie jest jego zdanie.
+¹ **J. Bowlby, *A Secure Base: Parent-Child Attachment and Healthy Human Development*, Basic Books, New York 1988, s. 205; cytowany fragment — s. 11.** Przekład własny z angielskiego.
+✔ **LOKALIZACJA USTALONA 2026-09-10 (wskazanie autora, podgląd Google Books wydania Basic Books 1988).** Oryginał: „a secure base from which a child or an adolescent can make sorties into the outside world…" — i dalej o powrocie z pewnością, że zostanie się **przyjętym, nakarmionym, pocieszonym i uspokojonym**.
+⚠️ **CYTAT Z PODGLĄDU, NIE Z PEŁNEGO EGZEMPLARZA.** Widziałem stronę w ograniczonym podglądzie, nie całą książkę. ⭐ Cytuję **krótki, dobrze zlokalizowany urywek** — to jest uczciwe; ⛔ **nie rozszerzać cytatu poza to, co widoczne**, i ⛔ nie cytować z tej książki niczego, czego lokalizacji nie potwierdzono.
+⚠️ **Słowo *sorties*** (dosł. wypady, wycieczki; wojskowo: wypad z oblężonej twierdzy) — komentarz o wojskowym rodowodzie obrazu jest **mój**; ⛔ nie przypisywać go Bowlby'emu.
+⚠️ Wcześniejsze prace tej samej linii: *Attachment and Loss*, t. 1: *Attachment*, Hogarth Press, London 1969; t. 2: *Separation*, 1973 (wyd. pol.: *Przywiązanie*, przeł. M. Polaszewska-Nicke, PWN, Warszawa 2007; ⚠️ dane *Separacji* niepotwierdzone) — ⛔ **tych nie mam i nie cytuję**.
+⚠️ **Obraz placu zabaw** jest standardowym przykładem podręcznikowym — **nie cytatem** z konkretnej strony.
+⚠️ Konspekt § 6 proponował „roboczą parafrazę" jako cytat Bowlby'ego — ⛔ **odrzucona**, to nie było jego zdanie; ✅ zastąpiona cytatem rzeczywistym.
 
-² **M. D. S. Ainsworth i in., *Patterns of Attachment: A Psychological Study of the Strange Situation*, Lawrence Erlbaum, Hillsdale 1978.**
+² **Tamże, s. 26–27.** ✔ **Lokalizacja ustalona 2026-09-10 (wskazanie autora).**
+Referowane: **zachowanie przywiązaniowe** jako dążenie do osiągnięcia lub utrzymania bliskości kogoś postrzeganego jako **lepiej zdolny do radzenia sobie ze światem** (s. 26); jego **funkcja biologiczna: ochrona** — pozostawanie w zasięgu kogoś, kto może przyjść z pomocą w razie zagrożenia (s. 27).
+⛔ **Referat, bez cudzysłowu** — brzmień z tych stron nie widziałem, mam tylko treść ustaleń. ⚠️ **Przy redakcji sprawdzić brzmienia**, jeśli będzie dostęp.
+⭐⭐ **Dlaczego to ważne: *attachment* ≠ infantylna zależność.** To rozróżnienie usuwa najczęstsze nieporozumienie wokół całej teorii. ⭐ Rozwinięcie w tekście głównym („zależność infantylna polega na tym, że ktoś **nie może** działać sam; przywiązanie — że **ma dokąd wrócić**, gdy działanie się nie powiedzie") jest **moje**.
+⭐ **Zestawienie z Laschem (rozdz. 13–14) narzuca się i jest odnotowane w notach** — u Lascha pozorna niezależność prowadzi do **głębszej** zależności; u Bowlby'ego rzetelna więź prowadzi do **większej autonomii**. ⚠️ W tekście głównym tego zestawienia **nie rozwijam** (byłby to osobny ruch); ⭐ **materiał dla rozdz. 44 lub redakcji**.
+
+³ **M. D. S. Ainsworth i in., *Patterns of Attachment: A Psychological Study of the Strange Situation*, Lawrence Erlbaum, Hillsdale 1978.**
 ⛔ **BEZ CYTATU — REFERAT z omówień.** Procedura **„nieznanej sytuacji"** (*strange situation*) i ustalenie, że diagnostyczna jest **reakcja na powrót**, nie na rozstanie, są w literaturze przedmiotu podawane zgodnie; ⚠️ **egzemplarza nie mam**.
 ⚠️ **Style przywiązania** (bezpieczny, unikający, lękowo-ambiwalentny; później dodano zdezorganizowany) — ⚠️ **w tekście głównym wymieniam tylko trzy pierwsze i wprost zastrzegam, że to „wzorce, nie wyroki"**. ⛔ Nie rozbudowywać typologii — konspekt § 4 wyraźnie ogranicza Ainsworth do tła.
 ⚠️ **Uproszczenie świadome:** mówię „matka", bo tak zbudowane były klasyczne badania; ⚠️ **przy redakcji rozważyć dopisek**, że chodzi o **figurę przywiązania**, którą może być ojciec lub inny stały opiekun.
 
-³ **C. Hazan, P. Shaver, *Romantic Love Conceptualized as an Attachment Process*, „Journal of Personality and Social Psychology" 52 (1987), nr 3, s. 511–524.**
+⁴ **C. Hazan, P. Shaver, *Romantic Love Conceptualized as an Attachment Process*, „Journal of Personality and Social Psychology" 52 (1987), nr 3, s. 511–524.**
 ⛔ **BEZ CYTATU — REFERAT.** ⚠️ Artykułu nie czytałem w oryginale; przywołuję **wyłącznie tezę ogólną**, że kategorie teorii przywiązania stosuje się do więzi dorosłych. ⛔ **Żadnych liczb, żadnych odsetek** — w tekście głównym nie pada ani jedna wartość liczbowa z tej literatury.
 ⭐ **Trójpodział zachowań dorosłego** („idzie do kogoś / nie idzie i cierpi / nie idzie, choć ma do kogo") jest **mój** — nie jest to typologia Hazan i Shavera. ⛔ Nie przypisywać im go.
 ⚠️ **Zabezpieczenie w tekście głównym, ⛔ nie usuwać:** „nie twierdzę, że każda powściągliwość jest raną; bywa po prostu przyzwoitością". Bez tego zdania fragment stawia czytelnikowi diagnozę zza biurka.
 
-⁴ **Benedykt XVI, *Spe salvi* (30 XI 2007), § 32.**
+⁵ **J. Bowlby, *A Secure Base*, dz. cyt., s. 138** (rozdz. „Attachment, communication and the therapeutic process", s. 137 nn.). ✔ **Lokalizacja ustalona 2026-09-10 (wskazanie autora).**
+Referowane: zadaniem terapeuty jest **być bezpieczną bazą**, z której pacjent może eksplorować bolesne i nieszczęśliwe obszary własnego życia — których **bez obecności zaufanej osoby nie jest w stanie należycie przemyśleć**.
+⛔ **Referat, bez cudzysłowu** — brzmienia strony nie widziałem. ⚠️ **Przy redakcji sprawdzić i rozważyć cytat dosłowny** — to jest **najważniejsze zdanie Bowlby'ego dla tej książki** i zasługuje na cudzysłów.
+⭐⭐ **NAJWAŻNIEJSZE ROZSZERZENIE ROZDZIAŁU: bazy potrzeba nie tylko po to, żeby wyjść NA ZEWNĄTRZ, lecz także żeby wejść DO WEWNĄTRZ.** Wniosek wyprowadzony w tekście głównym — **„samotność bywa zamknięciem człowieka przed nim samym"** — jest **mój**; ⛔ nie przypisywać go Bowlby'emu, on mówi o sytuacji terapeutycznej, nie o samotności w ogóle.
+⭐ Uwaga o nowoczesnej drodze „w głąb siebie" przechodzonej rzekomo samotnie (odesłanie do rozdz. 4, 6, 13) — **moja**.
+
+⁶ **Benedykt XVI, *Spe salvi* (30 XI 2007), § 32.**
 ✔✔ **ZWERYFIKOWANE Z AUTOPSJI** — tekst polski, `vatican.va`, plik roboczy `/home/user/spe.txt`. **Cytat blokowy, dosłowny**, z jednym opuszczeniem zaznaczonym wielokropkiem: pominięto zdanie „Jeśli nie ma już nikogo, kto mógłby mi pomóc – tam, gdzie chodzi o potrzebę albo oczekiwanie, które przerastają ludzkie możliwości trwania w nadziei – On może mi pomóc".
 ⚠️ **Kontekst, który trzeba znać:** paragraf otwiera część encykliki o **„miejscach uczenia się nadziei"** i jego tematem jest **modlitwa jako szkoła nadziei**. ⚠️ W tekście głównym **nie rozwijam wątku modlitwy** — użyłbym wtedy tego fragmentu do czegoś innego, niż mówi. ⭐ Cytuję go wyłącznie dla **struktury**: „jest ktoś, kto słucha, gdy nie słucha już nikt".
 ⚠️ **Konspekt § 5 zapowiadał ten cytat jako materiał rozdz. 26** — ⚠️ **użyty tutaj**; przy pisaniu 26 sprawdzić, żeby się nie powtórzył, albo użyć tam dalszego ciągu § 32–34 (Augustyn i „naczynie z octem", ⭐ obraz nietknięty).
 
-⁵ **Tamże, § 32.** ✔ Z autopsji. Mowa o **kard. Nguyễn Văn Thuậnie** i jego książce *Modlitwy nadziei*; encyklika podaje: 13 lat więzienia, w tym **9 w izolacji**.
+⁷ **Tamże, § 32.** ✔ Z autopsji. Mowa o **kard. Nguyễn Văn Thuậnie** i jego książce *Modlitwy nadziei*; encyklika podaje: 13 lat więzienia, w tym **9 w izolacji**.
 ⚠️ **W tekście głównym nie podaję nazwiska** — scena go nie potrzebuje, a wprowadzenie postaci wymagałoby akapitu biograficznego. ⚠️ **Przy redakcji rozważyć dopisanie nazwiska**; ⛔ nie rozbudowywać w opowieść (⭐ materiał raczej dla części V lub rozdz. 26).
 ⚠️ **Zastrzeżenie postawione w tekście wprost:** „jeden przypadek niczego nie dowodzi". ⛔ Nie usuwać.
 
@@ -194,7 +234,7 @@ Następny rozdział należy do człowieka, który postawił to drugie pytanie w 
 
 ## Noty redakcyjne (poza tekstem książki)
 
-- ⚠️⚠️ **STAN ŹRÓDEŁ SŁABY — drugi taki rozdział po 14.** ⛔ **Bowlby i Ainsworth niedostępni** (w Internet Archive tylko audiobook *A Secure Base*), Hazan i Shaver nieczytani. **Ani jednego zdania Bowlby'ego w cudzysłowie.** ✅ Konsekwencja wyciągnięta jak w rozdz. 14: **zastrzeżenie postawione w TEKŚCIE GŁÓWNYM** (ruch II), nie schowane w przypisie. ⭐ **Jedyny cytat blokowy rozdziału pochodzi z *Spe salvi* § 32 — ✔✔ z autopsji.** ⚠️ **Główny dług: *A Secure Base* (1988) — wystarczyłby jeden akapit o bazie.**
+- ⚠️ **STAN ŹRÓDEŁ — ZNACZNIE POPRAWIONY 2026-09-10.** Pierwsza wersja rozdziału nie miała **ani jednego zdania Bowlby'ego w cudzysłowie** (jak rozdz. 14 wobec Lascha). ✅✅ **Wskazania autora to zmieniły:** cytat z **s. 11** oraz referaty ze **s. 26–27** i **138**, wszystkie z podanymi stronami. ⚠️ Ograniczenie: **podgląd Google Books, nie pełny egzemplarz** — ⛔ nie rozszerzać cytatów. ⚠️ Nadal z drugiej ręki: **Ainsworth** oraz **Hazan & Shaver**. ✅ Zastrzeżenie o referowaniu pozostaje **w tekście głównym** (ruch II), nie w przypisie. ⭐ Cytat blokowy rozdziału: *Spe salvi* § 32, ✔✔ z autopsji.
 - ⭐⭐ **OŚ ROZDZIAŁU (ruch IV) — rozróżnienie „WSZYSTKO BĘDZIE DOBRZE" vs „JESTEM TU".** ⭐ Kluczowa obserwacja: to różnica **rodzaju, nie stopnia** — jedno mówi o **przyszłości**, drugie o **obecności**; ⭐ **pierwsze można obiecać fałszywie i zwykle się to robi; drugiego nie da się obiecać fałszywie w chwili wypowiadania, bo sprawdza się natychmiast**. ⭐ Formuła: **„Nie potrzebuję obietnicy, że nic złego mnie nie spotka. Potrzebuję pewności, że kiedy coś złego mnie spotka, ktoś będzie."** ⭐ Praktyczny wniosek — **jedyna rada w rozdziale**: „**zdanie »jestem tu« nie wymaga kompetencji**". ⛔ Nie skracać.
 - ⭐ **DŁUG Z ROZDZ. 13 SPŁACONY.** Tam echo Bowlby'ego („wszystko będzie dobrze" ≠ „jestem tu") było **świadomie niewypowiedziane** i zachowane na ten rozdział — ✅ wykonane w ruchu IV, z jawnym odesłaniem do przemysłu dobrego samopoczucia z 13.
 - ⭐ **Ruch I odwraca potoczne przekonanie:** bezpieczna baza **nie jest przeciwieństwem samodzielności, lecz jej warunkiem** („dziecko, które ma pewność, że matka jest, odchodzi dalej"). ⭐ Formuła: **„ludzie ryzykują dokładnie na tyle, na ile mają dokąd wrócić"**. ⚠️ To jest też cicha odpowiedź na kulturę z części III, która samowystarczalność uważa za dowód dojrzałości.
@@ -213,13 +253,15 @@ Następny rozdział należy do człowieka, który postawił to drugie pytanie w 
 
 | Źródło | Status | Uwaga |
 |---|---|---|
-| Bowlby, *Attachment and Loss* / *A Secure Base* | ⛔ **niedostępny** (w IA tylko audiobook) | referat; **zero cytatów**; ⚠️ zastrzeżenie w tekście głównym; **główny dług** |
+| Bowlby, *A Secure Base*, Basic Books 1988 | ⭐⭐ **lokalizacje ustalone** (wskazanie autora, podgląd Google Books): **s. 11** cytat, **s. 26–27** i **s. 138** referat | ⚠️ **podgląd, nie egzemplarz** — ⛔ nie rozszerzać cytatów; ⭐ s. 138 = najmocniejszy fragment |
 | Ainsworth, *Patterns of Attachment* | ⛔ **niedostępna** | „nieznana sytuacja" z omówień; ⚠️ style jako **wzorce, nie wyroki** |
 | Hazan & Shaver 1987 | ⛔ **nieczytany** | tylko teza ogólna; ⛔ zero liczb |
 | *Spe salvi* § 32 | ✔✔ **z autopsji** (`vatican.va`) | **jedyny cytat blokowy**; ⚠️ kontekst = modlitwa, wątek nierozwijany |
 
-**Bilans: aparat słaby po stronie psychologii (trzy pozycje referowane, zero cytatów) i mocny po stronie jedynego cytatu, który w rozdziale pada. Rozdział tego nie ukrywa — zastrzeżenie stoi w tekście głównym. Wartość leży w rozróżnieniu „będzie dobrze" / „jestem tu" oraz w tym, że pytanie o ostateczną bazę wypływa z samej psychologii, a nie zostaje doklejone. Główny dług: *A Secure Base* (1988).**
+**Bilans: po uzupełnieniu z 2026-09-10 aparat jest przyzwoity — Bowlby ma własny cytat i trzy lokalizacje stron, Ratzinger cytat blokowy z autopsji. Słabe pozostają Ainsworth oraz Hazan & Shaver (referat z omówień). Wartość rozdziału: rozróżnienie „będzie dobrze" / „jestem tu", teza s. 138 (żeby wejść w siebie, trzeba mieć kogoś obok) oraz to, że pytanie o ostateczną bazę wypływa z samej psychologii, a nie zostaje doklejone. Główny dług: pełny egzemplarz *A Secure Base* oraz *Patterns of Attachment* Ainsworth.**
 
 ### Pozyskane
 
-- Nic nowego. ⛔ Próby: Bowlby i Ainsworth — brak tekstów w Internet Archive (jedyne trafienie: nagranie audio *A Secure Base*).
+- ⭐ **Lokalizacje w *A Secure Base* (Basic Books, New York 1988, 205 s.) — od autora, z podglądu Google Books.** Spis treści, przydatny przy dalszych poszukiwaniach: „The origins of attachment theory" **s. 20** · „Psychoanalysis as art and science" **39** · „Psychoanalysis as a natural science" **58** · „Violence in the family" **77** · ⭐⭐ „On knowing what you are not supposed to know" **99** (⚠️ **tytuł bardzo obiecujący — sprawdzić pod rozdz. 22 i część V**) · „The role of attachment in personality development" **119** · „Attachment, communication and the therapeutic process" **137**.
+- ⚠️ Autor wspomniał o krążącym w sieci pełnym tekście wydania 1988 — ⛔ **do przypisów wyłącznie dane wydania Basic Books**; taki materiał traktować jedynie jako pomoc w **lokalizowaniu** miejsc.
+- ⛔ Próby własne: Bowlby i Ainsworth — brak tekstów w Internet Archive (jedyne trafienie: nagranie audio).

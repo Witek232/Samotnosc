@@ -86,7 +86,65 @@ Nygren **zastrzega na s. 210**, że chodzi mu o „**a difference in type, not a
 
 ---
 
-## 3. Inne długi tej części — gdyby Pan trafił przypadkiem
+## 2b. ⭐ BOWLBY — ZAŁATWIONY PRZEZ AUTORA (2026-09-10)
+
+Autor wskazał lokalizacje w **J. Bowlby, *A Secure Base: Parent-Child Attachment and Healthy Human Development*, Basic Books, New York 1988** (205 s.), przez podgląd Google Books:
+
+| Strona | Co tam jest | Użyte w |
+|---|---|---|
+| **11** | ⭐ **cytat**: „a secure base from which a child or an adolescent can make sorties into the outside world…" + powrót z pewnością, że zostanie **przyjęty, nakarmiony, pocieszony i uspokojony** | rozdz. 18, ruch I — **jedyny cytat Bowlby'ego w książce** |
+| **26–27** | zachowanie przywiązaniowe = bliskość kogoś **lepiej radzącego sobie ze światem** (26); funkcja biologiczna = **ochrona** (27) | rozdz. 18 — ⭐ **przywiązanie ≠ infantylna zależność** |
+| **138** | ⭐⭐ baza przeniesiona na **relację terapeutyczną**: pacjent eksploruje bolesne obszary siebie, których **bez zaufanej osoby nie potrafi przemyśleć** | rozdz. 18, **cały ruch IV** — najmocniejszy fragment |
+
+⚠️ **Wszystko z PODGLĄDU, nie z egzemplarza** — ⛔ nie rozszerzać cytatów poza potwierdzone brzmienia.
+
+### ⭐⭐ Trop od autora — do wykorzystania później, ⛔ nie tutaj
+
+Autor wskazał linię argumentacyjną, która sama się układa:
+
+- **Buber** — Ja staje się Ja w relacji z Ty;
+- **Bowlby** — rozwój autonomicznego Ja **wymaga** bezpiecznej więzi;
+- **Sartre** — relacja z Innym może stać się **zagrożeniem** dla Ja;
+- **Lasch** — pozorna niezależność prowadzi do **głębszej** zależności psychologicznej.
+
+⭐ Zestawienie **Bowlby ↔ Lasch** jest szczególnie mocne: u jednego rzetelna więź daje **większą autonomię**, u drugiego pozorna samowystarczalność daje **większą zależność**. ⚠️ **Świadomie NIEROZWINIĘTE w rozdz. 18** (byłby to osobny ruch, a rozdział już przekroczył cel o ~420 słów). ⭐ **Miejsce docelowe: rozdz. 44 oraz część VI.** Mam Bubera (`buber.pdf`) i Sartre'a (`sartre_bn.txt`), brakuje tylko Lascha.
+
+⭐ **Trop uboczny:** w spisie treści *A Secure Base* jest rozdział **„On knowing what you are not supposed to know", s. 99** — ⚠️ tytuł bardzo obiecujący dla **rozdz. 22** (samotność we dwoje) i części V; **sprawdzić, gdyby był dostęp**.
+
+---
+
+## 2c. ⚠️ NOWE DŁUGI Z ROZDZ. 19 (Frankl) — NAJPILNIEJSZE W CAŁEJ KSIĄŻCE
+
+⚠️⚠️ **Rozdział 19 jest źródłowo najsłabszy w książce: ZERO cytatów, zero stron, wszystko z omówień.** Obie potrzebne pozycje są tanie i powszechne.
+
+### (1) ⭐⭐ Viktor Frankl, *Człowiek w poszukiwaniu sensu* — PRIORYTET
+
+| | |
+|---|---|
+| **Wydanie polskie** | przeł. A. Wolnicka, **Czarna Owca**, Warszawa (⚠️ **rok do sprawdzenia** — konspekt podaje 2010, spotykałem też 2009) |
+| **Oryginał** | *…trotzdem Ja zum Leben sagen* (1946); ang. *Man's Search for Meaning* |
+| **Gdzie** | ⭐ jedna z najczęściej wznawianych książek w Polsce — **każda biblioteka publiczna**, wznowienia co roku |
+
+**Potrzebne dokładnie trzy miejsca (część I to relacja obozowa, część II to wykład logoterapii):**
+
+1. ⭐⭐ **SCENA CHODNIKA** (część I) — marsz przed świtem, myśl o żonie, i zdanie o miłości jako **„ostatecznym i najwyższym celu, do jakiego człowiek może dążyć"** oraz o zbawieniu człowieka „przez miłość i w miłości". **To jest najważniejszy cytat rozdziału** — dziś podany bez cudzysłowu.
+2. **TRZY DROGI SENSU** (część II) — dzieło · spotkanie/miłość · **postawa wobec nieuniknionego cierpienia**; oraz teza, że sensu się **nie nadaje, lecz znajduje**.
+3. ⭐ **Zdanie „najlepsi nie wrócili"** (część I, zwykle blisko zakończenia relacji) — **konieczne**, bo blokuje fałszywe odczytanie „kto miał sens, ten przeżył". Potrzebne dokładne brzmienie i strona.
+
+⭐ Przydatne też: potwierdzenie, że **Frankl wielokrotnie przywołuje aforyzm Nietzschego** — i przy której stronie.
+
+### (2) Friedrich Nietzsche, *Zmierzch bożyszcz*, „Sentencje i strzały" **12**
+
+⚠️⚠️ **UWAGA — konspekt mylił lokalizację.** Podawał *Wiedza radosna* § 12; **sprawdziłem w posiadanych plikach: tam tego nie ma.** Poprawnie: ***Zmierzch bożyszcz*** (*Götzen-Dämmerung*, 1888), zbiór otwierający **„Sentencje i strzały"** (*Sprüche und Pfeile*), aforyzm **12**.
+
+> Oryginał: „Hat man sein *warum*? des Lebens, so verträgt man sich fast mit jedem *wie*?"
+> Standardowo po polsku: „Kto ma po co żyć, zniesie prawie każde jak".
+
+⭐ **Przekład Leopolda Staffa jest w domenie publicznej** — a skoro *Poza dobrem i złem* znalazł się Panu w Polonie, ten prawdopodobnie też tam będzie. Potrzebne: **brzmienie polskie + strona + dane wydania**. To znów **jedna strona**, i to na samym początku książki (aforyzm 12 z krótkiego zbioru otwierającego).
+
+---
+
+## 3. Inne długi — gdyby Pan trafił przypadkiem
 
 Wymieniam **tylko to, co realnie zmieniłoby tekst**; ⛔ nie kupować niczego.
 
@@ -104,4 +162,7 @@ Wymieniam **tylko to, co realnie zmieniłoby tekst**; ⛔ nie kupować niczego.
 
 ✅✅ **OBA DŁUGI ZAMKNIĘTE tego samego dnia:** Nygren znalazł się w Internet Archive (wolny dostęp), Nietzschego odnalazł autor w Polonie (Mortkowicz 1907, s. 112, af. 167a).
 
-**Do szukania zostaje tylko lista z § 3 — a w niej realnie jedna pozycja: LASCH, s. 10.**
+⚠️ **Ale doszły nowe, z rozdz. 19 — i są PILNIEJSZE niż Lasch**, bo tam brak źródła dotyczy **całego rozdziału**, a nie jednego przypisu:
+1. ⭐⭐ **Frankl, *Człowiek w poszukiwaniu sensu*** (Czarna Owca) — § 2c;
+2. **Nietzsche, *Zmierzch bożyszcz*, „Sentencje i strzały" 12** (Staff, domena publiczna) — § 2c;
+3. **Lasch, s. 10** — § 3.

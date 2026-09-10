@@ -24,6 +24,8 @@ Samotność nie jest tylko brakiem obecności (rozdz. 18) — jest często braki
   - część fabularna: obóz, wątek utraconego rękopisu („Po co przeżywać?") i wątek żony („myśl o ukochanej" — spotkanie na chodniku: „Piękno przenika przez wszystko…");
   - słynna passata Nietzscheańska (przywołana przez Frankla): „Kto ma po co żyć, zniesie prawie każde jak" (*Wiedza radosna* § 12);
   - logoterapia: trzy drogi sensu (dzieło, spotkanie/miłość, postawa wobec cierpienia).
+> ⚠️⚠️ **KOREKTA 2026-09-10 (przy pisaniu rozdziału): BŁĘDNA LOKALIZACJA AFORYZMU NIETZSCHEGO.** Konspekt podaje (tu i w § 6) „*Wiedza radosna* § 12" ze znakiem `[?]`. **Sprawdzone w posiadanych plikach *Wiedzy radosnej* — frazy tam NIE MA.** Poprawnie: ***Zmierzch bożyszcz*** (*Götzen-Dämmerung*, 1888), zbiór otwierający **„Sentencje i strzały"** (*Sprüche und Pfeile*), aforyzm **12**. Oryginał: „Hat man sein *warum*? des Lebens, so verträgt man sich fast mit jedem *wie*?". ⛔ **Nie cytować w cudzysłowie** — wydania nie mam; ⭐ przekład **Leopolda Staffa** w domenie publicznej, prawdopodobnie w Polonie.
+
 - **Frankl, *Wola sensu*** (kontekst, 1 zdanie) — przeciwko „egzystencjalnej próżni".
 - **Kontrapunkt graniczny (kartoteka):** sens nie musi być religijny — Frankl był otwarty, ale logoterapia jest **przed** teologią; nie używać go jako „dowodu na Boga".
 

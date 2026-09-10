@@ -31,6 +31,8 @@ Dodatkowo: **rozdz. 11 (Wschód)** — refren nie pada, ale zostaje **zakwestion
 
 Wypełniać przy każdym napisanym rozdziale. Cel: żadne dwie odpowiedzi nie mogą być tym samym zdaniem w innych słowach.
 
+⚠️ **OSTRZEŻENIE O SERII „Jest" — stan 2026-09-09.** Cztery odpowiedzi z rzędu otwierały się słowem „Jest" (26, 32, 33, 35). **Rozdz. 38 celowo przerwał tę serię** — jego odpowiedź nie jest zapewnieniem, lecz **wskazaniem miejsca i poleceniem**. Przy rozdz. 39 i dalszych: nie wracać do formuły „Jest —…", dopóki nie padną co najmniej dwie odpowiedzi o innej budowie gramatycznej. Wartość refrenu polega na tym, że za każdym razem odpowiada **inaczej**, a nie tym samym zdaniem w innych słowach.
+
 | Rozdz. | Odpowiedź | Status |
 |---|---|---|
 | 25 | „Tu jestem" | napisany |
@@ -41,8 +43,8 @@ Wypełniać przy każdym napisanym rozdziale. Cel: żadne dwie odpowiedzi nie mo
 | 33 (v3: 35) | „Jest — i przyjechało ich więcej" | napisany |
 | 36 | „Tutaj — i podaje ci chleb" | napisany |
 | **37** | „tam, gdzie będziesz najbardziej sam, ktoś może zejść, żeby tam być" | napisany 2026-09-07 |
-| 38 | „Jest — i pokój, do którego uciekasz, jest już zamieszkany" | konspekt |
-| 39 | „Jest — i stoi między mną a moim bliźnim jako to, co nas łączy" | konspekt |
+| **38** | **„Pokój, przed którym uciekasz, jest już zamieszkany. Usiądź."** | **napisany 2026-09-09** — ⚠️ wariant konspektowy („Jest — i pokój…") **odrzucony**, żeby przerwać serię otwarć na „Jest" |
+| 39 | „Jest — i stoi między mną a moim bliźnim jako to, co nas łączy" | konspekt — ⚠️ **do przeformułowania przy pisaniu**: ten wariant również otwiera się na „Jest" (zob. ostrzeżenie wyżej) |
 | **40** | „Samotność nie jest miernikiem obecności" | napisany 2026-09-08 |
 | **41** | „Wołaj także wtedy, gdy nic z tego nie masz" | napisany 2026-09-08 |
 | **43** | „Jest — i patrzy. I to spojrzenie nie zamienia mnie w rzecz, bo nie potrzebuje mnie do niczego." | napisany 2026-09-08 |

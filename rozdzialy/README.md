@@ -38,7 +38,9 @@ Rękopis pisany był od centrum (część V–VI). Po wgraniu naturalna kontynua
 
 ## Nota v3.2 (2026-09-07) — rękopis nie wiąże
 
-**Decyzja autora:** istniejące teksty rozdziałów **nie są wiążące** — wolno je pisać od nowa zgodnie z koncepcją v3.2. Napisane dotąd: 11, 24–36 (kopia autora) oraz **37** (2026-09-07).
+**Decyzja autora:** istniejące teksty rozdziałów **nie są wiążące** — wolno je pisać od nowa zgodnie z koncepcją v3.2. Napisane dotąd: 11, 24–36 (kopia autora), **37** (2026-09-07), **40–46** oraz **38** (2026-09-09).
+
+**Stan części VII (35–39):** 35, 36, 37 ✔ · **38 ✔ (2026-09-09)** · **39 — jedyna luka w części VII**, konspekt gotowy (`konspekty_v3/39_protestantyzm_sam_przed_bogiem.md`).
 
 **Przy pisaniu i przepisywaniu obowiązują:**
 
@@ -48,7 +50,9 @@ Rękopis pisany był od centrum (część V–VI). Po wgraniu naturalna kontynua
 4. `dokumenty/04_PLAN_PISANIA_I_LINIA_RATZINGEROWSKA.md` § 2 — kolejność pisania.
 
 **Kolejność zaktualizowana (v3.2):**
-38 → 39 → 40 → 41 → 42 → 43 → 44 → 22 → 23 → 45 → 46 → 47 → 48 → 49 → Epilog → Prolog → 1–10 → 12–21.
+~~38~~ → **39** → ~~40~~ → ~~41~~ → ~~42~~ → ~~43~~ → ~~44~~ → 22 → 23 → ~~45~~ → ~~46~~ → 47 → 48 → 49 → Epilog → Prolog → 1–10 → 12–21.
+
+**Następny w kolejce: 39 (protestantyzm)** — domyka część VII. Potem 22 i 23 (dwa rozdziały o śmierci, nienapisane), dalej 47–49 i epilog.
 
 **Przepisania zaplanowane (po kwerendzie Ratzingerowskiej, nie wcześniej):** 24 (oś II + ewentualna scena), 31 (oś I — R1/R2), 32 (oś III — R4), 37 (rejestr sceny i otwarcie refrenu).
 

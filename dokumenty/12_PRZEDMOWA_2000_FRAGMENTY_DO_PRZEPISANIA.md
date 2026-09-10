@@ -131,3 +131,116 @@ F5, s. ___ : "…"
 Jeśli któregoś fragmentu **nie ma** w polskim wydaniu albo brzmi zupełnie inaczej — napisz to wprost. Przekład Ignatius Press bywa swobodniejszy od niemieckiego oryginału i **nie zakładam z góry, że polski przekład idzie z nim równolegle**.
 
 **Absolutnie nie przepisuj całej przedmowy** (ok. 20 stron). Powyższe to razem niecałe dwie strony.
+
+---
+---
+
+# CZĘŚĆ II — ODPOWIEDŹ AUTORA (2026-09-10). BRZMIENIA Z WYDANIA POLSKIEGO
+
+**Źródło:** J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, Znak, Kraków **2018** — egzemplarz papierowy autora projektu, odczyt z autopsji.
+**Status wszystkich poniższych:** ✔ **zweryfikowane, z paginacją.** Wolno cytować dosłownie.
+
+⚠️ **Uwaga o paginacji:** strony biegną 11 → 26, czyli przedmowa zajmuje w tym wydaniu ok. 20 stron i zaczyna się na s. 11. **Numeracja zgadza się z wyd. 2005** (F9: s. 25–26 w obu). Dla tej przedmowy nie ma więc rozbieżności między wydaniami.
+
+---
+
+## 🔴 F1 — WERDYKT W SPRAWIE TYTUŁU: ZBIEŻNOŚĆ ISTNIEJE, ALE **NIE W PRZEKŁADZIE POLSKIM**
+
+**Brzmienie polskie (s. 13):**
+> „Już nie oczekuje się jej zniknięcia, wręcz przeciwnie — religia krzewi się w rozmaitych nowych formach. **W warunkach dojmującej samotności świata bez Boga**, jego wewnętrznego znudzenia ludzie znów […]"
+
+**Oryginał niemiecki** (zweryfikowany niezależnie, fragment z oficjalnego materiału wydawcy — Kösel/Penguin Random House, s. 16 wyd. niem.):
+> „In der **bleiernen Einsamkeit** einer **gottleeren** Welt, in ihrer inneren Langweiligkeit ist die Suche nach Mystik, nach irgendeiner Berührung mit dem Göttlichen von neuem aufgebrochen."
+
+**Angielski** (Ignatius Press 2004): „In the **leaden loneliness** of a God-forsaken world…".
+
+### Rozstrzygnięcie — muszę zgłosić wynik częściowo negatywny
+
+1. **W oryginale fraza stoi i jest dosłowna:** *bleierne Einsamkeit* = **ołowiana samotność**. To nie jest naciągnięcie ani zbieg skojarzeń. Angielski przekład oddaje ją wiernie („leaden loneliness").
+2. **Polski przekład jej NIE ODDAJE.** Tłumacz wybrał **„dojmująca samotność"**. To dobry przekład sensu — ale metafora ołowiu znika bez śladu.
+3. **Wniosek operacyjny — obowiązujący:**
+   - ⛔ **NIE WOLNO napisać, że tytuł książki jest cytatem z polskiego wydania *Wprowadzenia*.** Byłoby to nieprawdą sprawdzalną w pięć sekund przez każdego, kto ma tę książkę na półce.
+   - ✅ **WOLNO powiedzieć — i warto** — że fraza stoi w oryginale niemieckim tej przedmowy, że polski przekład oddał ją inaczej, i że **kontekst jest dokładnie kontekstem tej książki**: świat pusty od Boga, jego wewnętrzna nuda, i **wynikające z tego** poszukiwanie mistyki i kontaktu z czymkolwiek.
+   - Miejsce na to jest **jedno**: nota autorska / posłowie o tytule, ewentualnie przypis w epilogu. **Nie w prologu** — prolog nie zniósłby wywodu filologicznego, a w skrócie brzmiałoby to jak przechwałka.
+4. ⚠️ **Drobiazg, który też trzeba oddać wiernie:** niemieckie *gottleer* to „**pusty od Boga**", nie „opuszczony przez Boga" (*gottverlassen*). Angielskie „God-forsaken" jest tu mocniejsze niż oryginał, polskie „bez Boga" — celniejsze. Gdyby ten fragment kiedykolwiek referować, **nie iść za angielskim**.
+
+**Bilans:** znalezisko zostaje, ale schodzi z rangi „tytuł jest cytatem" do rangi **„tytuł ma pokrycie w oryginale, którego polski czytelnik nie zobaczy"**. To wciąż jest coś. To nie jest to, na co liczyłem.
+
+---
+
+## F2 — „Bóg był pozbawiony wszelkiej funkcji" (s. 11) ✔
+
+> „Nie twierdzę, że negowano istnienie Boga, w żadnym razie. Ale pojęcie Boga już się nie pojawiło w odniesieniu do «realności», ku której się zwracano. **Bóg był pozbawiony wszelkiej funkcji.**"
+
+**Przeznaczenie:** rozdz. 4, 8, 44; części VII. Ostatnie zdanie jest lepsze niż angielskie „God had nothing to do" — bezosobowe, urzędowe, i przez to zimniejsze.
+
+## F3 — *etsi Deus non daretur* (s. 11) ✔
+
+> „…wiara w Boga pozostaje zjawiskiem subiektywnym, należącym do sfery życia prywatnego, a nie do sfery życia publicznego, w którym ludzie, by móc ze sobą współpracować, muszą się organizować *etsi Deus non daretur* (na wypadek, gdyby Bóg nie istniał)?"
+
+**Przeznaczenie:** rozdz. 4, 8, 44.
+⚠️ **Uwaga tłumaczeniowa:** polski przekład oddaje formułę jako „**na wypadek, gdyby** Bóg nie istniał"; utarty polski odpowiednik brzmi „**jakby** Boga nie było". Przy cytowaniu **iść za wydaniem**; gdyby potrzebny był komentarz — dopisać w przypisie, nie poprawiać w cudzysłowie.
+⚠️ Zdanie jest **pytaniem** (znak zapytania w oryginale) — cytując, nie zamieniać na twierdzenie.
+
+## F4 — Nietzsche: fundamenty utracone, budynek stoi (s. 12) ✔
+
+> „Gdy bowiem odchodzi się od Boga, z początku wszystko zdaje się toczyć tak jak dotychczas. **Fundamentalne decyzje, podstawowe formy życia nadal trwają, choć utraciły już swe uzasadnienie.** Ale jak pokazał Nietzsche, wszystko się zmienia, gdy, koniec końców, rzeczywiście pojawia się wieść, że Bóg jest martwy — wieść, która godzi nas w samo serce."
+
+**Przeznaczenie:** **rozdz. 42 („Nietzsche ma rację") — priorytet.** Rozdział jest napisany; to jest jego teza wypowiedziana przez głos wiodący książki, w dodatku **przyznająca Nietzschemu rację co do diagnozy**. Kandydat na uzupełnienie przy redakcji 42. Także rozdz. 7.
+
+## F5 — 🔑 IMIĘ: „jeśli ktoś ma imię, to można go zawołać" (s. 18) ✔
+
+> „Rzecz jasna, w Biblii nie pojawia się pojęcie «osoba»; na osobowy byt Boga wskazuje to, że ma On imię. **Jeśli ktoś ma imię, to można go zawołać; jeśli ktoś ma imię, to może mówić, słuchać, odpowiadać.** Są to charakterystyki istotne dla biblijnego Boga, dlatego porzuca biblijną wiarę każdy, kto ich pozbawia Boga."
+
+🔑 **TO JEST TEOLOGICZNE UZASADNIENIE REFRENU CAŁEJ KSIĄŻKI.** „Czy ktoś tam jest?" jest pytaniem sensownym dokładnie wtedy, gdy Bóg ma imię — bo imię znaczy: **można zawołać i można zostać usłyszanym**. Cztery czasowniki („zawołać — mówić — słuchać — odpowiadać") są dokładnie czterema warunkami refrenu.
+
+**Przeznaczenie — decyzja:** **EPILOG albo rozdz. 2.** Skłaniam się ku **rozdz. 2** („Dziecko, które woła"): tam refren pada po raz pierwszy w swojej macierzystej postaci, a to zdanie daje mu podstawę, zanim czytelnik zdąży uznać go za figurę retoryczną. W epilogu byłoby wyjaśnianiem tego, co już zostało pokazane.
+⚠️ Cytat jest **długi** — w rozdz. 2 zmieści się jako jedyny blokowy.
+
+## F6 — Wybawienie jako wyzwolenie od bycia osobą (s. 19–20) ✔
+
+> „Wybawienie polega na wyzwoleniu od indywiduacji, od bytu osobowego, na przezwyciężeniu ugruntowanego w bycie osobowym odróżnienia się indywiduum od wszelkiego pozostałego bytu: człowiek musi usunąć swe złudzenie co do samego siebie. Z problematyczności takiej wizji istnienia zdawali sobie sprawę przedstawiciele neohinduizmu. **Jeśli każda osoba nie jest czymś jedynym, to nie daje się też uzasadnić jej nienaruszalna godność.**"
+
+**Przeznaczenie:** **rozdz. 11 (Wschód) — priorytet.** Jedyny rozdział bez wersji v2 i jedyny, w którym refren zostaje **zakwestionowany** (dok. 07 § A2). To jest odpowiedź linii Ratzingerowskiej, w dodatku **argumentem praktycznym** — o godność, nie o doktrynę. Także rozdz. 32 (oś III).
+⚠️ **Wymóg rzetelności:** cytat mówi o **neohinduizmie** i o konkretnej wizji zbawienia — **nie o „religiach Wschodu" w ogóle**. Rozdz. 11 ma obowiązek to rozróżnić, inaczej popełni dokładnie ten błąd uogólnienia, którego książka zabrania sobie wobec przeciwników.
+
+## F7 — Budda a Chrystus (s. 16) ✔
+
+> „Budda — pod tym względem porównywalny zresztą z Sokratesem — miałby kierować poza siebie: nie jego osoba jest ważna, lecz jedynie droga, którą on wskazał ludziom. **Kto znalazł drogę, nie musi więcej pamiętać o Buddzie.** W wypadku Jezusa chodzi wszakże właśnie o Jego osobę, o Niego samego."
+
+**Przeznaczenie:** rozdz. 11; echo w 24.
+⚠️ **Tryb przypuszczający („miałby kierować") jest w wydaniu i jest znaczący** — Ratzinger referuje tu cudzy pogląd na buddyzm, a nie orzeka o buddyzmie. **Nie zamieniać na tryb orzekający** i nie przypisywać mu twierdzenia o Buddzie jako własnego.
+
+## F8 — Teodycea; odpowiedź dana Hiobowi (s. 21–22) ✔
+
+> „Problem teodycei, który dzisiaj, po straszliwych doświadczeniach, jakie zgotowały ludzkości totalitarne reżymy (pozwolę sobie przypomnieć tylko przestrogę Auschwitz), staje przed nami z palącą siłą, jeszcze raz uwidacznia nam jednocześnie, że Boga nie możemy zdefiniować czy wręcz przeniknąć. **Odpowiedź, jaką od Boga otrzymał Hiob, niczego wszak nie wyjaśnia**, a jedynie przypomina nam o naszych ograniczeniach i powściąga nasze urojenie, że możemy o wszystkim wydać sąd i definitywnie się wypowiedzieć. Zachęca nas, byśmy ufali niepojętej tajemnicy Boga."
+
+**Przeznaczenie:** **część VII (41–43) i rozdz. 23.** To zdanie daje książce prawo do uczciwości wobec przeciwnika: głos wiodący sam mówi, że odpowiedź Boga niczego nie wyjaśnia. Bez tego formuła „X ma rację — i nie ma racji" byłaby retoryczna.
+⚠️ Ostatnie zdanie („Zachęca nas, byśmy ufali…") **musi iść razem z poprzednim**. Urwany po „niczego nie wyjaśnia" cytat byłby zniekształceniem.
+
+## F9 — Zakończenie przedmowy (s. 25–26) ✔ — **PAGINACJA POTWIERDZONA**
+
+Pełne brzmienie i omówienie: `rozdzialy/00_prolog.md`, przyp. ². **Cytat użyty w prologu; status podniesiony z pośredniego na autopsję.**
+
+Dwa zdania końcowe **nie były znane** ze źródła pośredniego i są nabytkiem:
+> „Zasadnicza orientacja była, jak myślę, trafna. **Dlatego ośmielam się dziś książkę tę jeszcze raz przekazać w ręce czytelników.**"
+
+🔑 Czasownik **„ośmielam się"** — nie „wznawiam", nie „oddaję". Człowiek, który po trzydziestu latach nie zmienił kierunku, mówi o ponownym wydaniu jako o czymś, na co trzeba się odważyć. **Kandydat na motto książki albo na klamrę epilogu.**
+
+⚠️ **Korekta brzmienia wykryta przy weryfikacji:** źródło pośrednie (Mycek) podawało „kontekst **międzyreligijnej problematyki**"; w wydaniu jest „kontekst **problematyki interreligijnej**". Poprawione w prologu, w tekście głównym i w przypisie.
+
+---
+
+## Co z tego wynika dla dalszej pracy — lista zadań
+
+| Fragment | Rozdział docelowy | Stan |
+|---|---|---|
+| **F9** | prolog | ✅ **wprowadzony**, status podniesiony do autopsji |
+| **F5** | **rozdz. 2** (macierzysty), ew. epilog | ⬜ do wprowadzenia przy pisaniu rozdz. 2 |
+| **F6, F7** | **rozdz. 11** (Wschód) | ⬜ dwa cytaty = limit rozdziału wyczerpany; **F6 blokowy, F7 w linii** |
+| **F4** | **rozdz. 42** (napisany) | ⬜ do rozważenia przy redakcji — rozdział ma już swoje cytaty, sprawdzić limit |
+| **F2, F3** | rozdz. 4, 8, 44 | ⬜ rozdziały nienapisane |
+| **F8** | część VII, rozdz. 23 | ⬜ 23 napisany — sprawdzić, czy jest miejsce |
+| **F1** | **nota o tytule / posłowie** | ⬜ ⛔ **nie jako cytat z wyd. polskiego** — patrz werdykt wyżej |
+
+**Nie pozyskano** (priorytet 3, nie proszę więcej): F10 (rok 1989, „ruined land and ruined souls"), F11 (*logos*: „ten rozum jest Osobą, jest Miłością"), F12 (World Youth Days). Gdyby F11 kiedyś się przydał do rozdz. 16 lub 28 — wtedy poproszę osobno.

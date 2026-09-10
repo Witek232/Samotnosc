@@ -134,6 +134,31 @@ oraz, z tego samego paragrafu:
 - § 31b: „Program chrześcijański — program dobrego Samarytanina, program Jezusa — to «serce, które widzi»."; „człowiek, który żyje teraz jest poświęcany *molochowi* przyszłości".
 - § 31c: „Bóg jest miłością (por. 1 J 4, 8) i staje się obecny właśnie wtedy, gdy nie robi się nic innego ponad to, że się kocha."
 
+### 4.7 *Wprowadzenie w chrześcijaństwo*, przedmowa z 2000 r. ✔ (dopisane 2026-09-10)
+
+**Wydanie:** Znak, Kraków **2018**, przedmowa „Wprowadzenie w chrześcijaństwo — wczoraj, dziś, jutro" (Rzym, kwiecień 2000), **s. 11–26**. Wszystkie brzmienia **zweryfikowane z autopsji** przez autora projektu; **paginacja zgodna z wyd. 2005**.
+
+**Pełne brzmienia z lokalizacją i przydziałem do rozdziałów:** `dokumenty/12_PRZEDMOWA_2000_FRAGMENTY_DO_PRZEPISANIA.md`, część II. Skrót:
+
+| Skrót | Rzecz | s. | Docelowo |
+|---|---|---|---|
+| F2 | „Bóg był pozbawiony wszelkiej funkcji." | 11 | 4, 8, 44 |
+| F3 | *etsi Deus non daretur* — „na wypadek, gdyby Bóg nie istniał" | 11 | 4, 8, 44 |
+| F4 | „…nadal trwają, choć utraciły już swe uzasadnienie" (Nietzsche) | 12 | **42**, 7 |
+| F5 | 🔑 „Jeśli ktoś ma imię, to można go zawołać…" | 18 | **2** (lub epilog) |
+| F6 | „Jeśli każda osoba nie jest czymś jedynym…" (neohinduizm) | 19–20 | **11**, 32 |
+| F7 | „Kto znalazł drogę, nie musi więcej pamiętać o Buddzie." | 16 | **11**, 24 |
+| F8 | „Odpowiedź, jaką od Boga otrzymał Hiob, niczego wszak nie wyjaśnia" | 21–22 | VII, 23 |
+| F9 | „…nie popełniłem błędu, jeśli chodzi o główny kierunek"; „ośmielam się" | 25–26 | **prolog ✅ użyty** |
+
+🔑 **F5 jest teologicznym uzasadnieniem refrenu książki** — cztery czasowniki („zawołać — mówić — słuchać — odpowiadać") to cztery warunki pytania „czy ktoś tam jest?".
+
+⛔ **F1 — OSTRZEŻENIE, TYTUŁ KSIĄŻKI.** Fraza *bleierne Einsamkeit* („ołowiana samotność") **stoi w oryginale niemieckim** tej przedmowy (wyd. niem. s. 16; ang. „leaden loneliness"), w kontekście „świata pustego od Boga" i jego „wewnętrznej nudy". **Polski przekład oddaje ją jako „dojmująca samotność" (s. 13) — metafora ołowiu w wydaniu polskim NIE WYSTĘPUJE.** Nie wolno pisać, że tytuł jest cytatem z polskiego *Wprowadzenia*. Wolno omówić rzecz w nocie o tytule.
+
+⚠️ **Trzy pułapki przy cytowaniu tych fragmentów:** F3 jest **pytaniem** (nie zamieniać na twierdzenie); F7 stoi w **trybie przypuszczającym** („miałby kierować") — to referat cudzego poglądu, nie teza Ratzingera o Buddzie; F8 **nie wolno urwać** po „niczego nie wyjaśnia".
+
+---
+
 ---
 
 ## 4a. USTALENIE O NUMERACJI STRON (2026-09-07) — czytać przed cytowaniem

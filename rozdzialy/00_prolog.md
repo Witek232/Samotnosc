@@ -19,7 +19,7 @@ Przedmowa jest jedynym legalnym ruchem człowieka, który nie zgadza się już c
 
 Więc ją pisze. I zamiast wyliczać, co by dziś ujął inaczej, robi coś innego: sprawdza, **czy pytanie, od którego zaczynał, jeszcze się nie wyczerpało.**
 
-Odpowiada sobie ostrożnie. Przyznaje, że gdyby pisał tę książkę dziś, doświadczenia ostatnich trzydziestu lat musiałyby znaleźć w niej pełne odbicie — i że musiałby uwzględnić kontekst międzyreligijny w znacznie większym stopniu, niż mu się wtedy wydawało wskazane. A potem dodaje zdanie, które jest jedyną obroną, na jaką sobie pozwala: **„Sądzę jednak, że nie popełniłem błędu, jeśli chodzi o główny kierunek".**²
+Odpowiada sobie ostrożnie. Przyznaje, że gdyby pisał tę książkę dziś, doświadczenia ostatnich trzydziestu lat musiałyby znaleźć w niej pełne odbicie — i że musiałby uwzględnić kontekst problematyki interreligijnej w znacznie większym stopniu, niż mu się wtedy wydawało wskazane. A potem dodaje zdanie, które jest jedyną obroną, na jaką sobie pozwala: **„Sądzę jednak, że nie popełniłem błędu, jeśli chodzi o główny kierunek".**²
 
 Nie broni więc odpowiedzi. Broni **kierunku pytania**.
 
@@ -117,15 +117,17 @@ Brzmienie: „Książka ta powstała z wykładów przeznaczonych w letnim semest
 
 ⚠️ **KOREKTA WOBEC KONSPEKTU — DATA.** Konspekt (§ 4, § 6.1) mówi o książce „napisanej w 1968 roku" i każe budować kontrapunkt na roku 1968. Wydanie precyzuje: **wykłady — lato 1967**, książka — **1968**. W tekście głównym podane są **obie daty poprawnie**. Różnica jest drobna, ale rok 1967 to jeszcze przed majem 1968, więc **wykładów nie wygłoszono „w roku rewolt"** — i tekst tego nie sugeruje.
 
-² **J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, przedmowa do nowego wydania z 2000 r. („Wprowadzenie w chrześcijaństwo — wczoraj, dziś, jutro"), wyd. pol. Znak, Kraków 2005, s. 25–26.**
+² **J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, przedmowa do wydania z 2000 r. („Wprowadzenie w chrześcijaństwo — wczoraj, dziś, jutro"), wyd. pol. Znak, Kraków 2018, s. 25–26.** ✔ **ZWERYFIKOWANE Z AUTOPSJI** (autor projektu, egzemplarz papierowy, 2026-09-10).
 
-✅ **ŹRÓDŁO POZYSKANE 2026-09-10 — luka z pierwszej wersji prologu ZAMKNIĘTA.** Pełne brzmienie cytowanego fragmentu: „Gdybym miał dzisiaj jeszcze raz napisać *Wprowadzenie w chrześcijaństwo*, doświadczenia ostatnich trzydziestu lat musiałyby znaleźć swe pełne odbicie w jego tekście, który w znacznie większym stopniu, niż mi się to wydawało wskazane w chwili pisania, musiałby też uwzględniać kontekst międzyreligijnej problematyki. **Sądzę jednak, że nie popełniłem błędu, jeśli chodzi o główny kierunek:** w centrum uwagi umieściłem pytanie o Boga i pytanie o Chrystusa, które zaowocowały «chrystologią narratywną» i wskazały miejsce wiary w Kościele."
+Pełne brzmienie fragmentu w wydaniu polskim:
 
-⚠️ **CYTOWANIE POŚREDNIE — ZAZNACZONE.** Brzmienie i lokalizacja za: ks. **S. Mycek**, *Podstawowe zasady chrześcijaństwa według Josepha Ratzingera – Benedykta XVI*, „Śląskie Studia Historyczno-Teologiczne" 42 (2009), z. 2, s. 113–128, tu s. 115 i przyp. 7 (`bazhum.muzhp.pl`) — tekst recenzowany, podający **dokładną stronę** (WCh, s. 25–26) i rozwijający skrót jako: J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, Kraków 2005.
+> „Gdybym miał dzisiaj jeszcze raz napisać *Wprowadzenie w chrześcijaństwo*, doświadczenia ostatnich trzydziestu lat musiałyby znaleźć swe pełne odbicie w jego tekście, który w znacznie większym stopniu, niż mi się to wydawało wskazane w chwili pisania, musiałby też uwzględniać kontekst problematyki interreligijnej. **Sądzę jednak, że nie popełniłem błędu, jeśli chodzi o główny kierunek:** w centrum uwagi umieściłem pytanie o Boga i pytanie o Chrystusa, które zaowocowały «chrystologią narratywną» i wskazały miejsce wiary w Kościele. Zasadnicza orientacja była, jak myślę, trafna. **Dlatego ośmielam się dziś książkę tę jeszcze raz przekazać w ręce czytelników.**"
 
-⚠️ **Do sprawdzenia w egzemplarzu autora (Znak, Kraków 2018).** Autor projektu ma wydanie papierowe **2018**, cytat pochodzi z wydania **2005** — treść przedmowy jest ta sama, ale **paginacja może się różnić**. Przy korekcie: sprawdzić s. 25–26 i w razie potrzeby poprawić na numerację wyd. 2018. **W tekście głównym cytowany jest tylko krótki człon**, więc ryzyko jest minimalne.
+✅ **STATUS PODNIESIONY.** Poprzednia wersja tego przypisu opierała się na **cytowaniu pośrednim** (za art. ks. S. Mycka, ŚSHT 42/2009, z. 2, s. 115) i podawała wydanie **2005**. Autor projektu sprawdził fragment w swoim egzemplarzu **Znak 2018**: brzmienie zgadza się, **paginacja również (s. 25–26)** — adnotacja o cytowaniu pośrednim **zdjęta**.
 
-⚠️ Pozostała część akapitu (o „doświadczeniach trzydziestu lat" i kontekście międzyreligijnym) jest **referowana własnymi słowami, bez cudzysłowu** — mimo że znam brzmienie. Powód: limit cytatów i to, że blok byłby dłuższy niż cała scena.
+⚠️ **Drobna korekta brzmienia wprowadzona przy weryfikacji:** źródło pośrednie podawało „kontekst międzyreligijnej problematyki"; w wydaniu jest **„kontekst problematyki interreligijnej"**. Poprawione także w tekście głównym. Różnica bez znaczenia dla sensu — odnotowana, bo pokazuje, po co się sprawdza.
+
+🔑 **ZDANIE OSTATNIE — DO WYKORZYSTANIA POZA PROLOGIEM.** „Dlatego **ośmielam się** dziś książkę tę jeszcze raz przekazać w ręce czytelników" — czasownik jest tu istotny i nie jest ozdobny. Nie „wznawiam", nie „oddaję": *ośmielam się*. Człowiek, który przez trzydzieści lat nie zmienił kierunku, mówi o ponownym wydaniu własnej książki jako o czymś, na co trzeba się odważyć. **To jest kandydat na motto lub na klamrę epilogu** — nie użyłem go w prologu, żeby nie osłabić puenty, ale jest to prawdopodobnie najlepsze zdanie całej przedmowy dla tej książki.
 
 ³ **Historia o błaźnie i pożarze cyrku** — *Wprowadzenie w chrześcijaństwo*, **ok. s. 5** ✔ **ZWERYFIKOWANE W WYDANIU** (w. 451).
 

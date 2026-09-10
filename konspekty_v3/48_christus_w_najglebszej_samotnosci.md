@@ -94,3 +94,26 @@ Obietnica obecności wymaga jeszcze jednego zdania: co się stało ze śmiercią
 - **Scena Ratzingerowska — alternatywne miejsce** (obok rozdz. 24; jedno z dwóch, nie oba). Argument za 48: tu ciepło jest dopuszczone, więc portret nie zaburzy dyscypliny; argument za 24: centrum książki zyskuje twarz. **Do decyzji autora.**
 - **Akcent Sheen** (mapa `02_STYL_PISARSKI` § 3) — jego naturalne terytorium, bez zmian; uwaga na kolizję z regułą ostatniego słowa: **Sheen daje puentę, linia Ratzingerowska — zdanie poprzedzające.**
 - **Do weryfikacji:** R6, R7 (*Jezus z Nazaretu* t. 2 — Getsemani, Ps 22), R9.
+
+
+---
+
+## ⚠️ KOREKTY WNIESIONE PRZY PISANIU (2026-09-10)
+
+Rozdział napisany. Konspekt zachowany bez zmian jako dokument roboczy; poniżej rozbieżności, **rozstrzygnięte na niekorzyść konspektu**.
+
+1. **BŁĄD RZECZOWY — zdanie kanoniczne osi II.** Konspekt (§ 1, 3, 6.6, 7 i nota v3.2) nazywa zdaniem kanonicznym/rdzeniowym formułę **„Nie będziesz tam sam"**. Wedle `dokumenty/05_KARTOTEKA_RATZINGEROWSKA.md` § Oś II oraz `STRUKTURA_V3.md` §§ 150 i 213 zdaniem kanonicznym jest: *„Chrystus nie zbawia człowieka z samotności, omijając jego samotność. Zbawia go, wchodząc w nią"* — **3 wystąpienia w identycznym brzmieniu: 24 / 48 / epilog**. „Nie będziesz tam sam" to **osobna formuła autorska**. W rozdziale padły **oba, w różnych funkcjach i miejscach**.
+
+2. **BŁĄD CYTATU — Ps 23,4.** Konspekt: „choćbym nawet chodził ciemną doliną, zła nie będę się bał, bo Ty ze mną jesteś". BT (zweryfikowane w `biblia.deon.pl`): **„Chociażbym chodził ciemną doliną, / zła się nie ulęknę, / bo Ty jesteś ze mną."** Poprawione. (Wersja konspektowa = cytat z pamięci lub inny przekład.)
+
+3. **ODESŁANIA v2 — trzeci potwierdzony przypadek w projekcie** (po 23 i 47). Przeliczenia: „25" (egzegeza centrum) → **24**; „27" (*Spe salvi* 32) → **26**; „46" (przejście dokonane) → **47**; „48" (finał) → **49**; „28–29" → **29–30**. Wewnętrzna sprzeczność: nagłówek nazywa rozdział „przygotowaniem finału (48)", będąc konspektem rozdziału 48.
+
+4. **SCENA ZMIENIONA.** Konspekt: instruktor **wyłącza sobie powietrze na 30 m**. To praktyka **nieprawdziwa i niebezpieczna**, nieobecna w szkoleniu rekreacyjnym. Zastąpiona **realnym ćwiczeniem** dawania powietrza z automatu zapasowego (sygnał „nie mam powietrza"), na małej głębokości. Funkcja sceny zachowana.
+
+5. **Mk 14,36 — kolizja przekładów.** Konspekt podaje BT („oddal ten kielich"), rozdział cytuje **za Ratzingerem** („zabierz ten kielich"), bo cała scena czytana jest jego oczami. Rozbieżność odnotowana w przypisie ¹.
+
+6. **Portret Ratzingera NIE użyty** (nota v3.2 dawała wybór 24 albo 48) — tryb „ty" go nie unosi. Miejsce **pozostaje wolne dla rozdz. 24**, do decyzji autora.
+
+7. **Sheen** — puenta ma jego **ton**, ale **nie zawiera cytatu**: brak wydań, nie improwizowano.
+
+8. **Długość: 1996 słów** wobec celu 2,6–3,0 tys. (**ok. 25% poniżej**) — kolejny raz z rzędu. Do świadomej decyzji autora, czy szczyt ma zostać zwięzły.

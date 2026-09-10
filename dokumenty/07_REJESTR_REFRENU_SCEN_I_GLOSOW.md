@@ -54,7 +54,9 @@ Wypełniać przy każdym napisanym rozdziale. Cel: żadne dwie odpowiedzi nie mo
 | **47** | **„Po drugiej stronie — i na tej stronie, w całej drodze."** | **napisany 2026-09-10** — brzmienie konspektowe przyjęte bez zmian. ⚠️ **Para z rozdz. 22**: ta sama forma („po drugiej stronie") padła tam **bez odpowiedzi**, tutaj **dostaje odpowiedź** — klamra przez 25 rozdziałów. Nie zaczyna się od „Jest" (seria przerwana od 38 pozostaje przerwana). **Ostatnie użycie refrenu przed szczytem 48** |
 | **45** | **PRZYWOŁANY, NIEWYKONANY** (§ A2): formuła nie pada jako figura; refren jest przedmiotem opisu — pytanie zadaje człowiek maszynie i dostaje odpowiedź, która go nie zaspokaja. Przekształcony w rozróżnienie: „czy tam ktoś jest — czy coś odpisuje?" | napisany 2026-09-08 |
 | **46** | „A śmierć wraca — wraca w miejscach, z których kultura usunęła wspólnotę." (wersja rozdziału; wariant nośny w cz. VII: „przychodzi o godzinie, w której nikogo przy tym nie ma") | napisany 2026-09-08 |
-| 48 | (finał — do napisania) | — |
+| **48 — DRUGI SZCZYT** | **„Będę."** | **napisany 2026-09-10** — ⚠️ **jedyna odpowiedź w książce w PIERWSZEJ OSOBIE i w CZASIE PRZYSZŁYM**: mówi ją Ten, o kogo pytano, nie narrator. Jednosłowna. Nie zaczyna się od „Jest" (seria przerwana od 38 pozostaje przerwana). Poprzedzona pełnym pytaniem refrenu („Czy ktoś tam jest?") |
+| 49 | (finał — do napisania) | — |
+| epilog | ⚠️ **trzecie i OSTATNIE wystąpienie zdania kanonicznego osi II** (24 ✔ / 48 ✔ / epilog) — brzmienie musi być identyczne | — |
 | Epilog | J 11,26, ciche i osobiste | konspekt |
 
 **Ostrzeżenie widoczne już teraz:** odpowiedzi 30, 33, 38, 39 zaczynają się od słowa „Jest". Cztery razy ten sam początek to za dużo. Przy pisaniu 38 i 39 — zmienić otwarcie przynajmniej jednej z nich.
@@ -83,6 +85,7 @@ Sceny są najmocniejszą stroną rękopisu — niosą więcej niż argumenty. Gr
 | 37 | nocny patrol pod mostem | ulica | napisany |
 | 38 | cela Ojca Pustyni | pustynia/cela | napisany |
 | 39 | Finkenwalde, dzień seminarium (1935–1937) | wspólnota/historia | **napisany** — scena podana jako *plan dnia = teza* |
+| **48** | kurs nurkowy: sygnał „nie mam powietrza", podanie automatu zapasowego, wynurzanie za przedramię | **natura/woda** | **napisany 2026-09-10** — ⚠️ **scena ZMIENIONA wobec konspektu**, który proponował instruktora wyłączającego sobie powietrze na 30 m: praktyka **nieprawdziwa i niebezpieczna**, nie występuje w szkoleniu rekreacyjnym. Funkcja zachowana (druga ręka, twarda fizyka), bez nieprawdy faktycznej |
 
 **Wolne rejestry do obsadzenia (propozycje przypisania):**
 

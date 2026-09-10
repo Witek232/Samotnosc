@@ -158,7 +158,7 @@ Autor polecił: „sprawdź i popraw po kolei". **Odradzam** i proszę o decyzj�
 | § audytu | Problem | Status |
 |---|---|---|
 | § 1 | Niezgodność numeracji z v3 | ✅ **ZAMKNIĘTE** — commit `db35cb3` |
-| § 2 | Przypisy `[?]` / „brzmienia robocze" | 🟡 **CZĘŚCIOWO** — zob. niżej |
+| § 2 | Przypisy `[?]` / „brzmienia robocze" | ✅ **ZAMKNIĘTE Z ZASTRZEŻENIEM 2026-09-10** — pełny przegląd w `11_RAPORT_ZNACZNIKOW_PYTAJNIK.md`. Z 61 wystąpień `[?]` **28 to zapisy historyczne** („ZDJĘTE/ZAMKNIĘTE"), ~26 realnie otwartych — i **żadne nie podpiera cytatu w tekście głównym** (dotyczą paginacji, danych wydawniczych, realiów scen). Ostatni otwarty `[?]` przy cytacie (Péguy, rozdz. 27) domknięty drugim poświadczeniem naukowym. Reszta wymaga fizycznego dostępu do wydań — nie blokuje druku |
 | § 3 | Fałszywa atrybucja DCE § 16 | ✅ **ZAMKNIĘTE** — commit `623a954` (poprawnie: GS 24) |
 | § 4 | Fałszywa formuła „przejście z «ja» do «my»" | ✅ **ZAMKNIĘTE** — commit `1deb00c` |
 

@@ -142,7 +142,8 @@ Ono woła.
 Nie przywołuję tu obiegowego porównania „brak więzi = 15 papierosów dziennie" — funkcjonuje ono w publicystyce, ale **nie w tej postaci w samej pracy**, i wolę go nie powtarzać.
 
 ⁴ **L. C. Hawkley, J. T. Cacioppo, *Loneliness Matters: A Theoretical and Empirical Review of Consequences and Mechanisms*, „Annals of Behavioral Medicine" 40 (2010), nr 2, s. 218–227.** Stąd: samotność jako sygnał biologiczny, nadwrażliwość na sygnały odrzucenia, pętla samopotwierdzającej się izolacji, zaburzenia snu.
-⚠️ **Referat, nie cytat.** Sformułowania w tekście głównym są moje; artykułu nie cytuję dosłownie, bo nie mam go w wydaniu. Wersja popularna tych ustaleń: J. T. Cacioppo, W. Patrick, *Loneliness: Human Nature and the Need for Social Connection*, New York 2008.
+⚠️ **Referat, nie cytat** — w tym rozdziale. Sformułowania w tekście głównym są moje.
+✅✅ **DŁUG SPŁACONY 2026-09-10: ARTYKUŁ POZYSKANY W PEŁNYM TEKŚCIE** — wolny dostęp w PubMed Central (**PMC3874845**, manuskrypt autorski NIHMS538929). Cytowany z autopsji w **rozdz. 17**, gdzie stanowi główne źródło. ⚠️ **Przy redakcji rozważyć wprowadzenie cytatu również tutaj** — zwłaszcza definicji: samotność to „**postrzegana** izolacja społeczna, nie izolacja obiektywna". ⚠️ Ograniczenie: manuskrypt autorski **nie ma paginacji wydawcy**, więc ⛔ nie podawać stron pojedynczych zdań. Wersja popularna tych ustaleń: J. T. Cacioppo, W. Patrick, *Loneliness: Human Nature and the Need for Social Connection*, New York 2008.
 
 ⁵ **J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, cz. I, rozdz. o doświadczeniu Boga w egzystencji ludzkiej — ok. s. 65–66 wyd. pol.** ✔ **ZWERYFIKOWANE W WYDANIU** (`biblioteka/_tekst/ratzinger_wprowadzenie-w-chrzescijanstwo_pl.txt`, w. 1195–1197; numer strony odczytany ze znacznika paginacji w pliku — stąd „ok.").
 Odwołanie do **Paula Claudela** jest odwołaniem Ratzingera; w wydaniu ma ono własny przypis (nr 4), którego treści plik nie oddaje czytelnie. **Nie podaję lokalizacji u Claudela** — nie sprawdziłem jej. Skróty w cytacie oznaczone `(…)`; złożenie „samot-nosci" z OCR poprawione na „samotności" (dzielenie wyrazu), pisownia poza tym bez zmian.
@@ -171,7 +172,7 @@ Odwołanie do **Paula Claudela** jest odwołaniem Ratzingera; w wydaniu ma ono w
 | WHO 2025 | ⚠️ **dane ✔, paginacja nie** | liczby z dok. 01; raportu w całości nie widziałem |
 | Wang i in. 2023 | ✔ **dane zweryfikowane** | z korektą wobec kartoteki (autorstwo, liczba uczestników) |
 | Holt-Lunstad 2010 | ✔ **dane zweryfikowane** | porównanie „15 papierosów" **nieużyte** |
-| Hawkley & Cacioppo 2010 | ⚠️ **referat bez cudzysłowu** | brak egzemplarza; nic w cudzysłowie |
+| Hawkley & Cacioppo 2010 | ⚠️ referat bez cudzysłowu **w tym rozdziale** — ✅ **tekst pozyskany 2026-09-10** (PMC3874845), cytowany z autopsji w rozdz. 17 | ⚠️ manuskrypt autorski: brak paginacji wydawcy |
 | Ratzinger, *Wprowadzenie*, ok. s. 65–66 | ✔ **zweryfikowane dosłownie w wydaniu** | jedyny cytat blokowy rozdziału |
 | Claudel | ✘ **nie cytowany** | odwołanie jest Ratzingera; lokalizacji u Claudela nie sprawdzałem |
 | Yalom | — | tylko odesłanie do rozdz. 20, bez treści |

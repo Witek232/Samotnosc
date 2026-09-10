@@ -27,7 +27,7 @@ Dwuaktowa. **Akt pierwszy (Luther — wieża):** reformacja nie zaczęła się o
 - **Luther — doświadczenie wieży (Turmerlebnis):** relacja z przedmowy do zbioru dzieł łacińskich (1545), datacja dyskusyjna (1518/19?) — nota historyczna obowiązkowa [?]; kluczowe: Rz 1,17 **„sprawiedliwy z wiary żyć będzie"** (polskie brzmienie potwierdzone ✔; por. Ha 2,4 — klamra wstecz do rozdz. 31, gdzie Hab 2,4 pracuje); metafora otwartych drzwi raju (parafraza robocza [?]) — **pasywne drzwi w metaforyce książki: inna brama niż gradacja 24→26→47, ale z tego samego materiału; użyć razu, jako echo obrazu, nie jako członka gradacji (nota redakcyjna)**; Wormacja 1521: „Tu stoję — nie mogę inaczej" (postać klasyczna; brzmienie spopularyzowane później [?]) — samotność stanowiska.
 - **Coram Deo** — formuła tradycji reformacyjnej: życie całe postawione przed obliczem Boga (bez rozbudowy systematycznej — jeden akapit).
 - **Kapłaństwo wszystkich wiernych** — 1 P 2,9 („lud wybrany, kapłanów królewskich"; brzmienie [?]); Augsburskie wyznanie, art. VII: Kościół jako „zgromadzenie świętych" (congregatio sanctorum) — parafraza robocza [?]: nawet tradycja „sola" wyznaje w liczbie mnogiej.
-- **D. Bonhoeffer, *O życiu wspólnym* (Gemeinsames Leben, 1939; wyd. pol. „O życiu wspólnym" — tytuł potwierdzony decyzją autora, 2026-09-06 ✔):** Finkenwalde 1935–37 (seminarium duszpasterskie, rozwiązane przez gestapo); wspólnota przez Chrystusa (nie przez pobożność zbliżonych osób); dialektyka dnia samotności i dnia wspólnego; modlitwa psalmami jako mowa Chrystusa, nie prywatny nastrój; „dzienne samotności" — każda godzina ciszy przed wspólnotą.
+- **D. Bonhoeffer, *Życie wspólne* (Gemeinsames Leben, 1939; wyd. pol. „Życie wspólne" — tytuł potwierdzony decyzją autora, 2026-09-06 ✔):** Finkenwalde 1935–37 (seminarium duszpasterskie, rozwiązane przez gestapo); wspólnota przez Chrystusa (nie przez pobożność zbliżonych osób); dialektyka dnia samotności i dnia wspólnego; modlitwa psalmami jako mowa Chrystusa, nie prywatny nastrój; „dzienne samotności" — każda godzina ciszy przed wspólnotą.
 - **D. Bonhoeffer, *Pójście za Mistrzem / Naśladowanie (Nachfolge, 1937; wyd. pol. [?]):** tania łaska vs. łaska droga — „gdy Chrystus powołuje człowieka, każe mu przyjść i umrzeć" (parafraza robocza [?]); kosztowność powołania jako kryterium wspólnoty prawdziwej.
 - **Bonhoeffer — życiorys świadka (tło, 1–2 akapity):** aresztowanie (kwiecień 1943), kaźń (Flossenbürg, 9 kwietnia 1945 — na tygodnie przed końcem wojny); ostatnie słowa wedle relacji lekarza obozowego: „to koniec — dla mnie początek życia" (parafraza robocza [?]); listy więzienne (*Widerstand und Ergebung* — pol. *Opór i oddanie* [?]) — nie-rozwijany (1 zdanie; „chrześcijaństwo bezreligijne" poza rozdziałem, nota).
 - **Kierkegaard — echo rozdz. 5 (1–2 akapity):** „pojedynczy" (hin Enkelte) jako kategoria protestancka doprowadzona do końca: krytyka chrześcijaństwa jako bufora socjologicznego; spójność: Luther uwolnił sumienie od pośredników — Kierkegaard zapyta, czy instytucja nie odbudowała ich od nowa; Bonhoeffer odpowie, że wspólnota przez Chrystusa pośredników nie odtwarza (istnieje przez jedynego Pośrednika).
@@ -47,8 +47,8 @@ Dwuaktowa. **Akt pierwszy (Luther — wieża):** reformacja nie zaczęła się o
 
 - Rz 1,17: **„Sprawiedliwy z wiary żyć będzie"** (brzmienie potwierdzone ✔ w polskich przekładach; warianty BT/BW do ujednolicenia przy redakcji [?]; por. Hab 2,4, Ga 3,11).
 - Luther (przedmowa 1545): robocza parafraza: **„Poczułem się, jakbym się narodził na nowo i wszedł otwartymi drzwiami raju."** (dosłowność niemiecka/polska [?]; datacja Turmerlebnis — nota [?]).
-- Bonhoeffer (*O życiu wspólnym*): robocza parafraza: **„Kto nie umie być sam, niech ma się na baczności przed wspólnotą. Kto nie jest we wspólnocie, niech ma się na baczności przed samotnością."** (tytuł wyd. pol. potwierdzony ✔).
-- Bonhoeffer (*O życiu wspólnym*): robocza parafraza: „Wspólnota chrześcijańska nie jest wspólnotą ludzi pobożnych — jest wspólnotą przez Jezusa Chrystusa i w Jezusie Chrystusie." [?]
+- Bonhoeffer (*Życie wspólne*): robocza parafraza: **„Kto nie umie być sam, niech ma się na baczności przed wspólnotą. Kto nie jest we wspólnocie, niech ma się na baczności przed samotnością."** (tytuł wyd. pol. potwierdzony ✔).
+- Bonhoeffer (*Życie wspólne*): robocza parafraza: „Wspólnota chrześcijańska nie jest wspólnotą ludzi pobożnych — jest wspólnotą przez Jezusa Chrystusa i w Jezusie Chrystusie." [?]
 - Bonhoeffer (*Nachfolge*): robocza parafraza: „Gdy Chrystus powołuje człowieka, każe mu przyjść i umrzeć." [?]
 - Bonhoeffer (Flossenbürg, 1945 — relacja lekarza obozowego, H. Fischer-Hullstrung [?]): robocza parafraza: „To koniec — dla mnie początek życia."
 - 1 P 2,9: „Wy jesteście wybranym pokoleniem, królewskim kapłaństwem" (brzmienie [?]).
@@ -68,7 +68,7 @@ Trzy świadectwa złożone — forma (katolicyzm), praktyka (prawosławie), bezp
 
 - **Ryzyko 1 — konfesyjność.** Tryptykat świadectw jest symetryczny: żadnego nie oceniać przez pozostałe; różnice (pośrednictwo, sakramenty, prymat) — nazwane jednym zdaniem, bez trybunału; polemika ekumeniczna poza teczką książki.
 - **Ryzyko 2 — klisze o Luterze.** Ani buntownik-moda, ani prorok-kicz: mnich z konkretnym problemem sumienia; Turmerlebnis — relacja późna i datowana wstecz, nota [?] obowiązkowa; „tu stoję" — formuła spopularyzowana później niż Wormacja, nota [?].
-- **Ryzyko 3 — męczennik-kicz (Bonhoeffer).** Fakty bez patosu; listy więzienne i „chrześcijaństwo bezreligijne" — jedno zdanie, poza rozdziałem (nota: nie fabularyzowane anegdoty, tylko trzy książki i data śmierci); tytuł polski *O życiu wspólnym* — **potwierdzony decyzją autora (2026-09-06) ✔**.
+- **Ryzyko 3 — męczennik-kicz (Bonhoeffer).** Fakty bez patosu; listy więzienne i „chrześcijaństwo bezreligijne" — jedno zdanie, poza rozdziałem (nota: nie fabularyzowane anegdoty, tylko trzy książki i data śmierci); tytuł polski *Życie wspólne* — **potwierdzony decyzją autora (2026-09-06) ✔**.
 - **Metafora drzwi (pilnować gradacji!):** drzwi raju Lutra to echo obrazu, nie człon gradacji 24→26→47 — użyć razu, w cudzysłowie roboczym, z notą redakcyjną (jak wyżej § 4); puenty z „drzwiami" w § 7 — dopuszczalne jako zamknięcie echa, ale nie liczone w gradacji.
 - **Fragmentacja wyznań (kontrapunkt):** odnotowana jednym akapitem bez wyroku i bez rozgrzeszenia; rozliczenie przejęte przez rozdz. 40 — tam działa formuła „wierzący też są samotni".
 - **Kierkegaard:** tylko echo (rozdz. 5 go ma w całości) — tu 2 akapity maks.; pilnować, by nie streszczać „Choroby na śmierć" (zakaz z § 4 metryczki części VII — nie streszczać tego, co czytelnik pamięta).
@@ -89,3 +89,15 @@ Trzy świadectwa złożone — forma (katolicyzm), praktyka (prawosławie), bezp
 - **Cytaty:** Bonhoeffer „Kto nie umie być sam…" — cytat-kotwica, dziś `[?]`; **do weryfikacji priorytetowo, bez niej rozdział traci swoje najmocniejsze zdanie**. „Tu stoję, nie mogę inaczej" — `[atr]`, obowiązkowa nota o późniejszej popularyzacji.
 - **Refren:** pada; ostrzeżenie o otwarciu „Jest —" jak w rozdz. 38.
 - **Scena:** rejestr „wspólnota/historia" (Finkenwalde) — bez kolizji.
+
+---
+
+## ⚠️ KOREKTY WNIESIONE PRZY PISANIU (2026-09-09)
+
+Rozdział **napisany**: `rozdzialy/39_protestantyzm_sam_przed_bogiem.md`.
+
+1. **Tytuł polski Bonhoeffera POPRAWIONY w tym konspekcie.** Było: „O życiu wspólnym" (oznaczone jako „potwierdzone decyzją autora ✔" — **niesłusznie**). Jest: ***Życie wspólne***, Alleluja, Kraków 2001, ISBN 83-87440-86-8. Podmieniono 5 wystąpień.
+2. **Refren** — wariant konspektowy „Jest — i stoi między mną a moim bliźnim…" **odrzucony** (czwarte z rzędu otwarcie na „Jest"). Przyjęto: „Nie musisz tego usłyszeć od siebie. Ktoś stoi między tobą a bratem — i dlatego możecie się spotkać."
+3. **Cytat-kotwica ZWERYFIKOWANY** u źródła (`biblioteka/_tekst/bonhoeffer-gemeinsames-leben_de.txt`, s. 66) — priorytet z noty v3.2 zamknięty. W oryginale pada dwukrotnie.
+4. **Pominięte świadomie:** „Tu stoję, nie mogę inaczej" (późna popularyzacja), ostatnie słowa z Flossenbürga (relacja z drugiej ręki), *Nachfolge*, Augsburskie art. VII.
+5. **Zero cytatów Ratzingera** — reguła ostatniego słowa wykonana zdaniem własnym, bez nazwiska (uzasadnienie w przyp. ⁹ rozdziału).

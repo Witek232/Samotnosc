@@ -44,7 +44,7 @@ Wypełniać przy każdym napisanym rozdziale. Cel: żadne dwie odpowiedzi nie mo
 | 36 | „Tutaj — i podaje ci chleb" | napisany |
 | **37** | „tam, gdzie będziesz najbardziej sam, ktoś może zejść, żeby tam być" | napisany 2026-09-07 |
 | **38** | **„Pokój, przed którym uciekasz, jest już zamieszkany. Usiądź."** | **napisany 2026-09-09** — ⚠️ wariant konspektowy („Jest — i pokój…") **odrzucony**, żeby przerwać serię otwarć na „Jest" |
-| 39 | „Jest — i stoi między mną a moim bliźnim jako to, co nas łączy" | konspekt — ⚠️ **do przeformułowania przy pisaniu**: ten wariant również otwiera się na „Jest" (zob. ostrzeżenie wyżej) |
+| 39 | „Nie musisz tego usłyszeć od siebie. Ktoś stoi między tobą a bratem — i dlatego możecie się spotkać." | **napisany 2026-09-09** — wariant konspektowy („Jest — i stoi między mną…") **odrzucony**; nowa odpowiedź otwiera się **przeczeniem** (forma dotąd nieużyta), co domyka serię „Jest" (26/32/33/35) |
 | **40** | „Samotność nie jest miernikiem obecności" | napisany 2026-09-08 |
 | **41** | „Wołaj także wtedy, gdy nic z tego nie masz" | napisany 2026-09-08 |
 | **43** | „Jest — i patrzy. I to spojrzenie nie zamienia mnie w rzecz, bo nie potrzebuje mnie do niczego." | napisany 2026-09-08 |
@@ -76,8 +76,8 @@ Sceny są najmocniejszą stroną rękopisu — niosą więcej niż argumenty. Gr
 | 24 | (centrum — Wielka Sobota) | liturgia/ciemność | napisany |
 | 36 | łamanie chleba, niedzielna msza | kościół | napisany |
 | 37 | nocny patrol pod mostem | ulica | napisany |
-| 38 | cela Ojca Pustyni | pustynia/cela | konspekt |
-| 39 | Finkenwalde, poranek 1936 | wspólnota/historia | konspekt |
+| 38 | cela Ojca Pustyni | pustynia/cela | napisany |
+| 39 | Finkenwalde, dzień seminarium (1935–1937) | wspólnota/historia | **napisany** — scena podana jako *plan dnia = teza* |
 
 **Wolne rejestry do obsadzenia (propozycje przypisania):**
 

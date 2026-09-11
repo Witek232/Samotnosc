@@ -111,6 +111,14 @@ Zostaje pytanie, które ta teza otwiera i którego ten rozdział podjąć nie mo
 
 ³ Augustyn, *De Trinitate*, ks. IX–XV — triada kochający/kochany/miłość (ks. IX) oraz memoria/intelligentia/voluntas (ks. X i XIV); użycie wyłącznie jako obrazu (konspekt § 10, ryzyko 4). Wyd. pol.: *O Trójcy Świętej*, przeł. **M. Stokowska**, Poznań **1962** — ✔ **dane ustalone 2026-09-09**: Ratzinger cytuje dokładnie ten przekład we *Wprowadzeniu* (przypis na s. 136). Numeracja ksiąg/rozdziałów jest w wydaniach jednolita, więc lokalizacja „ks. IX" wystarcza i **nie wymaga stron**.
 
+✅✅ **POTWIERDZONE PONOWNIE 2026-09-11 (audyt etap A) — wszystkie trzy brzmienia i obie strony sprawdzone znak po znaku w egzemplarzu projektu.** Ustalenia dokładne:
+- **s. 134**: „…są wzajemną relacją, której czysta aktualność (»wiązka fal«!) **nie usuwa jedności najwyższej Istoty, ale tę jedność sprawia**";
+- **s. 134**, bezpośrednio dalej, cytat z Augustyna: „**Ojciec nazywa się Ojcem nie ze względu na siebie, ale ze względu na Syna, odnośnie do siebie jest po prostu Bogiem**" (⚠️ w pliku OCR ma „ze Względu" — literówka skanu, nie oryginału);
+- **s. 134–135**: „»Ojciec« jest czystym pojęciem relacji… **Osoba jest czystą relacją odnoszenia się do kogoś, niczym więcej**";
+- **s. 135**: „**W Bogu nie ma żadnych przypadłości, jest tylko substancja i relacja (stosunek)**" — ⭐ z pełnym adresem źródłowym podanym przez Ratzingera w przypisie: **Augustyn, *Enarrationes in Psalmos* 68 I, 5; CChr 39, s. 905; PL 36, s. 845**.
+⭐ **To domyka przypis ³ co do lokalizacji Augustyna** — adres nie jest już „z drugiej ręki bez namiaru", tylko ma pełne dane krytyczne, które Ratzinger sam podaje. ⚠️ Nadal jest to **cytowanie pośrednie** (Augustyn za Ratzingerem) i ⛔ tak trzeba to oznaczyć przy redakcji.
+⚠️ ⭐ **Rekomendacja niewykonana — do decyzji autora.** Nota niżej mówi, że pierwszy cytat jest „dla ruchu IV lepszy niż triada z ks. IX". **Nie wprowadziłem go**, bo rozdział **nie ma ani jednego cytatu blokowego** i jest to jego świadoma forma (esej ciągły). ⚠️ Gdyby miał wejść — miejsce jest wskazane, brzmienie pewne, limit wolny.
+
 **Dwa cytaty Augustyna gotowe do użycia — z drugiej ręki, ale z ręki pewnej** (Ratzinger, *Wprowadzenie*, s. 134–135, z podanymi adresami źródłowymi): „**Ojciec nazywa się Ojcem nie ze względu na siebie, ale ze względu na Syna, odnośnie do siebie jest po prostu Bogiem**" (*Enarrationes in Psalmos* 68 I, 5) oraz „**W Bogu nie ma żadnych przypadłości, jest tylko substancja i relacja**". Pierwszy jest dla ruchu IV lepszy niż triada z ks. IX, bo mówi wprost o relacji, a nie o analogii psychologicznej — a przy tym **omija ryzyko 4** (obraz brany za opis wnętrza Boga).
 
 ⁴ Tomasz z Akwinu, *Summa theologiae* I, q. 27–43; **q. 28 — relacje realne w Bogu**; q. 29 — osoba (pomost z rozdz. 28).

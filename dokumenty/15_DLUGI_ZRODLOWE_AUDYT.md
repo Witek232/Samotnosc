@@ -72,9 +72,30 @@ Szukałem w rozdziałach frazy „**z autopsji**" — i na tej podstawie napisa�
   ⚠️⚠️ **Dopisałem przy tym ZAKAZ, bo pokusa jest duża:** ⛔ to **nie jest** kontrprzykład wobec Heideggera i Yaloma z rozdz. 20 („nikt nie może umrzeć za mnie"). **Kolbe umarł własną śmiercią**; tamtemu człowiekowi śmierć została **odroczona, nie odjęta**. Gdyby ten przykład wchodził do książki, **musi iść z tym zastrzeżeniem** — inaczej podważy rozdział szczytowy części IV. ⭐ Miejsce docelowe: **37 albo 48**, nie 28.
 - ⚠️ Otwarte zostaje jedno: **paginacja polskiego wydania *Osób*** (Oficyna Naukowa 2001). ⛔ Stron wskazanych za opracowaniami **nie wpisuję** — strona podana za cudzym opracowaniem nie jest stroną sprawdzoną.
 
+### Rozdz. 4 — dwie noty zamknięte, Pascal pozyskany
+
+- ⭐⭐ **PEŁNY TEKST *MYŚLI* W PRZEKŁADZIE BOYA POZYSKANY** (Wolne Lektury, domena publiczna, `/home/user/pascal.txt`). ✔ **Cytat główny — fr. 139 — potwierdzony Z AUTOPSJI, co do słowa**, wraz z kontekstem (szarża w armii; „zgiełk, który odwraca nasze myśli"; ⭐ „**rozkosz samotności jest rzeczą niezrozumiałą**"). ⭐ Potwierdzona też numeracja: poprzedza go fr. 138, zgodnie z Brunschvicgiem.
+- ⭐ **Rozstrzygnięta stara wątpliwość** („człowiek chce, żeby go oszukiwano"): właściwe miejsce to **fr. 100** — ale dotyczy **wzajemnego oszukiwania się ludzi**, nie ucieczki przed sobą. ⛔ **Nie wprowadziłem i odradzam** — byłoby to podpięcie cytatu pod nie tę tezę. ⭐ Trop dla rozdz. 14 i 44.
+- ✅ **Sprawdzona nota „do weryfikacji": zapowiedź rozdz. 44 jest TRAFNA.** W rozdz. 44 jest scena czwartej rano z twarzą w lustrze i pytaniem „czy ktoś by zauważył, gdybym nie wrócił do łóżka?". ⚠️ Drobiazg: rozdz. 4 mówi „łazienka", rozdz. 44 nie nazywa pomieszczenia — **ujednolicić przy redakcji**.
+- ⚠️ Rozdz. 4 nadal **świadomie bez Ratzingera** (odstępstwo od reguły ostatniego słowa, uzasadnione w notach) — **nie zmieniam, to decyzja autora**.
+
+### Rozdz. 32 — brzmienia i strony potwierdzone znak po znaku
+
+- ✔✔ Wszystkie trzy kluczowe miejsca *Wprowadzenia* sprawdzone: **s. 134** („czysta aktualność… **nie usuwa jedności najwyższej Istoty, ale tę jedność sprawia**"), **s. 134** (Augustyn: „Ojciec nazywa się Ojcem nie ze względu na siebie…"), **s. 134–135** („**Osoba jest czystą relacją odnoszenia się do kogoś, niczym więcej**"), **s. 135** („W Bogu nie ma żadnych przypadłości, jest tylko substancja i relacja").
+- ⭐ **Domknięty adres Augustyna:** Ratzinger podaje pełne dane krytyczne — ***Enarrationes in Psalmos* 68 I, 5; CChr 39, s. 905; PL 36, s. 845**. Cytat pozostaje **pośredni**, ale ma już namiar źródłowy, nie tylko nazwisko.
+- ⚠️ **Rekomendacja z aparatu niewykonana świadomie:** rozdział **nie ma ani jednego cytatu blokowego** i jest to jego forma (esej ciągły). Miejsce i brzmienie są gotowe, limit wolny — **do decyzji autora**.
+
+### Rozdz. 29 — Buber domknięty, strony ustalone
+
+- ✔ Cytaty Bubera **potwierdzone z autopsji** w warstwie tekstowej wydania PAX 1992.
+- ⭐⭐ **Ustalone przesunięcie paginacji, co zamyka dług otwarty od 09-09.** Traktat *Ja i Ty* zaczyna się na **PDF 38**, a przypis ⁵ (potwierdzony niezależnie ze spisu treści) lokalizuje początek na **s. 39** → **offset +1**. Sprawdzone na dwóch punktach kontrolnych. **Wynik:** „Każde prawdziwe życie jest spotkaniem" — **s. 45**; „Nie istnieje Ja w sobie…" — **s. 39–40**.
+- ⚠️ **Zastrzeżenie zostawione w tekście:** offset jest **wyliczony, nie odczytany** (skan nie ma drukowanych numerów). Zgadza się na dwóch punktach i ze starszym ustaleniem „s. 44–45", ale ⛔ **przed drukiem potwierdzić wzrokowo**.
+
 ### ⭐ Wniosek z etapu A
 
-Na **osiem** sprawdzonych rozdziałów (40, 42, 45, 46, 47, 34, 28 + kontrola całości): **dwa realne błędy** — sklejka cytatu w *Duchu liturgii* i **numeracja v2 w notach rozdz. 34**; **jedna błędna nazwa rozdziału**; **jeden nieaktualny przypis** (Buber); **trzy ustalone strony**; **jedna wykonana rekomendacja** (J 4,26) i **trzy nowe znaleziska** (Eschatologia s. 90, Spaemann ×2). ⚠️ Reszta wcześniejszych audytów **potwierdziła się** — to dobra wiadomość o jakości pracy z 09-08…09-10.
+Na **jedenaście** sprawdzonych rozdziałów (40, 42, 45, 46, 47, 34, 28, 4, 32, 29 + kontrola całości): **dwa realne błędy** — sklejka cytatu w *Duchu liturgii* i **numeracja v2 w notach rozdz. 34**; **jedna błędna nazwa rozdziału**; **jeden nieaktualny przypis** (Buber); **trzy ustalone strony**; **jedna wykonana rekomendacja** (J 4,26) i **pięć nowych znalezisk** (Eschatologia s. 90, Spaemann ×2, Pascal fr. 100, offset Bubera).
+
+⭐ **Drugi wniosek, ważniejszy od statystyki:** im głębiej wchodzę w rozdziały 22–50, tym wyraźniej widać, że **wcześniejsze audyty były rzetelne**. Prawie wszystko, co sprawdziłem, potwierdziło się co do słowa; błędy, które znalazłem, leżały **poza cytatami** (numeracja odesłań, sklejka wielokropkami, nieaktualna nota o bibliotece). ⭐ To pozwala przesunąć priorytet: **z weryfikowania cytatów na domykanie paginacji i porządkowanie odesłań wewnętrznych.** ⚠️ Reszta wcześniejszych audytów **potwierdziła się** — to dobra wiadomość o jakości pracy z 09-08…09-10.
 
 ---
 

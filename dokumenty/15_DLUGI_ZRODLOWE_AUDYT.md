@@ -57,9 +57,24 @@ Szukałem w rozdziałach frazy „**z autopsji**" — i na tej podstawie napisa�
 - ⛔ **Stron nie podałem i nie oszacowałem** — w tej partii pliku brak czytelnych znaczników paginacji. Uznałem, że **lepszy jest pewny rozdział niż zmyślona strona**; `[s?]` zostaje świadomie.
 - ✅ Sprawdzona możliwa kolizja: obraz „przesiek" jest w **tekście głównym tylko w rozdz. 47**, w 46 wyłącznie w aparacie. **Rezerwacja dochowana.**
 
+### Rozdz. 34 — jeden realny błąd, jedna rekomendacja wykonana
+
+- ⚠️⚠️ **BŁĄD ZNALEZIONY: noty redakcyjne miały numerację z wersji v2, nieprzeliczoną na v3.** „Podział pracy z sąsiadami" odsyłał m.in. do „rozdz. 30 (Trójca)" i „rozdz. 31 (Syn)" — a pod tymi numerami stoją w v3 **Heschel** i **wiara jako zaufanie**. ⛔ Każdy, kto by te odesłania sprawdzał, trafiłby w niewłaściwe rozdziały. ✅ **Poprawione**: 27 (rany), 29 (ja–ty), 32 (Trójca), 33 (Syn), 35 (Kościół), 41–43 (zarzuty). ⚠️ Trzy pozycje zostawione jako `[?]`, bo opis nie wskazuje jednoznacznie rozdziału — **nie przeliczałem ich na siłę**.
+- ✅ **Sprawdziłem, czy ten sam błąd jest gdzie indziej** — skryptem, porównując opisy odesłań z nazwami plików v3. ⭐ **Nie ma; rozdz. 34 był jedynym miejscem.**
+- ✅ **Wykonana rekomendacja z poprzedniego audytu: J 4,26 wprowadzone do ruchu I.** Brzmienie ✔ z BT: „**Jestem nim Ja, który z tobą mówię**". ⭐ Dopisałem zdanie o **formie gramatycznej** — druga osoba, jeden człowiek, bez świadków — bo dla tezy rozdziału („Bóg staje się spotykalnym »Ty«") argumentem jest właśnie forma, nie treść wyznania.
+- ✔ Reszta aparatu (J 1,14, J 4,1–42, *Jezus z Nazaretu* cz. II) potwierdzona wcześniejszym audytem; `[?]` przy „namiocie" i przy „szóstej godzinie" **zostają świadomie** — to decyzje stylistyczne i uczciwe zastrzeżenie interpretacyjne, nie luki.
+
+### Rozdz. 28 — aparat solidny, dwa znaleziska dopisane
+
+- ✔ Rozdział okazał się jednym z lepiej udokumentowanych: Boecjusz, Tomasz (*STh* I q. 29 a. 3), Spaemann (wykład 2011, ✔ co do słowa), Wojtyła — wszystko sprawdzone wcześniej.
+- ⭐⭐ **Znalezisko 1 — s. ~178:** Spaemann rozróżnia **indywiduum i osobę** („Indywiduum jest częścią wspólnoty… ale podporządkowując się dobrowolnie, jest **czymś znacznie więcej niż częścią. Samo jest całością. Staje się niewspółmierne**"). ⭐ To jest **mocniejsze niż zdanie własne rozdziału** o państwie i instytucji. ⚠️ Nie wprowadzam do tekstu — limit cytatów wyczerpany; **do decyzji przy redakcji**.
+- ⭐⭐⭐ **Znalezisko 2 — KOLBE.** Spaemann łamie chłodny rachunek („dwoje jest wartościowsze niż jeden") **przykładem Maksymiliana Kolbego**, a wcześniej stawia tezę: ludzie, którzy się poświęcili, **są więksi niż to, dla czego się poświęcili**.
+  ⚠️⚠️ **Dopisałem przy tym ZAKAZ, bo pokusa jest duża:** ⛔ to **nie jest** kontrprzykład wobec Heideggera i Yaloma z rozdz. 20 („nikt nie może umrzeć za mnie"). **Kolbe umarł własną śmiercią**; tamtemu człowiekowi śmierć została **odroczona, nie odjęta**. Gdyby ten przykład wchodził do książki, **musi iść z tym zastrzeżeniem** — inaczej podważy rozdział szczytowy części IV. ⭐ Miejsce docelowe: **37 albo 48**, nie 28.
+- ⚠️ Otwarte zostaje jedno: **paginacja polskiego wydania *Osób*** (Oficyna Naukowa 2001). ⛔ Stron wskazanych za opracowaniami **nie wpisuję** — strona podana za cudzym opracowaniem nie jest stroną sprawdzoną.
+
 ### ⭐ Wniosek z etapu A
 
-Na sześć sprawdzonych rozdziałów: **jeden realny błąd merytoryczny** (sklejka w *Duchu liturgii*), **jedna błędna nazwa rozdziału**, **jeden nieaktualny przypis** (Buber) i **trzy ustalone strony**. ⚠️ Reszta wcześniejszych audytów **potwierdziła się** — to dobra wiadomość o jakości pracy z 09-08…09-10.
+Na **osiem** sprawdzonych rozdziałów (40, 42, 45, 46, 47, 34, 28 + kontrola całości): **dwa realne błędy** — sklejka cytatu w *Duchu liturgii* i **numeracja v2 w notach rozdz. 34**; **jedna błędna nazwa rozdziału**; **jeden nieaktualny przypis** (Buber); **trzy ustalone strony**; **jedna wykonana rekomendacja** (J 4,26) i **trzy nowe znaleziska** (Eschatologia s. 90, Spaemann ×2). ⚠️ Reszta wcześniejszych audytów **potwierdziła się** — to dobra wiadomość o jakości pracy z 09-08…09-10.
 
 ---
 

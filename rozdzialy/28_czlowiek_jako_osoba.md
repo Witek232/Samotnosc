@@ -119,6 +119,21 @@ Zdanie z korpusu artykułu, co do słowa:
 
 **Nadal otwarte [?]:** paginacja **polskiego wydania *Osób***. Autor projektu wskazał (za opracowaniami) s. 167–168, 220–223, 296–297 jako miejsca kluczowe — **nie weryfikowałem tych stron u źródła i nie wpisuję ich do przypisów**; strona podana za cudzym opracowaniem nie jest stroną sprawdzoną. Zob. nota „Spaemann — co dalej" poniżej.
 
+---
+
+⭐⭐ **UZUPEŁNIENIE 2026-09-11 (audyt Ratzingerowski, etap A) — DWA ZNALEZISKA W WYKŁADZIE, KTÓRY JUŻ MAMY.** Przeglądając ponownie `spaemann_was-macht-personen-zu-personen_de.txt`, znalazłem dwa miejsca nieużyte przez rozdział, a dla tej książki pierwszorzędne. ⭐ **Plik ma czytelną paginację druku** (znaczniki `[173]`–`[186]`), więc lokalizacje są pewne.
+
+**(1) Rozróżnienie INDYWIDUUM / OSOBA — s. ~178.** Spaemann: *„Person meint nicht einfach das Individuum. Das Individuum ist ein Teil des Gemeinwesens, dem es angehört und das ihm zu leben ermöglicht. Indem das Individuum sich aber freiwillig dem Ganzen als Teil unterordnet, ist es weit mehr als ein Teil. Es ist selbst das Ganze. Es wird **inkommensurabel**."*
+(„Osoba nie znaczy po prostu indywiduum. Indywiduum jest częścią wspólnoty… Ale gdy indywiduum dobrowolnie podporządkowuje się całości jako część, jest **czymś znacznie więcej niż częścią. Samo jest całością. Staje się niewspółmierne**." — przekład roboczy, mój.)
+⭐⭐ **To jest dokładnie to, czego rozdział szukał w ruchu o państwie i instytucji** — i mocniejsze niż zdanie własne. ⚠️ **Do rozważenia przy redakcji**; ⛔ w tekście głównym **na razie nic nie zmieniam**, bo limit cytatów jest wyczerpany.
+
+**(2) ⭐⭐⭐ KOLBE — i to jest znalezisko o wadze osobnej.** Bezpośrednio po tamtym zdaniu Spaemann przechodzi do rachunku, który wygląda na chłodny (dwoje ludzi jest „wartościowsze" niż jeden; przy przydziale narządów trzeba ewaluować życie biorców) — **i łamie go przykładem Maksymiliana Kolbego**: *„So fand Maximilian Kolbe, der polnische Priester, daß das Leben eines zum Tode durch [Hunger Verurteilten…]"*.
+⭐ Kontekst całego wywodu (s. ~177–178) jest taki: ludzie, którzy się poświęcili, **są więksi niż to, dla czego się poświęcili** — *„sie sind größer als das, wofür sie sich geopfert haben"* — a żeby tę myśl w ogóle dało się pomyśleć, potrzebne jest **pojęcie osoby**, którego (jak pisze) „marksizm zna równie mało, co kolektywizm nacjonalistyczny".
+⚠️ **Dlaczego to ważne dla tej książki, a nie tylko dla tego rozdziału:** Spaemann pokazuje, że **kalkulacja i osoba należą do dwóch różnych porządków** — i robi to na przykładzie, w którym ktoś **wszedł w śmierć zamiast kogoś**. ⚠️⚠️ ⛔ **ALE UWAGA — ZAKAZ NADUŻYCIA:** to **nie** jest kontrprzykład wobec Heideggera i Yaloma z rozdz. 20 („nikt nie może umrzeć za mnie"). Kolbe umarł **własną śmiercią**; tamtemu człowiekowi jego śmierć **nie została odjęta**, tylko odroczona. ⭐ **Rozdz. 20 rozstrzygnął to wprost i tak ma zostać.** ⚠️ Gdyby ten przykład wchodził do książki, **musi iść razem z tym zastrzeżeniem** — inaczej podważy rozdział szczytowy części IV.
+⭐ **Miejsce docelowe: rozdz. 37 (caritas) albo 48**, nie tutaj. **Zapisane jako trop, nie jako zadanie.**
+
+⚠️ Ograniczenie wspólne dla obu: to **wykład niemiecki**, nie *Osoby*; ⛔ nie wolno tych brzmień podawać jako cytatów z polskiego wydania książki.
+
 ⁷ R. Spaemann, **„Was macht Personen zu Personen?"** — wykład wygłoszony na kolokwium Lindenthal-Institut w Kolonii (2011), druk: H. Thomas, J. Hattler (red.), *Personen. Zum Miteinander einmaliger Freiheitswesen*, De Gruyter, Berlin–Boston 2012, s. 29–46. Kopia w bibliotece projektu: `biblioteka/spaemann_was-macht-personen-zu-personen_de.pdf`, tekst: `biblioteka/_tekst/spaemann_was-macht-personen-zu-personen_de.txt` (pliki źródłowe **nie trafiają do repozytorium** — `.gitignore`, zob. `biblioteka/README.md`; PDF jest dostępny publicznie w sieci), **s. 183–184**. ✔ **ZWERYFIKOWANE co do słowa 2026-09-09** (kopia w bibliotece):
 
 > „Keine Mutter hat das Gefühl, ein Ding, ein Etwas so lange durch Reden zu konditionieren, bis es anfängt, selbst zu sprechen. Ein Kind lernt deshalb auch nicht durch einen Computer zu sprechen. […] **Sie sagt »du« zu dem Kind**, sie behandelt es als kleine Person, und **nur weil das Kind bereits als Person behandelt wird, wird es zu dem, was es von Anfang an war**."

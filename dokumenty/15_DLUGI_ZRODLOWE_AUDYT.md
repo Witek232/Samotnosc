@@ -1,0 +1,162 @@
+# DOKUMENT 15 — DŁUGI ŹRÓDŁOWE: AUDYT CAŁOŚCI
+
+**Utworzony:** 2026-09-11, po napisaniu wszystkich 51 jednostek.
+**Podstawa:** przegląd **wszystkich 51 rozdziałów** (nie tylko ostatnio pisanych) — liczba cytatów blokowych, oznaczenia „BEZ CYTATU", liczba potwierdzeń „z autopsji", 83 znaczniki `[?]` w rozdziałach 22–50.
+**Zastępuje:** dok. 14 w funkcji listy poszukiwań (dok. 14 zostaje jako zapis historii dwóch zamkniętych spraw: Nietzsche i Nygren).
+
+---
+
+## 0. Wniosek w trzech zdaniach
+
+**Książka jest napisana w całości, ale jej aparat jest nierówny w sposób, który da się dokładnie zmierzyć.** Rozdziały **16–21** (część IV i szczyt III) stoją na źródłach czytanych z autopsji; rozdziały **22–50** — czyli **cała druga połowa książki, teologiczna** — powstały **bez ani jednego potwierdzenia „z autopsji"** poza pojedynczymi wyjątkami, a przy tym zawierają **najwięcej cytatów Ratzingera**. To jest główny dług projektu i nie jest nim żaden pojedynczy tytuł.
+
+⚠️ **To nie znaczy, że tamte rozdziały są zmyślone** — powstawały na konspektach i kartotece, a ich autorzy zaznaczali wątpliwości. Znaczy, że **nie zostały zweryfikowane w wydaniach**, a stała zasada tego projektu brzmi: *nie cytować Ratzingera z pamięci*.
+
+---
+
+## 1. Mapa: gdzie aparat jest mocny, a gdzie słaby
+
+| Blok | Rozdziały | Stan aparatu | Ocena |
+|---|---|---|---|
+| Prolog i część I | 00–03 | mało cytatów, ale i mało twierdzeń wymagających źródła | ✅ w porządku |
+| Część II | 04–11 | **dobra**: Nietzsche, Freud, Sartre, MacIntyre, Arendt, Taylor (przez recenzję), Zmierzch bożyszcz — z autopsji | ✅ / ⚠️ 11 słaby |
+| Część III | 12–16 | **nierówna**: Putnam, Han, DCE, *Spe salvi* ✔ z autopsji; ⛔ **Lasch i Kohut w ogóle niedostępni** | ⚠️ |
+| Część IV | 17–21 | **najlepsza w książce** — Hawkley & Cacioppo, Yalom, Bowlby (podgląd) ✔; ⛔ Frankl i Rosa słabi | ✅ / ⚠️ |
+| **Części V–VII** | **22–50** | ⚠️⚠️⚠️ **zero autopsji, 83 znaczniki `[?]`, najwięcej cytatów Ratzingera** | ⛔ **główny dług** |
+
+---
+
+## 2. ⛔ DŁUG NR 1 (największy): weryfikacja Ratzingera w rozdziałach 22–50
+
+To jest **najpilniejsza sprawa w całym projekcie** i jedyna, która realnie zagraża wiarygodności książki.
+
+### Co dokładnie jest do sprawdzenia
+
+Zliczone wystąpienia w rozdziałach 22–50:
+
+| Dzieło | Wystąpień | Czy mamy tekst? |
+|---|---|---|
+| ***Wprowadzenie w chrześcijaństwo*** | **38** | ✅ **JEST** w `biblioteka/_tekst/` |
+| **Katechizm (KKK)** | **37+14** | ✅ **JEST** online: `katechizm.opoka.org.pl` |
+| ***Spe salvi*** | **30** | ✅ **JEST** (`/home/user/spe.txt`, vatican.va) |
+| ***Eschatologia. Śmierć i życie wieczne*** | **23** | ✅ **JEST** w `biblioteka/_tekst/` |
+| ***Jezus z Nazaretu*** | **16** | ✅ **JEST** t. 2 w `biblioteka/_tekst/` |
+| ***Deus caritas est*** | **15** | ✅ **JEST** (`/home/user/dce.txt`) |
+| ***Bóg i świat*** (wywiad Seewalda) | **7** | ✅ **JEST** w `biblioteka/_tekst/` |
+| ***Duch liturgii*** | **6** | ✅ **JEST** w `biblioteka/_tekst/` |
+
+⭐⭐ **I to jest najważniejsza wiadomość tego dokumentu: OSIEM NAJCZĘŚCIEJ CYTOWANYCH ŹRÓDEŁ JUŻ MAMY.** Nie trzeba niczego zdobywać. Trzeba **usiąść i sprawdzić**, rozdział po rozdziale, czy brzmienia i lokalizacje w tekście zgadzają się z plikami.
+
+### Dlaczego to pilne — dowód, że warto
+
+Przy pisaniu tego audytu sprawdziłem jedno miejsce na próbę i od razu znalazłem rzecz cenną. **Eschatologia, ok. s. 90**:
+
+> „Jej istotą jest opuszczenie, izolacja, samotność — a przez to wydanie człowieka nicości."
+> „Życie to wspólnota, istotą śmierci jest wyrwanie z wszystkich więzi."
+
+⭐⭐ To jest **teza całej tej książki wypowiedziana przez Ratzingera wprost** — i leży w pliku, który mamy od dawna. Rozdziały 24 i 26 mają w tych okolicach `[?]`.
+
+### Jak to zrobić (proponowany tryb pracy)
+
+Nie jednym rzutem — **po jednym rozdziale**, tak jak robiliśmy audyt 23–34. Dla każdego:
+1. wypisać wszystkie cytaty i lokalizacje;
+2. odszukać je w plikach z `biblioteka/_tekst/` i w tekstach encyklik;
+3. **zdjąć `[?]`** tam, gdzie się zgadza; **poprawić** tam, gdzie nie; **usunąć cudzysłów** tam, gdzie nie ma potwierdzenia.
+
+⚠️ **Kolejność wg ryzyka** (najwięcej cytatów Ratzingera + najwięcej `[?]`):
+**26** (29 wystąpień, 5 `[?]`) → **24** (17 / 5) → **34** (9 / 8) → **28** (8 / 7) → **32** (14 / 4) → **29** (12 / 5) → **27** (16 / 2) → **31** (16 / 2) → **33** (15 / 2) → **47** (15 / 1) → reszta.
+
+---
+
+## 3. ⚠️ DŁUG NR 2: cztery pozycje cytowane często, których NIE MAMY
+
+To są autorzy przewijający się przez całą drugą połowę książki — i przy nich `[?]` zostaje, dopóki ktoś nie sięgnie do wydania.
+
+| Autor / dzieło | Wystąpień w 22–50 | Gdzie szukać | Priorytet |
+|---|---|---|---|
+| ~~M. Buber, *Ja i Ty*~~ | ~~48~~ | ✅✅ **ZAŁATWIONE 2026-09-11 — patrz § 2a** | ~~1~~ |
+| ⭐⭐ **G. Marcel** (*Być i mieć*, tajemnica vs problem) | **47** | ⛔ brak; biblioteka / antykwariat. Potrzebne **jedno rozróżnienie** | **1** (po Buberze najważniejszy) |
+| **J. Pieper, *O nadziei*** (*desperatio* / *praesumptio*) | **24** | ⛔ brak; potrzebne **dwa terminy i jedno zdanie** | **3** |
+| **A. J. Heschel, *Bóg szukający człowieka*** | **21** | ⛔ brak; rozdz. 30 jest **w całości** o nim | **4** |
+| R. Guardini | 15 | ⛔ brak | 5 |
+| H. U. von Balthasar (Wielka Sobota) | 8 | ⛔ brak; ⭐ **kluczowy dla rozdz. 24** | 5 |
+
+⭐ **Buber sprawdzony od razu przy pisaniu tego audytu — i rzeczywiście go mamy.** Patrz § 2a. Najczęściej cytowany autor drugiej połowy książki **schodzi z listy**.
+
+### 2a. ✅✅ BUBER — ZAŁATWIONY (2026-09-11)
+
+Plik `buber.pdf`, leżący w projekcie od dawna, okazał się właściwą książką:
+
+**Martin Buber, *Ja i Ty. Wybór pism filozoficznych*, wybrał, przełożył i wstępem opatrzył Jan Doktór, Instytut Wydawniczy PAX, Warszawa 1992.**
+
+✔ **92 strony, OCR czytelny, tekst wydobyty do `/home/user/buber.txt`.**
+
+⭐⭐ **Oba kluczowe zdania — z autopsji, w polskim przekładzie:**
+
+> „**Staję się Ja w zetknięciu z Ty. Stając się Ja, mówię Ty. Każde prawdziwe życie jest spotkaniem.**"
+
+⭐ Oraz podstawa całego wywodu:
+
+> „**Nie istnieje Ja w sobie, istnieje tylko Ja podstawowego słowa Ja–Ty i Ja podstawowego słowa Ja–Ono.**" · „Podstawowe słowo Ja–Ty można powiedzieć tylko całą istotą."
+
+⚠️ **Ograniczenia, o których trzeba pamiętać:**
+- ⚠️ **To WYBÓR pism, nie samo *Ja i Ty***. Przy przypisie podawać dokładnie ten tytuł i tego wydawcę.
+- ⚠️ **PDF nie zachowuje paginacji książkowej** w warstwie tekstowej — lokalizacje trzeba brać **ze stron PDF** albo odczytać wzrokowo z obrazu. ⚠️ **Przy redakcji ustalić strony wydania.**
+- ⚠️ OCR gubi łączniki („Staję sięja"), więc cytaty **przepisywać ręcznie**, nie kopiować maszynowo.
+
+⭐ **Gdzie to wchodzi:** rozdz. **29** (Ja potrzebuje Ty) przede wszystkim, ale też **25, 28, 32, 44** i część VI. ⭐ Dodatkowo: rozdz. **20** odnotował, że **Yalom-ateista buduje swój opis relacji na Buberze** — teraz można to zestawienie zrobić z tekstem w ręku.
+
+---
+
+## 4. ⚠️ DŁUG NR 3: pojedyncze strony, tanie i konkretne
+
+Te są łatwe: **jedna strona, jedno zdanie**. Uszeregowane wg stosunku „ile zyskujemy / ile kosztuje".
+
+| # | Co | Gdzie w książce | Dlaczego warto |
+|---|---|---|---|
+| 1 | ⭐ **Konfucjusz, *Analekta* IV,25 i I,1** (przeł. K. Pejda, WUW 2018) | rozdz. **11** | **dwa zdania**; dziś mam przekład z przekładu (chiński→ang.→pol.). ⚠️ I,1 to **najsłabszy cytat w książce** — widziany przekład różni się od wersji powszechnej |
+| 2 | ⭐⭐ **Ch. Lasch, *Kultura narcyzmu*, s. 10** (Sedno 2015) | rozdz. **13 i 14** | **najdłużej otwarty dług**; „narcyzm to psychologiczny wymiar tej zależności". Rozdz. 14 nie ma **ani jednego** cytatu |
+| 3 | **V. Frankl** (Czarna Owca 2009) | rozdz. **19** | strony dla **trzech dróg sensu** i dla **„najlepsi z nas stamtąd nie powrócili"** |
+| 4 | **H. Kohut** (1971), „błysk w oku matki", lokalizowane na s. 116 | rozdz. **14** | rozdział bez cytatów; to jedyny kandydat |
+| 5 | **H. Rosa, *Resonanz*** (niem. lub ang. — ⛔ **polskiego przekładu NIE MA**) | rozdz. **21** | **dwa zdania**: definicja + „gdzie wszystko dostępne, świat nie ma nic do powiedzenia" |
+| 6 | **J. Bowlby, *A Secure Base*** — pełny egzemplarz | rozdz. **18** | mamy **podgląd** (s. 11, 26–27, 138); ⭐ warto potwierdzić s. 138 |
+| 7 | **Ch. Taylor, *Samointerpretujące się zwierzęta*** (Aletheia 2001, s. 261–295) | rozdz. **10** | Taylor **po polsku wprost**, nie przez recenzenta |
+| 8 | *Czhandogja* VI (*tat tvam asi*), *Gita* 18,66, *Daodejing* 8/76, *Zhuangzi* (pusta łódź) | rozdz. **11** | ⛔ Zhuangziego **nie szukać w Archive** — OCR nieczytelny |
+| 9 | **E. Fromm, *O sztuce miłości*** | rozdz. **15** | „problem obiektu"; ⚠️ też dane wydania polskiego |
+| 10 | **Heidegger, *Bycie i czas*** § 47 | rozdz. **20 i 22** | dziś cytat **za Yalomem** (podwójne pośrednictwo) |
+
+---
+
+## 5. ✅ Co jest już zamknięte (żeby nie szukać po raz drugi)
+
+- ✔✔ **Nietzsche, *Zmierzch bożyszcz*** — Wolne Lektury, przekład Wyrzykowskiego, tekst pełny.
+- ✔✔ **Nietzsche, *Poza dobrem i złem*** — Mortkowicz 1907, s. 112, af. 167a (ustalenie autora).
+- ✔✔ **Nygren, *Agape and Eros*** — Westminster 1953, tabela s. 210 (Internet Archive, wolny dostęp).
+- ✔✔ **Yalom, *Existential Psychotherapy*** — Basic Books 1980, sześć lokalizacji.
+- ✔✔ **Hawkley & Cacioppo 2010** — PubMed Central, pełny tekst.
+- ✔✔ **Han, *The Burnout Society*** · **Putnam** · **Arendt** · **MacIntyre** · **Sartre** · **Freud** · ***Spe salvi*** · ***Deus caritas est***.
+- ✔ **Żuradzki** (recenzja *Źródeł podmiotowości*) — częściowa spłata długu Taylora.
+
+---
+
+## 6. ⚠️ Sprawy bibliograficzne wykryte przy okazji (do zapamiętania)
+
+- ⚠️⚠️ **Rosa:** *Przyspieszenie, wyobcowanie, rezonans* (ECS 2020) **NIE jest** przekładem *Resonanz* (2016), lecz *Beschleunigung und Entfremdung* (2013); wydawcą jest **Europejskie Centrum Solidarności**, nie „Terytoria". **Poprawione w dok. 01.**
+- ⚠️ **Lasch:** polskim wydawcą jest **Sedno** (2015), nie Znak — jak podawał konspekt 13.
+- ⚠️ **DCE:** konspekt 16 miał **błędną numerację paragrafów we wszystkich czterech** kluczowych miejscach (było § 4/9/10/16, jest § 3/3/7/7). **Poprawione.**
+- ⚠️ **Frankl/Nietzsche:** konspekt 19 lokalizował aforyzm w *Wiedzy radosnej* § 12 — faktycznie *Zmierzch bożyszcz*, „Sentencje i strzały" 12. **Poprawione.**
+- ⭐ **Wniosek ogólny:** **czternaście konspektów z rzędu miało wadę w lokalizacjach.** ⛔ **Nigdy nie przepisywać numeru strony ani paragrafu z konspektu bez sprawdzenia w tekście.**
+
+---
+
+## 7. Co proponuję robić dalej — trzy warianty
+
+**A. Weryfikacja Ratzingera (rekomendowany).** Idziemy rozdział po rozdziale przez 22–50 i sprawdzamy cytaty w plikach, które **już mamy**. Nic nie trzeba zdobywać, a to usuwa największe ryzyko książki. Zaczynamy od **rozdz. 26** i **24**.
+
+**B. Tanie strony.** Pan zdobywa pozycje z § 4 (biblioteka), ja wprowadzam je do tekstu — tak jak przy Franklu i Nietzschem, co działało bardzo dobrze.
+
+**C. Buber najpierw.** Jedno sprawdzenie `buber.pdf` może skreślić z listy **najczęściej cytowanego autora** drugiej połowy książki (48 wystąpień).
+
+⭐ **Wariant C wykonany od razu — Buber załatwiony (§ 2a).**
+
+⭐ **Rekomendacja na dalej: A, z B równolegle.** Czyli: **systematyczna weryfikacja Ratzingera w rozdz. 22–50** na plikach, które już mamy (zaczynając od **26** i **24**), a zdobywanie pozycji z § 3 i § 4 w miarę okazji bibliotecznych. **Marcel jest teraz pozycją nr 1 do zdobycia.**

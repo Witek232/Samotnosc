@@ -102,17 +102,29 @@ Właśnie dlatego problem Boga nie może zostać sprowadzony do terapii samotno�
 
 ## Przypisy
 
-¹ J. Ratzinger, *Bóg i świat. Wiara i życie w dzisiejszych czasach*. Rozmowa z Peterem Seewaldem, rozdz. „O wątpieniu" [s?]: „Ta ciemna noc następuje również w życiu świętych. Zalega w nich, można by powiedzieć, swego rodzaju nieobecność, milczenie Boga — przykładem Teresa z Lisieux — i muszą zaznawać ciemności człowieka niewierzącego." — Cytowane wydanie w formacie elektronicznym bez wiarygodnej paginacji; lokalizacja podana przez rozdział. **[s?]**
+¹ J. Ratzinger, *Bóg i świat. Wiara i życie w dzisiejszych czasach*. Rozmowa z Peterem Seewaldem, rozdz. **„O Bogu", s. 100**: „Ta ciemna noc następuje również w życiu świętych. Zalega w nich, można by powiedzieć, swego rodzaju nieobecność, milczenie Boga — przykładem Teresa z Lisieux — i muszą zaznawać ciemności człowieka niewierzącego."
 
-² Tamże, ciąg dalszy przytoczonego zdania: „Nie oznacza to jednak, że Bóg nie istnieje." **[s?]**
+✅ **`[s?]` ZDJĘTE 2026-09-11 (audyt Ratzingerowski, etap A).** Brzmienie sprawdzone **co do słowa** w egzemplarzu projektu (`biblioteka/_tekst/ratzinger_bog-i-swiat-seewald_pl.txt`); ⭐ **strona ustalona: 100** — znacznik paginacji stoi trzy zdania przed cytatem.
+⚠️ **Korekta lokalizacji rozdziału:** przypis podawał rozdz. „O wątpieniu"; w egzemplarzu fragment znajduje się w rozdziale **„O Bogu"** (żywa pagina: „100 O Bogu"). ⚠️ Poprawione. ⚠️ Kontekst przed cytatem: „Już w Piśmie Świętym czytamy o ukrywaniu się Boga… Bóg milczy. Nie posyła proroków" — warto go znać, bo pokazuje, że Ratzinger mówi o **motywie biblijnym**, nie o nastroju.
+
+² Tamże, **s. 100**, zdanie następujące bezpośrednio po cytacie z przyp. 1: „Nie oznacza to jednak, że Bóg nie istnieje." ✅ **`[s?]` ZDJĘTE 2026-09-11** — zweryfikowane co do słowa.
+⭐ **Dalszy ciąg, nieprzytoczony, a mocny** (do rozważenia przy redakcji): „Nie oznacza to również, że Bóg nie ma już siły, że nie jest już miłością. Chodzi tu jedynie o pewną sytuację… gdy nie jesteśmy zdolni dostrzec Boga."
 
 ³ Benedykt XVI, *Deus caritas est*, § 28b: „Zawsze będzie samotność." Pełny cytat i omówienie — rozdz. 37, przyp. 4.
 
-⁴ J. Ratzinger, *Duch liturgii*, rozdz. o kulcie złotego cielca [s?]: „Kult staje się świętem, które wspólnota wyprawia dla siebie i w którym szuka samopotwierdzenia… Bóg ma być obecny wówczas, gdy jest ludziom potrzebny, i ma być taki, jakim Go ludzie potrzebują… Również i tutaj skutkiem będzie frustracja, doznanie pustki." Parafraza w tekście głównym; przytoczenie dosłowne w przypisie, aby nie przekraczać limitu cytatów blokowych rozdziału. **[s?]**
+⁴ J. Ratzinger, *Duch liturgii*, rozdz. I (kult złotego cielca; egzemplarz projektu: `biblioteka/_tekst/ratzinger_duch-liturgii_pl.txt`).
+
+✅ **ZWERYFIKOWANE 2026-09-11 co do słowa — wszystkie trzy człony.** ⚠️⚠️ **ALE UWAGA REDAKCYJNA, WAŻNA: to nie jest jeden cytat ciągły.** Wielokropki sklejają **trzy fragmenty z różnych miejsc rozdziału**, w dodatku podane **w odwróconej kolejności** względem oryginału:
+- „**Bóg ma być obecny wówczas, gdy jest ludziom potrzebny, i ma być taki, jakim Go ludzie potrzebują**" — stoi **jako pierwsze**, w wywodzie o ściąganiu Boga w dół;
+- „Kult staje się świętem, które wspólnota wyprawia dla siebie i w którym **szuka samopotwierdzenia**" — ok. 600 znaków dalej;
+- „Również i tutaj skutkiem będzie **frustracja, doznanie pustki**" — jeszcze ok. 650 znaków dalej, już po przejściu do liturgii współczesnej.
+
+⚠️ **Skoro w tekście głównym jest parafraza, nic złego się nie stało** — ale ⛔ **tego złożenia nie wolno przenieść do tekstu głównego jako cytatu blokowego**, bo sugerowałoby ciągłość, której nie ma. ⚠️ **Przy redakcji: albo rozbić na trzy osobne przytoczenia, albo cytować wyłącznie człon pierwszy** (jest najmocniejszy i samodzielny).
+⚠️ **Strona:** plik nie ma czytelnych znaczników paginacji w tym miejscu — **`[s?]` pozostaje otwarte świadomie**; lokalizacja przez rozdział jest pewna.
 
 ⁵ Benedykt XVI, *Spe salvi*, § 32. Cytat za polskim tekstem urzędowym (vaticana). Wielokropek w zdaniu „Gdy jestem skazany na całkowitą samotność…" **występuje w oryginale przekładu** i nie jest opuszczeniem; opuszczenie w nawiasie kwadratowym pochodzi ode mnie. W tym samym paragrafie Benedykt XVI przywołuje kard. Nguyễn Văn Thuậna i jego *Modlitwy nadziei*, wskazując trzynaście lat więzienia, w tym dziewięć w izolacji. ✔ zweryfikowane
 
-⁶ J. Ratzinger, *Bóg i świat*, rozdz. „O wątpieniu" [s?]. Pełna odpowiedź: „Naturalnie. Gdy jako profesor czy jako nauczyciel wiary stara się człowiek razem z innymi wierzyć w sytuacji duchowej naszego stulecia, nie sposób nie dopuścić do siebie pytań, które powodują, że nie jest to takie łatwe. […] przyjmowanie, wewnętrzny opór, udręka z powodu tego wszystkiego, co w dzisiejszych czasach przemawia przeciwko wierze, stanowią istotną część mojego zadania. Nawet gdybym nie chciał, napiera to również na mnie." **[s?]**
+⁶ J. Ratzinger, *Bóg i świat*, rozdz. „O wątpieniu" [s?] — ✅ **brzmienie zweryfikowane co do słowa 2026-09-11** („…napiera to również na mnie — poprzez informacje, poprzez wydarzenia, poprzez wszystko, co przynosi codzienne doświadczenie"); ⚠️ **strona nieustalona** (brak czytelnego znacznika w pobliżu) — `[s?]` zostaje. Pełna odpowiedź: „Naturalnie. Gdy jako profesor czy jako nauczyciel wiary stara się człowiek razem z innymi wierzyć w sytuacji duchowej naszego stulecia, nie sposób nie dopuścić do siebie pytań, które powodują, że nie jest to takie łatwe. […] przyjmowanie, wewnętrzny opór, udręka z powodu tego wszystkiego, co w dzisiejszych czasach przemawia przeciwko wierze, stanowią istotną część mojego zadania. Nawet gdybym nie chciał, napiera to również na mnie." **[s?]**
 
 ⁷ Tamże [s?]: „Wiara nigdy nie jest ot tak po prostu obecna, nigdy nie mogę powiedzieć: mam wiarę, inni jej nie mają. […] nigdy nie jest czymś, co po prostu posiadam. […] Wiara pozostaje drogą. Dopóki żyjemy, jesteśmy w drodze, dlatego zawsze także nad wiarą wisi groźba i udręka." Parafraza w tekście głównym. **[s?]**
 

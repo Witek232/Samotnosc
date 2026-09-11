@@ -8,9 +8,58 @@
 
 ## 0. Wniosek w trzech zdaniach
 
+⚠️ **UWAGA: paragraf poniżej zawiera diagnozę, którą częściowo odwołałem — patrz § 0a.** 
+
 **Książka jest napisana w całości, ale jej aparat jest nierówny w sposób, który da się dokładnie zmierzyć.** Rozdziały **16–21** (część IV i szczyt III) stoją na źródłach czytanych z autopsji; rozdziały **22–50** — czyli **cała druga połowa książki, teologiczna** — powstały **bez ani jednego potwierdzenia „z autopsji"** poza pojedynczymi wyjątkami, a przy tym zawierają **najwięcej cytatów Ratzingera**. To jest główny dług projektu i nie jest nim żaden pojedynczy tytuł.
 
 ⚠️ **To nie znaczy, że tamte rozdziały są zmyślone** — powstawały na konspektach i kartotece, a ich autorzy zaznaczali wątpliwości. Znaczy, że **nie zostały zweryfikowane w wydaniach**, a stała zasada tego projektu brzmi: *nie cytować Ratzingera z pamięci*.
+
+---
+
+## 0a. ⚠️ KOREKTA WŁASNEGO AUDYTU (2026-09-11, po rozpoczęciu etapu A)
+
+**Diagnoza z § 0 była za ostra i trzeba ją sprostować, zanim ktoś podejmie na jej podstawie decyzje.**
+
+Szukałem w rozdziałach frazy „**z autopsji**" — i na tej podstawie napisałem, że rozdziały 22–50 nie mają ani jednego potwierdzenia. **To był błąd metody, nie stanu faktycznego.** Tamte rozdziały były audytowane wcześniej (daty **2026-09-06 … 2026-09-10**) i używają **innego słownictwa**: „ZWERYFIKOWANE", „zweryfikowane co do słowa", „✔". Po policzeniu tych oznaczeń obraz wygląda zupełnie inaczej — np. rozdz. 49 ma ich 25, rozdz. 24 i 27 po 22, rozdz. 35 — 22.
+
+**Co z pierwotnej diagnozy zostaje w mocy:**
+- ✅ liczba `[?]` i `[s?]` jest realna (83 + 32) i warta domykania;
+- ✅ osiem najczęściej cytowanych źródeł **rzeczywiście mamy** — i to jest najważniejsza wiadomość tego dokumentu;
+- ✅ ⭐ **realne luki to rozdziały BEZ ŚLADU AUDYTU: 40, 42, 45** — i od nich zacząłem etap A (patrz § 0b).
+
+**Co zostaje odwołane:** teza, że „cała druga połowa powstała bez weryfikacji". ⛔ Nieprawdziwa.
+
+---
+
+## 0b. ✅ ETAP A — WYKONANE 2026-09-11
+
+### Rozdz. 40 — cztery `[s?]`, trzy zamknięte
+
+- ✔ ***Spe salvi* § 32** — cytat zgodny **co do słowa** z tekstem urzędowym.
+- ⭐ ***Bóg i świat*** (przyp. 1 i 2) — brzmienie potwierdzone, **strona ustalona: 100**. ⚠️ **Poprawiona lokalizacja rozdziału**: przypis podawał „O wątpieniu", w egzemplarzu jest **„O Bogu"** (żywa pagina).
+- ⚠️⚠️ ***Duch liturgii*** (przyp. 4) — **znaleziony błąd redakcyjny**: to, co wyglądało na jeden cytat ciągły, jest **sklejką trzech fragmentów z różnych miejsc rozdziału, w odwróconej kolejności**. Wszystkie trzy brzmienia prawdziwe, ale ⛔ **nie wolno tego przenieść do tekstu głównego jako cytatu blokowego**. Zapisane w przypisie.
+- ⚠️ Przyp. 6 — brzmienie ✔, strona nieustalona, `[s?]` zostaje.
+
+### Rozdz. 42 — sprawdzony, czysty
+
+- ✔ **Nietzsche, af. 125** — porównany z oryginałem (eKGWB) **zdanie po zdaniu**; przekład własny wierny. ⚠️ Odnotowane: polski przekład Wyrzykowskiego ma „Gdzie się Bóg podział… **zabójcami**", rozdział ma „Dokąd podział się Bóg… **mordercami**" — ⭐ to **nie jest rozbieżność**, bo rozdział jawnie deklaruje przekład własny z niemieckiego (*Mörder*).
+- ⭐ ***Wprowadzenie*, przyp. 6 — strona ustalona: 64**, `[s?]` zdjęte.
+
+### Rozdz. 45 — jeden realny dług, zamknięty
+
+- ⭐⭐ Przypis 4 twierdził, że ***Ja i Ty* „nie ma wydania w bibliotece projektu"** — **nieprawda**, patrz § 2a. `[?]` zdjęte, przypis przepisany.
+- ✔ ***Wprowadzenie*, s. 245** („Prawdziwego lęku człowieka nie może opanować rozum…") — potwierdzone, **znacznik s. 246 stoi tuż za cytatem**, więc strona jest poprawna.
+
+### Rozdz. 46 i 47 — brzmienia ✔, strony ⛔
+
+- ✔ Trzy cytaty z *Eschatologii* (szpitale, „materialistyczne bagatelizowanie śmierci", Schleiermacher) — **zweryfikowane co do słowa**.
+- ⚠️ **Ważne dla atrybucji:** „materialistyczne bagatelizowanie śmierci" to określenie **Piepera**, które Ratzinger tylko referuje. ⛔ Nie przypisywać mu go.
+- ⛔ **Stron nie podałem i nie oszacowałem** — w tej partii pliku brak czytelnych znaczników paginacji. Uznałem, że **lepszy jest pewny rozdział niż zmyślona strona**; `[s?]` zostaje świadomie.
+- ✅ Sprawdzona możliwa kolizja: obraz „przesiek" jest w **tekście głównym tylko w rozdz. 47**, w 46 wyłącznie w aparacie. **Rezerwacja dochowana.**
+
+### ⭐ Wniosek z etapu A
+
+Na sześć sprawdzonych rozdziałów: **jeden realny błąd merytoryczny** (sklejka w *Duchu liturgii*), **jedna błędna nazwa rozdziału**, **jeden nieaktualny przypis** (Buber) i **trzy ustalone strony**. ⚠️ Reszta wcześniejszych audytów **potwierdziła się** — to dobra wiadomość o jakości pracy z 09-08…09-10.
 
 ---
 

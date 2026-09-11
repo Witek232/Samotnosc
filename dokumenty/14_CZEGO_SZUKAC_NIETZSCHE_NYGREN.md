@@ -146,6 +146,38 @@ Autor wskazał linię argumentacyjną, która sama się układa:
 
 ---
 
+## 2d. ⚠️ ROZDZ. 11 (WSCHÓD) — PIĘĆ BRAKUJĄCYCH LOKALIZACJI
+
+Rozdział napisany 2026-09-11 na **trzech** źródłach z autopsji; ⛔ pięć pozycji referowanych bez wglądu w tekst. **Wszystkie poniższe to pojedyncze miejsca, nie całe książki.**
+
+### ⭐ Priorytet 1 — łatwe i najważniejsze: *Analekta* po polsku
+
+**Konfucjusz, *Analekta*, przeł. K. Pejda, Wydawnictwo UW 2018** (wydanie potwierdzone w dok. 01; alternatywa: *Dialogi konfucjańskie*, 1976).
+
+| Miejsce | Po co | Status |
+|---|---|---|
+| **IV, 25** | ⭐ **zdanie kluczowe rozdziału**: „Cnota nie mieszka samotnie: musi mieć sąsiadów" | mam **tylko przekład angielski** („Virtue dwells not alone: she must have neighbors") — ⚠️ podwójne pośrednictwo |
+| **I, 1** | ⚠️⚠️ **najsłabszy punkt aparatu** — trzy zdania otwierające | ⚠️ widziany przekład ang. oddaje trzecie zdanie **inaczej** niż wersja powszechna („nie gniewa się, choć ludzie go nie znają" — chiń. 人不知而不慍); dlatego w tekście **bez cudzysłowu** |
+
+⭐ To jest dług **najtańszy do spłacenia i najbardziej opłacalny** — dwa zdania z jednej książki, a rozdział zyskuje polskie brzmienie zamiast przekładu z przekładu.
+
+### Priorytet 2 — ważne treściowo
+
+| Pozycja | Potrzebne miejsce | Uwaga |
+|---|---|---|
+| ***Czhandogja-upaniszad*** | **VI, 8–13**: formuła ***tat tvam asi*** („ty jesteś tym") + **przypowieść o soli** (ojciec Uddalaka i syn Śwetaketu) | ⚠️ Mam **bliźniaczą** przypowieść o soli z *Brihadaranjaki* IV (z autopsji), ale to **inna upaniszada**. Szukać polskiego wydania zbiorczego upaniszad |
+| ***Bhagawadgita* 18,66** | ⭐⭐ „porzuć wszystkie drogi i przyjdź do Mnie jako jedyny schron" | ⭐ **Najważniejsze znalezisko treściowe rozdziału**: tradycja bezosobowa **przechodzi na „Ty"**. ⚠️ Wydania polskiego nie ustaliłem |
+| ***Daodejing* 8 i 76** | woda jako najwyższe dobro (8); miękkość jako cecha życia, sztywność jako cecha śmierci (76) | ⚠️ przekład W. Jabłońskiego (1937) — nieustalony |
+| ***Zhuangzi*** — **pusta łódź** | ks. 20 („Shan mu") | ⛔ **Skan przekładu Gilesa w Internet Archive ma OCR nienadający się do użytku** (rozpoznany jako dewanagari) — plik skasowany, ⛔ **nie ponawiać na `chuangtzutaoistphilosopher...`** |
+
+### ⛔ Czego NIE szukać
+
+*Anattalakkhana Sutta* — referat wystarczy; treść jest w omówieniach zgodna, a rozdział i tak nie stawia tam cudzysłowu.
+
+⚠️ **Uwaga metodologiczna do wszystkich pozycji z tego paragrafu:** w rozdz. 11 są **tylko dwa cudzysłowy** w całym tekście i oba przy miejscach pewnych. Reszta jest **opowiedziana własnymi słowami** — więc rozdział jest uczciwy także bez tych uzupełnień. To są ulepszenia, nie łatanie dziur.
+
+---
+
 ## 3. Inne długi — gdyby Pan trafił przypadkiem
 
 Wymieniam **tylko to, co realnie zmieniłoby tekst**; ⛔ nie kupować niczego.
@@ -166,6 +198,10 @@ Wymieniam **tylko to, co realnie zmieniłoby tekst**; ⛔ nie kupować niczego.
 
 ⭐⭐ **STAN NA 2026-09-10 wieczór: Nietzsche (*Zmierzch bożyszcz*) ZAMKNIĘTY, Frankl w połowie.**
 
-Do znalezienia zostają już tylko **trzy strony w dwóch książkach**:
-1. **Frankl** (Czarna Owca 2009) — strony dla **trzech dróg sensu** i dla **„najlepsi z nas stamtąd nie powrócili"** → § 2c. Każda biblioteka.
-2. **Lasch**, *Kultura narcyzmu* — **s. 10** → § 3. Największy dług książki, nadal otwarty.
+⭐⭐ **STAN NA 2026-09-11: WSZYSTKIE 51 ROZDZIAŁÓW NAPISANE.** Dalej idzie już tylko redakcja i spłata długów. Lista w kolejności opłacalności:
+1. ⭐ **Konfucjusz, *Analekta*** (Pejda, WUW 2018) — **dwa zdania**, rozdz. 11 → § 2d. **Najtańszy i bardzo opłacalny.**
+2. **Frankl** (Czarna Owca 2009) — dwie strony, rozdz. 19 → § 2c. Każda biblioteka.
+3. **Lasch**, *Kultura narcyzmu* — **s. 10**, rozdz. 13 i 14 → § 3. **Największy dług książki**, nadal otwarty.
+4. **Bowlby**, *A Secure Base* — pełny egzemplarz (dziś tylko podgląd), rozdz. 18 → § 2b.
+5. **Rosa**, *Resonanz* (2016, niem. lub ang.) — **dwa zdania**, rozdz. 21. ⚠️ **Polskiego przekładu NIE MA** (patrz korekta w dok. 01).
+6. *Czhandogja*, *Gita* 18,66, *Daodejing*, *Zhuangzi* — rozdz. 11 → § 2d.

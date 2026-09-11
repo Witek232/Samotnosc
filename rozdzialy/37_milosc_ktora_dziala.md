@@ -91,7 +91,12 @@ To jednak nie jest jeszcze koniec sprawdzianu, a raczej: właśnie tu sprawdzian
 
 ³ Tamże, § 7–8 (eros i agape jako wymiary jednej rzeczywistości miłości, nierozdzielne). Rozwinięcie: rozdz. 17 tej książki.
 
-⁴ Tamże, **§ 28b** — cały cytat blokowy. **Korekta wobec konspektu:** zdanie „Zawsze będzie samotność" stoi w § 28b, nie w § 29 (konspekt v3 § 4 i § 6 lokalizuje je w § 29 — do poprawienia w kartotece). W § 29 znajduje się natomiast zdanie pokrewne: „nigdy nie będzie takiej sytuacji, w której *caritas* poszczególnych chrześcijan nie będzie potrzebna, gdyż człowiek, poza sprawiedliwością, potrzebuje i zawsze będzie potrzebował miłości". Oba brzmienia sprawdzone w przekładzie polskim na vatican.va (2026-09-07) ✔.
+⁴ Tamże, **§ 28b** — cały cytat blokowy.
+
+✅✅ **KOLIZJA Z ROZDZ. 12 ROZWIĄZANA 2026-09-11 (decyzja autora, wykonana).** Ten sam cytat stał **blokowo także w rozdz. 12**, w **tej samej funkcji** (granica systemu wobec osoby) i z niemal identycznym rozwinięciem — czytelnik rozpoznałby powtórkę.
+⭐ **Rozstrzygnięcie: cytat blokowy zostaje TUTAJ.** Powód: to rozdział macierzysty (w całości o *caritas*), zdanie stoi w części encykliki o relacji sprawiedliwości i miłości, i jest **osią ruchu III, nie ozdobą** — rozdział sam mówi, że jest to „zdanie, dla którego ten rozdział istnieje".
+✅ **W rozdz. 12 cytat zamieniono na referat**, z zachowaniem samej pointy („Zawsze będzie samotność") jako krótkiego przytoczenia śródzdaniowego. Tamtejszy wywód nie wymagał żadnej zmiany. **Pełny zapis: rozdz. 12, przyp. ⁷.**
+⚠️ **Dla redakcji:** to jest teraz **jedyne miejsce w książce, gdzie *DCE* § 28b pada blokowo**. ⛔ Nie przywracać bloku w 12 ani nie dodawać go w 40 (tam cytat jest wyłącznie w aparacie i tak ma zostać). **Korekta wobec konspektu:** zdanie „Zawsze będzie samotność" stoi w § 28b, nie w § 29 (konspekt v3 § 4 i § 6 lokalizuje je w § 29 — do poprawienia w kartotece). W § 29 znajduje się natomiast zdanie pokrewne: „nigdy nie będzie takiej sytuacji, w której *caritas* poszczególnych chrześcijan nie będzie potrzebna, gdyż człowiek, poza sprawiedliwością, potrzebuje i zawsze będzie potrzebował miłości". Oba brzmienia sprawdzone w przekładzie polskim na vatican.va (2026-09-07) ✔.
 
 ⁵ Tamże, § 28a: „Kościół nie może i nie powinien podejmować walki politycznej, aby realizować jak najbardziej sprawiedliwe społeczeństwo. Nie może i nie powinien stawiać się na miejscu państwa" — oraz: „Sprawiedliwa społeczność nie może być dziełem Kościoła, lecz powinna być realizowana przez politykę" ✔.
 

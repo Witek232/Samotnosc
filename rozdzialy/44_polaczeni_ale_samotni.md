@@ -106,7 +106,7 @@ Warto na koniec zauważyć, że ostrzeżenie przed tym wszystkim padło w miejsc
 
 Ratzinger, pisząc o kulcie skierowanym na samego siebie, opisuje mechanizm, który nie dotyczy wyłącznie liturgii:
 
-> „Kult staje się świętem, które wspólnota wyprawia dla siebie i w którym szuka samopotwierdzenia. […] Bóg ma być obecny wówczas, gdy jest ludziom potrzebny, i ma być taki, jakim Go ludzie potrzebują. […] Również i tutaj skutkiem będzie frustracja, doznanie pustki."⁵
+> „Bóg ma być obecny wówczas, gdy jest ludziom potrzebny, i ma być taki, jakim Go ludzie potrzebują."⁵
 
 Wyjmijmy z tego zdania słowo „Bóg" i wstawmy „drugi człowiek". Otrzymamy dokładny opis tego, co robi kontakt bez obecności: **drugi ma być dostępny wtedy, gdy jest mi potrzebny, i taki, jakim go potrzebuję**. Ma odpisać, gdy piszę, i zamilknąć, gdy odkładam telefon. Ma być na tyle blisko, żebym nie był sam, i na tyle daleko, żebym nie musiał się z nim liczyć. To nie jest wada charakteru pokolenia; to jest **kształt, który narzędzie nadaje relacji**, i nikt go świadomie nie wybrał.
 
@@ -134,7 +134,13 @@ Odpowiedź „zawsze" lub „bardzo często": **2005 — 9%, 2017 — 4%, 2024 �
 ⁴ Sh. Turkle, *Alone Together: Why We Expect More from Technology and Less from Each Other* (Basic Books, New York 2011); wyd. pol. *Samotni razem*, przeł. M. Cierpisz, WUJ, Kraków 2013. Cytat: „We expect more from technology and less from each other" — jest to zarazem **podtytuł książki**. Przekład w tekście własny `[tł]`; przy redakcji sprawdzić brzmienie wyd. polskiego. ✔ zweryfikowane co do oryginału.
 **Do rozważenia przy redakcji** — dłuższy cytat z tej samej pozycji, mocniejszy dla tego rozdziału: „We are lonely but fearful of intimacy. […] Our networked life allows us to hide from each other, even as we are tethered to each other. We'd rather text than talk." Pominięty, by nie mnożyć cytatów w rozdziale reportażowym.
 
-⁵ J. Ratzinger, *Duch liturgii*, rozdz. o kulcie złotego cielca [s?]. Pełne brzmienie i omówienie: `05_KARTOTEKA_RATZINGEROWSKA.md` § 4e. **[s?]** (MOBI bez wiarygodnej paginacji).
+⁵ J. Ratzinger, *Duch liturgii*, rozdz. I (kult złotego cielca); egzemplarz projektu: `biblioteka/_tekst/ratzinger_duch-liturgii_pl.txt`. **[s?]** — ⚠️ w tej partii pliku brak czytelnych znaczników paginacji; lokalizacja przez rozdział jest pewna. Pełne omówienie: `05_KARTOTEKA_RATZINGEROWSKA.md` § 4e.
+
+⚠️⚠️ **CYTAT SKRÓCONY 2026-09-11 (audyt etap A) — POPRAWKA RZECZOWA, NIE STYLISTYCZNA.** Wcześniej stał tu **cytat blokowy złożony z trzech członów spiętych wielokropkami**:
+„Kult staje się świętem… szuka samopotwierdzenia. […] Bóg ma być obecny wówczas… […] Również i tutaj skutkiem będzie frustracja, doznanie pustki."
+**Wszystkie trzy brzmienia są prawdziwe**, ale ⛔ **nie tworzą ciągłej wypowiedzi**: pochodzą z **trzech różnych miejsc rozdziału**, oddalonych o ok. 600 i 650 znaków, a w oryginale stoją **w odwrotnej kolejności** (najpierw „Bóg ma być obecny…", potem „samopotwierdzenie", na końcu „frustracja"). Wielokropki sugerowały opuszczenia wewnątrz jednego wywodu — czego w tekście nie ma.
+✅ **Rozwiązanie:** w tekście głównym zostaje **wyłącznie człon pierwszy** — samodzielny, najmocniejszy i dokładnie ten, na którym rozdział buduje swój ruch („wyjmijmy słowo »Bóg«, wstawmy »drugi człowiek«"). ⭐ Argument rozdziału **nic na tym nie traci**, a cytat przestaje być montażem.
+⚠️ Pozostałe dwa brzmienia — do dyspozycji redakcji, ale ⛔ **tylko jako osobne przytoczenia**, nie sklejone. Ten sam problem wykryto i opisano w **rozdz. 40, przyp. 4**.
 **Uwaga metodologiczna:** fragment dotyczy u Ratzingera **liturgii**, nie technologii. Zastosowanie do relacji międzyludzkich jest **analogią autorską i zostało w tekście oznaczone wprost** („wyjmijmy z tego zdania słowo »Bóg« i wstawmy »drugi człowiek«"). Nie przypisywać Ratzingerowi tezy o mediach społecznościowych.
 
 ⁶ Dane o pracy zdalnej i skutkach pandemii podane **bez liczb, w trybie opisowym** — świadomie. Literatura z lat 2020–2023 jest obszerna, niejednolita metodologicznie i szybko się dezaktualizuje; podanie konkretnych odsetków wymagałoby weryfikacji, której nie przeprowadzono. Opis ograniczono do zjawisk powszechnie udokumentowanych i niekontrowersyjnych. **Do ewentualnego uzupełnienia danymi przy redakcji [?]**

@@ -91,6 +91,50 @@ Szukałem w rozdziałach frazy „**z autopsji**" — i na tej podstawie napisa�
 - ⭐⭐ **Ustalone przesunięcie paginacji, co zamyka dług otwarty od 09-09.** Traktat *Ja i Ty* zaczyna się na **PDF 38**, a przypis ⁵ (potwierdzony niezależnie ze spisu treści) lokalizuje początek na **s. 39** → **offset +1**. Sprawdzone na dwóch punktach kontrolnych. **Wynik:** „Każde prawdziwe życie jest spotkaniem" — **s. 45**; „Nie istnieje Ja w sobie…" — **s. 39–40**.
 - ⚠️ **Zastrzeżenie zostawione w tekście:** offset jest **wyliczony, nie odczytany** (skan nie ma drukowanych numerów). Zgadza się na dwóch punktach i ze starszym ustaleniem „s. 44–45", ale ⛔ **przed drukiem potwierdzić wzrokowo**.
 
+### ⭐ ETAP B (2026-09-11) — kontrole systematyczne zamiast rozdział-po-rozdziale
+
+Po wniosku z etapu A (błędy leżą **poza cytatami**) zmieniłem metodę: zamiast czytać kolejne rozdziały, puściłem **trzy kontrole przez całą książkę**.
+
+**Kontrola 1 — odesłania wewnętrzne (51 rozdziałów).** Skrypt porównał każde „rozdz. NN (opis)" z rzeczywistą zawartością pliku o tym numerze. ✅ **Wynik: czysto.** Jedyne trafienia to cytaty z mojego własnego opisu poprawki w rozdz. 34. ⭐ Sprawdzona też spójność reguły wielkiej litery („ustanowiona w rozdz. 29") — odesłania w 32 i 34 zgodne.
+
+**Kontrola 2 — sklejone cytaty blokowe.** Skrypt wyszukał wszystkie cytaty blokowe z wielokropkiem i sprawdził w plikach źródłowych, czy człony **następują po sobie**.
+- ⚠️⚠️ **ZNALEZIONY DRUGI PRZYPADEK, POWAŻNIEJSZY NIŻ PIERWSZY: rozdz. 44.** Ten sam montaż z *Ducha liturgii*, który w rozdz. 40 siedział tylko w przypisie, **w rozdz. 44 stał w tekście głównym jako cytat blokowy** — trzy człony z trzech różnych miejsc, spięte wielokropkami, w oryginale w **odwrotnej kolejności**. ✅ **Naprawione: w tekście zostaje wyłącznie człon pierwszy** („Bóg ma być obecny wówczas, gdy jest ludziom potrzebny…"), samodzielny i dokładnie ten, na którym rozdział buduje swój ruch. ⭐ **Argument nic nie stracił, a cytat przestał być montażem.**
+- ✅ **Rozdz. 1 sprawdzony i CZYSTY** — cytat z Claudelem/Ratzingerem jest **ciągły**, wielokropki uczciwe, strona **65** potwierdzona.
+- ✅ Rozdz. 6 — ciągły (odstęp 283 znaki, w obrębie jednego wywodu).
+
+**Kontrola 3 — paginacja: ⭐ SPROSTOWANIE, KTÓRE ODBLOKOWUJE INNE PRZYPISY.**
+- ⚠️ Rozdz. 30 twierdził, że *Wprowadzenie* w wersji elektronicznej „**nie ma paginacji** odpowiadającej wydaniu książkowemu". **Nieprawda** — plik ma znaczniki stron, tylko **przemieszane z numerami przypisów**, przez co automat je gubi. ✅ Odczytane ręcznie: przypis ¹¹ dostał **s. 80–81**.
+- ⚠️ Rozdz. 46 mówił to samo o *Eschatologii*. ✅ Sprostowane: plik **ma** znaczniki (72–78, 90, 110–116, 176), tylko **w tej jednej partii ich brakuje** — `[s?]` zostaje, ale z właściwym powodem.
+- ⭐ **Ustalone nowe strony:** rozdz. **41** — *Bóg i świat* **s. 253** (⚠️ przy okazji **korekta: przypis podawał rozdz. »O prawdzie«**, cytat leży gdzie indziej) oraz **s. 24** (Prolog); rozdz. **42** — *Bóg i świat* **s. 85** i *Eschatologia* **s. ~111** (⚠️ podana z tolerancją).
+
+⭐ **Wniosek metodyczny:** kontrole maszynowe przez całość znalazły w kilkanaście minut **więcej realnych błędów niż czytanie rozdziałów po kolei** — i to błędów groźniejszych (cytat-montaż w tekście głównym). ⚠️ **Formuła „plik nie ma paginacji" okazała się dwa razy fałszywa** — traktować ją odtąd jako hipotezę do sprawdzenia, nie fakt.
+
+### ⭐ ETAP C (2026-09-11) — duplikaty i Katechizm
+
+**Kontrola 4 — ten sam cytat blokowy w dwóch rozdziałach.** Skrypt zebrał wszystkie cytaty blokowe z całej książki i porównał je między sobą.
+- ⚠️⚠️ **ZNALEZIONY JEDEN DUBLET, ale istotny: *DCE* § 28b („Zawsze będzie samotność") stoi BLOKOWO w rozdz. 12 i 37.** ⭐ Rozdz. 12 sam zgłaszał to jako ryzyko („⚠️ kolizja cytatu — przy redakcji sprawdzić"), ale **nikt tego nie rozstrzygnął**.
+- ⚠️ **Sedno problemu nie jest w powtórzeniu, lecz w tym, że oba rozdziały robią z tym zdaniem TO SAMO** — granicę systemu wobec osoby, z niemal identycznym rozwinięciem („nie da się zbudować systemu, który będzie komuś kimś" ≈ „nie jest ona brakiem świadczenia, tylko brakiem kogoś"). Czytelnik rozpozna powtórkę.
+- ✅ **Zasięg ustalony:** poza 12 i 37 cytat pada tylko w aparacie rozdz. 40 — **nie koliduje**.
+- ✅✅ **WYKONANE 2026-09-11 (decyzja autora): dublet zlikwidowany.** Blok **został w rozdz. 37** (rozdział macierzysty, cytat jest tam osią ruchu III), a **w rozdz. 12 zamieniono go na referat**.
+  ⭐ **Sposób wykonania jest tu istotny:** treść nie zniknęła — referat oddaje wszystkie trzy człony encykliki — ale **dosłownie zachowano samą pointę**, „Zawsze będzie samotność", jako krótkie przytoczenie śródzdaniowe. To ona pracuje w rozdziale i to ona jest tytułowym słowem książki.
+  ⭐ **Dowód, że rozstrzygnięcie było trafne:** akapit następujący po cytacie **nie wymagał ani jednej zmiany** — jego wywód odnosi się do treści, nie do formy przytoczenia. Blok był tam ozdobą; w rozdz. 37 jest osią.
+  ✅ **Kontrola po zmianie:** ponowny przebieg skryptu wykrywającego duplikaty — ⭐ **w całej książce nie ma już ani jednego cytatu blokowego powtórzonego w dwóch rozdziałach**. Rozdz. 12 ma teraz 2 bloki (było 3), rozdz. 37 — 1.
+  ⚠️ **Zapisane w obu rozdziałach:** *DCE* § 28b pada blokowo **wyłącznie w rozdz. 37**; ⛔ nie przywracać bloku w 12 ani nie dodawać w 40 (tam cytat jest tylko w aparacie i tak ma zostać).
+
+**Kontrola 5 — Katechizm (51 wystąpień, 18 różnych numerów).** Zestawiłem wszystkie i sprawdziłem kluczowe w oficjalnym źródle (`katechizm.opoka.org.pl`).
+- ✔✔ **KKK 632, 633, 635, 637** (oś rozdz. 24 — zstąpienie do piekieł) — **potwierdzone co do słowa**, łącznie z „krainą zmarłych", „Szeolem lub Hadesem" i „pozbawieni oglądania Boga".
+- ✔✔ **KKK 639, 640, 643, 647** (rozdz. 27 — zmartwychwstanie) — **wszystkie cztery potwierdzone co do słowa**, w tym „nikt nie był naocznym świadkiem samego wydarzenia Zmartwychwstania".
+- ✅ **Rozdz. 23 sprawdzony:** przywołuje KKK 632–637 **wyłącznie w aparacie**, z adnotacją „zarezerwowane dla rozdz. 24" — ⭐ i rzeczywiście tam pracują. **Podział pracy dochowany.**
+- ✅✅ **DOKOŃCZONE 2026-09-11: rozdz. 35 i 36 sprawdzone.** Pobrałem **jedenaście partii Katechizmu** (795 kB) i zweryfikowałem wszystkie pozostałe numery.
+- ✔✔ **Rozdz. 36 — komplet potwierdzony co do słowa:** **KKK 1324** („źródłem i zarazem szczytem całego życia chrześcijańskiego"; „w Najświętszej Eucharystii zawiera się całe duchowe dobro Kościoła"), **1325** („komunię życia z Bogiem i jedność Ludu Bożego"), **1326** („jednoczymy się już teraz z liturgią niebieską"), **1327** („streszczeniem i podsumowaniem całej naszej wiary").
+- ✔✔ **Rozdz. 35 — potwierdzone:** **KKK 168** („Kościół jest zatem tym, który wierzy pierwszy…"), **181** („Wiara jest aktem eklezjalnym"), **751** (*ekklesia*, *ek-kalein* — „wołać poza"), **777**, **1396** („Eucharystia tworzy Kościół"), formuła Cypriana, *Rz* 10,17.
+- ⚠️ **Jedno ustalenie warte odnotowania — RÓŻNICA PRZEKŁADÓW, nie błąd.** Zdanie *Lumen gentium* 1 rozdział cytuje **bezpośrednio z konstytucji**: „Kościół jest w Chrystusie **niejako** sakramentem…". **KKK 775 podaje je w innym przekładzie**: „**jakby** sakramentem", a forma „niejako" wraca dopiero w **KKK 1045**. ✅ Wersja w rozdziale jest **poprawna** (cytujemy sobór, nie Katechizm); ✅ sprawdzone, że zdanie **pada w książce tylko raz**, więc nie ma kolizji brzmień.
+- ⭐ **Wyjaśniony fałszywy alarm:** cytat „*caritas* nie jest dla Kościoła rodzajem opieki społecznej…" nie jest z Katechizmu, tylko z ***Deus caritas est* § 25** — ✔ **potwierdzony co do słowa** w tekście encykliki.
+
+⭐ **Bilans Katechizmu: wszystkie 18 numerów użytych w książce zweryfikowanych, zero błędnych brzmień i zero błędnych lokalizacji.**
+
+⭐ **Wniosek:** aparat biblijno-katechizmowy jest w tej książce **mocniejszy niż filozoficzny** — **wszystkie 18 numerów KKK zgadza się co do słowa**, żaden nie wymagał poprawki. To ma sens: KKK i Biblia były dostępne online od początku, w przeciwieństwie do Lascha czy Marcela.
+
 ### ⭐ Wniosek z etapu A
 
 Na **jedenaście** sprawdzonych rozdziałów (40, 42, 45, 46, 47, 34, 28, 4, 32, 29 + kontrola całości): **dwa realne błędy** — sklejka cytatu w *Duchu liturgii* i **numeracja v2 w notach rozdz. 34**; **jedna błędna nazwa rozdziału**; **jeden nieaktualny przypis** (Buber); **trzy ustalone strony**; **jedna wykonana rekomendacja** (J 4,26) i **pięć nowych znalezisk** (Eschatologia s. 90, Spaemann ×2, Pascal fr. 100, offset Bubera).

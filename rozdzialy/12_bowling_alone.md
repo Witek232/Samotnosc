@@ -132,9 +132,7 @@ Ale skoro tak — skoro rzecz jest strukturalna — to nasuwa się wniosek odwro
 
 Otóż nie ustąpi, i chcę to powiedzieć na końcu rozdziału, który przez pięć części dowodził, że struktura ma znaczenie.
 
-Joseph Ratzinger napisał w *Deus caritas est* zdanie skierowane właśnie do tych, którzy myślą programami:
-
-> „Miłość — *caritas* — zawsze będzie konieczna, również w najbardziej sprawiedliwej społeczności. Nie ma takiego sprawiedliwego porządku państwowego, który mógłby sprawić, że posługa miłości byłaby zbędna. Kto usiłuje uwolnić się od miłości, będzie gotowy uwolnić się od człowieka jako człowieka. **Zawsze będzie istniało cierpienie, które potrzebuje pocieszenia i pomocy. Zawsze będzie samotność.**"⁷
+Joseph Ratzinger napisał w *Deus caritas est* zdanie skierowane właśnie do tych, którzy myślą programami. Twierdzi w nim rzecz, która na pierwszy rzut oka wygląda na truizm, a jest twarda: że **miłość będzie konieczna również w społeczeństwie najbardziej sprawiedliwym** — że nie ma takiego porządku państwowego, który uczyniłby ją zbędną, i że kto próbuje uwolnić się od niej, ten prędzej czy później uwalnia się od człowieka jako człowieka. Kończy to wyliczeniem dwóch rzeczy, które zostaną zawsze: cierpienia, które potrzebuje pocieszenia, i — dosłownie — **„Zawsze będzie samotność"**.⁷
 
 Warto zauważyć, co to zdanie robi, a czego nie robi. **Nie unieważnia sprawiedliwego porządku** — przeciwnie, cały ten fragment encykliki zakłada, że o sprawiedliwe państwo trzeba walczyć i że jest to obowiązek polityki, nie dobroczynności. Zdanie mówi coś węższego i twardszego: że **nawet gdyby się udało**, gdyby porządek był doskonały, zostałaby reszta, której żaden porządek nie obejmuje. Bo można zbudować system, który dowiezie obiad, przydzieli mieszkanie i wypłaci zasiłek — i nie da się zbudować systemu, który **będzie komuś kimś**.
 
@@ -188,7 +186,33 @@ Szereg „osób pracujących społecznie" (odsetki): II 1998 — 23 · I 2008 �
 ⁶ **CBOS, *Zaufanie społeczne*, oprac. Jan Kujawski, komunikat z badań nr 30/2026, Warszawa, marzec 2026, s. 1–2.** ✔✔ **Dane sprawdzone w źródle.** „Obecnie pogląd taki wyraża trzy czwarte pytanych (75%), a tylko niewiele ponad jedna piąta (22%) uważa, że – ogólnie rzecz biorąc – większości ludzi można ufać. (…) Przekonanie, że większości ludzi można ufać, relatywnie najczęściej wyrażane było w latach 2008–2010." Nieufność wobec nieznajomych: 56% (ufność 34%).
 
 ⁷ **Benedykt XVI, *Deus caritas est* (25 XII 2005), § 28b.** ✔✔ Cytat z przekładu polskiego, vatican.va (kartoteka `dokumenty/05_…` § 4.4).
-⚠️ **Uwaga na częsty błąd:** zdanie „Zawsze będzie samotność" stoi w **§ 28b**, nie w § 29. ⚠️ **Ten sam cytat jest macierzysty dla rozdz. 37 (napisanego) i przewidziany w 40 i 46** — przy redakcji sprawdzić, czy nie pada zbyt wiele razy; tutaj użyty w funkcji **granicy tego, co potrafi porządek społeczny**, i to jest jego funkcja właściwa (oś IV kartoteki: „Nie da się zbudować systemu, który zastąpi osobę").
+⚠️ **Uwaga na częsty błąd:** zdanie „Zawsze będzie samotność" stoi w **§ 28b**, nie w § 29. ⚠️⚠️ **KOLIZJA ROZSTRZYGNIĘTA 2026-09-11 (audyt etap B) — WYMAGA DECYZJI AUTORA, BO DOTYCZY DWÓCH NAPISANYCH ROZDZIAŁÓW.**
+
+**Stan faktyczny, sprawdzony maszynowo przez całą książkę:** cytat *DCE* § 28b stoi **blokowo w tekście głównym dwa razy** — w rozdz. **12** (tutaj) i w rozdz. **37**. W rozdz. 40 pojawia się wyłącznie w aparacie, więc nie koliduje. ⭐ **Nigdzie indziej nie pada.**
+
+⚠️ **Problem nie polega na powtórzeniu samym w sobie, lecz na tym, że oba rozdziały robią z tym zdaniem TO SAMO.** Porównane zdanie po zdaniu:
+- **r. 12:** „nawet gdyby się udało, gdyby porządek był doskonały, zostałaby reszta… można zbudować system, który dowiezie obiad… i nie da się zbudować systemu, który **będzie komuś kimś**";
+- **r. 37:** „nawet gdyby projekt sprawiedliwości powiódł się całkowicie — gdyby zniknęły bezdomność, głód, wykluczenie i kolejki — zostałaby reszta, której żadna instytucja nie obsłuży, bo **nie jest ona brakiem świadczenia, tylko brakiem kogoś**".
+To jest **ta sama myśl, ten sam ruch i niemal ta sama konstrukcja zdania** — czytelnik, który dojdzie do rozdz. 37, rozpozna powtórkę.
+
+✅✅ **WYKONANE 2026-09-11 (na polecenie autora).** Cytat blokowy **usunięty z tekstu głównego tego rozdziału**; w jego miejsce stoi **referat**, w którym dosłownie zachowane zostało wyłącznie zdanie **„Zawsze będzie samotność"** — krótkie przytoczenie śródzdaniowe, nie blok.
+
+⭐ **Co dokładnie zrobiono i dlaczego akurat tak:**
+- treść zdania **nie zniknęła** — referat oddaje wszystkie trzy człony encykliki (konieczność miłości także w społeczeństwie sprawiedliwym; brak porządku, który czyniłby ją zbędną; „kto usiłuje uwolnić się od miłości, będzie gotowy uwolnić się od człowieka jako człowieka");
+- ⭐ **zachowana została pointa**, bo to ona pracuje w tym rozdziale i to ona jest tytułowym słowem książki: *„Zawsze będzie samotność"* — w cudzysłowie, z zaznaczeniem „dosłownie";
+- ⭐ **akapit następujący po nim nie wymagał żadnej zmiany** — jego wywód („nie unieważnia sprawiedliwego porządku… nie da się zbudować systemu, który będzie komuś kimś") odnosi się do treści, nie do formy cytatu. To potwierdza, że blok był tu ozdobą, a nie osią.
+
+⚠️ **Bilans dla tego rozdziału:** ubywa jeden cytat blokowy Ratzingera. Rozdział należy do części III, gdzie linia Ratzingerowska ma być obecna, lecz niewykładowa — więc zmiana działa **na korzyść reguły z dok. 04**, nie przeciw niej.
+⭐ **Blok pozostaje w rozdz. 37**, gdzie jest osią ruchu III. **Dublet zlikwidowany.**
+
+**Uzasadnienie decyzji — zostawiam dla historii. Trzy powody:**
+1. **37 jest rozdziałem macierzystym** — jest w całości o *caritas*, cytat stoi tam „w części encykliki poświęconej relacji sprawiedliwości i miłości", a rozdział sam mówi, że to „zdanie, dla którego ten rozdział istnieje";
+2. w rozdz. 12 zdanie pełni funkcję **domknięcia osi IV** i tę funkcję spełni równie dobrze **bez cudzysłowu** — myśl jest już wyłożona własnymi słowami w akapicie następującym po nim;
+3. rozdz. 12 stoi w **części III**, gdzie linia Ratzingerowska ma być obecna, ale nie wykładowa; blok w rozdziale socjologicznym waży więcej, niż powinien.
+
+✅ **Decyzja autora zapadła 2026-09-11: wykonać wariant rekomendowany.** ⚠️ Wariant odwrotny (blok w 12, referat w 37) był równie spójny, ale wymagałby przepisania ruchu III rozdz. 37, gdzie cytat jest osią — dlatego odrzucony.
+
+⚠️ Tutaj użyty w funkcji **gran
 
 **Bez przypisu — referowane, nie cytowane:**
 - **Erozja pozostałych form kapitału społecznego** (związki zawodowe, PTA, zebrania, kolacje sąsiedzkie, karty, organizacje kościelne; cezura połowy lat 60.) — referat tez z części II *Bowling Alone*. ✔ Sprawdzone w tekście.
@@ -224,7 +248,7 @@ Szereg „osób pracujących społecznie" (odsetki): II 1998 — 23 · I 2008 �
 | Putnam, *Bowling Alone* (ang., 2000) | ✔✔ **tekst pozyskany, 4 cytaty z autopsji, przekład własny** | ⚠️ **bez paginacji** — lokalizacja przez rozdział; ⛔ *Samotna gra w kręgle* (WAiP 2008) niewidziana |
 | CBOS 29/2026 (aktywność) | ✔✔ **PDF pobrany, dane z tabeli** | ⭐ **przeczy tezie Putnama dla Polski** — rdzeń ruchu III |
 | CBOS 30/2026 (zaufanie) | ✔✔ **PDF pobrany, cytat i dane** | ⭐ druga noga kontrapunktu |
-| Ratzinger, *Deus caritas est* § 28b | ✔✔ **cytat zweryfikowany** (kartoteka § 4.4) | oś IV; ⚠️ kolizja z rozdz. 37/40/46 |
+| Ratzinger, *Deus caritas est* § 28b | ✔✔ **cytat zweryfikowany** (kartoteka § 4.4) | oś IV; ✅ **dublet z rozdz. 37 zlikwidowany 2026-09-11** — tutaj **referat**, blok zostaje w 37 |
 | Bauman, *Płynna nowoczesność* | ⛔ **niedostępna — ZERO CYTATÓW** | ruch IV = referat z drugiej ręki, zastrzeżony w tekście |
 | Putnam, *E Pluribus Unum* (2007) | ✘ **pominięty** | konspekt § 4 dopuszczał 1 zdanie opcjonalnie; ⚠️ wątek różnorodności i zaufania **wymaga ostrożności politycznej**, a jedno zdanie jej nie zapewni — świadomie odpuszczone |
 

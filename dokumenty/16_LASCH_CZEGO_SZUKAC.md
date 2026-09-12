@@ -64,7 +64,7 @@ Drugi wątek, referowany w rozdz. 13 i wspomniany w 14. **Nie znam jego lokaliza
 
 Teza, że człowiek pozbawiony dawnych oparć staje się **zależny od ekspertów**: nie wie już sam, jak wychować dziecko, jak jeść, jak przeżywać żałobę — na wszystko jest specjalista i poradnik. **Kompetencje, które kiedyś przekazywała rodzina i sąsiedztwo, trzeba dziś kupić.**
 
-⭐ Lasch nazywa to gdzieś (wg omówień) „**the atrophy of competence**" albo pisze o „the expropriation of… skills" — ⚠️ **brzmienia nie znam i nie zgaduję**.
+⭐ Lasch nazywa to gdzieś (wg omówień) „**the atrophy of competence**" albo pisze o „the expropriation of… skills" — ⚠️ **brzmienia nie znam i nie zgaduję**. ✅ **AKTUALIZACJA 2026-09-12 (weryfikacja niezależna — patrz § 8):** zdanie poprzedzające jest już znane **pośrednio** („The atrophy of older traditions of self-help…"); oba miejsca to **jeden ustęp**, s. ok. 10–11 oryginału.
 
 ### Czego potrzebuję
 
@@ -104,3 +104,35 @@ Teza, że człowiek pozbawiony dawnych oparć staje się **zależny od ekspertó
 
 ⭐ **Książka jest i tak uczciwa** i to trzeba powiedzieć wyraźnie: w rozdz. 13 i 14 Lasch jest **referowany bez cudzysłowu**, a zastrzeżenie stoi **w tekście głównym**, nie schowane w przypisie. Nic nie jest przypisane mu jako cytat.
 ⚠️ Koszt braku jest więc **stylistyczny, nie etyczny**: rozdz. 14 pozostanie jedynym rozdziałem bez ani jednego cytatu, a najmocniejsze zdanie tej części książki będzie podane w trzeciej osobie zamiast w pierwszej.
+
+---
+
+## 8. ⭐⭐ WERYFIKACJA NIEZALEŻNA (2026-09-12) — oba miejsca to JEDEN ustęp
+
+**Wynik weryfikacji zewnętrznej (sieć).** Dwa niezależne omówienia (Boston Review; Toward Freedom) cytują kluczowy wywód **zgodnie co do słowa**:
+
+1. **Zdanie poprzedzające zdanie kluczowe z § 2** — czyli treść „miejsca drugiego" (§ 3, dziś „strona nieznana"):
+   > „The atrophy of older traditions of self-help has eroded everyday competence in one area after another and has made the individual dependent on the state, the corporation, and other bureaucracies. Narcissism represents the psychological dimension of this dependence."
+2. **Kontynuacja ustępu** — dokładnie „paradoks pozornej niezależności" (parafraza z pytania autora):
+   > „His apparent freedom from family ties and institutional constraints does not free him to stand alone or to glory in his individuality. On the contrary, it contributes to his insecurity, which he can overcome only by seeing his »grandiose self« reflected in the attentions of others, or by attaching himself to those who radiate celebrity, power, and charisma."
+
+**⚠️ Status: POŚREDNIE** (omówienia, nie autopsja) — ⛔ wedle reguły dok. 06 **nie wstawiać do rozdz. 13/14 jako cytat**; dopuszczalny zapis: „brzmienie pośrednie, dwukrotnie zbieżne, autopsja w toku".
+
+**Konsekwencje:**
+
+- **Miejsce pierwsze (§ 2) i miejsce drugie (§ 3) = jeden ciągły ustęp w rozdz. I, s. ok. 10–11 oryginału.** Jedno obejrzenie stron 10–11 domyka **oba** długi naraz (w tym § 3, który traci status „strona nieznana").
+- Autopsja skanu pasuje idealnie: s. 9 urywa się na progu wywodu („…Having surrendered most of his technical skills to the…"), czyli zaraz przed blokiem 1–2 powyżej.
+- Potwierdzone niezależnie: oba zdania z § 2 stoją **obok siebie** (Boston Review przytacza je jako ciąg, „in the opening pages" książki); bibliografia polska (Sedno 2015, przeł. Ptaszek/Skrzypek, ISBN 978-83-63354-12-1, 270+[2] s. — katalogi); ustalenie autopsji „rozdz. I, nie II" spójne z tym, że rozdz. II to omówienia kliniczne (Kernberg — zgadza się z obejrzaną s. 37/39).
+- Hasło z § 3: właściwe brzmienie to **„the atrophy of older traditions of self-help"** (nie „the atrophy of competence" — to parafraza omówień); „expropriation of skills" zostaje jako wariant.
+- Ostrzeżenie o polskiej paginacji **utrzymane**: Sedno 2015 vs Sedno 2019 (dwa różne numery stron tego samego fragmentu) — w przypisie **zawsze konkretne wydanie**.
+
+**Rekonstrukcja bloku (kolejność potwierdzona pośrednio; granica s. 9/10 — dopiero autopsja):**
+
+1. (s. 9: „…Having surrendered most of his technical skills to the…" — domknięcie zdania) `[?]`
+2. „The atrophy of older traditions of self-help … other bureaucracies." *(pośrednie)*
+3. „Narcissism represents the psychological dimension of this dependence." *(pośrednie — zdanie kluczowe § 2)*
+4. „Notwithstanding his occasional illusions of omnipotence … admiring audience." *(pośrednie — drugie zdanie § 2)*
+5. „His apparent freedom … celebrity, power, and charisma." *(pośrednie)*
+
+**Taktyka:** droga Google Books (§ 5 pkt 2) jest jeszcze mocniejsza, niż zakładano — fraza jest łatwo wyszukiwalna, więc podgląd pokaże ją **z numerem strony**; w bibliotece wystarczy wgląd na s. ok. 9–11 oryginału (polski odpowiednik: okolica s. 37/54); Internet Archive — nadal ⛔.
+

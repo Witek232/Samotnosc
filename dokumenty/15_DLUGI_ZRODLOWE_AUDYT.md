@@ -166,6 +166,23 @@ Po wniosku z etapu A (błędy leżą **poza cytatami**) zmieniłem metodę: zami
 ⭐⭐ **Rozdz. 34 dostał nową funkcję: jest jedynym miejscem, gdzie książka się zatrzymuje i liczy.** Dopisałem tam obserwację, której wcześniej nie było, a która czyni katalog **argumentem, a nie wyliczanką**: odpowiedzi układają się w **kolejność schodzącą** — „od zapewnienia, przez wydarzenie i tezę, aż do kogoś, kto ma imię", a ten rozdział dodaje ostatni stopień („można Go posadzić naprzeciwko").
 ✅ **Kontrola po zmianie:** katalog (≥3 pozycje) występuje teraz **wyłącznie w rozdz. 34**; w 31 i 33 zero pozycji, w 32 tylko własna odpowiedź rozdziału. Cztery różne otwarcia, żadnych zmian w samych odpowiedziach.
 
+### ⭐ ETAP E (2026-09-12) — rozdz. 26: pełna niezależna re-weryfikacja na plikach źródłowych
+
+Kontekst: rozdz. 26 był najwyższym ryzykiem listy etapu A (29 wystąpień Ratzingera, 5 `[?]`), a **jako jedyny z czołówki nie przeszedł samodzielnej kontroli brzmień**. Zrobiono to teraz na komplecie plików źródłowych: *Eschatologia — śmierć i życie wieczne*, *Wprowadzenie w chrześcijaństwo* (egzemplarze projektu), *Spe salvi* (vatican.va, PL).
+
+**Wynik: wszystkie sprawdzalne brzmienia potwierdzone co do słowa (10/10).** W szczególności:
+
+1. *Spe salvi* § 32, przyp. ¹ — „Pierwszym istotnym miejscem uczenia się nadziei jest modlitwa. Jeśli nikt mnie już więcej nie słucha, Bóg mnie jeszcze słucha. Jeśli już nie mogę z nikim rozmawiać, nikogo wzywać, zawsze mogę mówić do Boga" ✔✔; cytat używa pierwszych **trzech pełnych zdań** paragrafu — granica ucięcia na końcu zdania, uczciwie.
+2. Przyp. ᴰ — „Gdy jestem skazany na całkowitą samotność... ale modlący się nigdy nie jest całkowicie samotny" ✔✔; **adnotacja ᴄelna w całości: wielokropek i urwana składnia są naprawdę w oryginale** („…samotność... ale modlący się…").
+3. Przyp. ᴬ — „Jej istotą jest opuszczenie, izolacja, samotność — a przez to wydanie człowieka nicości" ✔✔; „Życie to wspólnota, istotą śmierci jest wyrwanie z wszystkich więzi" ✔✔; „«martwy» w swym osamotnieniu" ✔✔.
+4. Przyp. ⁶/ᴮ — tytuł rozdziału **„Dialogiczny charakter nieśmiertelności"** obecny w pliku ✔; „Życie wieczne nie bierze się z wyizolowanej egzystencji jednostki i z własnej jej mocy, ale z konstytutywnego dla człowieka jego odniesienia do Boga" ✔✔; „Bóg sam nie jest «atomem», ale odniesieniem: jest miłością i dlatego jest życiem" ✔✔.
+5. Przyp. ᶜ — punkt 3: „Chrześcijańskie ujęcie nieśmiertelności obejmuje również relacje międzyludzkie. Człowiek nie stoi samotnie w swoim dialogu z Bogiem" ✔✔; dalszy ciąg „Chrześcijański dialog człowieka z Bogiem odbywa się właśnie poprzez ludzi" ✔✔ (w pliku rozbity przez OCR na kilka linii — treść obecna).
+6. Blok s. 246 — „Śmierć to po prostu samotność. Ale taka samotność, do której nie może przedostać się miłość, to piekło." ✔✔; zdanie wycofane z 26 i zarezerwowane na epilog — „Tam gdzie nie może nas już dosięgnąć żaden głos, tam jest On" ✔✔ obecne w pliku; klauzula anty-apokatastatyczna z noty — „Tylko dobrowolne zamknięcie się jest teraz piekłem lub, jak mówi Biblia: śmiercią wtórną (por. Ap 20, 14)" ✔✔.
+
+**Strony: bez zmian.** Pliki źródłowe nie mają znaczników stron — lokalizacje s. ~90–91 / 176 / 246–247 pozostają na autopsji autora z 2026-09-09; tyldy dalej czekają na egzemplarz (lista zadań 2.5). Rozdz. 26 otrzymał w aparacie wpis o tej re-weryfikacji.
+
+**Status listy ryzyka (po 26):** z czołówki etapu A zostają do samodzielnej kontroli brzmień: **24 → 27 → 31 → 33** (26 zamknięty; 28/29/32/34/40/42/45/46/47 objęte etapem A lub wcześniejszymi audytami).
+
 ### ⭐ Wniosek z etapu A
 
 Na **jedenaście** sprawdzonych rozdziałów (40, 42, 45, 46, 47, 34, 28, 4, 32, 29 + kontrola całości): **dwa realne błędy** — sklejka cytatu w *Duchu liturgii* i **numeracja v2 w notach rozdz. 34**; **jedna błędna nazwa rozdziału**; **jeden nieaktualny przypis** (Buber); **trzy ustalone strony**; **jedna wykonana rekomendacja** (J 4,26) i **pięć nowych znalezisk** (Eschatologia s. 90, Spaemann ×2, Pascal fr. 100, offset Bubera).

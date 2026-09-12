@@ -59,7 +59,11 @@ Zamykam tym rozdziałem część szóstą. Zostawiam w niej jedno zdanie, które
 
 ### VI
 
-Zostaje pytanie, które ta książka niesie od pierwszej strony — refren: czy ktoś tam jest? Rozdziały notowały dotąd odpowiedzi z drugiej strony progu: „Tu jestem” — przy śmierci; „jest — i przeszedł” — przy pustym grobie; „wierzę w Ciebie” — z ust człowieka; „Jest — i nigdy nie był sam” — przy Trójcy; „Jest Syn — czyli jest relacja, która nas osiąga” — nad Jordanem. Ten rozdział dodaje odpowiedź innego jeszcze kształtu: „Jest — i można Go posadzić naprzeciwko”. Odpowiedź przestaje być tezą — tezy się dowodzi albo obala; krzesło się stawia. W tej odpowiedzi jest też coś nowego dla człowieka, który pyta: pytający przestaje być tylko tym, kto woła w ciemność — zostaje zaproszony do pokojowego gestu: postawić krzesło, usiąść. Odpowiedzi nie przyjmuje się już jak komunikatu; przyjmuje się ją jak gościa.
+Zostaje pytanie, które ta książka niesie od pierwszej strony — refren: czy ktoś tam jest?
+
+Warto w tym miejscu zatrzymać się i policzyć odpowiedzi, bo uzbierało się ich pięć i po raz pierwszy widać, że układają się w kolejność. „Tu jestem” — przy śmierci. „Jest — i przeszedł” — przy pustym grobie. „Wierzę w Ciebie” — pierwszy raz z ust człowieka, nie z drugiej strony progu. „Jest — i nigdy nie był sam” — przy Trójcy. „Jest Syn — czyli jest relacja, która nas osiąga” — nad Jordanem.
+
+Zauważmy, co się w tej kolejności stało. Odpowiedź **schodziła coraz niżej**: od zapewnienia, przez wydarzenie i tezę, aż do kogoś, kto ma imię. Ten rozdział dodaje ostatni stopień: „Jest — i można Go posadzić naprzeciwko”. Odpowiedź przestaje być tezą — tezy się dowodzi albo obala; krzesło się stawia. W tej odpowiedzi jest też coś nowego dla człowieka, który pyta: pytający przestaje być tylko tym, kto woła w ciemność — zostaje zaproszony do pokojowego gestu: postawić krzesło, usiąść. Odpowiedzi nie przyjmuje się już jak komunikatu; przyjmuje się ją jak gościa.
 
 Puenta mieści się w jednym zdaniu: Bóg staje się spotykalnym „Ty” — chrześcijaństwo nie jest systemem o Absolucie, jest relacją z Absolutem, który wszedł w historię.
 

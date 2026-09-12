@@ -135,6 +135,37 @@ Po wniosku z etapu A (błędy leżą **poza cytatami**) zmieniłem metodę: zami
 
 ⭐ **Wniosek:** aparat biblijno-katechizmowy jest w tej książce **mocniejszy niż filozoficzny** — **wszystkie 18 numerów KKK zgadza się co do słowa**, żaden nie wymagał poprawki. To ma sens: KKK i Biblia były dostępne online od początku, w przeciwieństwie do Lascha czy Marcela.
 
+### ⚠️ ETAP D (2026-09-11) — kontrola refrenu. DWA ZNALEZISKA, OBA WYMAGAJĄ DECYZJĄ
+
+**Kontrola 6 — kompletność rejestru refrenu (dok. 07).**
+⚠️ **Rejestr obejmuje 25 z 51 rozdziałów.** Bez wpisu jest **26**: 00–09, 24–36 (z wyjątkiem kilku), 39, 42, 50. ⭐ Nie znaczy to, że refren tam nie działa — sprawdziłem, **działa w każdym z nich** — ale **dokument, który miał pilnować, żeby żadne dwie odpowiedzi nie były tym samym zdaniem, nie widzi połowy książki**. To osłabia jedyne narzędzie kontroli nad największym aktywem książki.
+⚠️ **Rozdz. 24 — jedyny przypadek, gdzie brak wpisu pokrywa się z brakiem formuły i brakiem noty.** W rozdz. 42 i 45 cisza jest **udokumentowaną decyzją** (dok. 07 § A2), w rozdz. 46 — opisana w aparacie. W **24 nie ma ani formuły, ani wzmianki**, a jest to rozdział, który sam dok. 07 § A1 wymienia jako jedno z trzech miejsc o największej wadze refrenu (**24, 48, epilog**). ⛔ **Do rozstrzygnięcia: czy cisza w 24 jest zamierzona.**
+
+**Kontrola 7 — ⚠️⚠️ SERIA CZTERECH IDENTYCZNYCH OTWARĆ (31, 32, 33, 34).** To jest dokładnie ryzyko, przed którym ostrzega dok. 07 § A1 („refren staje się manierą, czytelnik zaczyna go przeskakiwać wzrokiem"):
+
+| Rozdz. | Otwarcie |
+|---|---|
+| **31** | „Zostaje **refren, który ta książka niesie od pierwszej strony: czy ktoś tam jest?** Odpowiedzi, jakie dotąd zanotowała, **przychodziły z drugiej strony progu**: »Tu jestem«… »jest — i przeszedł«…" |
+| **32** | „Zostaje **refren, który ta książka niesie od pierwszej strony: czy ktoś tam jest?** Rozdziały, które były przed tym, **notowały odpowiedzi z drugiej strony progu**: »Tu jestem«… »jest — i przeszedł«… »wierzę w Ciebie«" |
+| **33** | „Zostaje **refren, który ta książka niesie od pierwszej strony: czy ktoś tam jest?** Rozdziały **notowały dotąd odpowiedzi z drugiej strony progu**: »Tu jestem«… »jest — i przeszedł«… »wierzę w Ciebie«… »Jest — i nigdy nie był sam«" |
+| **34** | „Zostaje pytanie… — **refren: czy ktoś tam jest?** Rozdziały **notowały dotąd odpowiedzi z drugiej strony progu**: [pięć pozycji]" |
+
+⚠️ **Problem jest podwójny:** (1) **ta sama formuła wprowadzająca** cztery razy pod rząd; (2) **rosnąca lista-katalog** poprzednich odpowiedzi — 2, 3, 4, 5 pozycji — czyli czytelnik dostaje **cztery razy pod rząd to samo podsumowanie**, za każdym razem dłuższe.
+⭐ **Same odpowiedzi są różne i dobre** („wierzę w Ciebie", „Jest — i nigdy nie był sam", „odpowiedź ma formę osoby", „można Go posadzić naprzeciwko") — **psuje je oprawa, nie treść**.
+✅✅ **WYKONANE 2026-09-12 (na polecenie autora). Seria rozbita.**
+
+| Rozdz. | Było | Jest |
+|---|---|---|
+| **31** | „Zostaje refren, który ta książka niesie od pierwszej strony… Odpowiedzi, jakie dotąd zanotowała, przychodziły z drugiej strony progu: [2 pozycje]" | „Zostaje refren: czy ktoś tam jest? **Dotąd odpowiedź przychodziła zawsze z drugiej strony progu — mówił ją Ktoś inny.** Teraz… **po raz pierwszy odpowiada człowiek**" |
+| **32** | ta sama formuła + [3 pozycje] | „…**Poprzedni rozdział pokazał człowieka, który po raz pierwszy odpowiedział sam** — »wierzę w Ciebie«. Ten może odpowiedzieć w swoim własnym rejestrze…" |
+| **33** | ta sama formuła + [4 pozycje] | „…**Poprzedni rozdział odpowiedział tezą** — że u początku jest relacja. Ten dodaje odpowiedź **innego kształtu**…" |
+| **34** | ta sama formuła + [5 pozycji] | ⭐ **katalog ZOSTAJE — i zostaje wzmocniony** |
+
+⭐ **Zasada, którą zastosowałem:** zamiast inwentaryzacji każdy rozdział **odwołuje się tylko do poprzedniego** — to wystarcza czytelnikowi do orientacji, a nie powtarza całej listy. Formuła wprowadzająca skrócona do „Zostaje refren: czy ktoś tam jest?".
+
+⭐⭐ **Rozdz. 34 dostał nową funkcję: jest jedynym miejscem, gdzie książka się zatrzymuje i liczy.** Dopisałem tam obserwację, której wcześniej nie było, a która czyni katalog **argumentem, a nie wyliczanką**: odpowiedzi układają się w **kolejność schodzącą** — „od zapewnienia, przez wydarzenie i tezę, aż do kogoś, kto ma imię", a ten rozdział dodaje ostatni stopień („można Go posadzić naprzeciwko").
+✅ **Kontrola po zmianie:** katalog (≥3 pozycje) występuje teraz **wyłącznie w rozdz. 34**; w 31 i 33 zero pozycji, w 32 tylko własna odpowiedź rozdziału. Cztery różne otwarcia, żadnych zmian w samych odpowiedziach.
+
 ### ⭐ Wniosek z etapu A
 
 Na **jedenaście** sprawdzonych rozdziałów (40, 42, 45, 46, 47, 34, 28, 4, 32, 29 + kontrola całości): **dwa realne błędy** — sklejka cytatu w *Duchu liturgii* i **numeracja v2 w notach rozdz. 34**; **jedna błędna nazwa rozdziału**; **jeden nieaktualny przypis** (Buber); **trzy ustalone strony**; **jedna wykonana rekomendacja** (J 4,26) i **pięć nowych znalezisk** (Eschatologia s. 90, Spaemann ×2, Pascal fr. 100, offset Bubera).
@@ -244,7 +275,7 @@ Te są łatwe: **jedna strona, jedno zdanie**. Uszeregowane wg stosunku „ile z
 | # | Co | Gdzie w książce | Dlaczego warto |
 |---|---|---|---|
 | 1 | ⭐ **Konfucjusz, *Analekta* IV,25 i I,1** (przeł. K. Pejda, WUW 2018) | rozdz. **11** | **dwa zdania**; dziś mam przekład z przekładu (chiński→ang.→pol.). ⚠️ I,1 to **najsłabszy cytat w książce** — widziany przekład różni się od wersji powszechnej |
-| 2 | ⭐⭐ **Ch. Lasch, *Kultura narcyzmu*, s. 10** (Sedno 2015) | rozdz. **13 i 14** | **najdłużej otwarty dług**; „narcyzm to psychologiczny wymiar tej zależności". Rozdz. 14 nie ma **ani jednego** cytatu |
+| 2 | ⭐⭐ **Ch. Lasch, *Kultura narcyzmu*, s. 10** (Sedno 2015) | rozdz. **13 i 14** | **największy otwarty dług książki**; ⭐ **szczegółowa lista: `dokumenty/16_LASCH_CZEGO_SZUKAC.md`** (2026-09-12) — potrzebne **dwa miejsca z rozdz. I**, w praktyce **s. 9–13 wydania oryginalnego** |
 | 3 | **V. Frankl** (Czarna Owca 2009) | rozdz. **19** | strony dla **trzech dróg sensu** i dla **„najlepsi z nas stamtąd nie powrócili"** |
 | 4 | **H. Kohut** (1971), „błysk w oku matki", lokalizowane na s. 116 | rozdz. **14** | rozdział bez cytatów; to jedyny kandydat |
 | 5 | **H. Rosa, *Resonanz*** (niem. lub ang. — ⛔ **polskiego przekładu NIE MA**) | rozdz. **21** | **dwa zdania**: definicja + „gdzie wszystko dostępne, świat nie ma nic do powiedzenia" |

@@ -183,6 +183,16 @@ Kontekst: rozdz. 26 był najwyższym ryzykiem listy etapu A (29 wystąpień Ratz
 
 **Status listy ryzyka (po 26):** z czołówki etapu A zostają do samodzielnej kontroli brzmień: **24 → 27 → 31 → 33** (26 zamknięty; 28/29/32/34/40/42/45/46/47 objęte etapem A lub wcześniejszymi audytami).
 
+### ⭐ ETAP F (2026-09-12) — rozdz. 24 i 27 + ODKRYCIE: pliki źródłowe MAJĄ paginację (znaczniki OCR)
+
+**1. Rozdz. 24 — re-weryfikacja kompletna, wszystko co do słowa.** Szeol/„Śmierć to po prostu samotność", „brama śmierci", scena przykładowa (dziecko–las–pies na łańcuchu–czuwanie przy zmarłym; w. 3385, jeden akapit), Hesse *Im Nebel* (zwrotka cała, w. 3390–3393), „współ-bycie", przedmowa (Tybinga 1967/lato 1968). KKK 633 potwierdzony niezależnie w sieci. Paginacja s. 245–246/246–247 **potwierdzona mechanicznie** znacznikami.
+
+**2. Rozdz. 27 — re-weryfikacja kompletna + tyldy ZDJĘTE mechanicznie.** Brzmienia: „wadliwe stawianie problemu" ✔ (*JnT2*), „Przede wszystkim jest rzeczą jasną…" ✔, „idącym za mną cieniem… źródłem mego bytu" ✔, „echem, jego cieniem" ✔, „najmocniejszych dowodów…" ✔ (szabat→niedziela). Strony z mapy znaczników: *JnT2* **s. 269–270** (było ~269–270 ✔), argument **s. 273–275** (było ~273–275 ✔); *Wprowadzenie* **s. 253–254** (było ~253–254 ✔) i **s. 249** (było ~249–250 — cytaty na 249). **Jedna rozbieżność:** „nieśmiertelność… tylko we współistnieniu ludzi" = **s. 198** wg znaczników (aparat: „~248" — strona do poprawy przy autopsji; brzmienie pewne); „odniesieniem do siebie trzech Osób" = s. 251 (aparat „~252" ✔). „Kronika" — słowa nie ma w *Wprowadzeniu* → ostrzeżenie przy ¹ (skrót autorski, nie cytat) potwierdzone.
+
+**3. ODKRYCIE NARZĘDZIOWE — paginacja w plikach źródłowych.** W 4 z 5 plików Ratzingera OCR zachował **znaczniki stron** jako samotne liczby w osobnych liniach (konwencja: liczba = początek strony; tekst PO znaczniku leży na tej stronie; małe liczby przeplatane = numery przypisów dolnych — szum do odfiltrowania). Zbudowano mapy znaczników + rozwiązywacz „linia → strona": `biblioteka_robocze/paginacja/` (Wprowadzenie 546 znaczników, *JnT2* 374, *Eschatologia* 140, Bóg-i-świat 408; *Duch liturgii* — format inny, do zbadania). Konwencję zwalidowano na miejscach już sprawdzonych w wydaniu (rozdz. 24: 245/246/247; rozdz. 27: 249/253/269–270/275 — wszystkie zgodne z aparatem). **Konsekwencja:** lista zadań 2.5 (tyldy) jest do zdjęcia **mechanicznie, bez autopsji**, tam gdzie znaczniki przetrwały; autopsja zostaje tylko dla miejsc z lukami OCR (np. *Eschatologia* s. 91–101: między znacznikami 90 a 102 brak 11 numerów — tylda s. ~90–91 W ROKU 26 ZOSTAJE, z dopiskiem „≥90").
+
+**Status listy ryzyka (po F):** zostają **31 → 33**; dalej „reszta" (22, 23, 25, 30, 35–39, 41, 43, 44, 48, 49) wg dostępności źródeł.
+
 ### ⭐ Wniosek z etapu A
 
 Na **jedenaście** sprawdzonych rozdziałów (40, 42, 45, 46, 47, 34, 28, 4, 32, 29 + kontrola całości): **dwa realne błędy** — sklejka cytatu w *Duchu liturgii* i **numeracja v2 w notach rozdz. 34**; **jedna błędna nazwa rozdziału**; **jeden nieaktualny przypis** (Buber); **trzy ustalone strony**; **jedna wykonana rekomendacja** (J 4,26) i **pięć nowych znalezisk** (Eschatologia s. 90, Spaemann ×2, Pascal fr. 100, offset Bubera).

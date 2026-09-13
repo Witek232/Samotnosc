@@ -193,6 +193,22 @@ Kontekst: rozdz. 26 był najwyższym ryzykiem listy etapu A (29 wystąpień Ratz
 
 **Status listy ryzyka (po F):** zostają **31 → 33**; dalej „reszta" (22, 23, 25, 30, 35–39, 41, 43, 44, 48, 49) wg dostępności źródeł.
 
+### ⭐ ETAP G (2026-09-12) — rozdz. 31 i 33
+
+31: trzy brzmienia przyp. ¹ ✔✔ (s. 108 dokładna; strony (a)/(b) o 1 za wysoko — wzorzec „znacznik liczony jako koniec strony", do mikrokorekty przy autopsji). 33: przyp. ² w całości ✔✔, strony 136/137/176 **dokładne**; rekomendacja przeadresowania ³ na cz. II (Abba, s. 175) potwierdzona mechanicznie.
+
+### ⭐ ETAP H (2026-09-12) — rozdz. 48, 49, 25, 22, 23, 36 + bilans „reszty"
+
+- **48:** ¹ (Mk 14,36 w wersji Ratzingerowskiej „zabierz") ✔✔, s. 166–167 dokładnie; ² litania Getsemani ✔✔ (w. 1540, jeden akapit), s. 162–163 dokładnie.
+- **49:** ⁶ ✔✔ + **korekta linii w. 919** (było 918; s. ≥116, luka OCR); ⁷ ✔✔ (w. 774; tylda „ok. 90" zostaje — locus wspólny z 26); ⁸ ✔✔ → **s. 114 dokładnie, tylda zdjęta**. Nota ⁹ (formuła autorska) — potwierdzona; por. błąd R4 przy 16:234.
+- **25:** ² w całości ✔✔ (w. 2059–2072); cytat blokowy = **s. 228** dokładnie; Bultmann/Augustyn s. 229–230.
+- **22:** cytat blokowy *Spe salvi* § 26 ✔✔ („krucha miłość… miłości bezwarunkowej"), skrót zaznaczony — uczciwy.
+- **23:** ¹ ✔✔ → **s. 244 dokładnie** (nota „244–245" do zawężenia); ³ ✔✔ (w. 769/774; tylda zostaje — luka OCR 91–101).
+- **36:** sprostowanie przy ⁴ potwierdzone niezależnie (0 wystąpień formuły „ja→my" w *Duchu liturgii*); `[?]` stron zostaje — ten plik NIE ma znaczników stron.
+- **Bilans „reszty" 22–50:** bez Ratzingera do sprawdzenia pozostają wyłącznie pozycje „po pozyskaniach": **30** (Heschel — brak egzemplarza), **35** (*Powołani do wspólnoty* — brak), **36** (strony *Ducha liturgii* — plik bez paginacji), **33 przyp. ³** (JnT cz. I — brak; rekomendacja przeadresowania już potwierdzona), **37** (tylko baza stylu DCE § 26–31 — plik jest, cytatów brak, nic do weryfikacji), **38/39/41/43/44** (brzmienia czekają na egzemplarze z listy 3.3). **Wszystko, co leżało na posiadanych plikach, jest sprawdzone.**
+
+**Stan po ETAP H (2026-09-12):** weryfikacja Ratzingera 22–50 na posiadanych źródłach **ZAMKNIĘTA**. Wynik łączny: **~30 miejsc brzmień sprawdzonych, wszystkie co do słowa** (zero poprawek brzmień); 5 tyld zdjętych mechanicznie (27: 249/253–254/269–270/273–275; 49: 114), 2 strony doprecyzowane (23: 244; 33 przeadresowanie 175), 2 rozbieżności do autopsji (27: 198 vs ~248; 31: s. 30 i 35 vs 31 i 36), 1 korekta linii (49⁶: 919). Zostają: autopsja *Eschatologii* (luka 91–101), mikrokorekty stron 31, pozyskania z listy 3.3.
+
 ### ⭐ Wniosek z etapu A
 
 Na **jedenaście** sprawdzonych rozdziałów (40, 42, 45, 46, 47, 34, 28, 4, 32, 29 + kontrola całości): **dwa realne błędy** — sklejka cytatu w *Duchu liturgii* i **numeracja v2 w notach rozdz. 34**; **jedna błędna nazwa rozdziału**; **jeden nieaktualny przypis** (Buber); **trzy ustalone strony**; **jedna wykonana rekomendacja** (J 4,26) i **pięć nowych znalezisk** (Eschatologia s. 90, Spaemann ×2, Pascal fr. 100, offset Bubera).

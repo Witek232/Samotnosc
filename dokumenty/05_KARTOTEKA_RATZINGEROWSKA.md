@@ -405,6 +405,20 @@ Definicja piekła nie stoi w tekście samotnie: poprzedza ją wywód o **przezwy
 | R10 | homilia inauguracyjna 2005 / Droga Krzyżowa 2005 | „każdy z nas jest chciany, każdy kochany"; obrazy pustki Kościoła | epilog, 48 | `[?]` — łatwe do sprawdzenia, vatican.va |
 | R11 | *Spe salvi* 6 | Ps 23 + „droga całkowitej samotności, na której nikt nie może mi towarzyszyć" | **48**, 26, 47 | **✔ ZAŁATWIONE — § 4i** (vatican.va, nie wymaga pliku) |
 
+### ⭐ Aktualizacja 2026-09-13 (ETAP 3, weryfikacja niezależna) — R1–R4 i R10 + korekta § 4a
+
+**Korekta § 4a (ważna):** ustalenie z 2026-09-07 („plików MOBI nie cytujemy stronicowo") wymaga doprecyzowania. **Małe liczby w tekście to faktycznie odsyłacze do przypisów** — tu diagnoza była trafna. ALE **samotne liczby w osobnych liniach (głównie trzycyfowe) to zachowana paginacja wydania**: liczba = początek strony, tekst PO znaczniku leży na tej stronie. Konwencję zwalidowano na ~12 miejscach już sprawdzonych w wydaniu (Wprowadzenie: 245/246/247, 249, 253, 108; *JnT2*: 136–137, 162–163, 166–167, 228–230, 269–275; *Eschatologia*: 114) — wszystkie zgodne z aparatem. Narzędzie: `biblioteka_robocze/paginacja/` (mapy znaczników 4 plików; *Duch liturgii* ma format inny — tam § 4a obowiązuje nadal). **Wniosek:** dla 4 plików strony wolno podawać po sprawdzeniu znaczników; status `[s?]` zostaje tylko dla miejsc w lukach OCR (np. *Eschatologia* 91–101).
+
+**Stan pozycji § 5 po ETAP 3 (2026-09-13):**
+
+| Poz. | Status nowy | Uzasadnienie |
+|---|---|---|
+| R1 | **✔ ZAŁATWIONE** | *Wprowadzenie* w. 536, **s. 11**: „zarowno wierzący jak niewierzący, każdy na swój sposób doświadcza zwątpienia i wiary… Nikt nie może uniknąć całkowicie wątpienia ani całkowicie wiary… wątpienie jednego i drugiego… mogłoby się stać miejscem spotkania" ✔✔ (plik był w bibliotece — pozycja czekała tylko na przejrzenie) |
+| R2 | **✔ ZAŁATWIONE** | *Wprowadzenie* w. 565–567 (**s. 15**) i w. 979 (**s. 20**): „nawróceniem, zwrotem w egzystencji, zmianą w bytowaniu"; „wiara oznacza zmianę całej egzystencji człowieka; w języku Heideggera… «zwrot»" ✔✔ |
+| R3 | **✔ ZAŁATWIONE (ETAP F 09-12)** | rozdz. 24 zweryfikowany w całości (w. 3377–3399): samotność absolutna, „brama śmierci", „Śmierć to po prostu samotność…" — s. 244–246 potwierdzone znacznikami |
+| R4 | **CZĘŚCIOWO ✔** | blok trynitarno-osobowy z *Wprowadzenia*: „nieśmiertelność… tylko we współistnieniu ludzi" (s. **198**) i „Bóg… jest odniesieniem do siebie trzech Osób, ich otwarciem na wzajemność miłości" (s. **251**) ✔✔; pełne zamknięcie po weryfikacji cytatów 28/32 z tym blokiem |
+| R10 | **✔ ZAŁATWIONE** | homilia inauguracyjna 24.04.2005 (opoka.org.pl, PL): „Nie jesteśmy przypadkowym i pozbawionym sensu wytworem ewolucji. Każdy z nas jest owocem myśli Bożej. **Każdy z nas jest chciany, każdy jest kochany, każdy jest niezbędny**" ✔. ⚠️ **Wariant przekładowy w obiegu** („każdy miłowany… niezbędny" — wikiquote) — przy cytowaniu trzymać się brzmienia opoka.org.pl i dodać notkę o wariancie |
+
 **Pełna lista pozycji do zdobycia (wszyscy autorzy, nie tylko Ratzinger): `dokumenty/08_LISTA_POZYCJI_DO_POZYSKANIA.md`.**
 
 **Zadanie kwerendy nr 1 (po wgraniu plików):**

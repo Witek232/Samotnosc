@@ -242,6 +242,10 @@ Kontekst: autor przeprowadził kwerendę w źródłach wtórnych pod kątem nume
 
 **Nowa kolejność pozyskań:** autopsje Ratzingera → *Być i mieć* 1986 (3 miejsca za jednym razem) → Yalom e-book → Łosski → skan Ariès → Spaemann *Osoby* → Kohut (biblioteka) → *Duch liturgii*. Pełne rozliczenie: dok. 08, aktualizacja z 13.09.
 
+### ⭐ ETAP L (2026-09-13, wieczór) — Marcel: mapa zdjęć kompletna (tura 2 kwerendy autora)
+
+Druga tura kwerendy domyka Marcela niemal całkowicie. **Zamknięte:** *Być i mieć* **s. 100–101** (problem/tajemnica — drugie niezależne poświadczenie). **Nowe namiary literaturowe:** Hv 1984 — s. 63/82 (nadzieja/posiadanie), **s. 142–143** („Jeśli inni nie istnieją, ja również nie istnieję" — esej *Wartość i nieśmiertelność* = s. 139–159 tomu), s. 149–151 (rozpacz; fallback dla BiM 74), **s. 158–159** (*homo viator*; cytat o kondycji pielgrzyma krąży w literaturze — reguła „cyt. za:" albo egzemplarz); BiM 1986 — **s. 178–179** (obecność vs bliskość — para dla rozdz. 47), s. 129/143 (posiadanie/alienacja — łącznik z Laschem). **s. 74 zostaje 🟡** (bez nowego poświadczenia). **disponibilité — strony nie podawać** (fotografować fragment z terminem francuskim). **Korekta bibliograficzna:** *Homo viator* — rok 1984 pewny, liczbę stron pominąć (sprzeczność katalogowa 318/386). **Rekomendacja zmieniona: jeden tom = *Homo viator* 1984** (rozdz. 26/29/46/47 jednym tomem); *Być i mieć* drugi (100–101, 178–179). Wdrożone w aparaty: 26, 29, 47 + dok. 08 (lista 9 zdjęć).
+
 ### ⭐ Wniosek z etapu A
 
 Na **jedenaście** sprawdzonych rozdziałów (40, 42, 45, 46, 47, 34, 28, 4, 32, 29 + kontrola całości): **dwa realne błędy** — sklejka cytatu w *Duchu liturgii* i **numeracja v2 w notach rozdz. 34**; **jedna błędna nazwa rozdziału**; **jeden nieaktualny przypis** (Buber); **trzy ustalone strony**; **jedna wykonana rekomendacja** (J 4,26) i **pięć nowych znalezisk** (Eschatologia s. 90, Spaemann ×2, Pascal fr. 100, offset Bubera).

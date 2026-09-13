@@ -505,7 +505,30 @@ Wyd. PIW, przeł. Eliza Bąkowska. Spis treści ustalony 2026-09-09 z oferty ant
 - **Apoftegmaty**: forma cytowania „Mojżesz 6" (hasło + numer) jest WŁAŚCIWA i stabilna — numeru ciągłego szukać opcjonalnie przy egzemplarzu (nota w rozdz. 38 już to dokumentuje).
 - **Eschatologia**: tyldy „ok. 90–91" zdjęte w 23/26/49; pozostałe zakresy (79–89, 110–112, 116–117) i blok trynitarny *Wprowadzenia* 249–252 — do autopsji (bez zmian).
 
-**Pozyskania — nowa kolejność praktyczna:** (1) autopsja *Eschatologii* + *Wprowadzenia* (zamyka ostatnie zakresy Ratzingera), (2) *Być i mieć* 1986 (Marcel — 3 miejsca za jednym razem), (3) Yalom e-book 2008, (4) Łosski 1989, (5) Ariès skan 19–41 + 549–~580, (6) Spaemann *Osoby* 2001 (4 strony do sprawdzenia), (7) Kohut biblioteka, (8) *Duch liturgii* — strony, gdy trafi się egzemplarz.
+**Pozyskania — nowa kolejność praktyczna:** (1) autopsja *Eschatologii* + *Wprowadzenia* (zamyka ostatnie zakresy Ratzingera), (2) ~~*Być i mieć* 1986~~ → **zaktualizowana wieczorem, patrz niżej: jeden tom = *Homo viator* 1984**, (3) Yalom e-book 2008, (4) Łosski 1989, (5) Ariès skan 19–41 + 549–~580, (6) Spaemann *Osoby* 2001 (4 strony do sprawdzenia), (7) Kohut biblioteka, (8) *Duch liturgii* — strony, gdy trafi się egzemplarz.
+
+### Aktualizacja 2026-09-13, tura 2 (kwerenda autora) — MARCEL: mapa zdjęć KOMPLETNA
+
+**Dane wydawnicze:** *Homo viator*, PAX — rok **1984 pewny** (konsekwentny we wszystkich cytujących opracowaniach); **liczbę stron pominąć w przypisach** — sprzeczność katalogowa (UKSW: 1960/1984, 386 s. w rekordzie vs 318 s. z innego źródła). *Być i mieć*, PAX 1986, 202 s. — bez zmian.
+
+**Lista zdjęć (zamiast sześciu przypadkowych fragmentów):**
+
+📕 *Homo viator* 1984:
+1. **s. 63–70** ⭐ nadzieja: posiadanie → utrata nadziei (63) → definicja/komunia (65, 70); dalej s. 82 (ciąg argumentacji) → rozdz. 47 + epilog
+2. **s. 142–143** ⭐ „Jeśli inni nie istnieją, ja również nie istnieję" → rozdz. 47 (esej *Wartość i nieśmiertelność* = s. 139–159 tomu)
+3. **s. 149–151** rozpacz/obojętność/utrata relacji → rozdz. 26 + 47 (fallback dla s. 74 BiM)
+4. **s. 158–159** ⭐ *homo viator*, kondycja pielgrzyma; cytat w polskim brzmieniu krąży w literaturze („Kto wie, czy trwały porządek ziemski… kondycją pielgrzyma") — użycie wyłącznie „cyt. za:" albo z egzemplarza → rozdz. 46–47
+
+📗 *Być i mieć* 1986:
+5. **s. 100–101** ⭐ problem ↔ tajemnica — **ZAMKNIĘTE** (drugie niezależne poświadczenie) → rozdz. 26 + 47
+6. **s. 178–179** ⭐ obecność ↔ fizyczna bliskość (nowe) → rozdz. 44–47
+7. s. 129 posiadanie (kluczowe pojęcie metafizyki) → łącznik z Laschem
+8. s. 143 posiadanie/alienacja → rozdz. 14–15 lub 47
+9. s. 74 „egzorcyzmowanie rozpaczy" — pozostaje 🟡 (bez nowego poświadczenia, do autopsji)
+
+**disponibilité:** strony nadal NIEPODTWIERDZONE — nie podawać; przy egzemplarzu fotografować cały fragment z terminem francuskim (rozstrzygnie „dyspozycyjność" vs „rozporządzalność" w STYL § 7 — terminologia projektowa „rozporządzalność" ✔ przyjęta wcześniej).
+
+**⚡ Rekomendacja zmieniona: jeden tom = *Homo viator* 1984** — jednym tomem pokrywamy nadzieję → relację → istnienie innych → rozpacz → śmierć → nieśmiertelność → homo viator, czyli rozdz. **26, 29, 46 i 47**. *Być i mieć* — drugi w kolejce (dwa „piękne miejsca": 100–101 i 178–179).
 
 ## C3. Ernest Becker, *Zaprzeczanie śmierci* — **użytkownik nie ma dostępu; nie cytować**
 

@@ -223,6 +223,25 @@ Kontekst: rozdz. 26 był najwyższym ryzykiem listy etapu A (29 wystąpień Ratz
 - **2.8 ✔ bez zmian — zamknięte negatywnie:** „ok. 90–91" *Eschatologii* pozostaje tyldą (luka OCR 91–101; potwierdzenie „≥90" z trzech rozdziałów); granica 246/247 (D7) potwierdzona mechanicznie w ETAP F. Nie ma czego „dokładniej" — dopiero autopsja.
 - **2.1 Stella** — czeka na D2 (decyzja autora), poza tym patchem.
 
+### ⭐ ETAP K (2026-09-13, wieczór) — kwerenda autora: strony potwierdzone w literaturze + dwie KOREKTY ustaleń projektu
+
+Kontekst: autor przeprowadził kwerendę w źródłach wtórnych pod kątem numerów stron z wyraźnym rozróżnieniem „potwierdzone" vs „powtarzane". Wyniki zweryfikowane przeze mnie osobno (istnienie wydań sprawdzono w katalogach i bibliografiach) i wdrożone do aparatów.
+
+**DWIE WAŻNE KOREKTY — kwerenda autora obaliła wcześniejsze ustalenia projektu:**
+1. **Spaemann, *Osoby* — wydanie polskie ISTNIEJE** (Oficyna Naukowa, Warszawa 2001, przeł. J. Merecki SDS, seria „Terminus", ~350 s., ISBN 83-88164-35-X; potwierdzone niezależnie). Ustalenie dok. 11 („prawdopodobnie NIE ISTNIEJE") **było błędne** — sprostowane w dok. 11 i aparacie rozdz. 28. Strony 167–168, 220, 223, 296–297 mają niezależne poświadczenia literaturowe (status jak Péguy: pewne z drugiej ręki, wpisywalne z adnotacją).
+2. **Ariès, PIW: korekta stron spisu treści 37→38 i 39→40** („W ogrodzie, wśród kwiatów" = 38, „Zgoda na nieuniknione" = 40); tłumaczka **Eligia** (nie „Eliza") Bąkowska; wyd. 1989. Sprostowane w dok. 08.
+
+**Zdjęte / wzmocnione:**
+- **Eschatologia s. 90–91** (23³, 26ᴬ, 49⁷): tyldy „ok." zdjęte — znaczniki pliku (≥90) + autopsja autora + niezależne poświadczenie literaturowe s. 90–91 (uwaga: poświadczenie dla wyd. 2000; partia ta sama, paginacja zbieżna).
+- **Wprowadzenie s. 198** (27⁶): potwierdzone → korekta „~248"→„198"; blok trynitarny 249–252 zgodny ze znacznikami (do autopsji).
+- **Pieper, *O nadziei***: wyd. pol. *O miłości, nadziei i wierze*, W drodze, Poznań 2000, ISBN 83-7033-239-0 ✔ (katalogi); s. 169 i 172 potwierdzone w literaturze → `[?]` półotwarte.
+- **Kohut s. 116** ✔ (literatura; pokrewne pp. 108–109, 126–127); **Zizioulas pp. 87–88** ✔ (+36/44/100–101/112/130); **Łosski** IW PAX Warszawa 1989 ✔, s. 7/35/120–121 ✔; **Coontz** p. 5, 15–24, 117 ✔ (parafraza z przypisem, „około ostatnich dwóch stuleci"); **Yalom** wyd. 2008: s. 364 i 377–378 (+141) ✔ — **decyzja: cytować wg 2008** (dodruk 2013 = ta sama paginacja); **Marcel**: Hv1984 s. 65–70, 149–150 ✔; BiM1986 s. 74, 99–101 ✔ (+145–146, 149 disponibilité).
+- **Apoftegmaty**: forma „Mojżesz 6" (hasło+numer) = właściwa i stabilna; numer ciągły — opcjonalny, przy egzemplarzu.
+
+**Bez zmian (do autopsji):** *Eschatologia* 79–89, 110–112, 116–117; *Wprowadzenie* 29–37 i 249–252; *Duch liturgii* (Znak 2002); dokładne strony Ariès 550/553/567.
+
+**Nowa kolejność pozyskań:** autopsje Ratzingera → *Być i mieć* 1986 (3 miejsca za jednym razem) → Yalom e-book → Łosski → skan Ariès → Spaemann *Osoby* → Kohut (biblioteka) → *Duch liturgii*. Pełne rozliczenie: dok. 08, aktualizacja z 13.09.
+
 ### ⭐ Wniosek z etapu A
 
 Na **jedenaście** sprawdzonych rozdziałów (40, 42, 45, 46, 47, 34, 28, 4, 32, 29 + kontrola całości): **dwa realne błędy** — sklejka cytatu w *Duchu liturgii* i **numeracja v2 w notach rozdz. 34**; **jedna błędna nazwa rozdziału**; **jeden nieaktualny przypis** (Buber); **trzy ustalone strony**; **jedna wykonana rekomendacja** (J 4,26) i **pięć nowych znalezisk** (Eschatologia s. 90, Spaemann ×2, Pascal fr. 100, offset Bubera).

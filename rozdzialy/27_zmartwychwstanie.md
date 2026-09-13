@@ -108,7 +108,7 @@ Otwiera natomiast pytanie następne — prostsze od tamtego, a bardziej wymagaj�
 
 ⁶ J. Ratzinger, *Wprowadzenie w chrześcijaństwo* (wyd. pol.; w bibliotece projektu: `biblioteka/_tekst/ratzinger_wprowadzenie-w-chrzescijanstwo_pl.txt`), **s. ~249–250**. ✔ **ZWERYFIKOWANE 2026-09-09.** Cytat: myśl Boga o człowieku „nie jest idącym za mną cieniem, ale źródłem mego bytu". Kontekst, który podpiera cały ruch IV: obie ludzkie drogi do nieśmiertelności — trwanie w dzieciach i trwanie w sławie — zawodzą, bo „to co pozostaje, nie jest tym samym co człowiek, jest tylko jego echem, jego cieniem", a i ten, komu powierzono swoje trwanie, sam przemija.
 
-**Znalezisko o szerszym znaczeniu (s. ~248 i ~252) — dla rozdz. 28 i 32.** Ratzinger prowadzi tam wprost tezę, że „nieśmiertelność człowieka może być pomyślana tylko we współistnieniu ludzi", oraz że Bóg „jest odniesieniem do siebie trzech Osób […] jest aktem-substancją miłości absolutnej" — *relatio subsistens*. Jest to ta sama linia, dla której rozdz. 26 szukał źródła w niedostępnym eseju z „Communio". **Zapisane do wykorzystania.**
+**Znalezisko o szerszym znaczeniu (s. 198 oraz 249–252 — rozstrzygnięte mechanicznie znacznikami 2026-09-12, potwierdzone kwerendą 2026-09-13) — dla rozdz. 28 i 32.** Ratzinger prowadzi tam wprost tezę, że „nieśmiertelność człowieka może być pomyślana tylko we współistnieniu ludzi", oraz że Bóg „jest odniesieniem do siebie trzech Osób […] jest aktem-substancją miłości absolutnej" — *relatio subsistens*. Jest to ta sama linia, dla której rozdz. 26 szukał źródła w niedostępnym eseju z „Communio". **Zapisane do wykorzystania.**
 
 ᴱ Ch. Péguy, *Przedsionek tajemnicy drugiej cnoty*, przeł. **Leon Zaręba**, Wydawnictwo Karmelitów Bosych, Kraków 2007, **s. 31**. ISBN 978-83-7305-248-2.
 

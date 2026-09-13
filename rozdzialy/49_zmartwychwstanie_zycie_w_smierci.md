@@ -201,7 +201,7 @@ Brzmienie: „Usprawiedliwienie przez uczynki, przez to, co się samemu zdziała
 
 ⚠️ Cytuję **dwa pierwsze zdania**; trzeciego („Nie uczynki, lecz wiara daje życie") **nie przenoszę**, bo bez całego wywodu o usprawiedliwieniu brzmiałoby jak teza konfesyjna wrzucona w finał. Skrót jest świadomy i tu zgłoszony.
 
-⁷ **Tamże, ok. s. 90** ✔ **ZWERYFIKOWANE W WYDANIU** (w. 773; `05_KARTOTEKA_RATZINGEROWSKA.md` § 4b, poz. „Definicja życia przez brak samotności — rozdz. 49").
+⁷ **Tamże, s. 90–91** ✔ **ZWERYFIKOWANE W WYDANIU** (w. 773; `05_KARTOTEKA_RATZINGEROWSKA.md` § 4b, poz. „Definicja życia przez brak samotności — rozdz. 49"). **Tylda „ok." zdjęta 2026-09-13** — jak w rozdz. 23 (znaczniki + autopsja + niezależne poświadczenie literaturowe s. 90–91).
 
 Brzmienie: „Życie we właściwym sensie jest tam, gdzie nie ma cierpienia, samotności, izolacji, gdzie jest natomiast obfitość spełnienia, miłość, wspólnota, gdzie człowiek doznaje dotknięcia Boga. […] Życie to wspólnota, istotą śmierci jest wyrwanie z wszystkich więzi."
 

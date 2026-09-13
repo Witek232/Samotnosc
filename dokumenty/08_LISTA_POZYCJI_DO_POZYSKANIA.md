@@ -487,13 +487,25 @@ Wyd. PIW, przeł. Eliza Bąkowska. Spis treści ustalony 2026-09-09 z oferty ant
 
 | Fragment | Strony |
 |---|---|
-| Ks. I, cz. I, rozdz. 1 **„Śmierć oswojona"** | od s. 19; wewnątrz: „Wiedząc, że śmierć nadchodzi" **19**, „Mors repentina" **24**, „W ogrodzie, wśród kwiatów" **37**, „Zgoda na nieuniknione" **39**, „Śmierć oswojona" **41** |
+| Ks. I, cz. I, rozdz. 1 **„Śmierć oswojona"** | od s. 19; wewnątrz: „Wiedząc, że śmierć nadchodzi" **19**, „Mors repentina" **24**, „W ogrodzie, wśród kwiatów" **38**, „Zgoda na nieuniknione" **40**, „Śmierć oswojona" **41** |
 | „Znowu śmierć oswojona" | **200** |
 | Cz. V, rozdz. 12 **„Śmierć na opak"** | od **549**; „Gdzie kryje się śmierć" **549**, „Początek kłamstwa" **550**, „Początek medykalizacji" **553**, „Nieprzyzwoitość żałoby" **567**, „Śmierć wyeliminowana" **568**, „Zwycięstwo medykalizacji" **572**, „Śmierć dzisiaj" **577** |
 
 **To wystarczy, żeby zamówić skan dwóch rozdziałów** (ok. 60 stron) w bibliotece albo znaleźć je punktowo w czytelni — zamiast szukać całego, drogiego tomu. Para „śmierć oswojona" (s. 19–41) ↔ „śmierć na opak" (s. 549–583) jest **całą osią**, której potrzebuje rozdz. 46.
 
-⚠️ Dopóki nie ma egzemplarza w ręku, **nazwisko Ariès pozostaje w tekście pominięte** — obecnie znamy go tylko z drugiej ręki.
+**Aktualizacja 2026-09-13 (kwerenda autora + weryfikacja niezależna) — strony potwierdzone w literaturze naukowej:**
+
+- **Spaemann, *Osoby***: wydanie polskie ISTNIEJE (Oficyna Naukowa 2001, przeł. J. Merecki SDS, seria „Terminus", ~350 s., ISBN 83-88164-35-X) — **ustalenie „prawdopodobnie NIE ISTNIEJE" było błędne** (sprostowane w dok. 11 i aparacie rozdz. 28). Strony 167–168, 220, 223, 296–297 mają niezależne poświadczenia literaturowe — wpisywalne z adnotacją.
+- **Marcel**: *Homo viator* (PAX 1984) — **s. 65–70** (nadzieja/komunia; s. 70 = definicja syntetyzująca dla rozdz. 47), **s. 149–150** (rozpacz/bezczynność); *Być i mieć* (PAX 1986) — **s. 74** (egzorcyzmowanie rozpaczy), **s. 99–101** (problem/tajemnica; s. 99 posiadanie), ponadto 145–146 i 149 (disponibilité). **Rekomendacja: kupić/wypożyczyć jeden tom *Być i mieć* 1986 — domyka 3 mocne miejsca.**
+- **Yalom (wyd. 2008, IPZ PTP)**: **s. 364** (trójpodział izolacji), **s. 377–378** (granica relacji — głos przeciwnika dla rozdz. 47), s. 141 (zaprzeczanie). **Decyzja: cytować wg 2008** (paginacja 2023 niepoświadczona; dodruk 2013 = 2008).
+- **Kohut**: p. 116 potwierdzona w literaturze (ponadto pp. 108–109, 126–127); cytat dosłowny nadal z autopsji.
+- **Coontz** (Viking 2005): p. 5, pp. 15–24, p. 117; rekomendacja sformułowania: „około ostatnich dwóch stuleci", parafraza z przypisem p. 5.
+- **Ariès (PIW 1989, przeł. Eligia Bąkowska — poprawka imienia)**: **korekty tabeli: 37→38, 39→40** (wprowadzone wyżej); s. 24 i s. 549 bezdyskusyjne; strony 550, 553, 567 — do autopsji.
+- **Zizioulas**: pp. 87–88 (+ 36, 44, 100–101, 112, 130) — parafraza zostaje. **Łosski** (Sczaniecka, IW PAX, Warszawa 1989 — potwierdzone): s. 7, 35, 120–121 (+ 98–99, 117–118) — parafraza zostaje; przy egzemplarzu s. 7 jako pierwsza.
+- **Apoftegmaty**: forma cytowania „Mojżesz 6" (hasło + numer) jest WŁAŚCIWA i stabilna — numeru ciągłego szukać opcjonalnie przy egzemplarzu (nota w rozdz. 38 już to dokumentuje).
+- **Eschatologia**: tyldy „ok. 90–91" zdjęte w 23/26/49; pozostałe zakresy (79–89, 110–112, 116–117) i blok trynitarny *Wprowadzenia* 249–252 — do autopsji (bez zmian).
+
+**Pozyskania — nowa kolejność praktyczna:** (1) autopsja *Eschatologii* + *Wprowadzenia* (zamyka ostatnie zakresy Ratzingera), (2) *Być i mieć* 1986 (Marcel — 3 miejsca za jednym razem), (3) Yalom e-book 2008, (4) Łosski 1989, (5) Ariès skan 19–41 + 549–~580, (6) Spaemann *Osoby* 2001 (4 strony do sprawdzenia), (7) Kohut biblioteka, (8) *Duch liturgii* — strony, gdy trafi się egzemplarz.
 
 ## C3. Ernest Becker, *Zaprzeczanie śmierci* — **użytkownik nie ma dostępu; nie cytować**
 

@@ -168,7 +168,7 @@ Wschód oddał samotność pustyni, modlitwie i liturgii. Reformacja odda ją cz
 
 **Reguła analogii (oś III) — sprawdzona.** Przejście od Trójcy do antropologii nie zostało w tym rozdziale wykonane wprost (rozdział nie wyprowadza struktury człowieka z Trójcy, lecz **zestawia** dwie niezależne drogi dojścia do tej samej tezy). Sformułowania „to jest ta sama teza… dochodząca do niej z drugiej strony" nie orzekają o człowieku, że jest relacją subsystentną. Ryzyko błędu trynitarnego nie zachodzi.
 
-⁵ **Włodzimierz Łosski**, *Teologia mistyczna Kościoła Wschodniego*.
+⁵ **Włodzimierz Łosski**, *Teologia mistyczna Kościoła Wschodniego* — wyd. pol.: przeł. M. Sczaniecka, IW PAX, Warszawa **1989** (potwierdzone w bibliografiach naukowych; drugi przekład: Brzeska). **Uzupełnienie 2026-09-13 (kwerenda autora):** strony potwierdzone w literaturze: **s. 7** (teologia jako poznanie, którego celem jest zjednoczenie z Bogiem / przebóstwienie — dokładnie motyw „poznania przez uczestnictwo" w tym rozdziale), s. 35 (komunia z energiami Bożymi), s. 120–121 (przebóstwienie), ponadto 98–99, 117–118. Parafraza bez cudzysłowu zostaje; przy egzemplarzu sprawdzić s. 7 jako pierwszą.
 
 ✅ **DWA WYDANIA POLSKIE — POTWIERDZONE 2026-09-09, z korektą wobec konspektu:**
 - przeł. **Maria Sczaniecka**, Instytut Wydawniczy PAX, Warszawa **1989**, ISBN 83-211-1028-2;

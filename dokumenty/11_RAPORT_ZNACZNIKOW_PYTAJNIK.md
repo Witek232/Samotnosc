@@ -29,7 +29,7 @@
 
 | Rozdz. | Sprawa | Uwaga |
 |---|---|---|
-| 28 | paginacja polskiego wyd. *Osób* Spaemanna | autor wskazał s. 167–168, 220–223, 296–297 **za opracowaniami**; ⛔ **nieweryfikowane — do przypisów NIE wpisane**, i słusznie |
+| 28 | paginacja polskiego wyd. *Osób* Spaemanna | ✅ **ZAMKNIĘTE 2026-09-13 (kwerenda autora + weryfikacja):** wydanie ISTNIEJE (Oficyna Naukowa 2001, przeł. J. Merecki SDS, seria „Terminus", ~350 s., ISBN 83-88164-35-X); strony 167–168, 220, 223, 296–297 mają niezależne poświadczenia w literaturze naukowej — wpisywalne z adnotacją; autopsja docelowo. **Korekta ustalenia niżej: „prawdopodobnie NIE ISTNIEJE" było błędne** |
 | 29 | Buber *Ja i Ty* (PAX 1992) — strony; Marcel *Być i mieć* — edycja i strony; Wojtyła *Osoba i czyn* — strony | ⚠️ paginacja *Być i mieć* **różni się między wydaniami** (s. 170–171 = wyd. 2001, **nie** PAX 1986) |
 | 32 | wyd. pol. *Summy* (Veritas, przeł. P. Bełch) | **nie wymaga stron** — numeracja kwestii i artykułów jest identyczna we wszystkich wydaniach; `Summę` cytuje się przez q./a. |
 | 36 | *Duch liturgii* (Znak 2002) — strony | nie podpiera cytatu |
@@ -40,7 +40,7 @@
 
 | Rozdz. | Sprawa | Status |
 |---|---|---|
-| 28 | polskie wydanie Spaemanna *Personen* | ✅ **ustalone: prawdopodobnie NIE ISTNIEJE** — przypis obiecywał je błędnie, poprawione |
+| 28 | polskie wydanie Spaemanna *Personen* | ⚠️ **SPROSTOWANE 2026-09-13: to ustalenie było BŁĘDNE.** Wydanie polskie ISTNIEJE: *Osoby. O różnicy między czymś a kimś*, przeł. J. Merecki SDS, Oficyna Naukowa, Warszawa 2001 (seria „Terminus", ~350 s., ISBN 83-88164-35-X; potwierdzone katalogami i bibliografiami naukowymi). Przypis obiecywał je słusznie — błąd był w negatywnym ustaleniu, nie w przypisie |
 | 31 | Taylor *A Secular Age* | ✅ **ustalone: polskiego przekładu NIE MA** — usunięto nieistniejący tytuł *Era sekularna* |
 
 To nie są luki, tylko **ustalenia** — i cenne, bo chronią przed obiecywaniem czytelnikowi wydań, których nie ma.

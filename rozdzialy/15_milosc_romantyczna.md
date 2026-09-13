@@ -208,7 +208,7 @@ Brzmienie dokładne: „Można zobaczyć na tle tego opowiadania idee występuj�
 | Benedykt XVI, *Spe salvi* § 26 | ✔✔ **z autopsji** (`vatican.va`, pol.) | **cytat blokowy**; ⚠️ opuszczono 3 zdania początkowe — odnotowane |
 | Fromm, *O sztuce miłości* | ⛔ **niedostępna** | referat „problemu obiektu"; ⚠️ dane wyd. pol. niepotwierdzone; ⚠️ przykład z malarzem **mój** |
 | Platon, *Uczta* | ⛔ **bez tekstu** | obraz kulturowy, bez cytatu i lokalizacji |
-| Historia małżeństwa (Coontz) | ⛔ **nieczytana** | ⛔ **nie cytować**; teza podana ostrożnie, bez liczb |
+| Historia małżeństwa (Coontz) | **kwerenda 2026-09-13** | teza potwierdzona w literaturze: p. 5 („love-based marriage" jako ideał kulturowy zaledwie ostatnich ~200 lat; Viking 2005), ponadto pp. 15–24, 117. **Dozwolona parafraza z przypisem (p. 5), bez cudzysłowu i bez liczb do autopsji**; rekomendacja redakcyjna: „około ostatnich dwóch stuleci" |
 | Dostojewski | ✘ **pominięty** | świadomie; wątek → rozdz. 17 lub 22 |
 
 **Bilans: dwa cytaty ✔✔ z autopsji (oba Ratzinger, w tym jeden blokowy) — po dwóch rozdziałach bez niego reguła ostatniego słowa wykonana, i to nie doklejeniem, lecz przez to, że encyklika stoi przy tym samym micie, od którego rozdział wyszedł. Reszta aparatu słaba (Fromm i Platon z drugiej ręki), ale rozdział tego nie ukrywa. Główny dług: Fromm w oryginale i praca historyczna o małżeństwie.**

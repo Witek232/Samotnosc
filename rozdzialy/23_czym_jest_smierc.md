@@ -160,7 +160,7 @@ Wersety zestawione z trzech miejsc jednego psalmu, skróty zaznaczone `[…]`. K
 
 Przypis BT do Ps 88,11 potwierdza to, na czym stoi ruch V: psalmista „nie zna jeszcze prawdy o zmartwychwstaniu ciał" — skarga jest więc autentycznie **przedwielkanocna**, nie stylizacją.
 
-³ **J. Ratzinger, *Eschatologia. Śmierć i życie wieczne*, ok. s. 90–91.** ✔ **ZWERYFIKOWANE W WYDANIU** (`biblioteka/_tekst/ratzinger_eschatologia-smierc-i-zycie-wieczne_pl.txt`, w. 769–774).
+³ **J. Ratzinger, *Eschatologia. Śmierć i życie wieczne*, s. 90–91.** ✔ **ZWERYFIKOWANE W WYDANIU** (`biblioteka/_tekst/ratzinger_eschatologia-smierc-i-zycie-wieczne_pl.txt`, w. 769–774). **Tylda „ok." zdjęta 2026-09-13:** znaczniki pliku (≥90) + autopsja autora („ok. 90–91") + niezależne poświadczenie w literaturze (kwerenda 13.09: opracowanie cytujące tę partię podaje s. 90–91 — dla wyd. PAX 2000, ta sama partia; paginacje wydań 1986/2000 w tym miejscu zbieżne).
 
 Brzmienia oryginalne: „To zerwanie wszystkich więzi oznacza właśnie zniszczenie życia" · „Życie to wspólnota, istotą śmierci jest wyrwanie z wszystkich więzi" · „Jeżeli z jednej strony człowiek może żyć fizycznie, będąc jednocześnie «martwy» w swym osamotnieniu…".
 

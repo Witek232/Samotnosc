@@ -23,7 +23,7 @@ Samotnosc/
 ├── rozdzialy/             ✅ RĘKOPIS — teksty pełne, numeracja v3
 │   └── README.md             stan, kolejność pisania, zasada „rękopis nie wiąże"
 │
-├── dokumenty/             ✅ DOKUMENTACJA OBOWIĄZUJĄCA (9 plików)
+├── dokumenty/             ✅ DOKUMENTACJA OBOWIĄZUJĄCA (19 plików)
 │   ├── STRUKTURA_V3.md       dokument nadrzędny — decyzje, mapy numeracji, aneks v3.2
 │   ├── SPIS_PLIKOW.md        indeks 51 jednostek ze statusami
 │   ├── 01_WERYFIKACJA_LITERATURY.md

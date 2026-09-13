@@ -76,7 +76,7 @@ I chcę być precyzyjny, bo to jest sedno rozdziału. **Człowiek bez historii t
 
 ## III. Kontrola: a jeśli to nieprawda?
 
-Teraz muszę zrobić coś, czego ten rozdział wymaga bardziej niż którykolwiek inny — i konspekt nazywa go z tego powodu **rozdziałem kontrolnym**.
+Teraz muszę zrobić coś, czego ten rozdział wymaga bardziej niż którykolwiek inny — i dlatego nazywam go **rozdziałem kontrolnym**.
 
 Bo to, co dotąd napisałem, ma pewną wadę i trzeba ją nazwać po imieniu: **jest podejrzanie przyjemne**. Opowieść o upadku zawsze taka jest. Kiedyś ludzie należeli do wspólnot, wiedzieli, kim są, mieli spójny język moralny — a potem przyszła nowoczesność i wszystko zepsuła. Ta historia ma wszystko, czego dusza zapragnie: winnych, złoty wiek i pozycję dla mówiącego, który jako jedyny widzi katastrofę.
 
@@ -266,3 +266,5 @@ Jeżeli cena jest wspólna — wszyscy musimy konstruować sami — to przestaje
 - `/home/user/macintyre.txt` (849 kB) — *After Virtue*, warstwa tekstowa z Internet Archive. Jakość OCR **dobra**. ⚠️ **Bez wiarygodnej paginacji.**
 - `/home/user/arendt.txt` (1,89 MB) — *The Origins of Totalitarianism* (Harcourt Brace Jovanovich 1973). Jakość OCR **dobra**; ⚠️ **numery stron bywają zniekształcone** (np. „4976" zamiast „476" — OCR skleja z numerem sekcji); paginację weryfikowano przez żywą paginę („IDEOLOGY AND TERROR 475"). ⭐ **Zachować — Arendt wraca w części III i przy rozdz. 21.**
 Żaden z plików nie dodany do repo (`.gitignore`; utwory chronione).
+
+- ✅ Korekta 2026-09-13 (ETAP 2, `10:79`): jak w 07 — usunięte odesłanie do konspektu: „i konspekt nazywa go z tego powodu rozdziałem kontrolnym" → „i dlatego nazywam go rozdziałem kontrolnym".

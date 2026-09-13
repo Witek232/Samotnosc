@@ -21,7 +21,7 @@ Zgodnie z lokalnym spisem v2 (`dokumenty/archiwum/spis_plikow_v2_ostateczny.md`)
 | `33_kosciol.md` | Kościół | 35 | `rozdzialy/35_kosciol.md` |
 | `34_eucharystia.md` | Eucharystia | 36 | `rozdzialy/36_eucharystia.md` |
 
-Te pliki **nie zostały wgrane do GitHuba** — ten katalog jest na nie przygotowany.
+✅ **Wgrane do GitHuba 2026-09-08** — komplet rozdziałów 00–50 w numeracji v3. Tabela powyżej i instrukcja poniżej pozostają jako dokumentacja przejścia v2 → v3 (nie wykonywać ponownie).
 
 ## Instrukcja wgrywania
 

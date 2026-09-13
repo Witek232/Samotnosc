@@ -61,7 +61,7 @@ Jeśli cena nowoczesności jest wspólna (konstrukcja samemu), to co dzieje się
 
 ## 9. Uwagi warsztatowe
 
-- **Fuzja — decyzje wykonawcze:** usunięty most v1 (11→12) zastąpiony szwem (pkt 5.4); refren jeden, dwuczłonowy (pkt 5.8); Taylor bez własnego otwarcia.
+- **Fuzja — decyzje wykonawcze:** usunięty most v1 (11→12) zastąpiony szwem (pkt 5.4); refren jeden, dwuczłonowy (pkt 5.8 — ⚠️ **uchylony notą v3.2 niżej: w tym rozdziale refren NIE pada**); Taylor bez własnego otwarcia.
 - Nie sprowadzać MacIntyre'a do konserwatyzmu politycznego: pyta o strukturę tożsamości, nie o program prawny.
 - Nie streszczać Taylora całościowo: genealogia + autentyczność + sekularność jako tło; to rozdział kontrolny, nie monograficzny.
 - Scena pogrzebu — neutralna, bez identyfikacji pokoleniowej.

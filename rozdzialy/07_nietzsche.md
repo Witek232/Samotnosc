@@ -98,7 +98,7 @@ To jest opis naszego tygodnia, napisany sto czterdzieści lat temu przez człowi
 
 I proszę zauważyć, jak dokładnie pokrywa się to z Pascalem z rozdziału czwartego. Pascal opisał *divertissement* — odwrócenie wzroku od tego, co widać w ciszy. Nietzsche opisuje to samo, tylko jako **stan docelowy całej cywilizacji**: ludzkość, która uznała odwracanie wzroku za szczęście i nazwała to postępem.
 
-Konspekt tej książki zawiera przy tym miejscu ostrzeżenie, które chcę powtórzyć czytelnikowi. **Ostatni człowiek to nie „oni".** Nie chodzi o masę, o tłum, o gorszych. Nietzsche pisze o kimś, kto **uciekł od kosztu** — a od kosztu ucieka się wtedy, gdy się go zna. Ostatni człowiek to ktoś, kto wie, że jest coś trudniejszego, i wybrał ciepło. Czyli, o ile potrafię być wobec siebie uczciwy, ja.
+Ta książka stawia przy tym miejscu ostrzeżenie, które chcę powtórzyć czytelnikowi. **Ostatni człowiek to nie „oni".** Nie chodzi o masę, o tłum, o gorszych. Nietzsche pisze o kimś, kto **uciekł od kosztu** — a od kosztu ucieka się wtedy, gdy się go zna. Ostatni człowiek to ktoś, kto wie, że jest coś trudniejszego, i wybrał ciepło. Czyli, o ile potrafię być wobec siebie uczciwy, ja.
 
 ---
 
@@ -268,3 +268,5 @@ Nazywał się Sigmund Freud i zadał chrześcijaninowi pytanie, które wraca do 
 ### Pozyskane
 
 `/home/user/zara.txt` — F. Nietzsche, *Tako rzecze Zaratustra*, przeł. W. Berent (Wolne Lektury, 555 kB). ⚠️ **Nie dodany do repo** — jak `kierk.txt` i `rw1/rw2.txt`, czeka na decyzję o `biblioteka/_tekst/`. ⚠️ **Wolne Lektury NIE MAJĄ *Wiedzy radosnej*** — sprawdzone w API (dostępne: *Jutrzenka*, *Wola mocy*, *Zmierzch bożyszcz*, *Wędrowiec i jego cień*, *Zaratustra*, dwa teksty o Wagnerze). Przekład Staffa z 1907 jest w domenie publicznej i **powinien być do znalezienia w Polonie lub Federacji Bibliotek Cyfrowych** — ✅ **ZAŁATWIONE 2026-09-10** — autor wskazał skan przekładu Staffa w Internet Archive (`ia902802.us.archive.org/19/items/mjdkfilozofia/`, 159 s.). Tekst wydobyty do `/home/user/wr2.txt` (⚠️ konieczna była naprawa kodowania: `Ŝ`→`ż` i sklejanie rozdzielonych liter — **przy dalszym użyciu korzystać z `wr2.txt`, nie z surowego `wr.txt`**). ⚠️ **Nie dodany do repo** (`.gitignore` — repo publiczne), choć przekład Staffa z 1907 jest już w domenie publicznej; decyzja o `biblioteka/_tekst/` należy do autora.
+
+- ✅ Korekta 2026-09-13 (ETAP 2, `07:101`): usunięte odesłanie do konspektu (narzędzie warsztatowe nie może przebijać do tekstu głównego): „Konspekt tej książki zawiera przy tym miejscu ostrzeżenie…" → „Ta książka stawia przy tym miejscu ostrzeżenie…". Treść ostrzeżenia bez zmian.

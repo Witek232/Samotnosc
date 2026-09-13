@@ -24,7 +24,7 @@ To jest człowiek, który miał wszystko, o co pytają dzisiejsze kwestionariusz
 
 ## I. Dlaczego akurat on
 
-Nazywał się Aureliusz Augustyn i za piętnaście lat będzie biskupem Hippony. Nie chcę jednak zaczynać od biskupa, bo od biskupa zaczynać nie warto — sama książka, która nas tu interesuje, też od niego nie zaczyna.
+Nazywał się Aureliusz Augustyn i za niecałe dziesięć lat będzie biskupem Hippony. Nie chcę jednak zaczynać od biskupa, bo od biskupa zaczynać nie warto — sama książka, która nas tu interesuje, też od niego nie zaczyna.
 
 *Wyznania* powstały około 397 roku, mniej więcej dziesięć lat po wydarzeniach z Mediolanu. To pierwsza w kulturze europejskiej książka, w której człowiek opisuje własne wnętrze nie po to, żeby się pochwalić ani wytłumaczyć, ale żeby zrozumieć, co się w nim dzieje. Przed nią istniały biografie czynów. Ta jest biografią pragnienia.
 
@@ -200,3 +200,5 @@ Kontekst oryginalny: wywód o tym, dlaczego dialog człowieka z Bogiem dokonuje 
 | Freud | — | tylko zapowiedź rozdz. 8, bez treści |
 
 **Bilans: trzy cytaty, wszystkie zweryfikowane w tekstach źródłowych. Dwa brzmienia konspektowe okazały się błędne i zostały poprawione. Nic nie zostało przepisane z pamięci.**
+
+- ✅ Korekta 2026-09-13 (ETAP 2, `03:27`): „za piętnaście lat" → „za niecałe dziesięć lat" — od sceny w Ogrodzie (386) do biskupstwa w Hipponie (395/96) minęło ok. 9–10 lat; „piętnaście" było zawyżone. Zmiana w tekście głównym, przyjęta decyzją ETAP 2 (korekty bezdyskusyjne).

@@ -200,7 +200,7 @@ Pomiar: w tekście głównym rozdz. 26 zdanie pada **0 razy**.
 
 ## ⚠️ CO ZOSTAJE DO ZROBIENIA W KSIĄŻCE
 
-Epilog jest ostatnią jednostką **w kolejności czytania**, ale nie ostatnią w kolejności pisania. Po nim brakuje: **Prologu** oraz **rozdziałów 1–21** (części I–IV). Rozdział 23 i 22 napisane; część V ma komplet 22–27; części VI–VIII kompletne.
+Epilog jest ostatnią jednostką **w kolejności czytania**, ale nie ostatnią w kolejności pisania (najpierw powstały rozdziały części V–VIII i rozdziały 22–23, potem Prolog i części I–IV). ✅ **Stan od 2026-09-10: rękopis kompletny** — Prolog + rozdziały 1–49 + Epilog; notka pozostaje jako pamięć kolejności powstawania.
 
 **Zależności, które nowe teksty muszą uszanować:**
 1. **Zdanie kanoniczne osi II — licznik zamknięty (3/3).** Nigdzie więcej.

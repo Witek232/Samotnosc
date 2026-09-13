@@ -209,6 +209,20 @@ Kontekst: rozdz. 26 był najwyższym ryzykiem listy etapu A (29 wystąpień Ratz
 
 **Stan po ETAP H (2026-09-12):** weryfikacja Ratzingera 22–50 na posiadanych źródłach **ZAMKNIĘTA**. Wynik łączny: **~30 miejsc brzmień sprawdzonych, wszystkie co do słowa** (zero poprawek brzmień); 5 tyld zdjętych mechanicznie (27: 249/253–254/269–270/273–275; 49: 114), 2 strony doprecyzowane (23: 244; 33 przeadresowanie 175), 2 rozbieżności do autopsji (27: 198 vs ~248; 31: s. 30 i 35 vs 31 i 36), 1 korekta linii (49⁶: 919). Zostają: autopsja *Eschatologii* (luka 91–101), mikrokorekty stron 31, pozyskania z listy 3.3.
 
+### ⭐ ETAP I–J (2026-09-13) — domknięcie R4 + przygotowanie ETAP 2 (weryfikacja każdej pozycji przed poprawą)
+
+**R4 ZAMKNIĘTY W CAŁOŚCI:** blok s. 134 *Wprowadzenia* (na którym wiszą 28 i 32) potwierdzony niezależnie: „obok substancji mamy dialog, relację, jako w równej mierze pierwotną formę bytu" ✔✔ i „…są wzajemną relacją, której czysta aktualność (»wiązka fal«!) nie usuwa jedności najwyższej Istoty, ale tę jedność sprawia" ✔✔ — obie po znaczniku **s. 134** dokładnie. Razem z wcześniejszym (198 + 251) cała pozycja R4 ma komplet brzmień.
+
+**ETAP 2 — stan po weryfikacji (patch `WGRAJ_etap2_korekty.patch`):**
+- **2.2 ✔ wykonane:** 07:101 i 10:79 — odesłania do konspektu usunięte z tekstu głównego.
+- **2.3 ✔ wykonane:** 03:27 „za piętnaście lat" → „za niecałe dziesięć lat" (386 → 395/96).
+- **2.4 ✔ wykonane (korekta ODWRÓCONA względem noty z planu):** cytat „Trzecie dziecko oddano tedy…" leży w **ks. VIII** *Wyznań* (Wolne Lektury: tuż za nagłówkiem Księgi VIII), a epizod ze znakiem na powijakach — w **ks. VII** („zaniosłem znak, który kazałem wykonać podwójnie…"); rozmowy o domu podrzutków (⁴) — w ks. VII (tam zostają). Poprzednio: VII dla cytatu i XI dla epizodu — oba adresy były złe. Planowa hipoteza „IX (pieluszka)" nie potwierdziła się w tekście WL.
+- **2.5 ✔ częściowo (w ramach ETAP 3):** 26 i 27 — tyldy zdjęte; 28 (Spaemann) i 42 (s. ~111) — bez plików źródłowych, zostają; 46³ — luka zakreślona mechanicznie (s. 78→90, scena = s. ~79–89).
+- **2.6 ✔ wykonane:** 50:203 (stan rękopisu — kompletny od 09-10); rozdzialy/README („nie zostały wgrane" → wgrane 09-08); ORGANIZACJA („9 plików" → 19 — stan faktyczny dokumenty/); konspekt 10 l. 64 (wskaźnik uchylenia refrenu przez notę v3.2). SPIS_PLIKOW — po przeglądzie bez twierdzeń fałszywych (archiwa v1/v2 opisane zgodnie ze stanem), bez zmian.
+- **2.7 ✔ bez zmian — pozycja już czysta:** w tekście głównym rozdz. 32 nie ma ASCII-cudzysłowów (widocznie poprawione wcześniej); odnotować załatwienie.
+- **2.8 ✔ bez zmian — zamknięte negatywnie:** „ok. 90–91" *Eschatologii* pozostaje tyldą (luka OCR 91–101; potwierdzenie „≥90" z trzech rozdziałów); granica 246/247 (D7) potwierdzona mechanicznie w ETAP F. Nie ma czego „dokładniej" — dopiero autopsja.
+- **2.1 Stella** — czeka na D2 (decyzja autora), poza tym patchem.
+
 ### ⭐ Wniosek z etapu A
 
 Na **jedenaście** sprawdzonych rozdziałów (40, 42, 45, 46, 47, 34, 28, 4, 32, 29 + kontrola całości): **dwa realne błędy** — sklejka cytatu w *Duchu liturgii* i **numeracja v2 w notach rozdz. 34**; **jedna błędna nazwa rozdziału**; **jeden nieaktualny przypis** (Buber); **trzy ustalone strony**; **jedna wykonana rekomendacja** (J 4,26) i **pięć nowych znalezisk** (Eschatologia s. 90, Spaemann ×2, Pascal fr. 100, offset Bubera).

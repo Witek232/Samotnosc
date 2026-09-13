@@ -198,3 +198,5 @@ Brzmienia oryginalne: „To zerwanie wszystkich więzi oznacza właśnie zniszcz
 | *Eschatologia* ok. s. 115 (komunikacja/komunia) | ✘ **zarezerwowane dla rozdz. 47** | — |
 
 **Bilans: jeden cytat w cudzysłowie (Ps 88), dwa referaty z wydań, które mam. Zero interpretacji zstąpienia. Rozdział kończy się na progu — celowo.**
+
+- ✅ **Niezależna re-weryfikacja 2026-09-12 (ETAP 3) — oba miejsca co do słowa; strona ¹ doprecyzowana.** ¹: w. 3382 ✔✔ („Myślę, że teraz dopiero otwiera się problem, czym właściwie jest śmierć… wszyscy jesteśmy tym pytaniem zakłopotani. Nikt tego naprawdę nie wie, gdyż wszyscy żyjemy po tej stronie życia i nie możemy śmierci doświadczyć") — między znacznikami 244/245 → **s. 244 DOKŁADNIE** (nota: „s. 244–245"; cytat zamyka się jeszcze na 244 — do korekty przy redakcji). ³: „To zerwanie wszystkich więzi oznacza właśnie zniszczenie życia" ✔✔ (w. 769) + „Życie to wspólnota…" ✔✔ (w. 774) + „Jeżeli z jednej strony… «martwy» w swym osamotnieniu" ✔✔ — strefa ≥90 z luką OCR (znaczniki 91–101 zgubione); tylda „ok. s. 90–91" zostaje, teraz z potwierdzeniem z trzech niezależnych rozdziałów (23/26/49).

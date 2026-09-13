@@ -200,3 +200,5 @@ Pełny kontekst zdania: „To nie nauka odkupuje człowieka. Człowiek zostaje o
 | Simone Weil | ✘ **odłożona do rozdz. 26** | cytaty niezweryfikowane |
 
 **Bilans: jeden cytat w cudzysłowie w całym rozdziale — zweryfikowany u źródła. Wszystko inne jest referatem. Żaden filozof nie mówi tu słowami, których mu nie sprawdziłem.**
+
+- ✅ **Niezależna re-weryfikacja 2026-09-12 (ETAP 3) — cytat blokowy *Spe salvi* § 26 co do słowa** (plik vatican.va PL): „Szybko jednak zda sobie również sprawę… **Jest to krucha miłość. Może zostać zniszczona przez śmierć.** Istota ludzka potrzebuje miłości bezwarunkowej." ✔✔; skrót zaznaczony w notach — potwierdzony; status „jedyny cytat blokowy" bez zmian.

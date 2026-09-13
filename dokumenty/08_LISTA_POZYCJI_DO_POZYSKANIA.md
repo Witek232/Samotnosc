@@ -530,6 +530,21 @@ Wyd. PIW, przeł. Eliza Bąkowska. Spis treści ustalony 2026-09-09 z oferty ant
 
 **⚡ Rekomendacja zmieniona: jeden tom = *Homo viator* 1984** — jednym tomem pokrywamy nadzieję → relację → istnienie innych → rozpacz → śmierć → nieśmiertelność → homo viator, czyli rozdz. **26, 29, 46 i 47**. *Być i mieć* — drugi w kolejce (dwa „piękne miejsca": 100–101 i 178–179).
 
+### ⭐⭐ PRZEŁOM (2026-09-13, noc): BRZMIENIA DOSŁOWNE z *Być i mieć* PAX 1986 — materiały dydaktyczne UKSW
+
+Źródło: PDF katedry UKSW (`katedra.uksw.edu.pl/dydaktyka/cwiczenia/gabriel_marcel.pdf`; kopia w bibliotece roboczej projektu: `marcel_bim_uksw.pdf`/`.txt` — **autor: dopisać do lokalnej biblioteki i archiwum**), 8 stron cytatów stronicowanych **z właściwego wydania** (Lubicz, PAX 1986). Status użycia: jak Péguy/Augustyn z s. 134 — **cytowanie pośrednie „cyt. za:" z pewnego opracowania akademickiego** albo dopiero z egzemplarza; przy pierwszej redakcji weryfikacja z książką.
+
+**Kluczowe loci z brzmieniami (odstępy zrekonstruowane po ekstrakcji):**
+- **s. 58–59** — „Miłosierdzie jako obecność, jako całkowita dyspozycyjność. Nigdy jeszcze związek z ubóstwem tak jasno mi się nie ukazał. **Posiadać, to niemal nieuchronnie być posiadanym.** Dwustronność posiadania." → **disponibilité MA TERAZ ADRES**; plus os possidendi dla Lascha;
+- **s. 63–66** — „bardzo trudno zdefiniować naturę nadziei […] U podstaw nadziei znajduje się **świadomość sytuacji, która nas skłania do rozpaczy** […] Mieć nadzieję to znaczy **zawierzyć rzeczywistości**, stwierdzić, że jest w niej jakaś siła zdolna przezwyciężyć…" → ruch VIII rozdz. 26 (oś Pieperowska) i rozdz. 47;
+- **s. 72** — „Pokusa myślenia, że **nic już nie posiadać znaczy to nie być już niczym** […] byt może siebie uznać za **transcendentny wobec posiadania** […] byt jest tym mniej niewolnikiem swego ciała, im mniej rości sobie praw do rozporządzania nim." → łącznik Marcel → Lasch (14–15);
+- **s. 89** — „**tylko innym jako innym można przypisywać istnienie** i że nie mogę pomyśleć siebie samego jako istniejącego inaczej…" → rozdz. 29 i 47 (istnienie przez innych);
+- **s. 91–92** — „**Inny jako inny istnieje dla mnie tylko o tyle, o ile jestem na niego otwarty** (o tyle, o ile jestem pewnym „ty") […] o ile przestaję tworzyć z samym sobą rodzaj kręgu […] **pojęcie innego to nie jest inny jako inny**" → rozdz. 29 (ja–ty) i **45** (AI: kręg pojęć vs Ty);
+- **s. 101** — „Z faktu, że do istoty tajemnicy należy, iż może być uznana […] wynika także, iż może być niepoznana lub czynnie negowana […] **Należy starannie unikać wszelkiego pomieszania pojęć tajemnicy i tego, co niepoznawalne**: niepoznawalne jest w istocie tylko granicą tego, co problemowe" → **problem/tajemnica (100–101) potwierdzone BRZMIENIEM**, rozdz. 26;
+- ponadto: s. 116 (posiadanie a pożądanie), **s. 124** („Poznanie jako sposób posiadania. Posiadanie sekretu. Przechowywać, rozporządzać…"), s. 129–130, s. 196–197 („pożądanie szczerości… egzaltacja sił negacji").
+
+**Korekta bibliograficzna *Homo viator*:** wg rekordu bibliotecznego (Prolib Śląska Biblioteka Cyfrowa) wyd. 1984 liczy **315, [4] s., ISBN 83-211-0557-2** (zbieżne z antykwarycznym „316 s."); rekord „386 s." — odstający/błędny. W dok. 08 było „318 s." — poprawić na „315, [4] s.".
+
 ## C3. Ernest Becker, *Zaprzeczanie śmierci* — **użytkownik nie ma dostępu; nie cytować**
 
 Rozdz. 46 referuje „projekt heroiczny" **opisowo, bez cytatu** — i tak zostaje. Pozycja zamknięta decyzją, nie brakiem.

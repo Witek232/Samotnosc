@@ -234,3 +234,5 @@ Skoro publiczność nie potrafi tego powiedzieć, bo mnie nie zna — to potrzeb
 ### Pozyskane
 
 - Nic nowego. ⛔ Próby: Kohut — brak w Internet Archive (0 trafień dla obu tytułów); Lasch — dostęp ograniczony.
+
+- **Namiar Marcel → Lasch (2026-09-13, materiały UKSW, dok. 08):** *Być i mieć*, PAX 1986, **s. 72** — „Pokusa myślenia, że nic już nie posiadać znaczy to nie być już niczym […] byt może siebie uznać za transcendentny wobec posiadania"; także s. 124 („Poznanie jako sposób posiadania. Posiadanie sekretu. Przechowywać, rozporządzać…"). Materialny pomost międzydiagnoza Marcela (byt okradany z siebie przez posiadanie) a Laschem (patrz dok. 16) — do wykorzystania przy redakcji ruchu o narcyzmie jako ekonomii posiadania.

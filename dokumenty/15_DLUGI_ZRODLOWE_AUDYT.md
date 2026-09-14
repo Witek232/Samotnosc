@@ -400,3 +400,19 @@ Te są łatwe: **jedna strona, jedno zdanie**. Uszeregowane wg stosunku „ile z
 ⭐ **Wariant C wykonany od razu — Buber załatwiony (§ 2a).**
 
 ⭐ **Rekomendacja na dalej: A, z B równolegle.** Czyli: **systematyczna weryfikacja Ratzingera w rozdz. 22–50** na plikach, które już mamy (zaczynając od **26** i **24**), a zdobywanie pozycji z § 3 i § 4 w miarę okazji bibliotecznych. **Marcel jest teraz pozycją nr 1 do zdobycia.**
+
+### ⭐⭐ ETAP O (2026-09-14) — DECYZJE D1–D9 PODJĘTE (upoważnienie autora: „podejmij optymalne decyzje"; kryterium: minimalizacja działań bez straty jakości)
+
+| Dec. | ROZSTRZYGNIĘCIE | Koszt wykonania |
+|---|---|---|
+| **D1** | **(a) terminologia utrzymana** (*loneliness* = osamotnienie, *solitude* = samotność) + **1 zdanie wyjaśnienia w prologu** — zgodnie z R1 i notą dok. 07; odwrócenie odrzucone (kaskada zmian 10/21/cz. III, zero zysku) | ETAP 5: jedno zdanie |
+| **D2** | **„Stella" zostaje** (ZPE i przekład Kotta używają tej formy — potwierdzone w ZPE 14.09); przypis wyjaśniający przy pierwszym wystąpieniu (oryg. *Estelle*). **PIW nie zdobywać** — reguła planu dała wniosek bez egzemplarza | ETAP 5: jeden przypis |
+| **D3** | **Bez pozyskania polskiego *Bytu i nicości*.** Jawny przypis zbiorczy przy 9/43: brzmienia wg wyd. ang. (Barnes) w tłumaczeniu roboczym autora, paginacja polska; ujednolicenie z wyd. pol. tylko, gdyby lektura ciągła (5.7) pokazała sztywność | ETAP 5: nota zbiorcza |
+| **D4** | **Cisza w 24 ZAMIARZONA** — wpis do dok. 07 § A2 wykonany 14.09: w 24 pytanie schodzi do piekieł razem z Tym, który jest odpowiedzią; refren wraca w 26, a krzyk Mk 15,34 (25) to powrót formy pytajnej | ✅ wykonane |
+| **D5** | **Świadoma rezygnacja z C.S. Lewisa** (zapisana); reguła „nie dodajemy nowych autorów" utrzymana; philia w 16/44 niosą zweryfikowane głosy (Nygren przy 4.2, Fromm, DCE). Wznowienie tylko, gdyby ETAP 5 pokazał brak | zero |
+| **D6** | **TAK — 1–2 zdania ramy gatunkowej w prologu** (adaptacja R4: „teologiczna medytacja, która bierze filozofię i psychologię na świadków, nie sędziów"); domyka zarzut „otwartość vs trasa" bez ruszania architektury | ETAP 4/5: 2 zdania |
+| **D7** | **Motto CAŁOŚCI**: „Śmierć to po prostu samotność. Ale taka samotność, do której nie może przedostać się miłość, to piekło." (Ratzinger, *Wprowadzenie*, s. 246 ✔✔ brzmienie i strona zweryfikowane) — przed prologiem; epigrafu części V nie robić (motto całości nie powtarza się) | ETAP 6: strona mottem |
+| **D8** | **Notka o scenach na końcu książki** (po epilogu, 1 akapit + lista 6 scen: wdowa 1, Zaleszczyki 10, orkiestra 12, ośrodek 11, scena obozowa 19, Pani Halina 46); prolog bez deklaracji fikcji (deklaruje D6) | ETAP 6: notka |
+| **D9** | **Rozbudowa 47 do ~2400 słów** (+~850): (1) brzmienie Ratzingera zamiast parafrazy (R1) — gotowe w kartotece; (2) drugi przykład „się umiera" (R1); (3) **nowość ETAP M/N: Marcel** — obecność (BiM 58–59) i/lub „inni jako warunek istnienia" (142–143), użycie „cyt. za: materiały UKSW" albo z PL egzemplarza. Materiał zweryfikowany — pisanie bez ryzyka | ETAP 4: pisownia |
+
+**Suma działań autora z D1–D9:** zero zdobywania, zero pisania „na dziś" — wszystko rozsądzone na ETAP 4–6; D4 wykonane od ręki (dok. 07); blokady ETAP 2/4/5 zdjęte. **Minimum pozyskań dla całego projektu (po ETAP O):** (1) JEDNA wizyta w bibliotece: autopsja *Eschatologii* PAX 1986 (s. 79–91, 110–117) + *Wprowadzenia* Znak (s. 29–37, 197–252); opcjonalnie ta sama wizyta z Arièsem (PIW 1989, 19–41, 549–~580); (2) Yalom e-book 2008 (ibuk.pl) — jedyna płatna pozycja, odblokowuje cytaty 20/47/48. Wszystko pozostałe (Marcel PL, Spaemann, Łosski, Kohut, Coontz, Duch liturgii) — opcjonalne, statusy czyste.

@@ -3,7 +3,7 @@
 **Książka:** *Ołowiana samotność. Wierzę w Ciebie* | **Przed częścią I**
 **Szablon:** PEŁNY WARSZTATOWY — otwarcie książki
 **Tryb narracji:** **„my"** (`STRUKTURA_V3.md` § 5)
-**Status:** tekst roboczy v1 (2026-09-10)
+**Status:** tekst roboczy v1.1 (2026-09-14, ETAP P — D6)
 
 ---
 
@@ -70,6 +70,8 @@ Nie zaczynamy więc od Boga. Zaczynamy od zjawiska tak zwyczajnego, że zwykle n
 ---
 
 ## IV. Trzy zasady
+
+Najpierw jednak nazwijmy po imieniu, czym ta książka jest, żeby nikt nie szukał w niej czego innego, niż ona daje. Jest **teologiczną medytacją**, która bierze filozofię i psychologię na **świadków — nie sędziów**: nasze śledztwo przesłuchuje ich tam, gdzie ich drogi przecinają drogę człowieka samotnego, ale wyroku nie oddaje w ich ręce.
 
 Trzy rzeczy, żeby było uczciwie od początku.
 
@@ -182,3 +184,10 @@ Autor projektu wskazał następnie, że dysponuje wydaniem **Znak, Kraków 2018*
 | Kontekst roku 1968 | ⚠️ **wiedza ogólna** | podany bez nazwisk, dat szczegółowych i liczb — nie wymaga przypisu |
 
 **Bilans: trzy cytaty — dwa z wydania (błazen, „nie jest kimś w przebraniu"), jeden z przedmowy 2000 pozyskany pośrednio i tak oznaczony. Żaden blokowy. Zero superlatywów. Data doprecyzowana wobec konspektu. Klamra z epilogiem sprawdzona i zamknięta.**
+
+
+---
+
+## Nota ETAP P (2026-09-14)
+
+- ✅ **D6 wykonane** (decyzja: dok. 15, ETAP O): dwa zdania ramy gatunkowej na początku sekcji IV — adaptacja brzmienia R4 („teologiczna medytacja, która bierze filozofię i psychologię na świadków, nie sędziów"). Brzmienie autorskie, bez cudzysłowu-cytatu; metafora śledztwa spójna z sekcją II („nasze śledztwo"). D8 (notka o scenach) celowo pozostaje na ETAP 6 — notka na końcu książki, nie w prologu.

@@ -94,11 +94,13 @@ Dochodzimy do zdania, które jest sercem encykliki i tego rozdziału. Wcześniej
 
 Przez dużą część dwudziestego wieku w teologii — a za nią w kulturze — utrwaliło się przeciwstawienie: **eros to miłość pogańska, grecka, biorąca; agape to miłość chrześcijańska, dająca**. Wstępująca i zstępująca. Interesowna i bezinteresowna. Podział czysty i wygodny dla obu stron: chrześcijaństwo dostawało wyższość moralną, a Grecy życie.
 
-Encyklika mówi, że jeśli doprowadzić to przeciwstawienie do końca, wynik jest zabójczy dla samego chrześcijaństwa: **jego istota zostałaby „oderwana od podstawowych relacji życiowych ludzkiego istnienia"** i stałaby się osobnym światem, „który mógłby być uważany jako godny podziwu, ale całkowicie odcięty od całości ludzkiej egzystencji".⁶ Czyli: religią dla podziwiania, nie dla życia.
+Najmocniejszy wyraz nadał temu przeciwstawieniu **Anders Nygren** w *Agape and Eros* — szwedzki teolog, który zestawił obie miłości w tablicy przeciwstawień tak symetrycznej, że wystarczą jej dwie linie, żeby ją pokazać. **Eros jest pragnieniem, które nabywa i tęskni; agape jest darem, który się ofiaruje.** **Eros dostrzega wartość w tym, co kocha — i dlatego je kocha; agape kocha — i tworzy wartość w tym, co kocha.**⁶ Nygren dodaje zresztą zastrzeżenie, które łatwo przeoczyć, a które ratuje jego własną tezę przed karykaturą: chodzi mu o różnicę **rodzaju**, nie **rangi** — nie zamierza rozstrzygać, która z tych miłości jest lepsza.
+
+Encyklika mówi, że jeśli doprowadzić to przeciwstawienie do końca, wynik jest zabójczy dla samego chrześcijaństwa: **jego istota zostałaby „oderwana od podstawowych relacji życiowych ludzkiego istnienia"** i stałaby się osobnym światem, „który mógłby być uważany jako godny podziwu, ale całkowicie odcięty od całości ludzkiej egzystencji".⁷ Czyli: religią dla podziwiania, nie dla życia.
 
 I dlatego pada zdanie, które jest odpowiedzią całej części trzeciej:
 
-> „W rzeczywistości eros i agape — miłość wstępująca i miłość zstępująca — nie dają się nigdy całkowicie oddzielić jedna od drugiej. Im bardziej obydwie, niewątpliwie w różnych wymiarach, znajdują właściwą jedność w jedynej rzeczywistości miłości, tym bardziej spełnia się prawdziwa natura miłości w ogóle."⁷
+> „W rzeczywistości eros i agape — miłość wstępująca i miłość zstępująca — nie dają się nigdy całkowicie oddzielić jedna od drugiej. Im bardziej obydwie, niewątpliwie w różnych wymiarach, znajdują właściwą jedność w jedynej rzeczywistości miłości, tym bardziej spełnia się prawdziwa natura miłości w ogóle."⁸
 
 Rozwinięcie, które po nim następuje, jest opisem, w jakim niejeden czytelnik rozpozna własne życie. Eros na początku pyta o siebie — czy mi z tym dobrze, czy dostaję to, czego chciałem. Potem, „w zbliżeniu się do drugiej osoby", pyta o siebie coraz mniej, „będzie coraz bardziej szukał szczęścia drugiej osoby, będzie się o nią coraz bardziej troszczył". I tu pada zdanie decydujące: **jeśli ten moment nie nadejdzie — „eros upada i traci swoją własną naturę".**
 
@@ -110,7 +112,7 @@ Ale jest i druga połowa, o której zapomina się częściej, a która ratuje te
 
 To jest zdanie skierowane przeciw pewnemu pobożnemu złudzeniu — że ideałem jest człowiek, który tylko daje. Encyklika mówi: taki człowiek jest niemożliwy. Nie dlatego, że jest za słaby. Dlatego, że **dawanie nie jest wytwarzaniem**. Można dać tylko to, co się dostało.
 
-Obraz, którym się to domyka, jest stary: **drabina Jakuba** ze snu patriarchy, po której aniołowie wchodzą i schodzą. Ojcowie Kościoła widzieli w niej symbol tego, że ruch odbywa się **w obie strony** — i encyklika bierze ten obraz, żeby pokazać, że miłość nie jest ani samym wspinaniem się, ani samym schodzeniem.⁸
+Obraz, którym się to domyka, jest stary: **drabina Jakuba** ze snu patriarchy, po której aniołowie wchodzą i schodzą. Ojcowie Kościoła widzieli w niej symbol tego, że ruch odbywa się **w obie strony** — i encyklika bierze ten obraz, żeby pokazać, że miłość nie jest ani samym wspinaniem się, ani samym schodzeniem.⁹
 
 ---
 
@@ -218,14 +220,18 @@ Część czwarta — **„Nauka o samotności"** — zaczyna więc od ciała. I 
 ⁵ ***Tamże*, § 6.** ✔✔ **Z autopsji. CYTAT BLOKOWY nr 1.** Podany **dosłownie**; dalszy ciąg zdania („a nawet w kierunku odkrycia Boga") **opuszczony świadomie** — ⚠️ **opuszczenie istotne, odnotować przy redakcji**: rozdział prowadzi do tego wniosku dopiero w ruchu VIII i nie chce go wyprzedzać. ⛔ Nie dodawać wielokropka bez przywrócenia całości — cytat urywa się na pełnym członie zdania.
 ⚠️ **Definitywność** („tylko ta jedyna osoba", „na zawsze", „miłość obejmuje całość egzystencji w każdym jej wymiarze, także w wymiarze czasu") — **tamże, § 6**; w tekście głównym **referowana z dwoma urywkami w cudzysłowie**.
 
-⁶ ***Tamże*, § 7.** ✔✔ **Z autopsji.** Brzmienie: „istota chrześcijaństwa byłaby oderwana od podstawowych relacji życiowych ludzkiego istnienia i stanowiłaby dla siebie odrębny świat, który mógłby być uważany jako godny podziwu, ale całkowicie odcięty od całości ludzkiej egzystencji."
+⁶ **A. Nygren, *Agape and Eros*, przeł. P. S. Watson, Westminster Press, Filadelfia 1953, s. 210.** ✔✔ **Z autopsji** (tekst całości w zbiorach autora; oryg. szw. *Den kristna kärlekstanken genom tiderna*, 1930–1936). Dwa wiersze tabeli podane w **tłumaczeniu roboczym z wyd. angielskiego**; brzmienia oryginalne: „Eros is acquisitive desire and longing / Agape is sacrificial giving"; „Eros recognises value in its object — and loves it / Agape loves — and creates value in its object". ⭐ Zastrzeżenie samego Nygrena (tamże, s. 210): chodzi o „**difference in type, not a difference in value**" — nie zamierza rozstrzygać, która miłość jest lepsza; ⛔ nie przedstawiać go jako wroga erosu. ⛔ Nie pisać, że encyklika polemizuje z nim imiennie — w § 7 go nie wymienia.
+
+⁷ ***Tamże*, § 7.** ✔✔ **Z autopsji.** Brzmienie: „istota chrześcijaństwa byłaby oderwana od podstawowych relacji życiowych ludzkiego istnienia i stanowiłaby dla siebie odrębny świat, który mógłby być uważany jako godny podziwu, ale całkowicie odcięty od całości ludzkiej egzystencji."
 ⚠️ **Spór, który to zdanie rozstrzyga, referuję OSTROŻNIE i BEZ NAZWISKA.** Chodzi o klasyczne przeciwstawienie erosu i agape w teologii protestanckiej XX w. (**A. Nygren, *Eros und Agape*, 1930–1936**) — ⛔ **książki nie mam i nie wymieniam jej w tekście głównym**; mówię tylko o „przeciwstawieniu utrwalonym w teologii i za nią w kulturze". ⚠️ **Przy redakcji: albo dotrzeć do Nygrena i nazwać go, albo zostawić tak jak jest.** ⛔ Nie przypisywać encyklice, że polemizuje z Nygrenem imiennie — ona go w tym miejscu **nie wymienia**.
 
-⁷ ***Tamże*, § 7.** ✔✔ **Z autopsji. CYTAT BLOKOWY nr 2 — SERCE ROZDZIAŁU.** Podany dosłownie.
+✅ **ROZSTRZYGNIĘCIE (ETAP P, 2026-09-14, zadanie 4.2): Nygren nazwany w tekście głównym + dwa wiersze tabeli s. 210 (tłumaczenie robocze z wyd. ang.) + jego zastrzeżenie „difference in type, not a difference in value" — nowy przypis ⁶.** Ostrzeżenie ⛔ w mocy: encyklika nadal go nie wymienia imiennie — w tekście polemizuje z „przeciwstawieniem", nie z osobą.
+
+⁸ ***Tamże*, § 7.** ✔✔ **Z autopsji. CYTAT BLOKOWY nr 2 — SERCE ROZDZIAŁU.** Podany dosłownie.
 ✔ Dalsze brzmienia z tego samego paragrafu, użyte w tekście **jako urywki w cudzysłowie**: „w zbliżeniu się potem do drugiej osoby będzie stawiał coraz mniej pytań o siebie samego, będzie coraz bardziej szukał szczęścia drugiej osoby, będzie się o nią coraz bardziej troszczył"; „w przeciwnym razie *eros* upada i traci swoją własną naturę"; ⭐ „Człowiek nie może żyć wyłącznie w miłości oblatywnej, zstępującej. Nie może zawsze tylko dawać, musi także otrzymywać. Kto chce ofiarować miłość, sam musi ją otrzymać w darze."
 ⭐⭐ **To ostatnie zdanie jest w tej książce KLUCZEM DŁUGOTERMINOWYM** — spina rozdz. 14 (odzwierciedlanie: nie można dać sobie samemu potwierdzenia), 18 (bezpieczna baza) i część VI. ⛔ **Nie usuwać.**
 
-⁸ ***Tamże*, § 7.** ✔ **Z autopsji** — drabina Jakubowa (Rdz 28, 12; J 1, 51) jako symbol „nierozerwalnego połączenia pomiędzy wstępowaniem i zstępowaniem". **Referowana jednym zdaniem, bez cytatu.**
+⁹ ***Tamże*, § 7.** ✔ **Z autopsji** — drabina Jakubowa (Rdz 28, 12; J 1, 51) jako symbol „nierozerwalnego połączenia pomiędzy wstępowaniem i zstępowaniem". **Referowana jednym zdaniem, bez cytatu.**
 ⚠️ **Świadomie POMINIĘTY** dalszy ciąg § 7: wykład Grzegorza Wielkiego z *Reguły pasterskiej* o pasterzu zakorzenionym w kontemplacji, Paweł i Mojżesz. To jest ⭐ **materiał dla rozdz. 37 (caritas Kościoła)**, nie tutaj — w rozdziale o dwojgu ludziach wprowadzenie wątku pasterskiego rozbiłoby oś.
 
 **Bez przypisu — referowane lub własne:**
@@ -259,7 +265,7 @@ Część czwarta — **„Nauka o samotności"** — zaczyna więc od ciała. I 
 - **Rejestr sceny:** **muzeum / fresk / para przed eksponatem** — nowy. ✅ Po kawiarni (15), telefonie (14), sali (13). ⚠️ Scena **wymyślona**, nie opisuje konkretnych zbiorów.
 - **Zakaz superlatywów** — sprawdzone. **Słowa zarezerwowane** — 0×.
 - **Odesłania:** wstecz — **13 (człowiek-produkt: „wszystko jest inwestycją")**, **14 („błysk w oku matki", twarz jako towar)**, **15 (cztery »nie wolno«, dwie kawy, zwyczajność)**. Naprzód — **17 i część IV (most: czy biologia potwierdza wagę daru)**, 18, **32 (Trójca)**, **37 (Grzegorz Wielki, caritas Kościoła)**, **część VI (skąd wziąć, kiedy się nie dostało)**, 44 (Kierkegaard przeniesiony).
-- **Długość: 3213 słów** — ✅ w celu (3,0–3,6 tys., rozdział szczytowy). Wzrost po wprowadzeniu cytatu z Nietzschego.
+- **Długość po ETAP P: ok. 3300 słów** — ✅ w celu (3,0–3,6 tys., rozdział szczytowy); +~90 słów (Nygren, zadanie 4.2).
 
 ### Stan źródeł
 
@@ -267,11 +273,11 @@ Część czwarta — **„Nauka o samotności"** — zaczyna więc od ciała. I 
 |---|---|---|
 | *Deus caritas est* § 3–7 | ✔✔ **komplet z autopsji** (`vatican.va`, pol.) | ⚠️⚠️ **numeracja konspektu błędna — poprawiona z tekstu** |
 | Nietzsche, *Poza dobrem i złem*, przeł. Wyrzykowski, Mortkowicz 1907 | ✔✔ **ZWERYFIKOWANY W WYDANIU** (ustalenie autora): **s. 112, af. 167a** (= 168) | ⭐ **cytat blokowy w tekście głównym**; przekład mocniejszy niż parafraza encykliki |
-| Nygren, *Agape and Eros* | ⭐⭐ **POZYSKANY — całość, z autopsji** (Westminster Press 1953, ✅ paginacja) | ⭐ **tabela przeciwstawień s. 210** — dokładnie to, co odrzuca DCE § 7; ⚠️ **przy redakcji nazwać i zacytować** |
+| Nygren, *Agape and Eros* | ⭐⭐ **POZYSKANY — całość, z autopsji** (Westminster Press 1953, ✅ paginacja) | ⭐ **tabela przeciwstawień s. 210** — dokładnie to, co odrzuca DCE § 7; ✅ **nazwany + 2 wiersze (ETAP P)** |
 | Arystoteles, *Etyka nikom.* VIII–IX | ⛔ **brak tekstu** | jedno zdanie, bez cytatu |
 | Kierkegaard, *Czynności miłości* | ✘ **pominięty** | → rozdz. 44 lub część VI |
 
-**Bilans: rozdział stoi na źródle, które mam w całości i z autopsji — to pierwszy taki rozdział od dziewiątego. Dwa cytaty blokowe (⚠️ o jeden ponad regułę — do decyzji autora), reszta urywkami. Aparat mocny; słabe punkty to Nietzsche z drugiej ręki i nienazwany Nygren. Główny dług: aforyzm 168 z *Poza dobrem i złem*.**
+**Bilans: rozdział stoi na źródle, które mam w całości i z autopsji — to pierwszy taki rozdział od dziewiątego. Dwa cytaty blokowe (⚠️ o jeden ponad regułę — do decyzji autora), reszta urywkami. Aparat mocny; słabe punkty domknięte: Nietzsche zweryfikowany w wydaniu 1907, Nygren nazwany i zacytowany (ETAP P). Główny dług: aforyzm 168 z *Poza dobrem i złem*.**
 
 ### Pozyskane
 

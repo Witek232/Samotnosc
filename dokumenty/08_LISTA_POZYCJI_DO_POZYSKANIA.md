@@ -218,6 +218,8 @@ Sprawdzone w konspektach v3 (2026-09-09). Marcel występuje w czterech miejscach
 
 **Decyzja:** *Homo viator* pozostaje na liście jako **wzmocnienie, nie warunek**. Pisania rozdz. 47 **nie wstrzymujemy**. Gdy egzemplarz się znajdzie, cytat wchodzi punktowo w ruch 4 — bez przebudowy rozdziału.
 
+✅ **WYKONANE (ETAP P, 2026-09-14):** cytat Marcela wszedł punktowo do ruchu IV rozdz. 47 — urywki *Być i mieć* **58–59** („całkowita dyspozycyjność"; „posiadać, to niemal nieuchronnie być posiadanym"), źródło: „cyt. za: materiały dydaktyczne UKSW"; egzemplarz PL potwierdzi przy redakcji. Nadto w 47 (D9): Ratzinger ×1 dosłownie (śródzdaniowo; *Eschatologia*, ok. s. 115 — strona do potwierdzenia z egzemplarzem); refren pozostaje jedynym cytatem blokowym. Rozbudowa 47: 1,54 → ok. 2,06 tys. słów; reszta celu (2,3–2,6) = ruch III, zablokowany źródłowo (konkret paliatywny — patrz zastrzeżenie w rozdziale).
+
 
 
 **Potrzebne dla:** rozdz. **47** (punkt zwrotny całego rozdziału), 29, 26.

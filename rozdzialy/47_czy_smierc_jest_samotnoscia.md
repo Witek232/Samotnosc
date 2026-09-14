@@ -2,7 +2,7 @@
 
 **Część VIII — CZŁOWIEK 2026**
 **Podstawa:** konspekt `konspekty_v3/47_czy_smierc_jest_samotnoscia.md` — szablon lekki, sześć ruchów, rozdział-lustro wobec 24.
-**Status:** tekst roboczy v1 (2026-09-10).
+**Status:** tekst roboczy v2 (2026-09-14, ETAP P — rozbudowa wg D9).
 
 ---
 
@@ -17,6 +17,8 @@ Więc stawiamy je teraz, bez osłony:
 Nie: czy bywa samotna. Nie: czy umierający czują się samotni. Pytanie brzmi ostrzej — czy samotność jest **tym, czym śmierć jest**. Czy to jej treść, a nie okoliczność.
 
 Mamy już czym mierzyć. Za nami leżą definicje, których na początku książki nie było: samotność jako brak i samotność jako struktura (rozdziały 1–3), izolacja, której nie usuwa obecność ludzi (20), różnica między byciem obok a obecnością (29), śmierć jako zerwanie więzi (23), zstąpienie (24). Czytelnik, który doszedł tutaj, wie więcej niż ten, który czytał rozdział dwudziesty czwarty — i właśnie dlatego można teraz zadać to samo pytanie **w odwrotnej kolejności mówiących**. Tam zaczynał Ratzinger. Tu będzie mówił ostatni.
+
+Różnica nie jest tylko porządkowa. Tam pytanie otwierało drogę przez centrum książki. Tutaj pada, kiedy o samotności powiedziano już prawie wszystko, co da się powiedzieć bez odwołania do nieba — i dlatego działa teraz jak sprawdzian: pokazuje, ile z tej wiedzy pozostaje ważnych w miejscu, w którym towarzyszenie się kończy. Gdyby odpowiedzi nie było, nikt nie mógłby powiedzieć, że pytano zbyt wcześnie albo zbyt pobłażliwie.
 
 Zbierzmy najpierw dowody strony przeciwnej. To znaczy: wszystkich.
 
@@ -52,11 +54,15 @@ Brzmi mniej więcej tak: **umierający nadal umiera sam — ale nie jest sam w t
 
 Zdanie wygląda na grę słów. Nie jest nią. Opisuje różnicę, którą widać w faktach: człowiek, przy którym ktoś jest, umiera inaczej niż człowiek, przy którym nie ma nikogo. Nie umiera mniej. Nie umiera za niego nikt inny. Struktura, którą opisali Heidegger i Yalom, pozostaje nienaruszona co do joty — a mimo to coś jest inaczej, i to na tyle wyraźnie, że wokół tej obserwacji zbudowano całą dziedzinę opieki.
 
+Widać to także po języku — i tu drugi raz wraca obserwacja z rozdziału dwudziestego drugiego, tym razem odwrócona. Tam chodziło o to, jak „**się** umiera" oszczędza nam liczby pojedynczej: umieranie przypisane Nikomu nie dotyczy konkretnie nikogo i przez to nas nie dotyczy. Z daleka ta gramatyka działa bez zarzutu — w korytarzach, w statystykach, w zawiadomieniach. Przy łóżku się łamie, bo „się" nie ma twarzy, a twarz jest dokładnie tym, co przy łóżku zostaje. Nikt, kto siedzi przy umierającym, nie myśli przez Nikogo; myśli przez **niego**. I właśnie w tej złamanej liczbie pojedynczej widać z bliska, o co chodzi w nitce: umiera **on**, sam — a mimo to coś się przy tym dzieje z tymi, którzy zostali po tej stronie granicy.
+
 Trzeba tu uważać na dwie pokusy naraz, bo obie są w tym miejscu silne.
 
 Pierwsza to **rozczulenie**: opowiadanie o „pięknych odejściach", trzymaniu za rękę i świetle w oczach. Ludzie pracujący w hospicjach są zwykle najbardziej odporni na tę frazeologię — bo widzieli też umieranie brzydkie, gniewne i takie, przy którym nikt nie zdążył.
 
 Druga to **przesada w drugą stronę**: uznanie, że towarzyszenie rozwiązuje problem. Nie rozwiązuje. Nikt, kto siedzi przy łóżku, nie przechodzi na drugą stronę razem z leżącym. Odprowadza do granicy — i zatrzymuje się na niej tak samo bezradny jak wszyscy.
+
+A można też powiedzieć, czego ta nitka nie jest — bo ruch drugi nazwał trzy rzeczy, których brak czyni śmierć samotnością doskonałą: **zastępstwo**, **towarzystwo** i **świadek**. Towarzystwo to byłaby odpowiedź zbyt łatwa; zastępstwa nitka w ogóle nie daje i dawać nie może. Zostaje trzecie — najrzadsze: ktoś umiera sam, ale przestaje umierać **bez świadka**. Ktoś widział, jak to się stało, i nie odwrócił wzroku. Świadek niczego nie zastępuje i od niczego nie chroni; ale człowiek umierający bez świadka i człowiek umierający ze świadkiem nie umierają dokładnie tak samo. O tę różnicę — żadną większą — tu się rozchodzi.
 
 A jednak coś się dzieje. Pytanie brzmi: **co**.
 
@@ -70,9 +76,15 @@ Najdalej w tłumaczeniu tej nitki poszedł Gabriel Marcel — i warto zobaczyć,
 
 Marcel rozróżnia dwa sposoby, w jakie ktoś może przy mnie być. Można być **obok**: fizycznie w tym samym pokoju, uprzejmie, nawet troskliwie — i pozostać dla mnie kimś nieobecnym. I można być **obecnym**: tak, że drugi człowiek nie jest przedmiotem w polu mojego widzenia, lecz kimś, kto sprawia, że jestem bardziej sobą, niż byłbym bez niego. Różnica nie polega na ilości uwagi ani na odległości w metrach. Polega na tym, czy ktoś jest dla mnie **problemem do rozwiązania**, czy **tajemnicą, w którą jestem wciągnięty**.¹
 
+Różnicę widać na przykładzie tak prostym, że aż niestosownym — i właśnie dlatego jest dobrym przykładem. Ktoś może być przy mnie **w sprawie**: dopytuje, notuje, organizuje, jest życzliwy i sprawny — ale ośrodek sytuacji jest jego, bo sprawa płynie jego czasem, a ja jestem tylko jej adresem. I ktoś może być przy mnie **bez sprawy**: przy kim nie muszę być interesujący, wdzięczny ani na czas; przy kim wolno milczeć bez długu. Ten drugi nie zrobi dla mnie nic, czego nie zrobiłby pierwszy. Nie da się tego udowodnić żadnym protokołem — a jest to różnica między niemal niczym a tym, co trzyma człowieka nad wodą.
+
+Marcel myśli ten sam ruch także w drugą stronę, od strony posiadania. Obecność w jego dzienniku nazywa się „całkowitą dyspozycyjnością" — i od razu zostaje przetestowana zdaniem, które brzmi dziś może mocniej niż wtedy, kiedy padło: „posiadać, to niemal nieuchronnie być posiadanym".¹ Kto chce drugiego mieć w całości, sam staje się własnością własnego pragnienia. Dlatego obecność nie jest maksymalną bliskością. Jest dostępnością bez wywłaszczenia: jestem dla ciebie — ale nie jestem twoją rzeczą.
+
 Stąd bierze się jego wyjaśnienie nitki, najlepsze, jakie filozofia potrafi podać. Obecność **nie zdejmuje** granicy. Ona nie przenosi mnie na drugą stronę i nie umiera zamiast mnie. Robi coś mniejszego i zarazem większego: **zostaje**. A ponieważ samotność śmierci jest samotnością **strukturalną**, a nie brakiem towarzystwa, obecność nie może jej znieść — może natomiast sprawić, że przestanie być **absolutna**.
 
 To rozróżnienie warto zapisać, bo cała ta książka na nim stoi: co innego znaczy „samotność usunięta", a co innego „samotność, która nie jest już całkowita". Pierwszego nikt nam nie obieca. Drugie zdarza się naprawdę.
+
+Rozdział dwudziesty dziewiąty pokazywał tę samą różnicę od strony tego, kto przychodzi: bycie obok jest faktem, obecność jest zdarzeniem. Tutaj widać ją od strony tego, kto odchodzi — i dopiero tam okazuje się, że to nie kalambur, lecz dwie różne formy bycia człowiekiem.
 
 I tu Marcel się zatrzymuje — nie dlatego, że jest niekonsekwentny, tylko dlatego, że filozofia obecności opisuje **fakt**, a nie jego podstawę. Mówi, że obecność zmienia samotność. Nie mówi, **dlaczego akurat to działa** ani co się dzieje wtedy, gdy nie zostaje już nikt — a przecież ostatni krok robi się bez towarzystwa, choćby cały pokój był pełen ludzi.
 
@@ -86,7 +98,7 @@ Innymi słowy: obecność ludzka odprowadza do progu. Pytanie, które książka 
 
 Teraz może przemówić głos, który w rozdziale dwudziestym czwartym mówił pierwszy.
 
-Ratzinger opisuje w *Eschatologii* mechanizm, którego szukaliśmy w ruchu trzecim, i robi to od strony, z której nie próbowaliśmy patrzeć. Jeśli śmierć w swej istocie polega na **zerwaniu wszelkiej komunikacji**, to wszystko, co prowadzi do komunii, jest przejawem prawdziwego życia.² Zdanie jest odwróceniem definicji z rozdziału dwudziestego trzeciego i dopiero teraz widać, po co ta definicja była: skoro śmierć **jest** zerwaniem więzi, to każda więź jest już, w swojej miarze, czymś przeciwnym śmierci. Nie symbolicznie — realnie, bo działa w tym samym wymiarze, w którym śmierć niszczy.
+Ratzinger opisuje w *Eschatologii* mechanizm, którego szukaliśmy w ruchu trzecim, i robi to od strony, z której nie próbowaliśmy patrzeć: „**Jeśli śmierć w swej istocie polega na zerwaniu wszelkiej komunikacji, to wszystko, co prowadzi do «komunii», jest przejawem prawdziwego życia**”.² To zdanie jest odwróceniem definicji z rozdziału dwudziestego trzeciego i dopiero teraz widać, po co ta definicja była: skoro śmierć **jest** zerwaniem więzi, to każda więź jest już, w swojej miarze, czymś przeciwnym śmierci. Nie symbolicznie — realnie, bo działa w tym samym wymiarze, w którym śmierć niszczy.
 
 To tłumaczy nitkę. Obecność przy umierającym nie jest gestem pocieszenia dodanym z zewnątrz do procesu biologicznego. Jest **czynnością przeciwną temu, co robi śmierć**, wykonaną w miejscu, w którym śmierć akurat pracuje. Dlatego działa, choć niczego nie odwraca.
 
@@ -130,7 +142,11 @@ Zostaje jedno miejsce, do którego ta książka wracała z każdej strony i któ
 
 ¹ **G. Marcel** — rozróżnienie *bycia obok* i *obecności* oraz *problemu* i *tajemnicy*, wraz z pojęciem *disponibilité* (dyspozycyjności).
 
-⚠️ **REFEROWANE, NIE CYTOWANE — bez numeru strony i bez cudzysłowu.** Egzemplarza nie mam; polskiego przekładu *Homo viator* nie ma w otwartym dostępie, a *Być i mieć* projekt posiada tylko z drugiej ręki. **Decyzja zgodna z dok. 08 § A2**, gdzie ustalono, że rozdział 47 pisze się **bez ani jednego cytatu z Marcela**, ponieważ konspekt sam czyni z jego niedomknięcia element tezy („najbliżej przyszedł do wyjaśnienia nitki — ale nie mówi, skąd pochodzi").
+✅ **ETAP P (2026-09-14, decyzja D9 z ETAP O): pierwszy cytat Marcela wszedł punktowo w ruch IV** — dwa urywki w cudzysłowie: „całkowita dyspozycyjność" i „posiadać, to niemal nieuchronnie być posiadanym" (*Być i mieć*, PAX 1986, **s. 58–59**). **Źródło: „cyt. za: materiały dydaktyczne UKSW"** (brzmienia dosłowne — patrz dok. 08, sekcja PRZEŁOM); ⚠️ przy redakcji z egzemplarzem *Być i mieć* potwierdzić brzmienie i strony. Wykonanie wprost wg dok. 08 z 13.09: „cytat wchodzi punktowo w ruch 4 — bez przebudowy rozdziału" — rozdział nieprzebudowany. **Niedomknięcie nietknięte:** urywki mówią, CO jest obecnością, nie DLACZEGO działa — teza ruchu IV („nie mówi, dlaczego") zostaje prawdziwa.
+
+*(Historia decyzji: stan sprzed ETAP P — referowane bez cytatu, zgodnie z dok. 08 § A2 „bez ani jednego cytatu z Marcela"; uchylone decyzją D9 po pozyskaniu brzmień UKSW i po kontroli sensu na wyd. EN — Craufurd, Regnery 1951, plik HomoV.txt w bibliotece roboczej.)*
+
+⚠️ **NIE PODAWAĆ STRON 170–171** — ta lokalizacja krąży w opracowaniach i odsyła do **wydania z 2001 r.**, nie do PAX 1986 (202 s.), które ma inną paginację. Błąd wycofany wcześniej z rozdz. 26 i 29; tu nie powtórzony.").
 
 ⚠️ **NIE PODAWAĆ STRON 170–171** — ta lokalizacja krąży w opracowaniach i odsyła do **wydania z 2001 r.**, nie do PAX 1986 (202 s.), które ma inną paginację. Błąd wycofany wcześniej z rozdz. 26 i 29; tu nie powtórzony.
 
@@ -144,7 +160,7 @@ Brzmienie oryginalne: „Jeśli śmierć w swej istocie polega na zerwaniu wszel
 
 **Fragment zarezerwowany dla tego rozdziału przy pisaniu rozdz. 23** i tam świadomie nieużyty — rezerwacja wykonana zgodnie z planem.
 
-⚠️ **W tekście głównym REFEROWANY, bez cudzysłowu.** Powód: limit dwóch cytatów na rozdział, a rozdział ma już cytat refrenu; nadto reguła mówi, że Ratzinger ma tu **domykać rozumowanie**, nie dostarczać ozdoby. Przy redakcji cytat blokowy w tym miejscu byłby uzasadniony — brzmienie jest gotowe powyżej.
+✅ **ETAP P (2026-09-14, decyzja D9): brzmienie wprowadzone dosłownie w tekście głównym** — cytat śródzdaniowy w cudzysłowie, celowo **bez formy blokowej**: refren pozostaje jedynym cytatem blokowym rozdziału. **Liczenie wg dok. 04 (limit dotyczy Ratzingera): 1 cytat Ratzingera na rozdział, 0 blokowych — limit „maks. dwa, najwyżej jeden blokowy" dochowany z zapasem.** Ratzinger nadal **domyka rozumowanie**, nie ozdabia: cytat stoi w środku argumentu, nie na jego końcu.
 
 ⚠️ **Strona „ok. 115"** — znacznik `114` pada przed fragmentem, `116` po nim. Przy redakcji z egzemplarzem zweryfikować.
 
@@ -163,27 +179,27 @@ Brzmienie oryginalne: „Jeśli śmierć w swej istocie polega na zerwaniu wszel
 - ⚠️ **KONSPEKT MA NIEPRZELICZONE ODESŁANIA v2 — najgroźniejszy przypadek listy mieszanej.** Konspekt 47 odsyła do „rozdz. 25" (Ratzinger mówiący pierwszy), „25" (zstąpienie), „27" (próg) i „46" (przejście dokonane) — to numeracja **v2**. Po przeliczeniu wg `STRUKTURA_V3.md` § 1: **25→24** (zstąpienie), **27→26** (próg), **46→47** (ten rozdział). W tekście użyto **wyłącznie numerów v3**, sprawdzonych z `SPIS_PLIKOW.md` i gradacją z § 149 STRUKTURY. **Konspektu nie poprawiam** (rozdział napisany), ale odnotowuję — przy 48 i 49 spodziewać się tego samego.
 - **Gradacja metafory — wykonana i skontrolowana.** `STRUKTURA_V3.md` § 149: **24 drzwi → 26 próg → 47 przejście dokonane**. W tym rozdziale słowo **„drzwi" nie pada ani razu**; „próg" pada **raz** (pomiar skryptem), w funkcji **granicy towarzyszenia**, nie jako człon gradacji. Obraz przejścia dokonanego oddany zdaniem „**tam, gdzie się kończą, ktoś już był**" — bez rekwizytu drzwi, celowo, bo rekwizyt zużyły rozdz. 24 i 26.
 - **Odwrócenie kolejności mówiących ✔** — konstrukcja rozdziału-lustra. W rozdz. 24 Ratzinger otwierał; tutaj **wchodzi dopiero w ruchu V**, po Heideggerze, Jaspersie, Yalomie, świadectwach i Marcelu. **Nikt po nim już nie mówi** poza refrenem i puentą.
-- **Cytaty blokowe: JEDEN** (refren). Sprawdzone skryptem. **Ratzinger dwukrotnie referowany, ani razu w cudzysłowie** — w rozdziale, w którym ma ostatnie słowo, jest to decyzja nieoczywista; uzasadnienie w przyp. ². Efekt: głos wiodący dominuje **pozycją i funkcją**, nie objętością. Jeśli autor uzna to za nadmierną powściągliwość, brzmienie cytatu z przyp. ² jest gotowe do wstawienia blokiem.
-- **Marcel bez cytatu ✔** — zgodnie z dok. 08 § A2. Ryzyko merytoryczne zerowe: jego rola jest z założenia **niedomknięta**, a niedomknięcie jest tu treścią, nie brakiem.
+- **Cytaty blokowe po ETAP P: nadal JEDEN** (refren). Ratzinger: **1 cytat śródzdaniowy** (dawniej referowany; decyzja D9). Marcel: **2 urywki śródzdaniowe** (dawniej referowany; decyzja D9, źródło UKSW). Głos wiodący dominuje dalej **pozycją i funkcją**, nie objętością — teraz dodatkowo własnym brzmieniem w kluczowym zdaniu rozdziału.
+- **Marcel: cytat punktowy (ETAP P, D9)** — zgodnie z dok. 08 („cytat wchodzi punktowo w ruch 4, bez przebudowy rozdziału"). Ryzyko merytoryczne nadal zerowe: urywki 58–59 opisują **co** jest obecnością (dyspozycyjność; posiadanie = być posiadanym), nie **dlaczego** obecność działa — niedomknięcie pozostaje treścią ruchu IV.
 - ⚠️ **Świadectwa hospicyjne — MIEJSCE WSKAZANE, NIE ZAPEŁNIONE.** Konspekt § 4 sam zostawiał je „do dobicia w redakcji `[?]`". Nie wymyśliłem żadnego tytułu ani liczby; w tekście głównym stoi **jawne zastrzeżenie**, że to obserwacja obiegowa bez źródła. **Do decyzji autora:** czy zostawić zastrzeżenie w tekście (rozdział zyskuje na wiarygodności), czy pozyskać źródło i je usunąć. Gdyby pozyskiwać — kierunek: literatura opieki paliatywnej, nie wspomnieniowa.
 - **Refren — brzmienie z konspektu przyjęte bez zmian:** „Po drugiej stronie — i na tej stronie, w całej drodze." **Nie zaczyna się od „Jest"** (rejestr 07 § A3 — seria przerwana od rozdz. 38 pozostaje przerwana). Domyka też formę „po drugiej stronie", użytą w rozdz. 22 **bez odpowiedzi** — tutaj ta sama forma **dostaje odpowiedź**. Klamra przez sześć rozdziałów; do odnotowania w rejestrze jako para 22 ↔ 47.
 - **Brak sceny otwierającej — zgodnie z konspektem** (§ 5 pkt 1: otwarcie pytaniem, nie sceną). Jedyny rozdział części VIII bez sceny; uzasadnione funkcją syntetyzującą.
 - **Tryb narracji: „my"** — `STRUKTURA_V3.md` § 5 (część VIII). ⚠️ **Zmiana wobec rozdz. 22 i 23**, pisanych w „ja" (część V). Sprawdzone przed pisaniem, nie po.
 - **Odróżnienie od rozdz. 24 ✔** (uwaga warsztatowa): tu **synteza, nie egzegeza**. Zero analizy artykułu wiary, zero szeolu, zero KKK, zero Ps 6,6. Treść zstąpienia streszczona **jednym zdaniem wyniku** („ktoś przeszedł tamtędy pierwszy") z jawnym „nie będziemy tu powtarzać".
-- **Długość:** ok. **1,54 tys. słów** wobec celu 2,3–2,6 tys. — **rozdział jest wyraźnie krótszy, o jedną trzecią**. ⚠️ To największa rozbieżność wobec konspektu w całej dotychczasowej pracy i autor powinien o niej zdecydować świadomie. Powód: składa się prawie wyłącznie z ech, a każde echo miało być jednolinijkowe. Gdyby rozbudowywać: ruch III (konkret z opieki paliatywnej — ale wymaga źródła) i ruch IV (drugi przykład na różnicę obok/obecność). **Nie rozbudowywać ruchu V** — jego siła jest w zwięzłości.
+- **Długość po ETAP P:** ok. **2,05–2,1 tys. słów** (było 1,54). Rozbudowa wg D9: ruch I (+sprawdzian), ruch III (+„**się** umiera" odwrócone — drugi przykład z rozdz. 22; +świadek jako trzecia rzecz), ruch IV (+drugi przykład obok/obecność; +pierwsze brzmienia Marcela 58–59; +wiązanie z 29), ruch V (brzmienie Ratzingera dosłownie). ⚠️ **Pozostały dystans do celu 2,3–2,6 tys. leży niemal wyłącznie w ruchu III (konkret z opieki paliatywnej) i jest zablokowany źródłowo** — zgodnie z regułą autora nie zamyka się go materiałem niezweryfikowanym; po pozyskaniu źródła +200–400 słów domknie cel. **Ruchu V nadal nie rozbudowywać** — jego siła jest w zwięzłości (zachowane).
 - **Klamry:** 1–3, 20, 22 (trzy „nikt" jako wynik), 23 (definicja odwrócona), 24 (przejście), 26 (próg), 29 (obecność), 46 (odroczenie).
 
 ### Stan źródeł
 
 | Źródło | Status | Uwaga |
 |---|---|---|
-| Ratzinger, *Eschatologia* ok. s. 115 | ✔ **zweryfikowane w wydaniu** | rezerwacja z rozdz. 23 zrealizowana; referowane |
+| Ratzinger, *Eschatologia* ok. s. 115 | ✔ **zweryfikowane w wydaniu** | rezerwacja z 23 zrealizowana; **cytat śródzdaniowy (ETAP P)**; stronę potwierdzić z egzemplarzem |
 | Ratzinger, *Eschatologia* (Schleiermacher) | ✔ **zweryfikowane w wydaniu** | rezerwacja z rozdz. 46 zrealizowana; cytowanie **pośrednie**, zaznaczone |
-| Marcel | ⚠️ **referat bez cytatu** | zgodnie z dok. 08 § A2; stron 170–171 **nie podawać** |
+| Marcel | ✔ **2 urywki BiM 58–59** („cyt. za: UKSW") + referat | egzemplarz potwierdzi przy redakcji; stron 170–171 **nie podawać** |
 | Heidegger, Jaspers, Yalom | — | echa jednolinijkowe, bez cytatów (referaty z rozdz. 20 i 22) |
 | Świadectwa hospicyjne | ⚠️ **brak źródła — zaznaczone w tekście** | miejsce wskazane, nie zapełnione |
 | Schleiermacher | ✘ **nie czytany** | znany wyłącznie z przywołania przez Ratzingera |
 
-**Bilans: jeden cytat blokowy (refren). Wszystkie głosy referowane. Rozdział, w którym Ratzinger ma ostatnie słowo, nie zawiera ani jednego jego cytatu w cudzysłowie — i to jest decyzja, nie przeoczenie.**
+**Bilans po ETAP P: jeden cytat blokowy (refren — formuła własna książki). Dwa głosy źródłowe w cudzysłowie śródzdaniowym: Ratzinger ×1 (Eschatologia, ok. s. 115), Marcel ×2 urywki (BiM 58–59, „cyt. za: UKSW"). Rozdział, w którym Ratzinger ma ostatnie słowo, wypowiada je teraz własnym brzmieniem — a wciąż bez żadnego cytatu blokowego poza refrenem.**
 
 - ⭐⭐ **PRZEŁOM (noc 13/14.09) — brzmienia dosłowne z BiM 1986 (materiały UKSW, patrz dok. 08).** Dla tego rozdziału: **s. 58–59** „Miłosierdzie jako obecność, jako całkowita dyspozycyjność. Nigdy jeszcze związek z ubóstwem tak jasno mi się nie ukazał. Posiadać, to niemal nieuchronnie być posiadanym" ✔ (obecność + rozporządzalność jednym tchem — para ruchu V); **s. 89** „tylko innym jako innym można przypisywać istnienie…" ✔ (samotność jako zagrożenie doświadczenia istnienia); **s. 63–66** natura nadziei: „U podstaw nadziei znajduje się świadomość sytuacji, która nas skłania do rozpaczy […] Mieć nadzieję to znaczy zawierzyć rzeczywistości" ✔ (punkt zwrotny — nadzieja nie jest przewidywaniem wyniku). Namiary Hv 1984 (63–70, 142–143, 149–151, 158–159) bez zmian. Użycie: „cyt. za: materiały dydaktyczne UKSW" albo z egzemplarza.

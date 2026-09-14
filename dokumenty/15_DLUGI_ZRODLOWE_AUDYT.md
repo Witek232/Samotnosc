@@ -416,3 +416,14 @@ Te są łatwe: **jedna strona, jedno zdanie**. Uszeregowane wg stosunku „ile z
 | **D9** | **Rozbudowa 47 do ~2400 słów** (+~850): (1) brzmienie Ratzingera zamiast parafrazy (R1) — gotowe w kartotece; (2) drugi przykład „się umiera" (R1); (3) **nowość ETAP M/N: Marcel** — obecność (BiM 58–59) i/lub „inni jako warunek istnienia" (142–143), użycie „cyt. za: materiały UKSW" albo z PL egzemplarza. Materiał zweryfikowany — pisanie bez ryzyka | ETAP 4: pisownia |
 
 **Suma działań autora z D1–D9:** zero zdobywania, zero pisania „na dziś" — wszystko rozsądzone na ETAP 4–6; D4 wykonane od ręki (dok. 07); blokady ETAP 2/4/5 zdjęte. **Minimum pozyskań dla całego projektu (po ETAP O):** (1) JEDNA wizyta w bibliotece: autopsja *Eschatologii* PAX 1986 (s. 79–91, 110–117) + *Wprowadzenia* Znak (s. 29–37, 197–252); opcjonalnie ta sama wizyta z Arièsem (PIW 1989, 19–41, 549–~580); (2) Yalom e-book 2008 (ibuk.pl) — jedyna płatna pozycja, odblokowuje cytaty 20/47/48. Wszystko pozostałe (Marcel PL, Spaemann, Łosski, Kohut, Coontz, Duch liturgii) — opcjonalne, statusy czyste.
+
+
+### ⭐⭐ ETAP P (2026-09-14) — ETAP 4 ZADEBUGOWANY: pisownia wg D6/D9 + 4.2 (patch)
+
+| Zad. | WYKONANIE |
+|---|---|
+| **4.7 / D9** | Rozdz. 47 rozbudowany **1,54 → ok. 2,06 tys. słów**: ruch I (+sprawdzian: „pytanie pada, gdy powiedziano już wszystko, co bez nieba"), ruch III (+**„się umiera" odwrócone** — drugi przykład z rozdz. 22: gramatyka Nikogo łamie się przy łóżku, twarz zostaje; +**świadek** jako trzecia rzecz z triady ruchu II), ruch IV (+**drugi przykład obok/obecność** — „w sprawie" vs „bez sprawy"; +**pierwszy cytat Marcela**: urywki BiM **58–59** „całkowita dyspozycyjność" / „posiadać, to niemal nieuchronnie być posiadanym", „cyt. za: UKSW"; +wiązanie z 29), ruch V (**brzmienie Ratzingera dosłownie**, śródzdaniowo: „Jeśli śmierć w swej istocie polega na zerwaniu wszelkiej komunikacji…"). Limit dok. 04 (Ratzinger ≤2, ≤1 blokowy): **1 cytat, 0 blokowych** — dochowany; refren jedynym blokiem. Niedomknięcie Marcela nietknięte (urywki mówią CO, nie DLACZEGO). ⚠️ Reszta celu 47 (2,3–2,6 tys.) = ruch III, **zablokowana źródłowo** (konkret paliatywny) — po pozyskaniu +200–400 słów. |
+| **4.2** | Rozdz. 16: **Nygren nazwany w tekście** + 2 wiersze tabeli s. 210 (tłum. robocze z wyd. ang., oryginały w przypisie ⁶) + zastrzeżenie „difference in type, not a difference in value"; przypisy ⁶–⁸ przenumerowane na ⁷–⁹; ⛔ encyklika nadal nie polemizuje imiennie. Długość 16: ok. 3300 słów (cel dotrzymany). |
+| **D6** | Prolog: 2 zdania ramy gatunkowej na początku sekcji IV (adaptacja R4; metafora śledztwa spójna z sekcją II). D8 celowo na ETAP 6. |
+
+**Zgodność z regułami:** żaden cytat nie pochodzi od EN; Marcel = „cyt. za: materiały UKSW" (dok. 08), egzemplarz potwierdzi; Ratzinger = brzmienie zweryfikowane w wydaniu (ok. 115 — strona do potwierdzenia); Nygren = autopsja (s. 210). Kolejne w ETAP 4: 4.1, 4.3, 4.4, 4.5, 4.6 (po pozyskaniu Arièsa), 4.8, 4.9, 4.10.

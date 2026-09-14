@@ -543,7 +543,22 @@ Wyd. PIW, przeł. Eliza Bąkowska. Spis treści ustalony 2026-09-09 z oferty ant
 - **s. 101** — „Z faktu, że do istoty tajemnicy należy, iż może być uznana […] wynika także, iż może być niepoznana lub czynnie negowana […] **Należy starannie unikać wszelkiego pomieszania pojęć tajemnicy i tego, co niepoznawalne**: niepoznawalne jest w istocie tylko granicą tego, co problemowe" → **problem/tajemnica (100–101) potwierdzone BRZMIENIEM**, rozdz. 26;
 - ponadto: s. 116 (posiadanie a pożądanie), **s. 124** („Poznanie jako sposób posiadania. Posiadanie sekretu. Przechowywać, rozporządzać…"), s. 129–130, s. 196–197 („pożądanie szczerości… egzaltacja sił negacji").
 
-**Korekta bibliograficzna *Homo viator*:** wg rekordu bibliotecznego (Prolib Śląska Biblioteka Cyfrowa) wyd. 1984 liczy **315, [4] s., ISBN 83-211-0557-2** (zbieżne z antykwarycznym „316 s."); rekord „386 s." — odstający/błędny. W dok. 08 było „318 s." — poprawić na „315, [4] s.".
+**Korekta bibliograficzna *Homo viator*:** wg rekordu bibliotecznego (Prolib Śląska Biblioteka Cyfrowa) wyd. 1984 liczy **315, [4] s., ISBN 83-211-0557-2** (zbieżne z antykwarycznym „316 s."); rekord „386 s." — odstający/błędny. W dok. 08 było „318 s." — poprawić na „315, [4] s."
+
+### ⭐ EN EGZEMPLARZ POZWYCZAJONY (2026-09-14): Homo Viator (Craufurd, Regnery, Chicago 1951) — kontrola sensu przeprowadzona
+
+Autor posiada angielski tekst: *Homo Viator: Introduction to a Metaphysic of Hope*, przeł. **Emma Craufurd**, Henry Regnery Company, **Chicago 1951** (kopia: `HomoV.txt` — **dopisać do lokalnej biblioteki, dział marcel/**; w roboczej bibliotece projektu jest). **Status zgodny z regułą A2: tekst EN służy kontroli sensu i nawigacji — NIGDY źródłem cytatu polskiego.**
+
+**Struktura zgodna z PL 1984** (ten sam układ esejów): *Sketch of a Phenomenology and a Metaphysic of Hope* EN 29–67 ↔ PL 29–70; *Value and Immortality* EN 135–155 ↔ PL 139–159 (dryf +3→+4 stron, rośnie liniowo przez tom; plik EN ma drukowane numery stron — mapowanie pewne).
+
+**Cztery kluczowe fragmenty potwierdzone brzmieniem EN + stroną (PL = EN + dryf):**
+1. **Inni (EN s. 138 → PL ≈ 142 ✔ namiar trafiony):** „A secret voice which I cannot silence assures me in fact that **if others are not there, I am not there either**. I cannot grant to myself an existence of which I suppose others are deprived […] **If others vanish from me, I vanish from myself.**"
+2. **Rozpacz (EN s. 145–146 → PL ≈ 149–150 ✔):** „The unemployed or the man without hope […] is not only someone who **no longer gives anything**, he is someone who has **lost the power of animating the world** into which he feels he has been thrown, and where he is **superfluous**." (obok: „we receive in giving").
+3. **Nadzieja (EN s. 65–67 → PL ≈ 69–71 ✔ namiar s. 70):** nadzieja i „the calculating faculty of reason are essentially distinct"; formuła komunii na końcu eseju („experience of communion", EN 67).
+4. **Pielgrzym (EN s. 154 → PL ≈ 158 ✔ namiar 158–159):** „Perhaps a stable order can only be established if man is **acutely aware of his condition as a traveller**, that is to say, if he perpetually reminds himself that he is required to cut himself a dangerous path across the unsteady blocks of a universe which has collapsed…" — ⚠️ u Craufurd „**traveller**", nie „pilgrim" (w polskiej literaturze krąży „kondycja pielgrzyma"); PL egzemplarz rozstrzygnie brzmienie.
+
+**Wniosek:** wszystkie polskie namiary (63–70, 142–143, 149–151, 158–159) **potwierdzone kontrolą sensu**; lista zdjęć PL bez zmian i z gwarancją celności. Cytat o „kondycji pielgrzyma" — trzy drogi użycia: (a) z PL egzemplarza (docelowo), (b) „cyt. za:" z opracowania podającego PL brzmienie, (c) EN nigdy.
+.
 
 ## C3. Ernest Becker, *Zaprzeczanie śmierci* — **użytkownik nie ma dostępu; nie cytować**
 

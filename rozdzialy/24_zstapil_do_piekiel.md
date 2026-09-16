@@ -47,6 +47,8 @@ Nie ma w nim chwały Bożej. Psalmista formułuje to z brutalną prostotą: „b
 
 Szeol jest więc pierwszą, niedogmatyczną definicją samotności absolutnej: nie miejscem tortur, lecz miejscem zapomnienia. Człowiek Starego Testamentu nie mówi, że w otchłani jest źle; mówi coś surowszego: że w otchłani nie ma już o czym mówić. Nie ma pochwały, bo pochwała wymaga słuchacza; nie ma relacji, bo relacja wymaga drugiego; nie ma pamięci, bo pamięć wymaga kogoś, kto pamięta.
 
+Jedno rozstrzygnięcie językowe, żeby czytelnik nie płacił później za naszą niedbałość: to szeol, nie gehenna. Gehenna — dolina pod Jerozolimą — stała się obrazem piekła potępienia; szeol jest czymś innym i surowszym: krainą zmarłych, którą Pismo nazywa „piekłem" tylko dlatego, że nie widać w niej Boga — czekają w niej zarówno źli, jak i sprawiedliwi.⁴ Kiedy credo mówi „zstąpił do piekieł", mówi o tym pierwszym miejscu, nie o drugim.
+
 W rozdziale dwudziestym trzecim patrzyłem na człowieka, który umiera: fenomenologia ostatniego oddechu, ostatniego zdania, ostatniego światła. Teraz pytanie brzmi: dokąd on poszedł? Odpowiedź Starego Testamentu jest ważniejsza, niż się wydaje: nie „gdzieś indziej". Człowiek nie przenosi się do innego miejsca — schodzi. Szeol jest „dołem": nie geograficznie, lecz jakościowo, bo w miarę schodzenia ubywa Boga. Śmierć nie jest wydarzeniem, po drugiej stronie którego czeka jakaś treść. Śmierć jest krajem o jednej właściwości: nic w nim nie mówi do Boga i Bóg nic w nim nie mówi.
 
 I właśnie dlatego credo nie mogło pominąć tego zdania. Jeżeli Syn wszedł do śmierci naprawdę, to wszedł do szeolu — bo szeol jest jedynym imieniem, jakie śmierć wtedy nosiła. Artykuł wiary nie dodaje nic do opisu kraju; on twierdzi coś o podróżniku.

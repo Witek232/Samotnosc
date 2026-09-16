@@ -52,10 +52,15 @@ Wypełniać przy każdym napisanym rozdziale. Cel: żadne dwie odpowiedzi nie mo
 | **24 — Zstąpił do piekieł** | — **REFREN NIE PADA** | ✅ **D4 ROZSTRZYGNIĘTE 2026-09-14: cisza ZAMIARZONA.** Uzasadnienie: w tym rozdziale pytanie schodzi do piekieł razem z Tym, który jest odpowiedzią — refren należy do pytającego człowieka, a tutaj przez strefę pytania przechodzi Ten, kto na nie przychodzi; zadanie pytania byłoby cofnięciem tezy rozdziału (26 pokazuje, że modlitwa/przemówienie do Boga wraca — refren wraca w 26 zgodnie z rejestrem). Dodatkowo: cisza ustawia krzyk Mk 15,34 w rozdz. 25 jako powrót formy pytajnej w najczystszej postaci. Do rejestracji w 4.9 (ETAP 5).
 | 25 | „Tu jestem" | napisany |
 | 26 | „jest — i przeszedł" | napisany |
-| 30 (v3: 32) | „jest — i nigdy nie był sam" | napisany |
-| 31 (v3: 33) | „jest Syn" | napisany |
-| 32 (v3: 34) | „można Go posadzić naprzeciwko" | napisany |
-| 33 (v3: 35) | „Jest — i przyjechało ich więcej" | napisany |
+| **27 — Zmartwychwstanie** | „Odpowiedź brzmi: nie." — dokończenie „Tu jestem": na pytanie, które nigdzie nie ma adresata, jest Ktoś po drugiej stronie, Ktoś drogę zna od środka; druga połowa refrenu („czy ja tam będę kimś, kto może spotkać?") świadomie bez zdania — odpowiedzią ma być wydarzenie | **dopisane 2026-09-14 (ETAP Q/4.9) wg tekstu rozdz.** |
+| **28 — Osoba** | ODPOWIEDŹ GRAMATYCZNA: „czy ktoś mnie adresuje jako «kogoś»?"; język, w którym o człowieku mówi się „co", nie ma miejsca do pozdrowienia — język z „Ty" ma | **dopisane 2026-09-14 (ETAP Q/4.9)** |
+| **29 — „Ja" potrzebuje „Ty"** | PYTANIE PO RAZ PIERWSZY Z ADRESATEM: z trzeciej osoby („ktoś") do drugiej; puenta-klamra podtytułu: „wierzę w Ciebie" (pełne wykonanie w 31) | **dopisane 2026-09-14 (ETAP Q/4.9)** |
+| **30 — Heschel** | ODWRÓCENIE STRZAŁKI: pytanie pada z drugiej strony — pierwsze pytanie Biblii zadaje Bóg (Rdz 3,9: „Gdzie jesteś?"); Bóg szuka człowieka | **dopisane 2026-09-14 (ETAP Q/4.9)** |
+| **31 — Wiara jako zaufanie** | „wierzę w Ciebie" — PO RAZ PIERWSZY ODPOWIADA CZŁOWIEK (dotąd mówił Ktoś z drugiej strony progu); trzy formy jednego czasownika (pełne czytanie: rozdz. 31, wg *Wprowadzenia* s. 108) | **dopisane 2026-09-14 (ETAP Q/4.9)** |
+| **32** | „Jest — i nigdy nie był sam" | **napisany** — wiersz z numeracji v2 przeliczony 2026-09-14 (ETAP Q/4.9); brzmienie zgodne z tekstem rozdz., ruch VIII |
+| **33** | „Jest Syn" — odpowiedź ma formę osoby | **napisany** — wiersz v2 przeliczony 2026-09-14 (ETAP Q/4.9) |
+| **34** | „Jest — i można Go posadzić naprzeciwko" — odpowiedź przestaje być tezą, krzesło stoi naprzeciwko | **napisany** — wiersz v2 przeliczony 2026-09-14 (ETAP Q/4.9); ⚠️ patrz notatka o „Zauważmy" niżej |
+| **35** | „Jest — i przyjechało ich więcej" | **napisany** — wiersz v2 przeliczony 2026-09-14 (ETAP Q/4.9) |
 | 36 | „Tutaj — i podaje ci chleb" | napisany |
 | **37** | „tam, gdzie będziesz najbardziej sam, ktoś może zejść, żeby tam być" | napisany 2026-09-07 |
 | **38** | **„Pokój, przed którym uciekasz, jest już zamieszkany. Usiądź."** | **napisany 2026-09-09** — ⚠️ wariant konspektowy („Jest — i pokój…") **odrzucony**, żeby przerwać serię otwarć na „Jest" |
@@ -83,6 +88,9 @@ Wypełniać przy każdym napisanym rozdziale. Cel: żadne dwie odpowiedzi nie mo
 | Epilog | J 11,26, ciche i osobiste | konspekt |
 
 **Ostrzeżenie widoczne już teraz:** odpowiedzi 30, 33, 38, 39 zaczynają się od słowa „Jest". Cztery razy ten sam początek to za dużo. Przy pisaniu 38 i 39 — zmienić otwarcie przynajmniej jednej z nich.
+
+- ✅ **ETAP Q (4.9): seria „Jest" przerwana od rozdz. 38 i pozostaje przerwana** (wymóg przy redakcji 47; potwierdzone brzmieniem 47: „Nie zaczyna się od «Jest»").
+- ⚠️ **ETAP Q (4.9): rozdz. 34 używa formuły „Zauważmy, co się w tej kolejności stało"** — formuła pokrewna refrenowi (rodzina „Zauważmy"); **nowe wystąpienie odnotowane do rozliczenia w ETAP 5** (typografia formuł autorskich, 5.6).
 
 ---
 

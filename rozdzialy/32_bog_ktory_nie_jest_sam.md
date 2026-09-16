@@ -77,6 +77,8 @@ Zostaje refren: czy ktoś tam jest? Poprzedni rozdział pokazał człowieka, kt�
 
 Puenta mieści się w dwóch obrazach świata, które można postawić obok siebie. Jeżeli u początku rzeczywistości stoi samotny Absolut, relacja jest wtórna — i wtedy samotność jest wrośnięta w naturę bytu, a miłość jest łaskawym wyjątkiem. Jeżeli u początku jest Ojciec, Syn i Duch, relacja jest pierwotna — i wtedy samotność jest raną, a miłość jest prawem świata. Między tymi obrazami nie ma trzeciej drogi; każde „nie wiem" opowiada po cichu jedną z tych dwóch historii. Chrześcijaństwo w tej sprawie nie zajmuje stanowiska pośredniego ani sentymentalnego: nie dodaje miłości do świata. Twierdzi, że miłość była pierwsza.
 
+I jedno zdanie pokory, żeby było uczciwie do końca: wybór drugiego obrazu nie jest wynikiem rachunku, który da się sprawdzić tak jak reszta tej książki. Jest decyzją wiary — tej samej, której brzmienie podał rozdział trzydziesty pierwszy: wierzę w Ciebie. Argument może pokazać, że ta decyzja nie jest głupia ani tchórzliwa; nie może jej nikomu podarować. Ten rozdział nie udaje więc, że dowiódł Trójcy — pokazał tylko, że w miejscu, w którym kończą się wszystkie ludzkie odpowiedzi na samotność, stoi albo samotny Absolut, albo Ojciec, Syn i Duch, i że wybór między nimi jest czymś więcej niż wyborem pojęć.
+
 Zostaje pytanie, które ta teza otwiera i którego ten rozdział podjąć nie może: jeżeli Bóg jest relacją, jak ta relacja przychodzi do nas? Relacja, która jest pierwotna, nie może zostać zamknięta w Bogu jak skarb w fortecy — musi mieć swoją historię; musi przyjść do człowieka w formie, którą człowiek umie przyjąć: w słowie, w twarzy, w dłoni. I wtedy wraca dłoń z rozdziału trzydziestego pierwszego — ta, o której teraz widać, że jest rzeczywista: nie dlatego, że człowiek ją udowodnił, lecz dlatego, że należy do Tego, który nie jest sam. Rozdział następny czyta Jezusa z Nazaretu: Syn — i słowo, które brzmi jak tytuł, okazuje się strukturą relacji.
 
 ---
@@ -145,7 +147,7 @@ Zostaje pytanie, które ta teza otwiera i którego ten rozdział podjąć nie mo
 
 **Kontekst wzmacniający (Iz 43,2), gdyby rozdział potrzebował jeszcze jednego zdania:** „Gdy pójdziesz przez wody, Ja będę z tobą… Gdy pójdziesz przez ogień, nie spalisz się" — to samo „Tu jestem", które książka notuje jako odpowiedź refrenu.
 
-⁶ **PRZYPIS DO WYMIANY — decyzja jak w rozdz. 28.**
+⁶ **Odesłanie: zob. przyp. ¹** (J. Ratzinger, *Wprowadzenie w chrześcijaństwo*, s. 134–135). ✅ **Wymienione 2026-09-14 (ETAP Q)** — decyzja świadoma wg zalecenia noty redakcyjnej, tak jak w rozdz. 28 (2026-09-09): teza „osoba jest czystą relacją" pochodzi z *Wprowadzenia*, które biblioteka posiada; artykuł „Communio" 13 (1990) nr 1 — nie mamy i nie cytujemy.
 
 Odziedziczona wersja odsyłała do J. Ratzingera, „Uwagi o pojęciu osoby w teologii", „Communio" 13 (1990) nr 1. **Tego tekstu nie mam i nie mogę zweryfikować ani brzmienia, ani rocznika, ani numeru.** W rozdz. 28 ten sam problem rozwiązaliśmy 2026-09-09 przez **wymianę adresu na *Wprowadzenie w chrześcijaństwo*, s. 134** — i tu robię tak samo, bo teza „osoba jest relacją" stoi tam **dosłownie i sprawdzalnie** (zob. przyp. ¹ (b): „Osoba jest czystą relacją odnoszenia się do kogoś, niczym więcej", s. 134–135).
 

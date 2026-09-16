@@ -56,7 +56,7 @@ U Kartezjusza kierunek się odwraca. Pewność jest **wyprodukowana w środku i 
 
 To jest zmiana adresu. Nie „powierzam się", tylko „sprawdzam". Nie „ktoś jest", tylko „ja jestem".
 
-I tu jest kłopot, którego on sam nie widział, a który filozofia będzie spłacać przez trzysta lat. Jeśli punktem wyjścia jest samotne „ja", to droga **od** niego do innych ludzi trzeba dopiero zbudować — i okazuje się, że nie ma z czego. Skąd wiem, że istnieje ktoś poza mną? To pytanie, brzmiące jak dziwactwo, jest ścisłą konsekwencją tamtego pokoju i pod nazwą problemu solipsyzmu wraca w filozofii aż po wiek dwudziesty. Husserl będzie się z nim mocował trzysta lat później, i nie on jeden.
+I tu jest kłopot, który on sam widział — i na który odpowiadał (Medytacje III i VI: świat i inni ludzie wracają do pewności przez Boga, który gwarantuje sam siebie) — tyle że tych odpowiedzi dziś nikt już nie kupuje; kłopot został, a filozofia spłaca go przez trzysta lat. Jeśli punktem wyjścia jest samotne „ja", to droga **od** niego do innych ludzi trzeba dopiero zbudować — i okazuje się, że nie ma z czego. Skąd wiem, że istnieje ktoś poza mną? To pytanie, brzmiące jak dziwactwo, jest ścisłą konsekwencją tamtego pokoju i pod nazwą problemu solipsyzmu wraca w filozofii aż po wiek dwudziesty. Husserl będzie się z nim mocował trzysta lat później, i nie on jeden.
 
 Kartezjusz zaprojektował pokój na trzy dni eksperymentu. Epoka się w nim wprowadziła.
 
@@ -248,3 +248,10 @@ Pozostałe przywołania z tego samego fragmentu (kupno stanowiska w wojsku; czł
 | Ratzinger | ✘ **nieobecny** | ⚠️ świadome odstępstwo od reguły ostatniego słowa — patrz noty |
 
 **Bilans: trzy cytaty, wszystkie zweryfikowane w tekstach przekładów; jeden z nich pośredni i tak oznaczony. Dwa brzmienia konspektowe okazały się błędne, w tym jedno bez znacznika `[?]`. Taylor i Husserl nie mówią tu ani słowa, bo ich nie mam.**
+
+
+---
+
+## Nota ETAP Q (2026-09-14)
+
+- ✅ **4.4 wykonane:** „kłopot, którego on sam nie widział" → Kartezjusz **widział i odpowiadał** (Medytacje III i VI); poprawka rzetelności wobec przeciwnika (reguła wzmacniania z dok. 04) — „odpowiedzi nikt dziś nie kupuje" zostaje ośmieniem epoki, nie autora cogito. Medytacje: referowane, bez cytatów (tekstu w bibliotece brak — patrz dok. 08).

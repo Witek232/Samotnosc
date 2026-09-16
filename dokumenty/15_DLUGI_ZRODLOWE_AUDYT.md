@@ -427,3 +427,18 @@ Te są łatwe: **jedna strona, jedno zdanie**. Uszeregowane wg stosunku „ile z
 | **D6** | Prolog: 2 zdania ramy gatunkowej na początku sekcji IV (adaptacja R4; metafora śledztwa spójna z sekcją II). D8 celowo na ETAP 6. |
 
 **Zgodność z regułami:** żaden cytat nie pochodzi od EN; Marcel = „cyt. za: materiały UKSW" (dok. 08), egzemplarz potwierdzi; Ratzinger = brzmienie zweryfikowane w wydaniu (ok. 115 — strona do potwierdzenia); Nygren = autopsja (s. 210). Kolejne w ETAP 4: 4.1, 4.3, 4.4, 4.5, 4.6 (po pozyskaniu Arièsa), 4.8, 4.9, 4.10.
+
+
+### ⭐⭐ ETAP Q (2026-09-14) — ETAP 4 DOMKNIĘTY w części pisowni (4.1/4.3/4.4/4.5/4.8/4.9/4.10)
+
+| Zad. | WYKONANIE |
+|---|---|
+| **4.1** | Rozdz. 7: akapit o **wiecznym powrocie / amor fati** jako odpowiedzi Nietzschego na pozycję „trwanie" — i dlaczego NIE domyka (powrót nie przechowuje — powtarza); klauzula pominięcia w tekście („ten rozdział nie idzie tą drogą dalej"). Referat, bez cytatów, bez nowego przypisu. |
+| **4.3** | Rozdz. 33: trzy rekomendacje przypisu ² wdrożone — (1) klamra z 28 cytatem „byt od"/„byt dla" (s. 137/176); (2) rozróżnienie „Syn Boży"/„Syn" (s. 167/173) jako referat BEZ cudzysłowu; (3) przejście do antropologii cytatem s. 137 („Być chrześcijaninem znaczy… »od« i »ku«"). **Limit dok. 04 dochowany: 2 cytaty Ratzingera, 0 blokowych.** Przypis ³ **przeadresowany na cz. II, s. 175–176** (wg rekomendacji + potwierdzenia mechanicznego 2026-09-12); Rejestr rozdz. zaktualizowany. |
+| **4.4** | Rozdz. 4: Kartezjusz „widział i odpowiadał (Medytacje III/VI)" — poprawa rzetelności wobec przeciwnika; „odpowiedzi nikt dziś nie kupuje" zostaje oceną epoki. Medytacje: referowane (tekstu w bibliotece brak). |
+| **4.5** | Cztery zdania graniczne w tekście głównym: **24** — szeol vs gehenna (parafraza KKK 633, marker ⁴ wspólny z istniejącym przypisem); **28** — granica transferu trynitologii („o człowieku na mocy analogii; krok robi ten rozdział, nie on" — tekst był mylący, poprawiony); **32** — zdanie pokory epistemicznej („wybór Trójcy jest decyzją wiary; argument nie może jej podarować"); **29** — rozróżnienie z noty (credere) dopisane do tekstu, pełne wykonanie pozostaje w 31; epilog bez duplikatu (klamra podtytułu obecna). |
+| **4.8** | Rozdz. 46: **treść przypisu o Pani Halinie już istniała** („postać złożona, nie reportaż" — dokładnie to, czego żądało 4.8 po D8), ale była osierocona: szósty wpis aparatu bez kotwicy w tekście (luka oryginału). Uzupełniona kotwica **¹ przy końcu sceny**; blok przypisu przeniesiony na początek aparatu, pozostałe przesunięte +1 (GUS→², Bauman→³, Ratzinger→⁴, Tamże→⁵/⁶) — sekwencje main i aparatu zweryfikowane ¹–⁶. Spójność z notką o scenach — ETAP 6. |
+| **4.9** | Dok. 07 § A3 **dopełniony do 51/51**: nowe wiersze v3 **27–31** (brzmienia wg tekstów rozdziałów); stuby v2 30–33 przeliczone na v3 32–35 z pełnym statusem; seria „Jest" odnotowana jako przerwana od 38; **„Zauważmy" w 34 odnotowane do rozliczenia w ETAP 5** (5.6). Wiersz 24 (D4) — wykonany w ETAP O. |
+| **4.10** | **Wykonane w rozdz. 40** (naturalny dom): akapit „który człowiek?" po pięciu zarzutach — kontrprzykład-przewodni potraktowany jawnie (wierzący potwornie samotny / niewierzący otoczony), pytanie odtworzone pod podziałem wierzący/niewierzący. Bez nowych źródeł (metodologiczna uczciwość rozdziału). |
+
+**ETAP 4 po ETAP Q: brak tylko 4.6** (Ariès jednym zdaniem w 23 — po pozyskaniu z 3.3; rozdz. 15 zostaje przy wersji ostrożnej, formalnie czystej). Bilans cytatów nowo dodanych: Ratzinger ×2 śródzdaniowo (33), reszta referaty/parafrazy z materiałów zweryfikowanych — żaden cytat nie pochodzi od EN, żadna strona nie została „domyślona" drugą ręką.

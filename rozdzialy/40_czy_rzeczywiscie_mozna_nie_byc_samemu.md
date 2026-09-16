@@ -28,6 +28,8 @@ Ustawmy zarzut w pełnej sile, bo rozdział, który go osłabi, nie będzie nic 
 
 Uczciwość wymaga, żeby po tych pięciu zdaniach nie następowało natychmiast słowo „jednak". Zostawmy je stojące przez chwilę tak, jak stoją.
 
+I zanim je zbierzemy, trzeba nazwać osobę, o której tu mowa — bo zarzuty jak te mają tę właściwość, że udzielają się hurmem. Pytanie tej książki nie brzmi „czy ludzie wierzący są mniej samotni od niewierzących"; to pytanie statystyczne i nie ma na nie odpowiedzi statystycznej: bywa wierzący potwornie samotny — uczciwy, regularny, bez cienia chwytu — i bywa niewierzący tak otoczony ludźmi, że jego samotność trzeba się jeszcze nauczyć widzieć. Obie postacie są prawdziwe i żadna nie jest wyjątkiem, który odkładamy do przypisu. Różnica, której ta książka szuka, nie przebiega między nimi, lecz pod nimi: **który człowiek** — z tymi samymi wieczorami, tą samą śmiertelnością, tym samym głosem nocą — ma dokogo zawołać i czy to zawołanie ma adresata.
+
 ### II
 
 Zwykła odpowiedź na zarzut trzeci brzmi: to nieprawda, spójrz na wspólnoty, które działają; spójrz na parafię, w której naprawdę się nawzajem odwiedzają. Odpowiedź jest zła — nie dlatego, że fałszywa, bo takie parafie istnieją i opisywał je rozdział 35. Jest zła, bo odpowiada na zły zarzut. Zarzut nie brzmiał „nigdzie nie działa". Brzmiał: „skoro Bóg jest obecny, dlaczego to w ogóle jest możliwe **gdziekolwiek**?"

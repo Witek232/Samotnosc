@@ -63,6 +63,8 @@ Puenta tego rozdziału jest zarazem klamrą, którą książka trzymała w podty
 
 Zostaje jednak zarzut, który trzeba postawić samemu sobie, zanim pójdzie się dalej: czy „wierzę w Ciebie” nie jest tylko sentymentem — eleganckim domknięciem gramatyki, które nic nie kosztuje? Co znaczy wierzyć: uznać zdanie za prawdziwe, czy powierzyć siebie komuś? Rozdział następny czyta Ratzingera o trzech formach jednego czasownika — credere Deum, credere Deo, credere in Deum: wierzyć, że Bóg jest; wierzyć Bogu; wierzyć w Boga. To serce części szóstej i rozdział, na którym stanie cała konstrukcja, jeśli ma stać.
 
+Warto więc od razu rozbroić to, co najlżejsze w tym zarzucie: sentymentem nie byłoby „wierzę w Ciebie", lecz jego cichsza zamiana — gdyby ktoś powiedział sobie „uznaję, że On jest" i uznał to za to samo. To nie jest to samo: pierwsze zdanie można trzymać w szufladzie razem z innymi opiniami; drugie wymaga, żeby komuś się powierzyło imię. Pełne czytanie tych form dopiero w następnym rozdziale.
+
 ---
 
 **Przypisy:**
@@ -111,7 +113,7 @@ Potwierdzone też miejsce frazy pokrewnej: „człowiek staje się w pełni sob�
 
 Ratzinger dorzuca też pytanie, które sam nazywa osią własnej książki: **„Czy to naprawdę Ty?"** (s. 41) — „wszystkie rozważania tej książki są ostatecznie podporządkowane temu pytaniu". Dla refrenu „czy ktoś tam jest?" jest to najbliższy odpowiednik, jaki ta książka ma u Ratzingera. **Do rozważenia jako motto części VI.**
 
-*Credere Deum / Deo / in Deum* — s. 108 (`credo in Deum`); pełne czytanie zaplanowane w rozdz. 31.
+*Credere Deum / Deo / in Deum* — s. 108 (`credo in Deum`); pełne czytanie zaplanowane w rozdz. 31. ✅ **ETAP Q (4.5d): rozróżnienie z tej noty dopisane do tekstu głównego** (akapit po zarzucie o sentyment); pełne czytanie trzech form — wykonane w rozdz. 31 (puenta).
 
 **Noty redakcyjne (poza tekstem książki):**
 

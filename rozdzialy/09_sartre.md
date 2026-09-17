@@ -22,7 +22,7 @@ Sztuka nazywa się *Przy drzwiach zamkniętych*, napisał ją Jean-Paul Sartre, 
 
 **W tym pokoju nie ma luster.**
 
-Stella jest tą, która to zauważa pierwsza i nie może się z tym pogodzić. Chce zobaczyć swoją twarz. Nie z próżności — a w każdym razie nie tylko. Mówi, że kiedy się nie widzi, zaczyna wątpić, czy w ogóle istnieje. Więc Inez proponuje jej rozwiązanie: będzie jej lustrem. Patrz w moje oczy, powiem ci, jak wyglądasz.
+Stella jest tą, która to zauważa pierwsza i nie może się z tym pogodzić. Chce zobaczyć swoją twarz. Nie z próżności — a w każdym razie nie tylko. Mówi, że kiedy się nie widzi, zaczyna wątpić, czy w ogóle istnieje. Więc Inez proponuje jej rozwiązanie: będzie jej lustrem. Patrz w moje oczy, powiem ci, jak wyglądasz.¹
 
 I w tej jednej scenie jest cała filozofia, którą Sartre rozpisał wcześniej na siedmiuset stronach.
 
@@ -42,13 +42,13 @@ Ktoś patrzy.
 
 Co się w tym momencie dzieje, Sartre opisuje z precyzją, której trudno odmówić trafności:
 
-> „Właśnie wykonałem gest niezręczny albo wulgarny. Ten gest przylega do mnie; nie osądzam go ani nie potępiam. Po prostu go przeżywam. (…) Lecz oto nagle podnoszę głowę. **Ktoś tam był i mnie zobaczył.** Nagle uświadamiam sobie wulgarność swojego gestu i **jest mi wstyd**."¹
+> „Właśnie wykonałem gest niezręczny albo wulgarny. Ten gest przylega do mnie; nie osądzam go ani nie potępiam. Po prostu go przeżywam. (…) Lecz oto nagle podnoszę głowę. **Ktoś tam był i mnie zobaczył.** Nagle uświadamiam sobie wulgarność swojego gestu i **jest mi wstyd**."²
 
 Proszę zauważyć, że wstyd pojawia się **dopiero teraz**. Ten sam gest chwilę wcześniej nie był ani wulgarny, ani niewulgarny — nie miał żadnej właściwości, bo nie było nikogo, kto by mu ją przypisał. Spojrzenie drugiego człowieka nie **odkryło** mojej wulgarności. Ono ją **stworzyło**.
 
 Stąd zdanie, które jest w tej książce sednem:
 
-> „Wstyd jest w swej pierwotnej strukturze **wstydem przed kimś**. (…) Ale Drugi jest **niezbędnym pośrednikiem między mną a mną samym**. Wstydzę się siebie takiego, jaki **jawię się Drugiemu**."²
+> „Wstyd jest w swej pierwotnej strukturze **wstydem przed kimś**. (…) Ale Drugi jest **niezbędnym pośrednikiem między mną a mną samym**. Wstydzę się siebie takiego, jaki **jawię się Drugiemu**."³
 
 Niezbędnym pośrednikiem. Nie przeszkodą, nie dodatkiem — **pośrednikiem, bez którego nie ma dostępu do siebie**.
 
@@ -64,7 +64,7 @@ Teraz rachunek, bo on jest tu istotą rzeczy.
 
 Skoro tylko przez drugiego mam dostęp do siebie, to drugi ma nade mną władzę, której nie da się cofnąć. Kiedy na mnie patrzy, przestaję być tym, kim jestem dla siebie — czyli możliwością, otwartością, kimś jeszcze niedokończonym — i staję się **czymś**: tchórzem, nudziarzem, człowiekiem w nieświeżej koszuli. Zostaję zamknięty w opisie, którego nie napisałem i którego nie mogę poprawić.
 
-Sartre nazywa to bez ogródek: **„Moim pierwotnym upadkiem jest istnienie Drugiego"**.³ To zdanie jest w niereligijnej filozofii uderzające, bo jest to opis grzechu pierworodnego bez grzechu i bez Boga. Upadek, którego nie popełniłem. Wystarczyło, że ktoś się urodził.
+Sartre nazywa to bez ogródek: **„Moim pierwotnym upadkiem jest istnienie Drugiego"**.⁴ To zdanie jest w niereligijnej filozofii uderzające, bo jest to opis grzechu pierworodnego bez grzechu i bez Boga. Upadek, którego nie popełniłem. Wystarczyło, że ktoś się urodził.
 
 I tu dochodzimy do sedna, które nazwę tak, jak nazywa je ta książka: **jest różnica między samotnością braku ludzi a samotnością nadmiaru spojrzeń.**
 
@@ -74,25 +74,25 @@ Dlaczego gorsza? Bo Garcin — i to jest właściwa akcja sztuki — nie potrzeb
 
 > **Garcin:** Stello, czy jestem tchórzem?
 > **Stella:** Ja się na tym nie znam, kochanie! **Ja nie jestem w tobie.** To ty musisz rozstrzygnąć.
-> **Garcin** (*z gestem znużenia*): **Ja nie rozstrzygnę.**⁴
+> **Garcin** (*z gestem znużenia*): **Ja nie rozstrzygnę.**⁵
 
 Te trzy zdania są całą sztuką. Stella odsyła go do wnętrza — „to ty musisz rozstrzygnąć" — a on odpowiada, że nie potrafi. Nie z lenistwa. Z braku dostępu. Chodził po celi całymi nocami, jak mówi, i „szpiegował sam siebie", i nic z tego nie wyszło; został tylko czyn, sam bez znaczenia — wsiadł do pociągu.
 
 Więc żąda werdyktu od nich. I proszę zobaczyć, jak dokładnie Sartre to zapisał:
 
-> Widzisz, **ich jest tysiąc**. Tysiąc powtarza, że jestem tchórzem. Ale co to jest tysiąc? **Gdyby jeden człowiek, jedna ludzka istota mogła z całym przekonaniem stwierdzić**, że nie uciekłem, że ja nie mogę być tym, który uciekł, że jestem odważny, że jestem w porządku, **byłbym… byłbym uratowany**.⁵
+> Widzisz, **ich jest tysiąc**. Tysiąc powtarza, że jestem tchórzem. Ale co to jest tysiąc? **Gdyby jeden człowiek, jedna ludzka istota mogła z całym przekonaniem stwierdzić**, że nie uciekłem, że ja nie mogę być tym, który uciekł, że jestem odważny, że jestem w porządku, **byłbym… byłbym uratowany**.⁶
 
 Zatrzymajmy się tutaj, bo to jest zdanie, które niesie całą tę książkę i wrócę do niego jeszcze nieraz.
 
 Tysiąc głosów nic nie znaczy. **Jeden** by wystarczył. Nie chodzi więc o statystykę ani o popularność — chodzi o to, żeby istniał **ktoś jeden, kto powie prawdę o mnie i kogo zdanie będzie wiążące**. Garcin nazywa skutek takiego zdania jednym słowem, i jest to słowo z porządku religijnego, którego Sartre używa świadomie: **uratowany**.
 
-Nie dostaje go. Stella powie mu, że kochałaby go nawet gdyby był tchórzem — czyli dokładnie nie to, o co prosił, bo jej zdanie nie zależy od prawdy. Inez wypunktuje to bez litości: „Przecież ona sama nie wierzy nawet w jedno słowo z tego, co mówi… gdyby ci to miało zrobić przyjemność, powiedziałaby ci, że jesteś Bogiem Ojcem".⁶ A sama Inez, jedyna, której werdykt coś by ważył, bo jedyna, która patrzy trzeźwo — odmawia. Nie z okrucieństwa. Odmawia, bo **może**: odkryła, że trzyma go w garści.
+Nie dostaje go. Stella powie mu, że kochałaby go nawet gdyby był tchórzem — czyli dokładnie nie to, o co prosił, bo jej zdanie nie zależy od prawdy. Inez wypunktuje to bez litości: „Przecież ona sama nie wierzy nawet w jedno słowo z tego, co mówi… gdyby ci to miało zrobić przyjemność, powiedziałaby ci, że jesteś Bogiem Ojcem".⁷ A sama Inez, jedyna, której werdykt coś by ważył, bo jedyna, która patrzy trzeźwo — odmawia. Nie z okrucieństwa. Odmawia, bo **może**: odkryła, że trzyma go w garści.
 
 Zostają mu więc dwa rodzaje głosu i żaden nie ratuje: **czuły, który kłamie, i prawdziwy, który potępia**. Trzeciego — kogoś, kto widzi wszystko i mimo to mówi „jesteś w porządku" — w tym pokoju nie ma.
 
 **Najbardziej samotny nie jest ten, kogo nikt nie widzi. Najbardziej samotny jest ten, kogo widzą — i widzą źle, a on nie ma jak temu zaprzeczyć.**
 
-Garcin nazywa swój stan precyzyjniej, niż zrobiłby to niejeden psycholog: **„Wypadłem z gry, robią bilans beze mnie"**. I dodaje: **„Stałem się własnością publiczną"**.⁷ To jest dokładny opis tego, co się dzieje z człowiekiem, o którym zapadł już wyrok — nie w sądzie, tylko w cudzych rozmowach. Bilans robią beze mnie, a saldo jest moje.
+Garcin nazywa swój stan precyzyjniej, niż zrobiłby to niejeden psycholog: **„Wypadłem z gry, robią bilans beze mnie"**. I dodaje: **„Stałem się własnością publiczną"**.⁸ To jest dokładny opis tego, co się dzieje z człowiekiem, o którym zapadł już wyrok — nie w sądzie, tylko w cudzych rozmowach. Bilans robią beze mnie, a saldo jest moje.
 
 Kto to przeżył, ten wie, że to nie jest teoria. Plotka, o której się wie i której nie da się zdementować. Opinia w rodzinie, ustalona dwadzieścia lat temu i odporna na wszystko, co się od tego czasu zrobiło. Komentarz pod zdjęciem. Człowiek może być otoczony ludźmi i zamknięty w cudzym zdaniu o sobie jak w celi — z tą różnicą, że celi nie widać i nie można pokazać nikomu krat.
 
@@ -108,7 +108,7 @@ Czego właściwie chce kochający? Nie chce niewolnika — Sartre zauważa trze�
 
 Ale jednocześnie — i tu Sartre zatrzaskuje pułapkę — nie zniosę, żeby ta wolność pozostała wolna, bo wtedy jutro może wybrać inaczej i cały mój byt, który na niej oparłem, się zawali:
 
-> „Kochający **żąda przysięgi i przysięga go irytuje**. Chce być kochany przez wolność, ale domaga się, żeby ta wolność jako wolność **przestała już być wolna**. (…) chce, by ta wolność została schwytana przez samą siebie, (…) żeby chciała własnej niewoli."⁸
+> „Kochający **żąda przysięgi i przysięga go irytuje**. Chce być kochany przez wolność, ale domaga się, żeby ta wolność jako wolność **przestała już być wolna**. (…) chce, by ta wolność została schwytana przez samą siebie, (…) żeby chciała własnej niewoli."⁹
 
 I stąd wniosek, który jest puentą całego jego opisu relacji: **miłość jest konfliktem**. Nie dlatego, że kochankowie się kłócą, i nie dlatego, że ludzie są źli. Dlatego, że dwoje ludzi chce od siebie nawzajem rzeczy wewnętrznie sprzecznej: **wolnego oddania, które przestanie być wolne**.
 
@@ -126,7 +126,7 @@ Współczesność, jak mi się wydaje, próbuje to obejść i dlatego tak wiele 
 
 Muszę teraz powiedzieć rzecz, którą Sartre powiedział sam i którą pomija się w dziewięciu na dziesięć omówieniach, także w tych apologetycznych.
 
-Formuła „piekło to inni" **nie jest jego tezą o ludzkości**. Jest to zdanie postaci — Garcina, człowieka, który przez całą sztukę kłamie w sprawie swojego tchórzostwa. I kiedy Sartre po latach nagrywał wstęp do przedstawienia, zirytowany tym, co z tym zdaniem zrobiono, wyjaśnił rzecz wprost. Sądzono, powiedział, że chciał przez to powiedzieć, iż nasze stosunki z innymi są zawsze zatrute i piekielne — a chodziło mu o coś zupełnie innego: **jeżeli stosunki z drugim są wypaczone, spaczone, wtedy drugi może być tylko piekłem**. Dodał jeszcze zdanie, które przewraca całą potoczną lekturę tej sztuki do góry nogami: jakikolwiek byłby krąg piekła, w którym żyjemy, jesteśmy wolni, żeby go rozbić — a jeśli ludzie go nie rozbijają, to **również z wolnego wyboru w nim zostają**.⁹
+Formuła „piekło to inni" **nie jest jego tezą o ludzkości**. Jest to zdanie postaci — Garcina, człowieka, który przez całą sztukę kłamie w sprawie swojego tchórzostwa. I kiedy Sartre po latach nagrywał wstęp do przedstawienia, zirytowany tym, co z tym zdaniem zrobiono, wyjaśnił rzecz wprost. Sądzono, powiedział, że chciał przez to powiedzieć, iż nasze stosunki z innymi są zawsze zatrute i piekielne — a chodziło mu o coś zupełnie innego: **jeżeli stosunki z drugim są wypaczone, spaczone, wtedy drugi może być tylko piekłem**. Dodał jeszcze zdanie, które przewraca całą potoczną lekturę tej sztuki do góry nogami: jakikolwiek byłby krąg piekła, w którym żyjemy, jesteśmy wolni, żeby go rozbić — a jeśli ludzie go nie rozbijają, to **również z wolnego wyboru w nim zostają**.¹⁰
 
 Warto też zauważyć, czego w tym pokoju naprawdę brakuje. Drzwi w pewnym momencie sztuki **stają otworem**. Garcin ich nie przekracza. Zostaje, bo musi jeszcze wydobyć od Inez jedno zdanie, którego ona mu nie da.
 
@@ -134,7 +134,7 @@ To znaczy, że nawet u Sartre'a piekłem nie jest istnienie drugiego człowieka.
 
 I to jest właściwe pytanie, które ten rozdział zostawia — pytanie, którego on sam nie rozstrzyga i którego rozstrzygać tu nie będę. Skoro nie chodzi o **istnienie** drugiego, lecz o **sposób**, w jaki „ja" i „ty" się do siebie odnoszą, to czy istnieje sposób inny? Czy da się patrzeć na drugiego człowieka tak, żeby go tym spojrzeniem nie zamykać? Sartre uważał, że nie — że każda relacja jest w gruncie rzeczy walką dwóch wolności i że wyjścia nie ma. Ta książka wróci do tego dwa razy: raz przy kimś, kto twierdził, że wyjście jest i nazywa się inaczej niż miłość zaborcza (rozdział 29), i raz wtedy, kiedy trzeba będzie zapytać, czy istnieje spojrzenie, które **nie ocenia i nie unieruchamia** (rozdział 43).
 
-Trzeba przy tym dodać rzecz, którą badacze jego myśli podkreślają, a popularne omówienia gubią: **teza o nieuchronnym konflikcie należy do wczesnego Sartre'a**. Ten z 1943 roku istotnie widzi między „byciem-dla-siebie" a „byciem-dla-innego" przepaść nie do przebycia. Ale jego własne stanowisko z biegiem lat się przesuwa: już w *Egzystencjalizm jest humanizmem* zaczyna mówić o innych inaczej, a w późniejszych rewizjach porozumienie okazuje się **teoretycznie możliwe, choć w praktyce trudne i rzadkie**.¹⁰ Nie porzucił przy tym nigdy przekonania, że podmioty są sobie ostatecznie obce — nie chcę robić z niego personalisty, bo nim nie był. Ale różnica między „niemożliwe" a „rzadkie" jest różnicą zasadniczą i uczciwość każe ją odnotować.
+Trzeba przy tym dodać rzecz, którą badacze jego myśli podkreślają, a popularne omówienia gubią: **teza o nieuchronnym konflikcie należy do wczesnego Sartre'a**. Ten z 1943 roku istotnie widzi między „byciem-dla-siebie" a „byciem-dla-innego" przepaść nie do przebycia. Ale jego własne stanowisko z biegiem lat się przesuwa: już w *Egzystencjalizm jest humanizmem* zaczyna mówić o innych inaczej, a w późniejszych rewizjach porozumienie okazuje się **teoretycznie możliwe, choć w praktyce trudne i rzadkie**.¹¹ Nie porzucił przy tym nigdy przekonania, że podmioty są sobie ostatecznie obce — nie chcę robić z niego personalisty, bo nim nie był. Ale różnica między „niemożliwe" a „rzadkie" jest różnicą zasadniczą i uczciwość każe ją odnotować.
 
 Na razie zostawiam Sartre'a przy jego zdaniu, bo jest ono mocniejsze, niż chciałoby się przyznać. Nie znam odpowiedzi, którą można by mu dać teraz i która nie byłaby pobożnym życzeniem.
 
@@ -174,36 +174,38 @@ Skoro drugi człowiek unieruchamia mnie spojrzeniem, może zostaje mi przynajmni
 
 ## PRZYPISY
 
-¹ **J.-P. Sartre, *Byt i nicość. Zarys ontologii fenomenologicznej*, przeł. J. Kiełbasa, P. Mróz, R. Abramciów, R. Ryziński, P. Małochleb, Zielona Sowa, Kraków 2007 — studium spojrzenia: cz. III, rozdz. 1, § IV; w wydaniu polskim **s. 326–388**.**
+¹ **Stella / Estelle.** W oryginale francuskim bohaterka *Przy drzwiach zamkniętych* nazywa się Estelle; w polskim przekładzie Jana Kotta — którego brzmienia ta książka używa (materiały ZPE) — funkcjonuje forma „Stella". Zachowuję brzmienie przekładu, z którego cytuję (rozstrzygnięcie D2; patrz też przyp. ⁵).
+
+² **J.-P. Sartre, *Byt i nicość. Zarys ontologii fenomenologicznej*, przeł. J. Kiełbasa, P. Mróz, R. Abramciów, R. Ryziński, P. Małochleb, Zielona Sowa, Kraków 2007 — studium spojrzenia: cz. III, rozdz. 1, § IV; w wydaniu polskim **s. 326–388**.**
 ⚠️ **BRZMIENIE CYTATU: PRZEKŁAD WŁASNY Z WYDANIA ANGIELSKIEGO** (*Being and Nothingness*, przeł. H. E. Barnes, Routledge, London 2011). **Wydania polskiego nie widziałem** — nie dysponuję jego tekstem, a jedynie **potwierdzoną lokalizacją stronicową** (patrz niżej). Dlatego: **strony podaję za wydaniem polskim, brzmienie zaznaczam jako własne**. ⛔ **Nie wolno tego czytać jako cytatu z przekładu Kiełbasy i in.**
 ✅ **Lokalizacja s. 326–388 ustalona 2026-09-10** na podstawie: M. Koza, *Osoba i nicość. Wolność w ujęciu Jana Pawła II i Jean-Paula Sartre'a*, przyp. 41: „Studium spojrzenia przeprowadza Sartre, w: J.-P. Sartre, *Byt i nicość…*, s. 326–388" (pełny tekst w Repozytorium UJ). ✔
 Oryginał angielski: „I have just made an awkward or vulgar gesture. This gesture clings to me; I neither judge it nor blame it. I simply live it. (…) But now suddenly I raise my head. Somebody was there and has seen me. Suddenly I realize the vulgarity of my gesture, and I am ashamed."
 ⚠️ **Przy redakcji: brzmienia wymagają sprawdzenia w wydaniu Zielonej Sowy.**
 
-² **Tamże**, w obrębie studium spojrzenia (s. 326–388 wyd. pol.); przekład własny z wydania Barnes — ta sama uwaga co w przyp. 1. Oryginał angielski: „it is in its primary structure shame *before somebody*. (…) But the Other is the indispensable mediator between myself and me. I am ashamed of myself as I appear to the Other."
+³ **Tamże**, w obrębie studium spojrzenia (s. 326–388 wyd. pol.); przekład własny z wydania Barnes — ta sama uwaga co w przyp. 2. Oryginał angielski: „it is in its primary structure shame *before somebody*. (…) But the Other is the indispensable mediator between myself and me. I am ashamed of myself as I appear to the Other."
 
-³ **Tamże**, formuła „My original Fall is the existence of the Other" (wyd. Barnes, s. 263 — strona **wydania angielskiego**, wskazana w samym tomie).
+⁴ **Tamże**, formuła „My original Fall is the existence of the Other" (wyd. Barnes, s. 263 — strona **wydania angielskiego**, wskazana w samym tomie).
 ⚠️ Jedyne miejsce, w którym podaję stronę angielską, i tylko dlatego, że polskiej dla tej konkretnej formuły nie udało się ustalić. ⚠️ Do sprawdzenia w wydaniu polskim.
 
-⁴ **J.-P. Sartre, *Przy drzwiach zamkniętych*, przeł. Jan Kott**, scena z Garcinem i Stellą.
+⁵ **J.-P. Sartre, *Przy drzwiach zamkniętych*, przeł. Jan Kott**, scena z Garcinem i Stellą.
 ✔✔ **BRZMIENIE POLSKIE ZWERYFIKOWANE** — fragment przekładu Kotta udostępniony wraz z didaskaliami przez **Zintegrowaną Platformę Edukacyjną MEN** (`zpe.gov.pl`, materiał *Wolność i odpowiedzialność — „Przy drzwiach zamkniętych" Jean-Paula Sartre'a*), pozyskany 2026-09-10 ze wskazania autora. ⭐ **To pierwszy cytat z tej sztuki w przekładzie polskim w całej książce** — poprzednia wersja rozdziału referowała treść bez cytatów.
-⚠️ **ROZBIEŻNOŚĆ IMIENIA — DO ROZSTRZYGNIĘCIA PRZY REDAKCJI.** Materiał ZPE konsekwentnie nazywa bohaterkę **Stella**, podczas gdy w oryginale francuskim i w większości omówień występuje **Estelle**. Nie wiem, czy to wariant przekładu Kotta, czy adaptacja ZPE. **W tekście głównym trzymam się formy „Stella"**, bo taką ma cytowane źródło, i tak samo „Inez" zamiast „Inès". ⚠️ **Sprawdzić w wydaniu PIW.**
+✅ **ROZSTRZYGNIĘCIE (D2, ETAP R 2026-09-14):** „Stella" zostaje — ZPE i przekład Kotta używają tej formy; wyjaśnienie dla czytelnika w przyp. ¹ przy pierwszym wystąpieniu. Materiał ZPE konsekwentnie nazywa bohaterkę **Stella**, podczas gdy w oryginale francuskim i w większości omówień występuje **Estelle**. Nie wiem, czy to wariant przekładu Kotta, czy adaptacja ZPE. **W tekście głównym trzymam się formy „Stella"**, bo taką ma cytowane źródło, i tak samo „Inez" zamiast „Inès". ⚠️ **Sprawdzić w wydaniu PIW.**
 ⚠️ Fragment ZPE **nie podaje numerów stron** — lokalizacji stronicowej dla tych kwestii nie podaję.
 
-⁵ **Tamże** (przekład Kotta, ZPE). ⭐ **Cytat kluczowy dla całej książki** — „gdyby jeden człowiek… byłbym uratowany". Ta sama uwaga co w przyp. 4.
+⁶ **Tamże** (przekład Kotta, ZPE). ⭐ **Cytat kluczowy dla całej książki** — „gdyby jeden człowiek… byłbym uratowany". Ta sama uwaga co w przyp. 5.
 
-⁶ **Tamże** (przekład Kotta, ZPE) — kwestie Stelli i Inez.
+⁷ **Tamże** (przekład Kotta, ZPE) — kwestie Stelli i Inez.
 
-⁷ **Tamże** (przekład Kotta, ZPE) — „Wypadłem z gry, robią bilans beze mnie"; „Stałem się własnością publiczną".
+⁸ **Tamże** (przekład Kotta, ZPE) — „Wypadłem z gry, robią bilans beze mnie"; „Stałem się własnością publiczną".
 
-⁸ **J.-P. Sartre, *Byt i nicość*, cz. III, rozdz. 3, § I** (pierwsza postawa wobec Drugiego: miłość, język, masochizm); przekład własny z wydania Barnes — uwaga jak w przyp. 1. Oryginał: „Thus the lover demands a pledge, yet is irritated by a pledge. He wants to be loved by a freedom but demands that this freedom as freedom should no longer be free. (…) he wants this freedom to be captured by itself, to turn back upon itself, as in madness, as in a dream, so as to will its own captivity."
+⁹ **J.-P. Sartre, *Byt i nicość*, cz. III, rozdz. 3, § I** (pierwsza postawa wobec Drugiego: miłość, język, masochizm); przekład własny z wydania Barnes — uwaga jak w przyp. 2. Oryginał: „Thus the lover demands a pledge, yet is irritated by a pledge. He wants to be loved by a freedom but demands that this freedom as freedom should no longer be free. (…) he wants this freedom to be captured by itself, to turn back upon itself, as in madness, as in a dream, so as to will its own captivity."
 ✔ Formuła **„miłość jest konfliktem"** (*love is a conflict*) występuje w tym samym rozdziale dosłownie; w tekście głównym oddana jako referat.
 
-⁹ **J.-P. Sartre, *Préface parlée* do nagrania *Huis clos*** (wstęp mówiony; przedruk w: *Théâtre complet*, Gallimard, Bibliothèque de la Pléiade).
+¹⁰ **J.-P. Sartre, *Préface parlée* do nagrania *Huis clos*** (wstęp mówiony; przedruk w: *Théâtre complet*, Gallimard, Bibliothèque de la Pléiade).
 ⚠️ **ŹRÓDŁO POŚREDNIE.** Nie dotarłem do nagrania ani do tomu Pléiade. Brzmienie francuskie potwierdzone w omówieniu: „on a cru que je voulais dire par là que nos rapports avec les autres étaient toujours empoisonnés (…) je veux dire que si les rapports avec autrui sont tordus, viciés, alors l'autre ne peut être que l'enfer" oraz „quel que soit le cercle d'enfer dans lequel nous vivons, je pense que nous sommes libres de le briser".
 ⚠️ Konspekt oznaczał ten wątek `[?]`; znacznik **zdjęty częściowo**: sens potwierdzony, lokalizacja stronicowa nie. Podane jako **referat, nie cytat blokowy**.
 
-¹⁰ **Ustalenie o ewolucji stanowiska Sartre'a** — za: M. Kowalska, *Między bytem a nicością. Aporie intersubiektywności w filozofii Sartre'a*, „Przegląd Filozoficzny — Nowa Seria" 18 (2009), nr 3 (71), s. 341–357 (zwł. s. 351–355).
+¹¹ **Ustalenie o ewolucji stanowiska Sartre'a** — za: M. Kowalska, *Między bytem a nicością. Aporie intersubiektywności w filozofii Sartre'a*, „Przegląd Filozoficzny — Nowa Seria" 18 (2009), nr 3 (71), s. 341–357 (zwł. s. 351–355).
 ⚠️ **ŹRÓDŁO POŚREDNIE — artykułu nie udało się pobrać w całości** (serwer `pf.uw.edu.pl` odrzuca pobieranie, błąd 403); treść ustalona z obszernych fragmentów udostępnionych w wyszukiwarce. ⚠️ **Do sprawdzenia w pełnym tekście przy redakcji.**
 ✔ Ustalenie kluczowe: teza o konflikcie należy do **wczesnego** Sartre'a; autorka pokazuje, że jego teoria intersubiektywności **ewoluuje** począwszy od *Egzystencjalizm jest humanizmem*, a w późniejszych rewizjach „komunikacja okazała się wprawdzie teoretycznie możliwa, ale w praktyce nader trudna i rzadka". ⚠️ Sartre **nigdy nie porzucił** przekonania o ontologicznej odrębności i wzajemnej obcości podmiotów — tego w tekście nie zacieram.
 
@@ -223,8 +225,8 @@ Oryginał angielski: „I have just made an awkward or vulgar gesture. This gest
 - ⭐ **AKTUALIZACJA ŹRÓDŁOWA 2026-09-10 (druga wersja rozdziału) — MATERIAŁY OD AUTORA.** Autor wskazał pięć źródeł; **cztery udało się wykorzystać**. Skutki: **(a)** ⭐ **sztuka przestała być referowana — ma teraz CZTERY CYTATY W PRZEKŁADZIE JANA KOTTA** (fragment z didaskaliami udostępniony przez Zintegrowaną Platformę Edukacyjną MEN); **(b)** ustalona **polska lokalizacja studium spojrzenia: *Byt i nicość*, Zielona Sowa 2007, s. 326–388** (za art. M. Kozy z Repozytorium UJ); **(c)** ⚠️ **KOREKTA MERYTORYCZNA w ruchu IV** — za M. Kowalską dopisane, że teza o konflikcie należy do **wczesnego** Sartre'a i że jego stanowisko ewoluowało; **(d)** ruch II przebudowany wokół prawdziwych kwestii Garcina; 2155 → **2680 słów**, w celu konspektu (2,3–2,6 tys.).
 - ⭐⭐ **ZNALEZISKO NAJWAŻNIEJSZE — „GDYBY JEDEN CZŁOWIEK".** Kwestia Garcina („ich jest tysiąc… gdyby **jeden człowiek** mógł z całym przekonaniem stwierdzić, że jestem w porządku, byłbym **uratowany**") jest ⭐ **prezentem dla całej książki** i została użyta **dwa razy**: w ruchu II jako sedno diagnozy i w refrenie jako **opis kształtu brakującego elementu**. Sartre sam, nie wiedząc o tym, formułuje tu **zapotrzebowanie na kogoś, kto zna prawdę i mimo to nie potępia** — czyli dokładnie to, o czym jest część VII. ⛔ **Nie usuwać żadnego z dwóch wystąpień**; ⭐ **spłata w rozdz. 41–43, a zwłaszcza tam, gdzie mowa o przebaczeniu (rozdz. 25) — DOPISAĆ ODESŁANIE przy pisaniu tamtych rozdziałów.** Zwrócić uwagę, że Garcin używa słowa **„uratowany"** — z porządku religijnego.
 - ⭐ **Nowa formuła rozdziału (ruch II):** zostają dwa rodzaje głosu i żaden nie ratuje — **czuły, który kłamie (Stella), i prawdziwy, który potępia (Inez)**. Trzeciego w tym pokoju nie ma. To jest oś, wokół której warto trzymać redakcję.
-- ⚠️ **PROBLEM ŹRÓDŁOWY — CZĘŚCIOWO ROZWIĄZANY.** Sartre zmarł w 1980 r., nic jego nie jest w domenie publicznej, więc metoda z rozdz. 8 (pierwodruk niemiecki) zawodzi. Stan po aktualizacji: ✅ **sztuka — cytaty polskie, problem rozwiązany**; ⚠️ ***Byt i nicość* — nadal przekład własny z angielskiego wydania Barnes**, bo polskiego tekstu nie mam, mam tylko jego **paginację**. To znaczy, że w przyp. 1–3 i 8 **strony pochodzą z wydania polskiego, a brzmienie z angielskiego** — konstrukcja niecodzienna, ale uczciwie opisana i lepsza niż każda z alternatyw. ⚠️ **Do wymiany pozostają TRZY miejsca**: scena z dziurką od klucza, „wstyd przed kimś / niezbędny pośrednik", paradoks przysięgi. ⛔ **Nie usuwać ostrzeżeń z przypisów, dopóki brzmienia nie zostaną sprawdzone w wydaniu Zielonej Sowy.**
-- ⚠️ **DWA ŹRÓDŁA OD AUTORA NIEDOSTĘPNE MASZYNOWO:** artykuły z „Przeglądu Filozoficznego" (**Krakowiak 2010** i **Kowalska 2009**) — serwer `pf.uw.edu.pl` odrzuca pobieranie plików (HTTP 403), także przez inne narzędzia. Treść Kowalskiej ustalona z obszernych fragmentów w wyszukiwarce i **oznaczona jako pośrednia** (przyp. 10); z Krakowiaka **nie skorzystałem w tekście** — patrz nota niżej. ⚠️ **Jeśli autor pobierze te PDF-y ręcznie (w przeglądarce działają) i wrzuci do workspace, oba warto wykorzystać.**
+- ⚠️ **PROBLEM ŹRÓDŁOWY — CZĘŚCIOWO ROZWIĄZANY.** Sartre zmarł w 1980 r., nic jego nie jest w domenie publicznej, więc metoda z rozdz. 8 (pierwodruk niemiecki) zawodzi. Stan po aktualizacji: ✅ **sztuka — cytaty polskie, problem rozwiązany**; ⚠️ ***Byt i nicość* — nadal przekład własny z angielskiego wydania Barnes**, bo polskiego tekstu nie mam, mam tylko jego **paginację**. To znaczy, że w przyp. 2–3 i 8 **strony pochodzą z wydania polskiego, a brzmienie z angielskiego** — konstrukcja niecodzienna, ale uczciwie opisana i lepsza niż każda z alternatyw. ⚠️ **Do wymiany pozostają TRZY miejsca**: scena z dziurką od klucza, „wstyd przed kimś / niezbędny pośrednik", paradoks przysięgi. ⛔ **Nie usuwać ostrzeżeń z przypisów, dopóki brzmienia nie zostaną sprawdzone w wydaniu Zielonej Sowy.**
+- ⚠️ **DWA ŹRÓDŁA OD AUTORA NIEDOSTĘPNE MASZYNOWO:** artykuły z „Przeglądu Filozoficznego" (**Krakowiak 2010** i **Kowalska 2009**) — serwer `pf.uw.edu.pl` odrzuca pobieranie plików (HTTP 403), także przez inne narzędzia. Treść Kowalskiej ustalona z obszernych fragmentów w wyszukiwarce i **oznaczona jako pośrednia** (przyp. 11); z Krakowiaka **nie skorzystałem w tekście** — patrz nota niżej. ⚠️ **Jeśli autor pobierze te PDF-y ręcznie (w przeglądarce działają) i wrzuci do workspace, oba warto wykorzystać.**
 - ⚠️ **KRAKOWIAK (2010) — NIEWYKORZYSTANY, ALE WART POWROTU.** Z dostępnych fragmentów wynika, że artykuł zawiera dwie rzeczy cenne dla tej książki: **(1)** analizę scenografii piekła jako świata bez zewnętrza („nie ma okien, wszystko jest wnętrzem"; niegasnące światło powodujące „atrofię powiek"; niemożliwy nie tyle azyl, ile **stan niebycia-dla-innych**) — to potwierdza i pogłębia opis ze sceny otwierającej; **(2)** ⭐ ustalenie, że formuła „piekło to inni" pada **dopiero po** kwestii Inez „ja jedna jestem tłumem… tłumem widzów" (**s. 175 wyd. PIW 1956**). ⚠️ **Autor podaje, że samo zdanie „Piekło to są Inni" znajduje się na s. 176 tego wydania** — ⭐ **przyjmuję to ustalenie i zapisuję tutaj, ale NIE UŻYWAM w tekście**, bo tej strony nie widziałem i rozdział cytuje wyłącznie fragment ZPE (bez paginacji). ⚠️ **Przy redakcji: jeśli formuła ma paść jako cytat blokowy, lokalizacja to *Dramaty*, PIW, Warszawa 1956, s. 176.**
 - ⚠️ **ROZBIEŻNOŚĆ IMION — DECYZJA DO POTWIERDZENIA.** Tekst używa form **„Stella"** i **„Inez"** (za materiałem ZPE, przekład Kotta), nie „Estelle" i „Inès". ⚠️ **Sprawdzić w wydaniu PIW** i ujednolicić w całej książce, jeśli sztuka wróci w rozdz. 43.
 - ⭐ **Ruch I zawiera JAWNE ODWRÓCENIE ROUSSEAU z rozdz. 6** („pod spojrzeniami ludzi »ja« się nie gubi — ono tam dopiero powstaje"). To jest oś sporu wewnątrz części II i warto ją przy redakcji zachować, bo pokazuje, że przeciwnicy tej książki **nie tworzą jednego frontu** — Rousseau i Sartre wykluczają się nawzajem.
@@ -260,3 +262,6 @@ Oryginał angielski: „I have just made an awkward or vulgar gesture. This gest
 - **`/home/user/kott_zpe.txt`** ⭐ — **wypis kwestii z przekładu Jana Kotta** (Zintegrowana Platforma Edukacyjna, materiał wskazany przez autora), z zaznaczeniem cytatów użytych w rozdziale. ⭐ **Zachować** — ten sam fragment będzie potrzebny w **rozdz. 43**, gdzie sztuka wraca.
 - `/home/user/osoba.txt` — M. Koza, *Osoba i nicość*, pełny tekst z Repozytorium UJ. ⭐ Zawiera zestawienie Sartre'a z personalizmem Wojtyły („wolność spotyka wolność bez konieczności unicestwienia jednej przez drugą") — **materiał dla rozdz. 29 (Buber) i 43**.
 Żaden z plików nie dodany do repo (`.gitignore`; utwory chronione).
+
+
+- ✅ **D2 WYKONANE (ETAP R, 2026-09-14):** imię „Stella" zostaje (rozstrzygnięcie z ETAP O); nowy przypis ¹ przy pierwszym wystąpieniu (Estelle → „Stella", przekład Kotta), dotychczasowe przypisy ¹–¹⁰ przesunięte na ²–¹¹; ostrzeżenie „DO ROZSTRZYGNIĘCIA" w przyp. ⁵ zamknięte. Porządki: plik-sierota `09_sartre_pieklo_to_inni.md` usunięty (pusty stub z dopiskiem ETAP O); `dokumenty/SPIS_PLIKOW.md` wiersz rozdz. 9 wskazuje teraz `09_sartre.md`.

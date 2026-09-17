@@ -1,2 +1,0 @@
-
-- ✅ **D2 ROZSTRZYGNIĘTE 2026-09-14 (bez zdobywania PIW):** imię **„Stella" zostaje** (8 wystąpień bez zmian) — ZPE i przekład Kotta używają formy „Stella" (potwierdzone w materiałach ZPE 2026-09-14). Przy pierwszym wystąpieniu w tekście głównym stanąć ma krótki przypis wyjaśniający: w oryginale *Estelle*, w polskim przekładzie J. Kotta funkcjonuje „Stella" — książka trzyma się przekładu, z którego cytuje. Wykonanie: ETAP 5 (typografia i wstawienie przypisu), tu tylko rejestracja decyzji.

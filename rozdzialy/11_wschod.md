@@ -48,7 +48,7 @@ Warto się przy tym zatrzymać, bo tu leży najczęstsze nieporozumienie zachodn
 
 Sprzeczność jest jednak pozorna i warto ją nazwać, bo dotyczy również tej książki. **Nie chodzi o to, żeby nikt nic nie robił. Chodzi o to, żeby przestać uważać, że za tym, co się robi, siedzi ktoś, kto to posiada.** Można iść i nie być piechurem. Można cierpieć i nie być właścicielem cierpienia. I właśnie ta druga część — nie sama praktyka, lecz to, co się o niej twierdzi — jest miejscem, w którym Zachód i buddyzm się rozchodzą.
 
-Bo zauważmy, co ta odpowiedź robi z człowiekiem z ośrodka pod lasem. Przyjechał, żeby poradzić sobie z samotnością — czyli żeby **jemu** było lepiej. A tradycja, do której przyjechał, mówi mu, że dopóki tak stawia sprawę, będzie chodził w kółko: bo to właśnie ten, komu ma być lepiej, jest przyczyną kłopotu.
+Ta odpowiedź robi z człowiekiem z ośrodka pod lasem coś konkretnego. Przyjechał, żeby poradzić sobie z samotnością — czyli żeby **jemu** było lepiej. A tradycja, do której przyjechał, mówi mu, że dopóki tak stawia sprawę, będzie chodził w kółko: bo to właśnie ten, komu ma być lepiej, jest przyczyną kłopotu.
 
 ---
 
@@ -64,11 +64,11 @@ Rozłóżmy, co ono znaczy, bo brzmi jak poezja, a jest twierdzeniem.
 
 Najgłębsze „ja" w człowieku (**atman**) nie jest czymś innym niż podstawa wszystkiego, co jest (**brahman**). Są tym samym. To, co bierzemy za granicę między sobą a resztą świata, jest **maja** — nie „iluzją" w sensie, że nic nie ma, ale **błędem poznawczym**: widzeniem przegrody tam, gdzie jej nie ma. Wyzwolenie (**moksza**) nie polega więc na tym, żeby przestać być samotnym. Polega na przejrzeniu, że **nigdy nie byłem osobny**.
 
-Zauważmy, jak ostro to uderza w całą część drugą tej książki. Nowoczesność Zachodu zbudowała człowieka na pojęciu granicy: ja tu, świat tam, między nami przepaść, którą trzeba jakoś przekroczyć. Ta tradycja mówi, że przepaść jest **pomyłką wzroku**.
+To uderza ostro w całą część drugą tej książki. Nowoczesność Zachodu zbudowała człowieka na pojęciu granicy: ja tu, świat tam, między nami przepaść, którą trzeba jakoś przekroczyć. Ta tradycja mówi, że przepaść jest **pomyłką wzroku**.
 
 Trzeba jednak zapytać, czy to pociesza — bo na pierwszy rzut oka wygląda na najlepszą odpowiedź na samotność, jaka kiedykolwiek padła. Skoro nie ma oddzielenia, to nie ma czego opłakiwać.
 
-Otóż zależy, czego się szukało. Zauważmy, co dokładnie zostaje tu obiecane: **koniec oddzielenia**. I zauważmy, co przy okazji znika: **dwoje**. Jeśli okaże się, że nie ma granicy między mną a resztą, to znaczy również, że nie ma **mnie i ciebie** — jest jedno, które przez chwilę wydawało się dwoma. Sól, która rozpuściła się w wodzie, nie ma z wodą relacji. Ona **jest** wodą.
+Otóż zależy, czego się szukało. Co dokładnie zostaje tu obiecane: **koniec oddzielenia**. I co przy okazji znika: **dwoje**. Jeśli okaże się, że nie ma granicy między mną a resztą, to znaczy również, że nie ma **mnie i ciebie** — jest jedno, które przez chwilę wydawało się dwoma. Sól, która rozpuściła się w wodzie, nie ma z wodą relacji. Ona **jest** wodą.
 
 A człowiek, który tęskni, nie tęskni zwykle za zniknięciem granicy. Tęskni za tym, żeby ktoś **po drugiej stronie** granicy się odezwał. To są dwie różne rzeczy i warto ich nie mylić: jedno jest końcem samotności przez usunięcie osobności, drugie — przez spotkanie. Ta tradycja proponuje pierwsze.
 
@@ -100,7 +100,7 @@ Płyniesz łodzią przez rzekę. Nagle uderza w ciebie druga łódź. Odwracasz 
 
 I gniew nie ma dokąd pójść.⁶
 
-Zauważmy, czego dowodzi ta przypowieść, bo nie tego, co się na pierwszy rzut oka wydaje. Nie mówi ona „bądź wyrozumiały". Mówi coś twardszego: **twoja złość nigdy nie dotyczyła uderzenia — dotyczyła tego, że w tamtej łodzi ktoś siedział**. Wystarczy usunąć sternika, żeby zniknęło całe cierpienie. A stąd wniosek, do którego zmierza ta tradycja: może w twojej łodzi też nikogo nie ma.
+Ta przypowieść nie dowodzi tego, co się na pierwszy rzut oka wydaje. Nie mówi ona „bądź wyrozumiały". Mówi coś twardszego: **twoja złość nigdy nie dotyczyła uderzenia — dotyczyła tego, że w tamtej łodzi ktoś siedział**. Wystarczy usunąć sternika, żeby zniknęło całe cierpienie. A stąd wniosek, do którego zmierza ta tradycja: może w twojej łodzi też nikogo nie ma.
 
 Trzeba tu jednak postawić granicę uczciwości, bo taoizm jest dziś sprzedawany w wersji pocztówkowej — jako relaks i „odpuszczanie". **Wu-wei**, „nie-działanie", nie oznacza bezczynności; oznacza działanie, które nie przywłaszcza sobie rezultatu. A giętkość, choć jest mądrością przetrwania, nie jest odpowiedzią na wszystko. Człowiek, który stracił dziecko, nie potrzebuje rady, żeby nie trzymał kształtu. Są sytuacje, w których sztywność nazywa się wiernością.
 

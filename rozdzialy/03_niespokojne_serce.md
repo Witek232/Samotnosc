@@ -56,7 +56,7 @@ Zwykle myślimy o samotności jako o **pustce**: brakuje ludzi, więc jest puste
 
 To jest inna diagnoza niż „brakuje mi kogoś". Brzmi ona: **jest we mnie miejsce, którego nie da się wypełnić niczym, co da się w nie włożyć**.
 
-Zwróćmy uwagę, że to dokładnie ta sama struktura, którą zobaczyliśmy w rozdziale pierwszym u wdowy z pełnym kalendarzem — tyle że opisana od środka i przez człowieka, który miał na to szesnaście stuleci temu więcej odwagi niż my dzisiaj.
+To dokładnie ta sama struktura, którą zobaczyliśmy w rozdziale pierwszym u wdowy z pełnym kalendarzem — tyle że opisana od środka i przez człowieka, który miał na to szesnaście stuleci temu więcej odwagi niż my dzisiaj.
 
 I tu jest miejsce na zarzut, który trzeba postawić uczciwie, bo inaczej ta książka będzie tylko dobierała świadków pod tezę.
 
@@ -64,7 +64,7 @@ I tu jest miejsce na zarzut, który trzeba postawić uczciwie, bo inaczej ta ksi
 
 Zarzut jest mocny i nie da się go rozstrzygnąć. Wolno jednak zauważyć dwie rzeczy. Po pierwsze, Augustyn tego wątku **nie ukrywa** — to od niego wiemy o tej kobiecie i o tym, co jej zrobił; gdyby chciał zatrzeć ślad, wystarczyło nie pisać. Po drugie, jego odpowiedź na ten zarzut nie polega na deprecjonowaniu ludzi. On nie twierdzi, że relacje są bezwartościowe. Twierdzi, że **żadna z nich nie ma pojemności tego miejsca** — co jest twierdzeniem nie o ich małości, lecz o jego rozmiarze.
 
-Zauważmy, że dokładnie ten sam wniosek postawiliśmy w rozdziale pierwszym, dochodząc do niego zupełnie inną drogą: sześć bliskich osób nie składa się na jedną. To nie było twierdzenie o tym, że ci ludzie są mało warci.
+Dokładnie ten sam wniosek postawiliśmy w rozdziale pierwszym, dochodząc do niego zupełnie inną drogą: sześć bliskich osób nie składa się na jedną. To nie było twierdzenie o tym, że ci ludzie są mało warci.
 
 ---
 

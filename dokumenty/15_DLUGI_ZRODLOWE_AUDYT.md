@@ -442,3 +442,14 @@ Te są łatwe: **jedna strona, jedno zdanie**. Uszeregowane wg stosunku „ile z
 | **4.10** | **Wykonane w rozdz. 40** (naturalny dom): akapit „który człowiek?" po pięciu zarzutach — kontrprzykład-przewodni potraktowany jawnie (wierzący potwornie samotny / niewierzący otoczony), pytanie odtworzone pod podziałem wierzący/niewierzący. Bez nowych źródeł (metodologiczna uczciwość rozdziału). |
 
 **ETAP 4 po ETAP Q: brak tylko 4.6** (Ariès jednym zdaniem w 23 — po pozyskaniu z 3.3; rozdz. 15 zostaje przy wersji ostrożnej, formalnie czystej). Bilans cytatów nowo dodanych: Ratzinger ×2 śródzdaniowo (33), reszta referaty/parafrazy z materiałów zweryfikowanych — żaden cytat nie pochodzi od EN, żadna strona nie została „domyślona" drugą ręką.
+
+
+### ⭐⭐ ETAP R (2026-09-14) — ETAP 5, pierwsza transza: D2 wykonane + 5.6 + 5.3 (część)
+
+| Zad. | WYKONANIE |
+|---|---|
+| **D2 / 2.1** | Rozdz. 9 (`09_sartre.md` — plik właściwy): **nowy przypis ¹** przy pierwszym wystąpieniu „Stelli" (Estelle → „Stella", przekład Kotta, ZPE); dotychczasowe przypisy ¹–¹⁰ przesunięte na ²–¹¹ (sekwencje main i aparatu zweryfikowane ¹–¹¹); ostrzeżenie „ROZBIEŻNOŚĆ IMIENIA — DO ROZSTRZYGNIĘCIA" w (nowym) przyp. ⁵ zamknięte. **Porządki:** usunięty plik-sierota `09_sartre_pieklo_to_inni.md` (pusty stub z rejestracją ETAP O); `SPIS_PLIKOW.md` wiersz rozdz. 9 wskazuje teraz właściwy plik. |
+| **5.6** | Rozdz. 48: formuła autorska „Nie będziesz tam sam." — **zdjęty cudzysłów-cytat** w wyróżnieniu blokowym (zostaje blok + bold = odstęp); noty rozdz. już to znały („formuła autorska — nie cytat Ratzingera"). Formuły 16 („eros nie choruje…") i 47 („tam, gdzie się kończą…") — sprawdzone: w tekście głównym bez cudzysłowów, zgodne. |
+| **5.3 (część)** | „Zauważmy/zwróćmy" w 00–11: **15 → 5 w tekście głównym** (02:1→0, 03:4→2, 04:3→1, 07:2→1, 11:5→1; pojedyncze wystąpienia w 01/05/06/10 nietknięte) — redukcja ~53% w rozdziałach z serią; pozostałe elementy 5.3 (antyteza 48–50, superlatywy, samoreferencja) — do następnej transzy. |
+
+**Uwaga techniczna:** przy przesunięciu przypisów zewnętrzne odesłanie „przyp. 41" (Koza) pozostało bez zmian — weryfikacja kontekstów obowiązkowa przy każdej renumeracji.

@@ -122,7 +122,7 @@ Joseph Ratzinger, pisząc o tym, co odróżnia Boga Biblii od bezosobowego Absol
 
 > „Jeśli ktoś ma imię, to można go zawołać; jeśli ktoś ma imię, to może mówić, słuchać, odpowiadać. Są to charakterystyki istotne dla biblijnego Boga, dlatego porzuca biblijną wiarę każdy, kto ich pozbawia Boga."⁵
 
-Zwróćmy uwagę na te cztery czasowniki: **zawołać — mówić — słuchać — odpowiadać**. To jest dokładnie ta sama lista, którą wykonuje dwuletnie dziecko w ciemnym pokoju, i wykonuje ją w tej samej kolejności.
+Te cztery czasowniki: **zawołać — mówić — słuchać — odpowiadać**. To jest dokładnie ta sama lista, którą wykonuje dwuletnie dziecko w ciemnym pokoju, i wykonuje ją w tej samej kolejności.
 
 Nie jest to dowód niczego i nie zamierzam udawać, że jest. Jest to natomiast wskazanie, gdzie leży pytanie tej książki — i dlaczego jest to pytanie o rzecz konkretną, nie o pojęcie. Nie brzmi ono: czy istnieje jakaś zasada, jakiś porządek, jakieś Coś. Brzmi: **czy jest ktoś, kogo można zawołać**. Różnica między tymi dwoma pytaniami jest różnicą między metafizyką a dzieckiem, które siedzi na łóżku o trzeciej w nocy — i to dziecko, nie metafizyka, jest tu instancją rozstrzygającą.
 

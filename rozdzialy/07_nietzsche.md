@@ -178,7 +178,7 @@ Zostaje obraz, który sam Nietzsche podarował tej książce, choć nie w tym ce
 
 > „Człowiek jest liną rozpiętą między zwierzęciem i nadczłowiekiem, — liną ponad przepaścią."⁷
 
-Obraz jest doskonały i chcę go zatrzymać. Zwróćmy tylko uwagę na jedno: **lina, żeby dało się po niej przejść, musi być przywiązana z obu stron.**
+Obraz jest doskonały i chcę go zatrzymać. Chodzi tylko o jedno: **lina, żeby dało się po niej przejść, musi być przywiązana z obu stron.**
 
 Nietzsche wiedział, do czego jest przywiązana z tej strony. Pytanie, czy z tamtej ktoś ją trzyma, zostawił otwarte — i to jest właściwe pytanie tej książki.
 

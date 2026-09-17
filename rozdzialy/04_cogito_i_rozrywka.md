@@ -82,7 +82,7 @@ Zdanie Pascala, o które chodzi, jest dziś cytowane wszędzie i zwykle w skróc
 
 Sam skrót by tu wystarczył za diagnozę, ale najciekawsze jest to, co Pascal robi dalej — bo nie poprzestaje na zdziwieniu. Pyta o **przyczynę** i podaje ją bez ogródek: jest nią „przyrodzone nieszczęście naszej słabej i śmiertelnej doli, tak nędznej, iż nic nie zdoła nas pocieszyć, kiedy się nad tym zastanawiamy".
 
-Zwróćmy uwagę na łańcuch. Człowiek zostaje w ciszy. W ciszy nasuwa mu się to, o czym w ruchu nie myśli: że jest kruchy, że sprawy mogą pójść źle, że choroba i śmierć są nieuniknione. I dlatego **potrzebuje hałasu** — nie dlatego, że hałas jest przyjemny, lecz dlatego, że jest zasłoną.
+Łańcuch jest prosty. Człowiek zostaje w ciszy. W ciszy nasuwa mu się to, o czym w ruchu nie myśli: że jest kruchy, że sprawy mogą pójść źle, że choroba i śmierć są nieuniknione. I dlatego **potrzebuje hałasu** — nie dlatego, że hałas jest przyjemny, lecz dlatego, że jest zasłoną.
 
 Pascal nazywa to *divertissement*. Boy tłumaczy to jako „rozrywkę", ale francuskie słowo jest dosłowniejsze i lepsze: *divertere* znaczy **odwrócić w bok**. Nie chodzi o zabawę. Chodzi o **odwrócenie kierunku patrzenia**.
 
@@ -144,7 +144,7 @@ Jest w tej historii scena, której nie da się pominąć, bo pokazuje, po co Pas
 
 > „Bóg Abrahama, Bóg Izaaka, Bóg Jakuba, a nie filozofów i uczonych."³
 
-Trzeba to czytać bez egzaltacji, bo egzaltacja wszystko tu zepsuje. Zwróćmy uwagę na dwie rzeczy prozaiczne.
+Trzeba to czytać bez egzaltacji, bo egzaltacja wszystko tu zepsuje. Są tu dwie rzeczy prozaiczne.
 
 Pierwsza: **kartka była schowana**. Człowiek, który spędził życie w salonach, na debatach i w korespondencji naukowej, najważniejszą rzecz, jaka mu się przydarzyła, zapisał **wyłącznie dla siebie** i nosił ją zaszytą w ubraniu przez osiem lat. To jest najbardziej samotny dokument, jaki znam — i zarazem dokument o tym, że przestał być sam.
 

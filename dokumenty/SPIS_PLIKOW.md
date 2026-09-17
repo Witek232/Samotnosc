@@ -65,7 +65,7 @@
 | 6 | `06_rousseau.md` | Rousseau: odkryć prawdziwego siebie | B |
 | 7 | `07_nietzsche.md` | Nietzsche: Bóg umiera, człowiek zostaje ⬤ | B |
 | 8 | `08_freud.md` | Freud: Bóg jako ojciec | B |
-| 9 | `09_sartre_pieklo_to_inni.md` | Sartre: piekło to inni | B |
+| 9 | `09_sartre.md` | Sartre: piekło to inni | B |
 | 10 | `10_czlowiek_bez_historii.md` | Człowiek bez historii — rozdział kontrolny | B (fuzja v2) |
 | **11** | `11_wschod_rozpuscic_ja.md` | **Wschód: rozpuścić samotne «ja»** (buddyzm, hinduizm, taoizm, konfucjanizm) | **N** |
 

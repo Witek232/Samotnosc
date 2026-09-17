@@ -92,7 +92,7 @@ Chrystus nie mówi ci: „nie bój się śmierci". Nie mówi też: „śmierć n
 
 Mówi coś innego, i nie mówi tego słowami. Mówi to **własnym przejściem**:
 
-> ## **„Nie będziesz tam sam."**
+> ## **Nie będziesz tam sam.**
 
 To jest zdanie, do którego szła ta książka przez czterdzieści siedem rozdziałów.
 

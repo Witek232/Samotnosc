@@ -111,7 +111,7 @@ Ratzinger formułuje to jeszcze mocniej: „Śmierć jako śmierć została poko
 
 Zauważmy, że nie napisał „śmierć została zniesiona" ani „usunięta". Napisał: **śmierć jako śmierć** — czyli śmierć w tym, co ją czyniła śmiercią, w jej zdolności do odcinania — została pokonana. Ciało nadal umiera. To, czym śmierć była **dla człowieka**, przestało obowiązywać.
 
-I tu wracamy do świecy. Nie zapalono światła u góry. Wniesiono jeden płomień w ciemność, na wysokości rąk, i podano dalej.
+I tu wracamy do świecy z początku rozdziału: nic nie zostało zapalone u góry — jeden płomień został wniesiony od dołu i podany dalej z rąk do rąk.
 
 ---
 

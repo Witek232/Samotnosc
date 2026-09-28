@@ -63,11 +63,8 @@ Nie „Bóg istnieje". To zdanie orzeka o rzeczywistości i można się nim spie
 
 I dopiero teraz widać, dlaczego cała ta książka szła w tę stronę. Na pytanie „czy ktoś tam jest?" nie można odpowiedzieć w trzeciej osobie. Każda odpowiedź o kimś jest wciąż informacją, a informacja nie jest obecnością. Odpowiedzią na wołanie dziecka nie jest zdanie, że rodzice znajdują się w sąsiednim pokoju. Odpowiedzią jest **ktoś w drzwiach**.
 
-Ratzinger zapisał to w książce, od której zaczynaliśmy, i zapisał najściślej jak można. Mówiąc o dziecku, które boi się w ciemności, i o człowieku czuwającym przy zmarłym, zauważa, że ich lęk mija nie wtedy, gdy usłyszą argument, lecz gdy ktoś przy nich jest — i wyciąga z tego wniosek, który jest przesłanką całej tej książki:
+Ratzinger zapisał to w książce, od której zaczynaliśmy, najściślej jak można. Mówiąc o dziecku, które boi się w ciemności, i o człowieku czuwającym przy zmarłym, zauważa, że ich lęk mija nie wtedy, gdy usłyszą argument, lecz gdy ktoś przy nich jest: prawdziwego lęku nie opanowuje rozum ani żadna, nawet najlepsza odpowiedź — opanowuje go tylko obecność kogoś kochającego.¹ To zdanie padło w rozdziale czterdziestym piątym, gdzie rozstrzygało sprawę maszyn, które odpowiadają lepiej niż człowiek i nie mają żadnej obecności. Tutaj wraca bez cudzysłowu — bo nie dowodzi już niczego przeciw maszynom; stoi przy dziecku i czeka na odpowiedź, którą przyniesie ostatnie zdanie książki.
 
-> „Prawdziwego lęku człowieka nie może opanować rozum, może to sprawić tylko obecność kogoś kochającego."¹
-
-Ta myśl została napisana pół wieku przed maszynami, które potrafią udzielić odpowiedzi lepszej niż człowiek i nie mają żadnej obecności. Rozdział czterdziesty piąty pokazał, jak dokładnie ona w nie trafia.
 
 ---
 
@@ -130,7 +127,7 @@ Pełny kontekst: „Dziecko uspokoi się, gdy mu ktoś poda rękę, która je po
 
 ⚠️ **Granica strony niepewna co do jednej** — znacznik `[[s.246]]` pada w akapicie następnym; stąd „s. 245–246". Zachowana konwencja projektu.
 
-⚠️ **Zachodzenie z rozdz. 45** — ten sam cytat pracuje tam jako przesłanka rozstrzygająca sprawę AI (przyp. 3). **Świadome powtórzenie, jedyne w książce dla tego cytatu**: w 45 dowodzi czegoś o maszynach, tutaj jest ostatnim słowem linii Ratzingerowskiej przed odpowiedzią. **Do decyzji przy redakcji** — jeśli powtórzenie ma zniknąć, usunąć je z epilogu, nie z 45 (tam jest przesłanką, tu ozdobą argumentacyjną).
+✅ **Zachodzenie z rozdz. 45 ROZSTRZYGNIĘTE (ETAP S, 2026-09-14; locus R1 „lęk 45/epilog") — zgodnie z zaleceniem niniejszej noty:** dosłowny cytat pozostał w rozdz. 45 (tam pracuje jako przesłanka przeciw maszynom); w epilogu zastąpiony parafrazą scaloną z obrazem dziecka — bez cudzysłowu i bez formy blokowej; przyp. ¹ zostaje jako adres źródła. Dosłowne brzmienie pojawia się odtąd w książce jeden raz.
 
 ² **Zdanie kanoniczne osi II — TRZECIE I OSTATNIE WYSTĄPIENIE.** `05_KARTOTEKA_RATZINGEROWSKA.md` § Oś II; `STRUKTURA_V3.md` §§ 150, 213.
 

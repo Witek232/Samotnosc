@@ -453,3 +453,17 @@ Te są łatwe: **jedna strona, jedno zdanie**. Uszeregowane wg stosunku „ile z
 | **5.3 (część)** | „Zauważmy/zwróćmy" w 00–11: **15 → 5 w tekście głównym** (02:1→0, 03:4→2, 04:3→1, 07:2→1, 11:5→1; pojedyncze wystąpienia w 01/05/06/10 nietknięte) — redukcja ~53% w rozdziałach z serią; pozostałe elementy 5.3 (antyteza 48–50, superlatywy, samoreferencja) — do następnej transzy. |
 
 **Uwaga techniczna:** przy przesunięciu przypisów zewnętrzne odesłanie „przyp. 41" (Koza) pozostało bez zmian — weryfikacja kontekstów obowiązkowa przy każdej renumeracji.
+
+
+### ⭐⭐ ETAP S (2026-09-14) — ETAP 5 II transza: loci R1 wykonane + 4.6 zamknięte rezygnacją Arièsa
+
+| Locus / zad. | WYKONANIE |
+|---|---|
+| **4.6** | **ZAMKNIĘTE REZYGNACJĄ (decyzja autora 14.09: „Arièsa nie mam i nie chcę szukać").** Rozdz. 23: planowane zdanie o instytucjonalizacji umierania NIE powstaje (rozdział formalnie czysty); rozdz. 15: wersja ostrożna (Coontz) utrzymana — zgodnie z planem. Rozdz. 46: nota o użyciu pośrednim (Szukalski) doposażona w adnotację rezygnacji; dok. 08 § C2 + tabela + kolejność pozyskań zaktualizowane. **ETAP 4: KOMPLETNY.** |
+| **5.1: lęk 45/epilog** | Zdanie „Prawdziwego lęku człowieka…" (Wprowadzenie, s. 245–246) — dosłownie **raz**: w rozdz. 45 (przesłanka przeciw maszynom). Epilog: cytat blokowy zastąpiony **parafrazą scaloną z obrazem dziecka** (bez cudzysłowu i bloku), z odesłaniem narracyjnym do 45; przyp. ¹ epilogu zostaje jako adres źródła. Wykonane **wg zalecenia własnej noty epilogu** („usunąć z epilogu, nie z 45"). Przyp. ³ w 45: kontekst dziecka → wskazówka do epilogu (pełne przywołanie tam). |
+| **5.1/5.4: obraz „wejścia od dołu"** | Weryfikacja: obraz istnieje wyłącznie w 49 (27 go NIE ma — locus R1 zapisany z niedokładnością). Usunięte wtórne powtórzenie w ruchu V rozdz. 49 („Nie zapalono światła u góry…") → klamra jednozdaniowa; scena otwierająca nietknięta (architektura, dok. 07 B2). Funkcje 27/49 rozdzielone już w tekście (49, ruch I: „tamten rozdział zrobił robotę, której tu nie powtarzamy"). |
+| **5.1: „elegancka forma pustki" 35=37** | Formuła-sygnatura zostaje **tylko w 37** (niesie pytanie rozdziału); w 35 klauzula zastąpiona obrazem stołu („żeby samotność miała gdzie siedzieć"); puenta nietknięta. |
+| **5.1: piekło 43/45** | **WERYFIKACJA — bez cięcia:** 43 ma cytat blokowy (s. 246, „Gdyby istniała taka samotność…"); 45 odwołuje się do sąsiedniego zdania (s. 245–246) wyłącznie w przypisie — duplikat czytelnika nie istnieje. Locus zamknięty jako zgodny. |
+| **5.1: litania 48/49/50** | **WERYFIKACJA — bez cięcia:** litania „Tutaj…" (*Spe salvi* § 32) pracuje w pełni w rozdz. 26 (źródło refrenu „Tu jestem"); w 48 tylko jednozdaniowe echo z notą „nie powtarzam dalszego ciągu — należy do 26"; w 49/50 nie występuje. Dyscyplina już wykonana w tekście. |
+
+**Bilans ETAP S:** 3 cięcia (lęk/epilog, obraz 49, forma pustki 35), 2 weryfikacje pozytywne bez cięcia, 4.6 zamknięte. **ETAP 5 po ETAP S:** zostały 5.2 (przebudowa 11 — „cztery osobne odpowiedzi"), reszta 5.3 (antyteza 48–50, superlatywy, samoreferencja), 5.4 (rytm VIII — prowadzenie, poza obrazem), 5.5 (skróty 42/41/43 względem 7/8/9) i 5.1 dla rozdz. 24/26/10/31 — **te ostatnie celowo NIE tnute**: loci R1 dla nich nie są w repo, a głębokie cięcia mają iść po lekturze ciągłej autora (5.7). Zewnętrznie: pozostają Ratzinger autopsja + Yalom e-book.

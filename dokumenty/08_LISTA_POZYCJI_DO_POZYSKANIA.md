@@ -485,6 +485,8 @@ Tamże (Grzybowski) Pieper jest przywoływany przy ***status viatoris***: okreś
 
 ## C2. Philippe Ariès, *Człowiek i śmierć* — **mamy dokładną paginację, nawet bez egzemplarza**
 
+**✅ REZYGNACJA OSTATECZNA AUTORA (2026-09-14): egzemplarza Arièsa nie pozyskamy** — decyzja „nie mam i nie chcę szukać". Użycie pośrednie w rozdz. 46 (przez Szukalskiego, ✔ zweryfikowane) pozostaje finalne; planowane „jedno zdanie" przy ruchu III rozdz. 23 NIE POWSTAJE (4.6 zamknięte rezygnacją). Sekcja poniżej zachowuje wartość nawigacyjną: paginacja wg poświadczeń literatury, z jawną adnotacją, zgodnie z regułą kwerendy 13.09.
+
 Wyd. PIW, przeł. Eliza Bąkowska. Spis treści ustalony 2026-09-09 z oferty antykwarycznej — **numery stron są z samej książki, nie z opracowania**:
 
 | Fragment | Strony |
@@ -508,6 +510,7 @@ Wyd. PIW, przeł. Eliza Bąkowska. Spis treści ustalony 2026-09-09 z oferty ant
 - **Eschatologia**: tyldy „ok. 90–91" zdjęte w 23/26/49; pozostałe zakresy (79–89, 110–112, 116–117) i blok trynitarny *Wprowadzenia* 249–252 — do autopsji (bez zmian).
 
 **Pozyskania — nowa kolejność praktyczna:** (1) autopsja *Eschatologii* + *Wprowadzenia* (zamyka ostatnie zakresy Ratzingera), (2) ~~*Być i mieć* 1986~~ → **zaktualizowana wieczorem, patrz niżej: jeden tom = *Homo viator* 1984**, (3) Yalom e-book 2008, (4) Łosski 1989, (5) Ariès skan 19–41 + 549–~580, (6) Spaemann *Osoby* 2001 (4 strony do sprawdzenia), (7) Kohut biblioteka, (8) *Duch liturgii* — strony, gdy trafi się egzemplarz.
+**AKTUALIZACJA 2026-09-14 (ETAP S):** Ariès — REZYGNACJA (wyżej). Minimalna lista pozyskań ostatecznie: **(1) jedna wizyta w bibliotece: autopsja *Eschatologii* PAX 1986 (s. 79–91, 110–117) + *Wprowadzenia* Znak (s. 29–37, 197–252); (2) Yalom, e-book 2008 (ibuk.pl)** — jedyna płatna pozycja.
 
 ### Aktualizacja 2026-09-13, tura 2 (kwerenda autora) — MARCEL: mapa zdjęć KOMPLETNA
 
@@ -655,7 +658,7 @@ Przegląd zamykający: dla każdej pozycji z tabeli podanej przez autora ustalon
 | **Becker**, *Zaprzeczanie śmierci* | ✔ bez zmian | Referat opisowy w rozdz. 46 działa; Becker jest tam echem, nie głosem wiodącym. |
 | **Heidegger / Jaspers** | ✔ decyzja podtrzymana | Świadomie po jednej linii każdy. Referat wystarcza. **Nie kupować** — koszt nieproporcjonalny do jednego zdania. |
 | **Frankl** | ✔ bez zmian | Obsłużony wcześniej; przywoływany opisowo. |
-| **Ariès**, *Człowiek i śmierć* | ✔ **odblokowana 2026-09-09** | Ustalono **pełną paginację** dwóch kluczowych rozdziałów wyd. PIW (przeł. E. Bąkowska) ze spisu treści samej książki: „Śmierć oswojona" **s. 19–41** i „Śmierć na opak" **s. 549–583**. Wystarczy zamówić skan ok. 60 stron w bibliotece — zamiast szukać całego tomu. Szczegóły w § C2. |
+| **Ariès**, *Człowiek i śmierć* | ✅ **REZYGNACJA autora 2026-09-14** (paginacja wg poświadczeń zostaje jako nawigacja) | Ustalono **pełną paginację** dwóch kluczowych rozdziałów wyd. PIW (przeł. E. Bąkowska) ze spisu treści samej książki: „Śmierć oswojona" **s. 19–41** i „Śmierć na opak" **s. 549–583**. Wystarczy zamówić skan ok. 60 stron w bibliotece — zamiast szukać całego tomu. Szczegóły w § C2. |
 
 **Wniosek dla autora: nie ma już pozycji, której brak blokowałby pisanie — i po 2026-09-09 nie ma już nawet pozycji otwartej.** Doszły dwa przełomy: **cała *Miłość i odpowiedzialność* Wojtyły jest darmowa w PDF** (§ B2) i **Ariès ma ustaloną paginację** (§ C2). Jedyne realne braki to Buber, Marcel i Yalom z § A — i te dotyczą rozdziałów 29, 47 i 48, gdzie autor ma być głosem wiodącym. Buber jest już w projekcie (skan). Reszta tabeli jest obsłużona.
 

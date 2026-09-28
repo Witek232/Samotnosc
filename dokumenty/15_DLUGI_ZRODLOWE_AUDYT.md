@@ -467,3 +467,18 @@ Te są łatwe: **jedna strona, jedno zdanie**. Uszeregowane wg stosunku „ile z
 | **5.1: litania 48/49/50** | **WERYFIKACJA — bez cięcia:** litania „Tutaj…" (*Spe salvi* § 32) pracuje w pełni w rozdz. 26 (źródło refrenu „Tu jestem"); w 48 tylko jednozdaniowe echo z notą „nie powtarzam dalszego ciągu — należy do 26"; w 49/50 nie występuje. Dyscyplina już wykonana w tekście. |
 
 **Bilans ETAP S:** 3 cięcia (lęk/epilog, obraz 49, forma pustki 35), 2 weryfikacje pozytywne bez cięcia, 4.6 zamknięte. **ETAP 5 po ETAP S:** zostały 5.2 (przebudowa 11 — „cztery osobne odpowiedzi"), reszta 5.3 (antyteza 48–50, superlatywy, samoreferencja), 5.4 (rytm VIII — prowadzenie, poza obrazem), 5.5 (skróty 42/41/43 względem 7/8/9) i 5.1 dla rozdz. 24/26/10/31 — **te ostatnie celowo NIE tnute**: loci R1 dla nich nie są w repo, a głębokie cięcia mają iść po lekturze ciągłej autora (5.7). Zewnętrznie: pozostają Ratzinger autopsja + Yalom e-book.
+
+
+### ⭐⭐ ETAP T (2026-09-14) — 5.2 wykonane: rozdz. 11 bez „jednego głosu Wschodu"
+
+Jedyny rozdział z rekomendacją częściowego przepisania (R1+R3+R4). **Diagnoza po lekturze:** struktura czterech osobnych odpowiedzi, ruch V z czterema wykluczającymi się wyrokami i zakaz sklejania — **już istniały**; przebudowa dotyczyła resztek, które mówiły o Wschodzie jako o jednym podmiocie.
+
+| Miejsce | ZMIANA |
+|---|---|
+| **Tytuł** | „Wschód: rozpuścić samotne «ja»" → **„Wschód: cztery odpowiedzi na samotne «ja»"** (tytuł-atrybucja był najpoważniejszym reliktem: konfucjanizm „ja" rozpuszczać nie każe); STRUKTURA_V3 i SPIS_PLIKOW zsynchronizowane; konspekt v3 (plik planu) niepoprawiany — celowo |
+| **Scena** | „naprawdę stoi tradycja, która myśli inaczej" → „stoją tradycje… każda po swojemu" + notowy cytat zaktualizowany |
+| **Anatta** | **osłona w tym samym akapicie** (rekomendacja): anatta ≠ licencja nihilizmu („nie wynika «nic nie ma znaczenia»; wynika, że doświadczenie nie ma właściciela"); osłona ontologiczna z akapitu poprzedniego nietknięta — komplementarne, nie dublujące |
+| **Puenta** | „Wschód nie leczy… kwestionuje istnienie tego, kto ją czuje" (prawdziwe tylko o buddyzmie!) → wyliczka czterech różnych kwestionowań, zgodna z wyrokami ruchu V; klamra „pytanie wraca razem z pytającym" zachowana |
+| **Most** | „Wschód proponował rozpuścić albo rozbroić" → „te cztery odpowiedzi proponowały…"; zdjęte „rzecz trzecią" (przelicznik starej dwójki) |
+
+**Analekta I,1 wg wyniku 3.4:** 3.4 (re-weryfikacja 1–21) pozostaje otwarte jako całość, ale jego fragment dla rozdz. 11 wykonany: **bibliografia Pejdy potwierdzona w katalogu WUW** (*Konfucjusz. Analekta*, tłum. i oprac. K. Pejda, WUW, Warszawa 2018, 246 s., ISBN 978-83-235-3650-5, seria Confuciana) — wpisana do przyp. ⁹ z protokołem: brzmień I,1 i IV,25 **nie zastępować do czasu wglądu w tekst** (reguła kwerendy 13.09); obecne formy (referat bez cudzysłowu / robocze tłum. z ang. z adnotacją) zostają. ⭐ Egzemplarz ~15 zł w księgarniach — do decyzji autora (jedyna tania spłata długu w tym rozdziale; nie jest warunkiem niczego).

@@ -67,7 +67,7 @@
 | 8 | `08_freud.md` | Freud: Bóg jako ojciec | B |
 | 9 | `09_sartre.md` | Sartre: piekło to inni | B |
 | 10 | `10_czlowiek_bez_historii.md` | Człowiek bez historii — rozdział kontrolny | B (fuzja v2) |
-| **11** | `11_wschod_rozpuscic_ja.md` | **Wschód: rozpuścić samotne «ja»** (buddyzm, hinduizm, taoizm, konfucjanizm) | **N** |
+| **11** | `11_wschod.md` | **Wschód: cztery odpowiedzi na samotne «ja»** (buddyzm, hinduizm, taoizm, konfucjanizm) | **N** |
 
 ### Część III — SAMOTNOŚĆ SPOŁECZEŃSTWA
 

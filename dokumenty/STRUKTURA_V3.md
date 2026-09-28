@@ -52,7 +52,7 @@
 | 8 | 8 (9) | Freud: Bóg jako ojciec |
 | 9 | 9 (10) | Sartre: piekło to inni |
 | 10 | 10 (11+12) | Człowiek bez historii (fuzja: MacIntyre + Taylor) |
-| **11** | — | **WSCHÓD: ROZPUŚCIĆ SAMOTNE «JA»** (NOWY: buddyzm, hinduizm, taoizm, konfucjanizm) |
+| **11** | — | **WSCHÓD: CZTERY ODPOWIEDZI NA SAMOTNE «JA»** (NOWY: buddyzm, hinduizm, taoizm, konfucjanizm) |
 
 ### Część III — SAMOTNOŚĆ SPOŁECZEŃSTWA
 

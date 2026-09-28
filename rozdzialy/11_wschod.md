@@ -1,8 +1,8 @@
-# ROZDZIAŁ 11. WSCHÓD: ROZPUŚCIĆ SAMOTNE „JA"
+# ROZDZIAŁ 11. WSCHÓD: CZTERY ODPOWIEDZI NA SAMOTNE „JA"
 
 **Część II — NARODZINY SAMOTNEGO JA (kontrapunkt zewnętrzny)**
 **Podstawa:** konspekt `konspekty_v3/11_wschod.md` — szablon lekki rozbudowany (cztery tradycje).
-**Status:** tekst roboczy v1 (2026-09-11).
+**Status:** tekst roboczy v1.1 (2026-09-14, ETAP T — 5.2).
 
 ---
 
@@ -16,7 +16,7 @@ Warto zauważyć, że siedem rozdziałów temu ten sam człowiek uciekał z poko
 
 Można z tego zakpić i wielu kpi: turystyka duchowa, egzotyka dla zmęczonych korporacją, medytacja jako kolejny sposób na lepszą wydajność w poniedziałek. Coś w tym jest i rozdział trzynasty pokaże, jak bardzo.
 
-Ale byłaby to kpina tania, bo pomijałaby fakt najważniejszy: **za drzwiami tego ośrodka naprawdę stoi tradycja, która myśli inaczej**. Nie „inaczej" w sensie łagodniejszym czy bardziej duchowym. Inaczej w sensie: **odrzuca założenie, na którym stoi wszystko, co przeczytaliśmy w poprzednich pięciu rozdziałach**.
+Ale byłaby to kpina tania, bo pomijałaby fakt najważniejszy: **za drzwiami tego ośrodka naprawdę stoi kilka tradycji, które myślą inaczej — każda po swojemu**. Nie „inaczej" w sensie łagodniejszym czy bardziej duchowym. Inaczej w sensie: **każda z nich odrzuca założenie, na którym stoi wszystko, co przeczytaliśmy w poprzednich pięciu rozdziałach**.
 
 Bo przez całą część drugą przyglądaliśmy się, jak rodzi się samotne „ja". Rousseau chciał je wyzwolić, Nietzsche wypełnić, Freud prześwietlić, Sartre kazał je udźwignąć. Kłócili się o wszystko — poza jedną rzeczą, o którą nikt z nich nie zapytał: **czy to „ja" w ogóle istnieje tak, jak zakładają**.
 
@@ -30,7 +30,7 @@ Zacznijmy od tradycji, która idzie najdalej.
 
 Buddyzm twierdzi, że tego, kto czuje się samotny, **nie ma**. Nie w sensie, że człowiek jest złudzeniem albo że nic nie istnieje — to jest klisza i trzeba ją od razu odsunąć. W sensie znacznie precyzyjniejszym: **nie ma w człowieku żadnego trwałego rdzenia, który byłby właścicielem jego przeżyć**.
 
-Termin brzmi **anatta** — dosłownie „nie-ja", „brak trwałej jaźni". Rozbiór jest taki: to, co nazywamy sobą, składa się z pięciu strumieni — ciała, odczuć, spostrzeżeń, skłonności i świadomości. Buddyzm bierze je po kolei i o każdym mówi to samo: **to nie jest „ja", to nie jest moje, to nie jestem ja**. A gdy przejdzie się przez wszystkie pięć, okazuje się, że nie zostało nic osobnego, co by je posiadało.¹
+Termin brzmi **anatta** — dosłownie „nie-ja", „brak trwałej jaźni". Od razu osłona, bo to słowo żyje w naszych dyskusjach własnym życiem: anatta nie jest licencją nihilizmu — z „nie ma trwałego ja" nie wynika „nic nie ma znaczenia"; wynika tylko, że doświadczenie nie ma właściciela, którym można się zasłaniać. Rozbiór jest taki: to, co nazywamy sobą, składa się z pięciu strumieni — ciała, odczuć, spostrzeżeń, skłonności i świadomości. Buddyzm bierze je po kolei i o każdym mówi to samo: **to nie jest „ja", to nie jest moje, to nie jestem ja**. A gdy przejdzie się przez wszystkie pięć, okazuje się, że nie zostało nic osobnego, co by je posiadało.¹
 
 Obraz, który to oddaje najlepiej — nie jest buddyjski, jest mój, więc proszę go traktować jako pomoc, nie jako naukę: **pociąg bez pasażera**. Jadą wagony, jest ruch, jest kierunek, jest nawet bilet. Nie ma nikogo, kto by w tym pociągu siedział.
 
@@ -183,7 +183,7 @@ Tego ta książka tutaj nie rozstrzyga. Ale odnotowuje, że po trzech tysiącach
 
 ## Puenta
 
-> **Wschód nie leczy samotności człowieka — kwestionuje istnienie tego, kto ją czuje. Ale pytanie „czy ktoś tam jest?" nie daje się zamknąć rozpuszczeniem: ono wraca razem z pytającym.**
+> **Cztery odpowiedzi Wschodu nie leczą samotności człowieka — każda kwestionuje coś innego: czy jest ktoś, kto ją czuje; czy ten ktoś jest naprawdę osobny; czy sztywna granica jest do utrzymania; czy można w ogóle być sam. Ale pytanie „czy ktoś tam jest?" nie daje się zamknąć żadną z nich: ono wraca razem z pytającym.**
 
 ---
 
@@ -191,7 +191,7 @@ Tego ta książka tutaj nie rozstrzyga. Ale odnotowuje, że po trzech tysiącach
 
 Czterej sędziowie nie wydali wyroku. Wydali zastrzeżenie: **sprawa jest o człowieka, nie o jego samopoczucie.**
 
-Tymczasem na Zachodzie sprawa toczyła się dalej i bez tego zastrzeżenia. Wschód proponował „ja" rozpuścić albo rozbroić. Zachód zrobił rzecz trzecią, której żaden z tych czterech nie przewidział: **rozmnożył „ja" i odjął wspólnotę**.
+Tymczasem na Zachodzie sprawa toczyła się dalej i bez tego zastrzeżenia. Te cztery odpowiedzi proponowały „ja" rozpuścić, rozbroić albo nie dopuścić, by powstało. Zachód zrobił rzecz, której żaden z tych czterech nie przewidział: **rozmnożył „ja" i odjął wspólnotę**.
 
 Część trzecia wchodzi w społeczeństwo, które wypadło z obu rad — w którym z gramatyki „ja i ty" zostały siatki kontaktów. Amerykański socjolog policzy kluby, chóry i drużyny, których zabrakło. Czytelnik, który przeszedł przez cztery pokoje tego rozdziału, będzie już wiedział, że rachunek nie dotyczy liczby ludzi wokół człowieka, lecz **formy samego człowieka**.
 
@@ -248,6 +248,8 @@ Część trzecia wchodzi w społeczeństwo, które wypadło z obu rad — w któ
 ✔ **Z AUTOPSJI** (tamże). Brzmienie angielskie: „To learn and then to practise opportunely what one has learnt — does not this bring with it a sense of satisfaction? To have associates in study coming to one from distant parts — does not this also mean pleasure in store? And are not those who, while not comprehending all that is said, still remain not unpleased to hear, men of the superior order?"
 ⚠️⚠️ **UWAGA — RÓŻNICA PRZEKŁADÓW, istotna dla mojego wywodu:** ten przekład oddaje trzecie zdanie jako „nie są nieradzi słuchać, choć nie wszystko pojmują", podczas gdy **większość przekładów** (i konspekt § 6) ma tam: *nie gniewa się, choć ludzie go nie znają*. ⚠️ **W tekście głównym poszedłem za wersją powszechniejszą** („pozostaje niezrażony, choć ludzie go nie znają"), bo jest zgodna z chińskim 人不知而不慍. ⛔ **Ale to znaczy, że NIE opieram się tu na przekładzie, który widziałem** — dlatego zdanie podaję **bez cudzysłowu**. ⚠️⚠️ **DO WERYFIKACJI W POLSKIM WYDANIU — to najsłabszy punkt aparatu tego rozdziału.**
 
+✅ **WYNIK 3.4 (część: rozdz. 11, ETAP T 2026-09-14) — wydanie polskie potwierdzone w katalogu wydawcy:** *Konfucjusz. Analekta*, tłumaczenie i opracowanie K. Pejdy, Wydawnictwa Uniwersytetu Warszawskiego, Warszawa 2018, 246 s., ISBN 978-83-235-3650-5 (seria Confuciana; przekład z chińskiego, z tekstem chińskim i komentarzem). ⚠️ **Brzmień I,1 i IV,25 nie zastępuję do czasu wglądu w tekst** — obecne formy (referat bez cudzysłowu / tłumaczenie robocze z ang. z jawną adnotacją) zostają; przy redakcji: zamiana na brzmienie Pejdy ze stroną. ⭐ Egzemplarz jest w księgarniach za ok. 15 zł — najtańsza spłata długu źródłowego w całej książce.
+
 **Bez przypisu — referowane lub własne:**
 - **Scena kursu medytacyjnego** — konstrukcja własna; ⚠️ czterdziestu uczestników, dziesięć dni, zapłata na końcu — **elementy typowe** dla kursów tego rodzaju, ⛔ nie opis konkretnego ośrodka.
 - **Odesłanie do Pascala** — rozdz. 4, bez powtarzania cytatu.
@@ -260,7 +262,7 @@ Część trzecia wchodzi w społeczeństwo, które wypadło z obu rad — w któ
 ## Noty redakcyjne (poza tekstem książki)
 
 - ⚠️⚠️⚠️ **STAN ŹRÓDEŁ: NAJTRUDNIEJSZY ROZDZIAŁ APARATOWO W CAŁEJ KSIĄŻCE — cztery tradycje, osiem lokalizacji, a mam z autopsji TRZY.** ✔✔ **Z autopsji: *Dhammapada* 160, *Analekta* IV,25 i I,1** (oba przez przekłady angielskie w domenie publicznej, Internet Archive) + ✔ pomocniczo przypowieść o soli z *Brihadaranjaki*. ⛔ **Brak: *Czhandogja* (tat tvam asi), *Bhagawadgita* 18,66, *Daodejing* 8 i 76, *Zhuangzi* (pusta łódź), *Anattalakkhana Sutta*.** ✅ **Konsekwencja wyciągnięta konsekwentnie: WSZYSTKO, czego nie widziałem, jest w tekście głównym REFEROWANE WŁASNYMI SŁOWAMI, BEZ CUDZYSŁOWU** — w rozdziale są **tylko dwa cudzysłowy**, oba przy miejscach zweryfikowanych. ⚠️ To ta sama zasada, co przy Laschu (13–14) i Bowlbym (18).
-- ⚠️⚠️ **PODWÓJNE POŚREDNICTWO PRZY OBU CYTATACH** (chiński/pali → angielski → polski) — ⚠️ zaznaczone w przypisach. ⭐ **Dług łatwy do spłacenia: *Analekta* w przekładzie K. Pejdy (WUW 2018) — wydanie potwierdzone w naszych dokumentach.**
+- ⚠️⚠️ **PODWÓJNE POŚREDNICTWO PRZY OBU CYTATACH** (chiński/pali → angielski → polski) — ⚠️ zaznaczone w przypisach. ⭐ **Dług łatwy do spłacenia: *Analekta* w przekładzie K. Pejdy (WUW 2018) — wydanie potwierdzone w naszych dokumentach; 14.09 potwierdzone dodatkowo w katalogu WUW (bibliografia w przyp. ⁹).**
 - ⚠️ **NAJSŁABSZY PUNKT: *Analekta* I,1.** Przekład, który widziałem, oddaje trzecie zdanie **inaczej** niż wersja powszechna, na której oparłem wywód (*nie gniewa się, choć ludzie go nie znają*). ✅ Poszedłem za wersją powszechniejszą, ale **dlatego podałem to zdanie bez cudzysłowu**. ⚠️⚠️ **Zweryfikować w pierwszej kolejności.**
 - ⛔ **OCR ZHUANGZIEGO NIE DO UŻYTKU** — skan przekładu Gilesa w Internet Archive rozpoznany jako pismo dewanagari; **plik skasowany, nie ponawiać.**
 - ✅✅ **ZAKAZ SYNKRETYZMU (ryzyko 1, „najważniejsze") — WYKONANY TRZEMA ŚRODKAMI NARAZ:** (1) **struktura** — cztery osobne ruchy, każdy z własną tezą; (2) ⭐ **ruch V wylicza cztery WYKLUCZAJĄCE SIĘ wyroki** („nie ma podsądnego / podsądny jest sądem / proces jest pomyłką / brakuje współpodsądnych"); (3) ⭐⭐ **jawne zdanie o realnych sporach** — wedanta vs buddyzm o *tat tvam asi*, kpiny Zhuangziego z Konfucjusza — z oceną moralną: formuła „wszystkie religie mówią to samo" jest **„brakiem szacunku wobec ludzi, którzy przez wieki poświęcali życie na precyzyjne wykazywanie, że mówią co innego"**. ⛔ Nie usuwać.
@@ -272,12 +274,14 @@ Część trzecia wchodzi w społeczeństwo, które wypadło z obu rad — w któ
 - ⭐⭐ **DOPISANE W RUCHU IV — UCZCIWOŚĆ WOBEC TRUDNOŚCI:** pięć relacji jest **hierarchicznych i w większości NIEWYBRANYCH**, cztery z pięciu dane z góry i nierówne; ⚠️ „taki układ potrafił być więzieniem, zwłaszcza dla kobiet". ⭐⭐ Ale odwrócenie, które ta tradycja widzi ostrzej: my uważamy, że **więź wybrana jest prawdziwsza**, a konfucjanizm twierdzi, że **to, czego nie wybrałem, buduje mnie mocniej właśnie dlatego, że nie było przedmiotem mojego wyboru** — „nie może zostać przez moją decyzję cofnięte". ⭐ **Więź wybraną można ODWYBRAĆ** — przyjaźń jest w tym systemie **wyjątkiem, nie wzorem**. ⭐ Pytanie zostawione otwarte: **„czy człowiek może być zbudowany wyłącznie z rzeczy, które sam wybrał"** — ⭐ **wraca w rozdz. 15, 22 i 44**.
 - ⭐ **Ruch IV (konfucjanizm) jest dla tej książki najważniejszy z czterech** — bo jako jedyny mówi, że **samotność to brak części konstrukcji**, a nie pomyłka co do podmiotu. ⭐ Formuła: **„Cnota nie mieszka samotnie: musi mieć sąsiadów"** + rozwinięcie: **„cnota jest zjawiskiem sąsiedzkim… człowiek nie jest dobry osobno"**. ⭐⭐ Oraz *Analekta* I,1: **człowiek zbudowany z relacji, a jednocześnie ODPORNY NA ICH BRAK** — „to nie jest ani samowystarczalność, ani rozpaczliwa zależność". ⭐ **Most do rozdz. 12 wykonany: Konfucjusz postawił diagnozę Putnama 2500 lat wcześniej.**
 - ✅ **Ryzyko 3 (klisze) — ominięte po kolei i jawnie:** buddyzm nie jest nihilizmem (*dukkha* jako **„niedopasowanie"**, obraz krzywo osadzonego koła, nie „cierpiętnictwo"); hinduizm nie jest „wszechjednią z pocztówki" (*maja* jako **błąd poznawczy**, nie aura); taoizm nie jest relaksem (*wu-wei* jako **nieprzywłaszczanie rezultatu**; ⭐ **kontrapunkt: „człowiek, który stracił dziecko, nie potrzebuje rady, żeby nie trzymał kształtu; są sytuacje, w których sztywność nazywa się wiernością"**); konfucjanizm nie jest konformizmem (*junzi* odporny na nieuznanie). ⚠️ **Zapowiedziane w konspekcie zapięcie do Kierkegaarda (rozdz. 5) — ✘ pominięte**, rozdział był już długi; ⚠️ do rozważenia przy redakcji.
-- ✅ **Scena bez kpiny (konspekt § 9):** kpina **nazwana i odrzucona** („byłaby to kpina tania, bo pomijałaby fakt najważniejszy: za drzwiami stoi tradycja, która myśli inaczej"), ale ⭐ z przyznaniem, że coś w niej jest („rozdział trzynasty pokaże, jak bardzo"). ⭐ Klamra z Pascalem (rozdz. 4): **„dopłaca, żeby go w tym pokoju zamknięto na dziesięć dni"**.
+- ✅ **Scena bez kpiny (konspekt § 9):** kpina **nazwana i odrzucona** („byłaby to kpina tania, bo pomijałaby fakt najważniejszy: za drzwiami stoi kilka tradycji, które myślą inaczej"), ale ⭐ z przyznaniem, że coś w niej jest („rozdział trzynasty pokaże, jak bardzo"). ⭐ Klamra z Pascalem (rozdz. 4): **„dopłaca, żeby go w tym pokoju zamknięto na dziesięć dni"**.
 - **Refren 1× (dwuwers → czterowers)** — ⭐⭐ **typ dwudziesty: CZTERY RÓŻNE ODPOWIEDZI NA JEDNO PYTANIE.** Jedyny raz w książce, gdy refren dostaje **cztery odpowiedzi naraz, wzajemnie sprzeczne**. ⭐ I jedyny raz, gdy odpowiedzi dotyczą **pytającego, nie odpowiedzi**. ⚠️ Wpisać do dok. 07.
 - **Rejestr sceny:** **ośrodek medytacyjny / dziesięć dni ciszy** — nowy. ⚠️ Bliskość rozdz. 4 (pokój Pascala) jest **zamierzona i nazwana w tekście** — to klamra, nie kolizja.
 - **Zakaz superlatywów** — sprawdzone. **Słowa zarezerwowane** — 0×.
 - **Odesłania:** wstecz — **4 (pokój Pascala)**, **6–10 (cała część II: „kłócili się o wszystko poza jedną rzeczą")**, 5 (Kierkegaard — ✘ pominięty). Naprzód — **12 (most: Putnam; Konfucjusz go uprzedził)**, **13 (medytacja jako narzędzie wydajności)**, **20 (Yalom — pytający na granicy)**, **28 (osoba — odpowiedź na *anatta*)**, **część VI (*Gita* 18,66)**, 42, epilog.
 - **Długość: 3077 słów** — ⚠️ nieco poniżej celu (3,2–3,6 tys.) o ~120 słów. ⭐ Świadomie nie dobijam: każde dodatkowe zdanie byłoby **kolejnym referatem z pamięci** w rozdziale, który ma już pięć pozycji bez wglądu w tekst. ⚠️ **Uzupełnić po zdobyciu Analektów po polsku i Czhandogji.**
+
+- ✅✅ **ETAP T (5.2, 2026-09-14) — resztki „jednego głosu Wschodu" usunięte.** Recenzje R1/R3/R4 chciały „czterech osobnych odpowiedzi, nie «Wschód mówi»" — struktura czterech ruchów i zakaz sklejania istniały już w tekście; usunięto pozostałe cztery miejsca, które mówiły o Wschodzie jako o jednym podmiocie: **tytuł** („Rozpuścić samotne ja" → „Cztery odpowiedzi na samotne ja" — konfucjanizm przecież NIE rozpuszcza), **scena** („stoi tradycja" → „stoją tradycje, każda po swojemu"), **puenta** („Wschód kwestionuje istnienie pytającego" → wyliczka czterech różnych kwestionowań, zgodna z ruchem V), **most** („Wschód proponował rozpuścić albo rozbroić" → „te cztery odpowiedzi…"; zdjęte „trzecią" zależne od starego przelicznika). Nadto: **osłona przy *anatta* w tym samym akapicie** (licencja nihilizmu — zgodnie z rekomendacją; osłona ontologiczna w akapicie poprzednim nietknięta — nie dubluje) i **wynik 3.4-część** (bibliografia Pejdy w przyp. ⁹; protokół zamiany brzmień przy redakcji). Konspekt (`11_wschod_rozpuscic_ja.md`) nie poprawiany — to dokument planu; rozbieżność tytułu odnotowana.
 
 ### Stan źródeł
 

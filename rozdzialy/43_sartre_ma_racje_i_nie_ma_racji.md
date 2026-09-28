@@ -14,11 +14,9 @@ A jeśli jest jej źródłem?
 
 ### I. Racja
 
-Zdanie „piekło to inni" pada na końcu jednoaktówki, w której troje ludzi zostaje zamkniętych w salonie bez okien i bez katów. Cała pointa polega na tym, że kaci są zbędni: wystarczy, że każde z nich patrzy na pozostałą dwójkę. Sartre wyjaśniał później, że nie chodziło mu o to, iż stosunki z innymi są zawsze zatrute — lecz o to, że gdy są zatrute, inni **stają się** piekłem. To sprostowanie warto zapamiętać, bo za chwilę okaże się kluczowe.
+Zdanie „piekło to inni" pada na końcu jednoaktówki, którą rozdział dziewiąty czytał scena po scenie: salon bez okien, troje zamkniętych, kaci zbędni — wystarczy, że każde patrzy na pozostałą dwójkę. Sartre wyjaśniał później, że nie chodziło mu o to, iż stosunki z innymi są zawsze zatrute — lecz o to, że gdy są zatrute, inni **stają się** piekłem. To sprostowanie warto zapamiętać, bo za chwilę okaże się kluczowe.
 
-Pod sztuką stoi analiza z *Bytu i nicości*, i to ona jest tu naprawdę groźna. Sartre opisuje **spojrzenie**. Dopóki jestem sam, jestem czystą możliwością: przeżywam siebie od środka jako projekt, wolność, coś nieskończenie otwartego. W chwili, gdy ktoś na mnie patrzy, dzieje się rzecz nieodwracalna: **staję się przedmiotem w cudzym świecie**. Nie jestem już tym, kim się staję — jestem tym, za kogo mnie mają. Człowiek, którego przyłapano na podglądaniu przez dziurkę od klucza, nie jest już wolną świadomością obserwującą pokój; jest podglądaczem, i to jest odtąd jego istota, nadana z zewnątrz, bez jego zgody.
-
-Stąd wniosek, który czyni z Sartre'a przeciwnika poważnego, a nie tylko ponurego: **relacja jest z natury walką**. Skoro twoje spojrzenie zamienia mnie w rzecz, mam do wyboru dwie strategie i obie są przegrane. Mogę próbować przejąć twoją wolność — zawładnąć nią tak, żebyś patrzył na mnie tak, jak chcę; to jest, w jego opisie, struktura **miłości**. Albo mogę zredukować cię do przedmiotu, zanim ty zrobisz to ze mną; to jest struktura **obojętności i pożądania**. Miłość zawodzi zawsze, bo chce rzeczy sprzecznej: pragnę, żebyś kochał mnie wolno, ale gdybyś był naprawdę wolny, mógłbyś przestać — więc pragnę twojej wolności i jednocześnie pragnę ją unieruchomić.
+Pod sztuką stoi analiza z *Bytu i nicości*, i to ona jest tu naprawdę groźna — rozdział dziewiąty prowadził ją krok po kroku, z cytatami, i tu jej nie powtarzam. W skrócie: **spojrzenie** zamienia człowieka w przedmiot w cudzym świecie; człowiek przyłapany przy dziurce od klucza dostaje swoją istotę z zewnątrz, bez własnej zgody; a z tego wynika teza najcięższa — **relacja jest z natury walką**, bo miłość, która pragnie być kochana wolno, pragnie zarazem unieruchomić wolność drugiego. Ten wywód robi z Sartre'a przeciwnika poważnego, a nie tylko ponurego, i przyjmujemy go w całości.
 
 **Czy to opisuje coś rzeczywistego? Opisuje aż nadto.**
 
@@ -114,3 +112,10 @@ To już nie jest pytanie o argumenty. To pytanie, z którym trzeba wyjść do ś
 2. **DCE § 16** (agape jako chcenie dobra drugiego) — konspekt przewidywał; **pominięte**, bo rozdział miał już limit 2 cytatów Ratzingera, a fragment o piekle jest cenniejszy. Materiał z rozdz. 16 przywołany bez cytatu.
 3. **Buber** — zredukowany do jednego zdania („spojrzenie, które widzi mnie wraz z tym, kim jeszcze nie jestem") **bez nazwiska**, zgodnie z uwagą konspektu, by nie wlewać tu całego Bubera. Jego pełne użycie: rozdz. 29.
 4. Długość: ~2 300 słów — w widełkach.
+
+
+---
+
+## Nota ETAP V (2026-09-14, 5.5)
+
+- ✅ **Skrót o redundancję względem rozdz. 9:** układ sztuki (salon, kaci zbędni) — jedno zdanie-odesłanie zamiast powtórki; analiza spojrzenia z *Bytu i nicości* (przedmiot w cudzym świecie, podglądacz, „relacja jest z natury walką" z dwiema strategiami) — streszczenie z odesłaniem do pełnego wywodu z cytatami w 9. Sprostowanie z *Préface parlée* („inni stają się piekłem") zostaje — jest kluczem części III rozdziału. Nietknięte: współczesne zastosowania (zazdrość/telefon/rodzic), samotność przy stole, zarzut do wspólnoty, trzy „nie", trzeci jako warunek, Ratzinger/piekło (cytat blokowy s. 246), klamra tryptyku. Długość: ok. 2,13 → ok. 2,01 tys. słów.

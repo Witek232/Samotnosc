@@ -495,3 +495,16 @@ Jedyny rozdział z rekomendacją częściowego przepisania (R1+R3+R4). **Diagnoz
 | **5.4: funkcje 27 vs 49** | **WERYFIKACJA — rozdzielenie już w tekście, udokumentowane:** 27 odpowiada na pytanie części V („czy śmierć może zerwać relację na zawsze. Odpowiedź brzmi: nie"); 49 pyta własne („Co się zmieniło w śmierci — skoro życie w nią weszło?") i jawnie deklaruje (ruch I): „tamten rozdział zrobił robotę, której tu nie powtarzamy". Zdublowany obraz „wejścia od dołu" — usunięty w ETAP S. **Pozostały element 5.4 (globalne „inne prowadzenie" części VIII) → świadomie na lekturę ciągłą 5.7** — to decyzja tonalna całości, nie operacja punktowa. |
 
 **Bilans ETAP U:** 11 cięć/redakcji w 3 plikach; 5.3 ZAMKNIĘTE; 5.4 — 2 z 3 elementów wykonane/zweryfikowane, prowadzenie globalne czeka na 5.7.
+
+
+### ⭐⭐ ETAP V (2026-09-14) — 5.5: skróty sprawdzianów 42/41/43 względem 7/8/9 (bez scalania)
+
+| Rozdz. | Skróty (redundancja względem rozdz. 7/8/9) | ZOSTAŁO (unikaty) |
+|---|---|---|
+| **42** (Nietzsche) | Aforyzm 125 — cytat blokowy i analiza sceny już w **7** (weryfikacja: blok „Zabiliśmy go…" ✔) → przywołanie bez cytatu (wynik: „nie ma triumfu, wymowa katastroficzna"); nitka **Wartość** i **Sens** skrócone do unikatów z odesłaniem do rachunku z 7 (echo; wieczny powrót jako sprawdzian) | „Przychodzę za wcześnie"², af. 343 („cała nasza europejska moralność")³, nitka **Przebaczenie** (cała), puenta „czy ja bym tak umiał?" + milczenie |
+| **41** (Freud) | Rozróżnienie złudzenie/błąd — blok cytatu³ → przywołanie (Arystoteles/Kolumb zostają; dziewczyna → odesłanie do 8, tam użyta — przyp. ⁴ adnotowany); Feuerbach → odesłanie do 8 + kontrast „nie potrzebował pojęcia nieświadomości"⁶; lista religijności −2 pozycje (schrony, modlitwa-technika — funkcję niesie 8 III); błąd genetyczny: 4 przykłady (Kekulé⁸, winda, dziecko, głód) → 1: „**głód nie dowodzi, że nie ma chleba**" | „on sam nie twierdził, że religia jest fałszywa" + „nie dopuszczają dowodu"⁵, diagnoza (przykład kłopotliwy), Izajasz 44, „działa w obie strony" + symetria (najmocniejszy ruch), Ratzinger B/i Ś s. 253 + Zeus + Fromm |
+| **43** (Sartre) | Układ sztuki → jedno zdanie-odesłanie do **9**; analiza spojrzenia z BiN (przedmiot w cudzym świecie, podglądacz, walka + 2 strategie) → streszczenie z odesłaniem („prowadził ją krok po kroku, z cytatami, i tu jej nie powtarzam") | sprostowanie „inni **stają się** piekłem" (klucz III), zastosowania współczesne, samotność przy stole, zarzut do wspólnoty, trzy „nie" (+ Wojtyła¹), trzeci jako warunek, Ratzinger s. 246 blok + Sartre/Hesse³, domknięcie tryptyku |
+
+**Naprawa seryjna przy okazji:** 42 — zepsute odesłanie „o czym mówił już rozdział 9" → **„rozdział siódmy"** (rachunek za samostworzenie jest w 7; „9" to ocalała numeracja żywotu v2). Klamra 42↔11 z noty v1: **celowo nieodtworzona** (42 patrzy w przód, 11 ma własną puentę — dublowanie). Rozbieżność przekładu af. 125 między 7 („zabójcami") a starym 42 („mordercami") znika razem ze skrótem. Przypis 1 w 42 (oryginał niemiecki + fakty kontekstu) — zachowany z adnotacją ETAP V.
+
+**Bilans ETAP V:** 9 redakcji w 3 plikach (+2 adnotacje aparatów, 3 noty ETAP V); 42: 2188→1955, 41: 2403→2168, 43: 2126→2009 słów. **5.5 ZAMKNIETE; ETAP 5 wykonany w całości poza 5.7 (wyłącznie lektura autora) i głębokim 5.1 (po 5.7).**

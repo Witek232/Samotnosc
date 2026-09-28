@@ -79,7 +79,7 @@ Tak wygląda samotność wyprodukowana przez system, który w każdym pojedynczy
 
 ### VI
 
-Zauważmy, że ten sam ruch opisywaliśmy już w tej książce, w zupełnie innym kontekście, i że to nie jest przypadek.
+Ten sam ruch opisywaliśmy już w tej książce, w zupełnie innym kontekście — i to nie jest przypadek.
 
 Rozdział trzynasty mówił o imperatywie dobrego samopoczucia: o kulturze, w której trzeba być w porządku, a przyznanie się do tego, że nie jest się w porządku, jest wykroczeniem towarzyskim. **Kultura, która nie chce umierać, i kultura, która każe się uśmiechać, to jeden projekt w dwóch wersjach.** Obie usuwają z pola widzenia to, czego nie da się naprawić — a ponieważ tego, czego nie da się naprawić, usunąć się nie da, obie zostawiają człowieka samego dokładnie w tym punkcie.
 

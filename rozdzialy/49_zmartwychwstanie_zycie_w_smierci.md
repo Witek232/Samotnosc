@@ -13,13 +13,13 @@ W noc z soboty na niedzielę kościół jest ciemny. Nie przygaszony — ciemny,
 
 Wtedy przynosi się jedną świecę. Ogromną, niewygodną, zapaloną od ognia poświęconego przed drzwiami — i niesie się ją w głąb, przez ciemność, do środka. Ludzie stoją z nieoświetlonymi świecami w rękach i czekają. Płomień idzie od tej jednej do sąsiedniej, z sąsiedniej do następnej, i po dwóch, trzech minutach cały kościół świeci — ale nie od żyrandola. Świeci od stu małych ogni, z których każdy jest zapalony od czyjegoś.
 
-Zwróćmy uwagę, czego ten obrzęd **nie** robi, bo w tym leży cała jego myśl.
+Najbardziej wymowne jest to, czego ten obrzęd **nie** robi.
 
 Nie zapala światła u góry. Nie oświetla ciemności z zewnątrz, z bezpiecznego miejsca ponad nią. Światło **wchodzi w ciemność od dołu, przez drzwi, na wysokości ludzkich rąk** — i rozchodzi się dotykiem, jeden do jednego, jak coś, co się podaje, a nie jak coś, co się włącza.
 
 I jeszcze jedno, na co warto popatrzeć: **ciemność nie znika**. Kościół oświetlony świecami jest nadal ciemnym kościołem. Widać to każdemu, kto tam kiedykolwiek stał: sklepienie zostaje czarne, kąty zostają czarne, a światła jest dokładnie tyle, ile go przyniesiono w rękach. Nikt nie udaje, że nastał dzień.
 
-Jest to obraz precyzyjniejszy, niż wygląda. Ta książka doszła do miejsca, w którym trzeba powiedzieć o zmartwychwstaniu coś, czego nie da się powiedzieć przez wzmocnienie wcześniejszych zdań. I najbliżej prawdy jest właśnie ten obrzęd: **światło nie przyszło z góry. Wyszło ze środka.**
+Jest to obraz precyzyjniejszy, niż wygląda. Doszliśmy do miejsca, w którym trzeba powiedzieć o zmartwychwstaniu coś, czego nie da się powiedzieć przez wzmocnienie wcześniejszych zdań. I najbliżej prawdy jest właśnie ten obrzęd: **światło nie przyszło z góry. Wyszło ze środka.**
 
 ---
 
@@ -29,7 +29,7 @@ W rozdziale dwudziestym czwartym staliśmy w tym samym kościele, w dzień. Był
 
 To jest ta wigilia. Wracamy do tego samego wnętrza po dwudziestu pięciu rozdziałach — i to jest jedyna rzecz, jaką ta książka może na końcu zrobić: nie dopisać nowej myśli, lecz **domknąć tę, którą zostawiła otwartą**.
 
-Zmartwychwstanie było już w tej książce raz, w rozdziale dwudziestym siódmym, i było tam czytane jako odpowiedź na pytanie części piątej: czy śmierć może zerwać relację na zawsze. Tamten rozdział zrobił robotę, której tu nie powtarzamy — poranek, kobiety z olejkami, brak świadków samego wydarzenia, rany na ciele Zmartwychwstałego, różnica między nim a wskrzeszonym Łazarzem.
+Zmartwychwstanie było już raz, w rozdziale dwudziestym siódmym, i było tam czytane jako odpowiedź na pytanie części piątej: czy śmierć może zerwać relację na zawsze. Tamten rozdział zrobił robotę, której tu nie powtarzamy — poranek, kobiety z olejkami, brak świadków samego wydarzenia, rany na ciele Zmartwychwstałego, różnica między nim a wskrzeszonym Łazarzem.
 
 Tutaj pytanie jest inne, i jest ostatnim pytaniem tej książki:
 
@@ -69,13 +69,13 @@ I stąd bierze się zdanie, które w tym samym rozdziale brzmi zaskakująco twar
 
 > „Jako ostatni wróg, zostanie pokonana śmierć."³
 
-Zauważmy dwie rzeczy, które to zdanie mówi naraz, a które zwykle rozdzielamy.
+To zdanie mówi dwie rzeczy naraz, a zwykle je rozdzielamy.
 
 Pierwsza: śmierć jest **wrogiem**. Nie „naturalnym elementem cyklu", nie „przejściem", nie czymś, z czym dojrzały człowiek się godzi, jeśli tylko dostatecznie długo nad tym pracował. Chrześcijaństwo nie ma pogodnej teorii śmierci i nigdy jej nie miało. Rozdziały czterdziesty szósty i czterdziesty siódmy nie łagodziły niczego i miały do tego pełne prawo.
 
 Druga: jest wrogiem **ostatnim**. Nie pierwszym z listy do odhaczenia, lecz tym, który zostaje na koniec — a więc, w porządku tego zdania, **jeszcze nieusuniętym**. Paweł pisze o czymś, co się zaczęło i nie skończyło. Nie opisuje świata, w którym już nie ma pogrzebów.
 
-To jest dokładnie stan, w którym stoi czytelnik tej książki: w kościele oświetlonym świecami, gdzie sklepienie jest nadal czarne.
+To jest dokładnie stan, w którym stoi czytelnik: w kościele oświetlonym świecami, gdzie sklepienie jest nadal czarne.
 
 ---
 
@@ -109,7 +109,7 @@ I to jest dokładnie to, co twierdzi chrześcijaństwo. Nie że śmierć został
 
 Ratzinger formułuje to jeszcze mocniej: „Śmierć jako śmierć została pokonana w Chrystusie, w udzielonym Mu pełnomocnictwie bezgranicznej miłości".⁸
 
-Zauważmy, że nie napisał „śmierć została zniesiona" ani „usunięta". Napisał: **śmierć jako śmierć** — czyli śmierć w tym, co ją czyniła śmiercią, w jej zdolności do odcinania — została pokonana. Ciało nadal umiera. To, czym śmierć była **dla człowieka**, przestało obowiązywać.
+Nie napisał „śmierć została zniesiona" ani „usunięta". Napisał: **śmierć jako śmierć** — czyli śmierć w tym, co ją czyniła śmiercią, w jej zdolności do odcinania — została pokonana. Ciało nadal umiera. To, czym śmierć była **dla człowieka**, przestało obowiązywać.
 
 I tu wracamy do świecy z początku rozdziału: nic nie zostało zapalone u góry — jeden płomień został wniesiony od dołu i podany dalej z rąk do rąk.
 
@@ -119,11 +119,11 @@ I tu wracamy do świecy z początku rozdziału: nic nie zostało zapalone u gór
 
 Dlatego chrześcijańska nadzieja nie jest tym, za co się ją zwykle bierze — także przez tych, którzy ją odrzucają, i wtedy odrzucają nie ją.
 
-Nie jest informacją o świecie po śmierci. Nie jest twierdzeniem, że po ciemności będzie jasno. Nie jest obietnicą, że coś nas czeka **dalej**.
+Nie jest informacją o świecie po śmierci ani obietnicą, że coś nas czeka **dalej**.
 
 > ## **Chrześcijańska nadzieja nie mówi, że po śmierci znajdziemy życie. Mówi, że Chrystus wszedł w śmierć i wniósł w nią życie.**⁹
 
-To jest cała różnica między nadzieją a optymizmem, o którą ta książka spierała się od pierwszej części. Optymizm jest prognozą i dotyczy przyszłości. Nadzieja, o której tu mowa, dotyczy **teraz** — bo mówi o tym, co już jest w miejscu, do którego idziemy.
+To jest cała różnica między nadzieją a optymizmem, o którą spieraliśmy się od pierwszej części. Optymizm jest prognozą i dotyczy przyszłości. Nadzieja, o której tu mowa, dotyczy **teraz** — bo mówi o tym, co już jest w miejscu, do którego idziemy.
 
 ---
 

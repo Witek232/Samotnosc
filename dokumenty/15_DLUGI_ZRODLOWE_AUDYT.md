@@ -482,3 +482,16 @@ Jedyny rozdział z rekomendacją częściowego przepisania (R1+R3+R4). **Diagnoz
 | **Most** | „Wschód proponował rozpuścić albo rozbroić" → „te cztery odpowiedzi proponowały…"; zdjęte „rzecz trzecią" (przelicznik starej dwójki) |
 
 **Analekta I,1 wg wyniku 3.4:** 3.4 (re-weryfikacja 1–21) pozostaje otwarte jako całość, ale jego fragment dla rozdz. 11 wykonany: **bibliografia Pejdy potwierdzona w katalogu WUW** (*Konfucjusz. Analekta*, tłum. i oprac. K. Pejda, WUW, Warszawa 2018, 246 s., ISBN 978-83-235-3650-5, seria Confuciana) — wpisana do przyp. ⁹ z protokołem: brzmień I,1 i IV,25 **nie zastępować do czasu wglądu w tekst** (reguła kwerendy 13.09); obecne formy (referat bez cudzysłowu / robocze tłum. z ang. z adnotacją) zostają. ⭐ Egzemplarz ~15 zł w księgarniach — do decyzji autora (jedyna tania spłata długu w tym rozdziale; nie jest warunkiem niczego).
+
+
+### ⭐⭐ ETAP U (2026-09-14) — 5.3 domknięte + 5.4 w części wykonalnej (VIII: mniej wykładu)
+
+| Zad. | WYKONANIE |
+|---|---|
+| **5.3: „Zauważmy/zwróćmy" — rozszerzenie na VIII + epilog** | 5 cięć: **49 ×3** („Zwróćmy uwagę, czego…" → „Najbardziej wymowne jest to, czego…"; „Zauważmy dwie rzeczy…" → „To zdanie mówi dwie rzeczy naraz…"; „Zauważmy, że nie napisał…" → „Nie napisał…"), **46 ×1**, **epilog ×1** („Zwróćmy uwagę na kolejność…" → „Kolejność niesie całą różnicę"). Po ETAP R+U: zero w 46–50. |
+| **5.3: tik antytezy w finałach 48–50** | **49, ruch VI:** potrójna anafora „Nie jest… Nie jest… Nie jest…" (ta sama funkcja trzykrotnie) scalona do jednego zdania — przed formułą finałową zostaje jedno przeciwstawienie, więc formuła „nie mówi… Mówi…" odzyskuje siłę. **48 i 50: WERYFIKACJA BEZ CIĘCIA** — antytezy w finałach (48: VII + puenta-formuła; 50: „Nie «Bóg istnieje» / Nie «Bóg jest dobry»") odrzucają różne alternatywy i niosą tezy; formuły autorskie („Obietnica nie brzmi…", kanoniczne zdanie) pod ochroną z dok. 15 (16:234 AUTORSKA). |
+| **5.3: superlatywy o własnej książce** | **WERYFIKACJA: 0 wystąpień** w 48–50 (jedyne „najważniejsza" — 48, znak drogowy struktury, nie chwalenie książki). Punkt zamknięty jako zgodny. |
+| **5.3: samoreferencja „ta książka" w 48–50** | 5 wycięć wypełniaczy: 49 ×4 („doszła do miejsca"→„doszliśmy"; „było już w tej książce raz"→„było już raz"; „czytelnik tej książki"→„czytelnik"; „o którą ta książka spierała się"→„o którą spieraliśmy się") + epilog ×1 („co ta książka przeszła"→„co przeszliśmy"). Zostają 22 — każde funkcjonalne (tytułowe, pożegnalne, odsyłające do centrum). Narracja „my" części VIII przy tym zyskała spójność. |
+| **5.4: funkcje 27 vs 49** | **WERYFIKACJA — rozdzielenie już w tekście, udokumentowane:** 27 odpowiada na pytanie części V („czy śmierć może zerwać relację na zawsze. Odpowiedź brzmi: nie"); 49 pyta własne („Co się zmieniło w śmierci — skoro życie w nią weszło?") i jawnie deklaruje (ruch I): „tamten rozdział zrobił robotę, której tu nie powtarzamy". Zdublowany obraz „wejścia od dołu" — usunięty w ETAP S. **Pozostały element 5.4 (globalne „inne prowadzenie" części VIII) → świadomie na lekturę ciągłą 5.7** — to decyzja tonalna całości, nie operacja punktowa. |
+
+**Bilans ETAP U:** 11 cięć/redakcji w 3 plikach; 5.3 ZAMKNIĘTE; 5.4 — 2 z 3 elementów wykonane/zweryfikowane, prowadzenie globalne czeka na 5.7.

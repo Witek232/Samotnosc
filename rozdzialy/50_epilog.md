@@ -86,9 +86,9 @@ W książce, od której zaczynaliśmy, stoi obok niego zdanie, którego dotąd w
 
 Formuła z podtytułu tej książki padła już raz, w rozdziale dwudziestym dziewiątym, gdy okazało się, że wiara ma gramatykę drugiej osoby: mówi się nie **o** Nim, lecz **do** Niego.
 
-Wraca tu w innym stanie. Tamto było rozpoznaniem formy. To jest zdanie wypowiedziane po przejściu przez wszystko, co ta książka przeszła — po Freudzie, po Nietzschem, po Sartrze, po szeolu, po hospicjum, po nocy w ogrodzie.
+Wraca tu w innym stanie. Tamto było rozpoznaniem formy. To jest zdanie wypowiedziane po przejściu przez wszystko, co przeszliśmy — po Freudzie, po Nietzschem, po Sartrze, po szeolu, po hospicjum, po nocy w ogrodzie.
 
-Zwróćmy uwagę na kolejność, bo w niej mieści się cała różnica.
+Kolejność niesie całą różnicę.
 
 Najpierw: **Ty jesteś.**
 Dopiero potem: **wierzę.**

@@ -166,7 +166,7 @@ Brzmienie oryginalne: „Jeśli śmierć w swej istocie polega na zerwaniu wszel
 
 ³ **Tamże, `[s?]`** (w. 677): „Schleiermacher mówił kiedyś o narodzinach i śmierci jako o dwóch «przesiekach» w gęstwie lasu, pozwalających spojrzeć człowiekowi w nieskończoność". ✔ **ZWERYFIKOWANE W WYDANIU**.
 
-**Obraz zachowany dla tego rozdziału przy pisaniu rozdz. 46** (nota w przyp. ⁴ tamtego rozdziału: „zachowany dla rozdz. 47 albo epilogu, tutaj byłby ozdobą"). Rezerwacja zrealizowana.
+**Obraz zachowany dla tego rozdziału przy pisaniu rozdz. 46** (nota w przyp. ⁷ tamtego rozdziału: „zachowany dla rozdz. 47 albo epilogu, tutaj byłby ozdobą"). Rezerwacja zrealizowana. *Poprawka 2026-10-20 (ETAP X): odsyłacz mówił „przyp. ⁴" — numeracja przypisu z notą o Schleiermacherze zmieniła się przy ETAP Q (wtedy ⁵), a po wstawce o opiekunach (ETAP X) jest ⁷.*
 
 ⚠️ **Uwaga o cytowaniu pośrednim:** to **Ratzinger** przywołuje Schleiermachera, nie ja. Tak też jest w tekście („Ratzinger przywołuje gdzie indziej obraz Schleiermachera") — nie udaję lektury Schleiermachera. Rozwinięcie obrazu (przesieka nie jest wyjściem z lasu) jest **moje**, nie Ratzingera.
 

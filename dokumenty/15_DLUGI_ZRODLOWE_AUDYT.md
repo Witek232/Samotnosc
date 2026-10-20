@@ -527,3 +527,17 @@ Jedyny rozdział z rekomendacją częściowego przepisania (R1+R3+R4). **Diagnoz
 **Zasada nadrzędna bez zmian:** gdzie mamy polskie wydanie — cytujemy z niego (EN nigdy źródłem cytatu PL); przekład własny nie jest źródłem „mądrzejszym" od oryginału — zawsze podajemy oryginał w przypisie.
 
 **Bilans ETAP W:** 5 plików, zero zmian w tekstach głównych (tylko aparaty + dokumenty). Decyzja zarejestrowana; protokoły spójne z praktyką.
+
+
+### ⭐⭐ ETAP X (2026-10-20) — 46: domknięcie luki [?] „źródło o opiekunach nieformalnych" (materiał: autor)
+
+**Proweniencja:** autor dostarczył zestawienie kwerendy (7 pozycji: raport „Wyczerpani" Penumbra 2026; Domaradzki i in. 2025 Sci Rep; Pask i in. 2026 JCM; Lenart 2024 Edukacja Dorosłych; Krawczyk-Dąbrowska 2025 „Rynek Pracy"; GUS BAEL 2025; terminologia „wypalenie opiekuńcze"). Locus: nota v1 rozdz. 46 [?] + „Do rozstrzygnięcia" pkt 2 i 4.
+
+| Krok | WYKONANIE |
+|---|---|
+| **Weryfikacja web** | ✔ u źródeł: GUS stat.gov.pl (informacja sygnalna BAEL, publ. 25.09.2026; liczby zgodne w relacjach prawo.pl/LEX/MedExpress), Lenart — portal apcz.umk.pl (DOI 10.12775/ED.2024.008; ⚠️ paginacja 99–119 vs 101–121 → `[s?]`), „Wyczerpani" — 6 niezależnych relacji (badanie „Kanapka w biznesie", 284 os., XII 2025–II 2026), Domaradzki — nature.com + PMC. Nie weryfikowano webowo: Pask 2026, Krawczyk-Dąbrowska 2025 (zarejestrowane w nocie 46 jako zgłoszone). |
+| **46, cz. V: wstawka** | 3 zdania po akapicie „…ona sama mówi, że daje radę.": skala (≈ ¾ mln pracujących opiekunów dorosłego krewnego — GUS⁴) + chroniczne wyczerpanie (Lenart⁵) + puenta: milczenie opiekuna jako „standardowy język tego stanu, tylko bez widzów". Bez liczb w nawiasach, bez słowa „badania wykazały". |
+| **46, aparat** | +2 przypisy (⁴ GUS BAEL z dokładnymi liczbami 7 269 tys./42,4%/10,4%≈756 tys./1,8%≈309 tys. + klauzula „porównać z PDF przy korekcie"; ⁵ Lenart z DOI, parafraza abstraktu, ⚠️ paginacja); **atomowy bump ⁴⁵⁶→⁶⁷⁸** (Ratzinger *Eschatologia*); nota [?] → historia domknięcia z uczciwą granicą (myśl „żeby to się skończyło" NIE ma źródła — zostaje interpretacją sceny) + rejestr 4 kandydatów poza tekstem; „Do rozstrzygnięcia" pkt 2 domknięty, pkt 4 zaktualizowany |
+| **47:169 (kaskada renumeracji)** | odsyłacz „nota w przyp. ⁴" → **⁷** z adnotacją (był nieaktualny już od ETAP Q „reszta +1"; ETAP X przesunął na ⁷) |
+
+**Bilans ETAP X:** rozdz. 46 (wstawka + 2 przypisy + bump + 2 noty), rozdz. 47 (1 odsyłacz), dok. 15. Luka [?] z kwerendy autora DOMKNIĘTA minimalnie: 2 źródła w tekście, 2 zweryfikowane w nocie, 2 zarejestrowane.

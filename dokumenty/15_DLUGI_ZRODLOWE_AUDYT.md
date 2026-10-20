@@ -508,3 +508,22 @@ Jedyny rozdział z rekomendacją częściowego przepisania (R1+R3+R4). **Diagnoz
 **Naprawa seryjna przy okazji:** 42 — zepsute odesłanie „o czym mówił już rozdział 9" → **„rozdział siódmy"** (rachunek za samostworzenie jest w 7; „9" to ocalała numeracja żywotu v2). Klamra 42↔11 z noty v1: **celowo nieodtworzona** (42 patrzy w przód, 11 ma własną puentę — dublowanie). Rozbieżność przekładu af. 125 między 7 („zabójcami") a starym 42 („mordercami") znika razem ze skrótem. Przypis 1 w 42 (oryginał niemiecki + fakty kontekstu) — zachowany z adnotacją ETAP V.
 
 **Bilans ETAP V:** 9 redakcji w 3 plikach (+2 adnotacje aparatów, 3 noty ETAP V); 42: 2188→1955, 41: 2403→2168, 43: 2126→2009 słów. **5.5 ZAMKNIETE; ETAP 5 wykonany w całości poza 5.7 (wyłącznie lektura autora) i głębokim 5.1 (po 5.7).**
+
+
+### ⭐⭐ ETAP W (2026-10-20) — decyzja autora: przekłady własne w przypisach (z zaznaczeniem)
+
+**Decyzja:** „można użyć własnych przekładów w przypisach, oczywiście z zaznaczeniem". Domyka warunkowe „albo zastąpić wyd. polskim, albo zachować" w aparatach rozdz. 41 i 42 oraz aktualizuje protokoły, które wciąż wymagały „tylko parafraza" mimo utrwalonej praktyki rozdziałów.
+
+| Plik | ZMIANA |
+|---|---|
+| `06_KARTOTEKA` (wiersz `[tł]`) | „tylko parafraza (zakaz)" → przekład własny dozwolony: oznaczenie + oryginał w przypisie + zweryfikowany oryginał; wyd. polskie w bibliotece = nadal jego brzmienie; podwójne pośrednictwo zawsze adnotowane |
+| `06_KARTOTEKA` (wiersz Bonhoeffer) | naprawa nieaktualnego wiersza: tytuł ***Życie wspólne*** (Alleluja 2001, ISBN 83-87440-86-8; nie „O życiu wspólnym"), status: **WYKONANE w rozdz. 39** (5 miejsc z oryginału, `[tł. wł.]`) |
+| `05_KARTOTEKA` (wiersz `[tł]`) | „przekład własny zakazany" → dopuszczalny z oznaczeniem; dla Ratzingera złoty standard bez zmian: wydania polskie (autopsja w kolejce pozyskań) |
+| rozdz. 41, przyp. ⁵ | „należy zastąpić…albo zachować" → **DECYZJA: zostają jako przekłady własne `[tł]`** (zastępowanie Ochockim/KR nieplanowane) |
+| rozdz. 42, nota red. pkt 1 | „albo uzupełnić (Staff/Łukasiewicz), albo zachować" → **DECYZJA: zachowane z adnotacją** (pasmo Staff/Łukasiewicz odpada) |
+
+**Inwentarz przekładów własnych (audyt 2026-10-20, wszystkie oznaczone):** rozdz. 08 (Freud, 5 miejsc, autopsja pierwodruków), 09 (Sartre BiN ×3, z wyd. Barnes — pośrednictwo adnotowane), 10 (MacIntyre ×2, Arendt ×4, autopsja), 11 (Dhammapada 160 + Analekta IV,25 — z angielskiego, pośrednictwo adnotowane), 12 (Putnam ×4, autopsja), 13 (Han ×4, z angielskiego — pośrednictwo adnotowane), 20 (Yalom ×2 bloki + Heidegger § 47 za Yalomem, autopsja), 28 (Spaemann — świadomie referat, bez cytatu), 39 (Bonhoeffer ×5, `[tł. wł.]`, autopsja oryginału), 41 (Freud ³⁴⁵, oba wydania), 42 (Nietzsche ¹²³, eKGWB zdanie po zdaniu), 45 (Weizenbaum ×2, Turkle ×1 — `[tł]`; przy Turkle wyd. pol. WUJ 2013 istnieje, decyzja pozostawia `[tł]`).
+
+**Zasada nadrzędna bez zmian:** gdzie mamy polskie wydanie — cytujemy z niego (EN nigdy źródłem cytatu PL); przekład własny nie jest źródłem „mądrzejszym" od oryginału — zawsze podajemy oryginał w przypisie.
+
+**Bilans ETAP W:** 5 plików, zero zmian w tekstach głównych (tylko aparaty + dokumenty). Decyzja zarejestrowana; protokoły spójne z praktyką.

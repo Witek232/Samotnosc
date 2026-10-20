@@ -107,7 +107,7 @@ Nietzsche nie sięgnął za daleko. Sięgnął za samotnie.
 3. **Biblioteka:** dodano `biblioteka/_tekst/nietzsche_frohliche-wissenschaft_de.txt` (*Wiedza radosna*, wyd. krytyczne Colli–Montinari za Nietzsche Source; 79 tys. słów, tekst czysty, **bez paginacji** — cytować wg numeru aforyzmu, co dla Nietzschego jest standardem i **nie wymaga statusu `[s?]`**).
 
 **Do rozstrzygnięcia przez autora:**
-1. **Wszystkie cytaty Nietzschego to przekłady własne `[tł]`** — brak wydania polskiego w bibliotece. Przy redakcji: albo uzupełnić (Staff / Łukasiewicz dla *Wiedzy radosnej*), albo zachować z adnotacją. To samo dotyczy Bonhoeffera (rozdz. 39) i Freuda (rozdz. 41).
+1. **Wszystkie cytaty Nietzschego to przekłady własne `[tł]`** — brak wydania polskiego w bibliotece. **Decyzja autora (2026-10-20): zachowane z adnotacją `[tł]`** (wariant Staff/Łukasiewicz odpada). To samo rozstrzygnięcie objęło Bonhoeffera (rozdz. 39 — wykonane wcześniej) i Freuda (rozdz. 41).
 2. **Podwójny przekład „każdej rozkoszy"** — Węcławski (*Eschatologia*) i przekład *Wprowadzenia* podają to zdanie inaczej. Ujednolicić przy redakcji; obecnie użyta wersja Węcławskiego jako pełniejsza.
 3. *Tako rzecze Zaratustra* (Prolog) — konspekt przewidywał odesłanie; **pominięte**, bo rozdział i tak ma trzy cytaty Nietzschego, a Prolog nie wnosi nic ponad to, co niesie af. 125.
 4. Klamra z rozdz. 11 (Wschód jako trzeci rozmówca) — **niewykonana**; wymaga sprawdzenia, jak rozdz. 11 ją zapowiada. **[?]**

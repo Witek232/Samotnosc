@@ -22,7 +22,7 @@ Trzy sekcje robią trzy różne rzeczy:
 | ✔ | brzmienie i lokalizacja sprawdzone — wolno cytować dosłownie |
 | `[s?]` | **brzmienie pewne, strona/wydanie niepewne** (np. z PDF-u o nieoryginalnym układzie) |
 | `[?]` | brzmienie niepewne — **tylko parafraza, bez cudzysłowu** |
-| `[tł]` | mam tylko wersję obcojęzyczną — przekład własny zakazany w tekście głównym (patrz `narzedzia/README.md`) |
+| `[tł]` | mam tylko wersję obcojęzyczną — po decyzji autora (2026-10-20) przekład własny dopuszczalny: jawnie oznaczony, z oryginałem w przypisie; **dla Ratzingera złoty standard bez zmian: wydania polskie** (autopsja PAX/Znak w kolejce pozyskań — patrz `08_LISTA_POZYCJI_DO_POZYSKANIA`) |
 
 ---
 

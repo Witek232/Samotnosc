@@ -23,7 +23,7 @@ Ta reguła jest tańsza niż się wydaje: parafraza dobrze napisana czyta się c
 | ✔ | brzmienie + lokalizacja sprawdzone w źródle | cudzysłów |
 | `[s?]` | brzmienie pewne, strona/wydanie nieustalone | cudzysłów + przypis „wyd. i strona do uzupełnienia" |
 | `[?]` | brzmienie niepewne | **tylko parafraza** |
-| `[tł]` | mam wersję obcojęzyczną, brak przekładu polskiego | tylko parafraza (zakaz przekładu własnego — `narzedzia/README.md`) |
+| `[tł]` | mam wersję obcojęzyczną, brak przekładu polskiego | **przekład własny DOZWOLONY (decyzja autora 2026-10-20)**: jawnie oznaczony („przekład własny" / `[tł]`), z oryginałem w przypisie i zweryfikowanym oryginałem; gdy wyd. polskie istnieje i jest w bibliotece — nadal jego brzmienie (zasada `narzedzia/README.md` bez zmian); tłumaczenie z przekładu (podwójne pośrednictwo) — zawsze z adnotacją pośrednictwa |
 | `[atr]` | wątpliwa atrybucja (cytat „krążący") | użyć tylko z notą o atrybucji albo wyciąć |
 
 ## 3. Rejestr
@@ -63,7 +63,7 @@ Pełna lista: `05_KARTOTEKA_RATZINGEROWSKA.md` § 5 (pozycje R1–R10). Nie dubl
 | Frankl, *Człowiek w poszukiwaniu sensu* | Nietzscheańskie „kto ma po co żyć…" | 19 | `[?]` | Frankl cytuje Nietzschego — **podwójna atrybucja do zaznaczenia** |
 | Yalom | cztery dane ostateczne; samotność egzystencjalna | 20, 40 | `[?]` | |
 | Heschel, *Bóg szukający człowieka* | Bóg w poszukiwaniu człowieka | 30 | `[?]` | tytuł polski do ustalenia |
-| Bonhoeffer, *O życiu wspólnym* | „Kto nie umie być sam…" | 39 | `[tł]` | oryginał ✔ (`05_KARTOTEKA` § 4d); **brak wyd. polskiego** — do tekstu głównego potrzebne. UWAGA: formuła dwuczłonowa z konspektu to **dwa osobne miejsca**, nie jedno zdanie |
+| Bonhoeffer, ***Życie wspólne*** (poprawny tytuł pol.; nie „O życiu wspólnym" — korekta z rozdz. 39: Alleluja, Kraków 2001, ISBN 83-87440-86-8) | „Kto nie umie być sam…" | 39 | ✔ `[tł. wł.]` | **WYKONANE w rozdz. 39**: 5 miejsc z oryginału w bibliotece projektu, przekłady własne oznaczone (legalizacja: decyzja autora 2026-10-20). UWAGA: formuła dwuczłonowa z konspektu to **dwa osobne miejsca**, nie jedno zdanie |
 | Bonhoeffer, *Naśladowanie* | „każe mu przyjść i umrzeć" | 39 | `[?]` | |
 | Luther, przedmowa 1545 | „otwartymi drzwiami raju" | 39 | `[?]` | + nota o datacji *Turmerlebnis* |
 | Luther, Wormacja | „Tu stoję, nie mogę inaczej" | 39 | `[atr]` | **brzmienie spopularyzowane później — obowiązkowa nota** |

@@ -9,7 +9,7 @@
 
 Poprzedni rozdział skończył się gestem podania. Chleb przechodził z rąk do rąk, obecność miała gramaturę, a odpowiedź na pytanie „czy Bóg jest tutaj?" dało się wziąć w dłoń. Ale gest podania ma jedną własność, o której rozdział o Eucharystii mógł tylko wspomnieć: nie kończy się przy poręczy. Jeżeli obecność jest realna, musi mieć ciąg dalszy poza budynkiem — inaczej jest obrzędem samowystarczalnym, czyli, w kategoriach tej książki, jeszcze jedną elegancką formą pustki. Pytanie tego rozdziału jest więc pytaniem o ciąg dalszy i brzmi tak, jak zapisała je kartoteka: **czy można pokonać samotność samą teorią?**
 
-Odpowiedź, którą trzeba dać od razu, żeby nie budować napięcia tam, gdzie go nie ma, brzmi: nie. I nie jest to odpowiedź religijna — jest to wniosek, do którego doprowadziła cała pierwsza połowa tej książki, mówiąc głosami, które z chrześcijaństwem nie miały nic wspólnego albo miały z nim rachunki. Bowlby pokazał, że więź jest potrzebą biologiczną, a nie ideą, którą można komuś wyłożyć (rozdz. 19). Frankl pokazał, że sens nie jest teorią sensu (rozdz. 20). Rosa pokazał, że rezonans jest zdarzeniem, a nie stanowiskiem (rozdz. 22). Teoria samotności jest sama formą samotności: mówi **o** ludziach, a nie **do** nich. Można napisać znakomitą książkę o samotności i nie zmniejszyć jej o gram — także tę.
+Odpowiedź, którą trzeba dać od razu, żeby nie budować napięcia tam, gdzie go nie ma, brzmi: nie. I nie jest to odpowiedź religijna — jest to wniosek, do którego doprowadziła cała pierwsza połowa tej książki, mówiąc głosami, które z chrześcijaństwem nie miały nic wspólnego albo miały z nim rachunki. Bowlby pokazał, że więź jest potrzebą biologiczną, a nie ideą, którą można komuś wyłożyć (rozdz. 18). Frankl pokazał, że sens nie jest teorią sensu (rozdz. 19). Rosa pokazał, że rezonans jest zdarzeniem, a nie stanowiskiem (rozdz. 21). Teoria samotności jest sama formą samotności: mówi **o** ludziach, a nie **do** nich. Można napisać znakomitą książkę o samotności i nie zmniejszyć jej o gram — także tę.
 
 Ten rozdział pyta więc o coś innego niż o słuszność. Pyta, co chrześcijaństwo *robi*, kiedy skończy mówić — i czy to, co robi, wytrzymuje własne twierdzenia. Ustala przy tym dwie dyscypliny. Pierwsza: żadnego przeciwstawiania Kościoła i państwa. To byłoby tanie i, co gorsza, nieprawdziwe; sprawiedliwość strukturalna i miłość osobowa nie konkurują, one się warunkują. Druga: żadnych statystyk skuteczności. Rozdział nie będzie dowodził, że caritas zmniejsza samotność, bo dowód tego rodzaju byłby wbrew jego własnej tezie — i wbrew zdaniu, wokół którego rozdział jest zbudowany.
 
@@ -112,7 +112,7 @@ To jednak nie jest jeszcze koniec sprawdzianu, a raczej: właśnie tu sprawdzian
 
 ¹¹ Tamże, § 31c: „On wie, że Bóg jest miłością (por. 1 J 4, 8) i staje się obecny właśnie wtedy, gdy nie robi się nic innego ponad to, że się kocha" ✔.
 
-¹² Odesłania wewnętrzne (numeracja v3): rozdz. 16 (miłość romantyczna), 16 (eros/agape), 18 (Bowlby), 19 (Frankl), 20 (Yalom), 21 (Rosa), 24 (zstąpienie), 32 (Bóg, który nie jest sam), 36 (Eucharystia), 38–39 (świadectwa siostrzane), 40 (sprawdzian zarzutu).
+¹² Odesłania wewnętrzne (numeracja v3): rozdz. 15 (miłość romantyczna), 16 (eros/agape), 18 (Bowlby), 19 (Frankl), 20 (Yalom), 21 (Rosa), 24 (zstąpienie), 32 (Bóg, który nie jest sam), 36 (Eucharystia), 38–39 (świadectwa siostrzane), 40 (sprawdzian zarzutu).
 
 **Noty redakcyjne (poza tekstem książki):**
 
@@ -126,3 +126,5 @@ To jednak nie jest jeszcze koniec sprawdzianu, a raczej: właśnie tu sprawdzian
 - **Refren:** raz, ruch VI, w brzmieniu z konspektu § 5 pkt 6. Puenta = zdanie kartoteki, bez zmian.
 - **Długość:** ok. 2,4 tys. słów tekstu głównego (cel konspektu 2,3–2,6) — do przeliczenia po redakcji.
 - **Znaczniki ruchów I–VI znikają w wersji drukowanej.**
+
+**Poprawka 2026-10-21 (ETAP Y):** odesłania w tekście głównym (ruch I) były po starej numeracji v2 — Bowlby „rozdz. 19"→**18**, Frankl „rozdz. 20"→**19**, Rosa „rozdz. 22"→**21**; w przyp. ¹² „16 (miłość romantyczna)"→**15**. Przyp. ¹² sam podawał mapę v3 — tekst główny przeciekał stanem roboczym. Wykryte w recenzji zewnętrznej (2026-10-21), zweryfikowane względem `SPIS_PLIKOW`/`STRUKTURA_V3`; skan całego tomu nie wykazał innych leaków tego typu.

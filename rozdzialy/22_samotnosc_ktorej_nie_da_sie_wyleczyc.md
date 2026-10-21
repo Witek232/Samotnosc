@@ -110,7 +110,7 @@ Można na to odpowiedzieć na dwa sposoby, oba uczciwe i oba niewystarczające. 
 
 Benedykt XVI stawia to samo pytanie i nie próbuje go osłabić. Pisze o człowieku, który doświadczył w życiu wielkiej miłości i przeżył ją jako moment odkupienia — po czym dodaje zdanie, które jest w tym rozdziale na miejscu:
 
-> „Szybko jednak zda sobie również sprawę z tego, że miłość, która została mu dana, sama nie rozwiązuje problemu jego życia. **Jest to krucha miłość. Może zostać zniszczona przez śmierć.** Istota ludzka potrzebuje miłości bezwarunkowej."⁴
+„Jest to krucha miłość. Może zostać zniszczona przez śmierć."⁴ A dalej *Spe salvi* dochodzi do wniosku: „Istota ludzka potrzebuje miłości bezwarunkowej." Pełny cytat tego fragmentu — wraz ze zdaniem o wielkiej miłości przeżytej jako odkupienie — jest w rozdziale piętnastym.
 
 Zwróćmy uwagę, że to nie jest zdanie przeciwko ludzkiej miłości. To jest zdanie o jej **mierze**: żeby wytrzymała, musiałaby być bezwarunkowa, a bezwarunkowa nie jest, bo warunkiem jest życie tego, kto kocha. Diagnoza z tego zdania jest identyczna z diagnozą Heideggera — różni je tylko to, że jedna kończy się na opisie, a druga jest początkiem pytania.
 
@@ -162,19 +162,19 @@ Bo za chwilę padnie zdanie, na którym stoi całe chrześcijaństwo: „Jezus u
 
 ⚠️ **Polskie wydanie: nie ustalałem.** Nie wpisuję żadnego, bo nie sprawdziłem, czy *Philosophie* wyszło po polsku w całości. **Do uzupełnienia przy redakcji** — jeśli przekładu nie ma, przypis zostaje przy oryginale.
 
-⁴ **Benedykt XVI, *Spe salvi* (2007), § 26.** ✔ **BRZMIENIE ZWERYFIKOWANE 2026-09-10** na tekście polskim w serwisie Stolicy Apostolskiej (`vatican.va`).
+⁴ **Benedykt XVI, *Spe salvi* (2007), § 26.** ✔ **BRZMIENIE ZWERYFIKOWANE 2026-09-10** na tekście polskim w serwisie Stolicy Apostolskiej (`vatican.va`). **Dedup 2026-10-21 (ETAP Y):** identyczny cytat blokowy stał też w rozdz. 15 — tam zostaje pełny blok (z autopsji), tutaj zdania robocze rozdziału podane inline + odesłanie.
 
 Pełny kontekst zdania: „To nie nauka odkupuje człowieka. Człowiek zostaje odkupiony przez miłość. […] Kiedy ktoś doświadcza w swoim życiu wielkiej miłości, jest to moment «odkupienia», który nadaje nowy sens jego życiu. Szybko jednak zda sobie również sprawę z tego, że miłość, która została mu dana, sama nie rozwiązuje problemu jego życia. Jest to krucha miłość. Może zostać zniszczona przez śmierć. Istota ludzka potrzebuje miłości bezwarunkowej".
 
-**W cytacie blokowym pominięto pierwsze zdania** (o nauce i odkupieniu) — nie należą do tematu rozdziału i wprowadzałyby wątek postępu, który tu nie pracuje. **Skrót nie zmienia sensu**: zdanie o kruchości odnosi się w oryginale dokładnie do tej samej „wielkiej miłości", o której mowa w moim akapicie wprowadzającym.
+**Zastane nota (sprzed ETAP Y):** w byłym cytacie blokowym pominięto pierwsze zdania (o nauce i odkupieniu) — nie należały do tematu rozdziału. Po dedup 2026-10-21 kwestia pominięć dotyczy wyłącznie pełnego bloku w rozdz. 15, gdzie jest odnotowana; zdanie o kruchości odnosi się w oryginale dokładnie do tej samej „wielkiej miłości", o której mowa w akapicie wprowadzającym.
 
-**To JEDYNY cytat Ratzingera w rozdziale** i jedyny cytat blokowy w ogóle. Limit z kryteriów pkt. 3 (maks. 2 cytaty, ≤1 blokowy) — zachowany z zapasem.
+**To JEDYNY cytat Ratzingera w rozdziale**; po ETAP Y (dedup z rozdz. 15) podany inline — bloku nie ma. Limit z kryteriów pkt. 3 (maks. 2 cytaty, ≤1 blokowy) — zachowany.
 
 ---
 
 ## Noty redakcyjne (poza tekstem książki)
 
-- **Cytaty blokowe: JEDEN** (*Spe salvi* 26). Sprawdzone skryptem po napisaniu — procedura wprowadzona po rozdz. 38 i 39, gdzie za każdym razem wyszła rozbieżność między deklaracją a stanem faktycznym. Tutaj zgadza się za pierwszym razem.
+- **Cytaty blokowe: ZERO od 2026-10-21 (ETAP Y)** — *Spe salvi* 26 po dedupie z rozdz. 15 podany inline (wcześniej: jeden blokowy, sprawdzony skryptem po napisaniu — procedura z rozdz. 38–39).
 - **Heidegger i Jaspers — obaj REFEROWANI, ani jednego słowa w cudzysłowie.** To świadoma decyzja, nie brak: nie mam żadnego z tych wydań, a rozdział, którego tematem jest uczciwość wobec granicy, nie może stać na cytatach zmyślonych z pamięci. Konspekt podawał dla obu „robocze parafrazy" — **obie odrzuciłem**. Przy redakcji z egzemplarzami można wprowadzić po jednym krótkim cytacie; miejsca są oczywiste (§ 47 i pojęcie *Grenzsituation*).
 - **Reguła ostatniego słowa — wykonana wprost.** Ostatni głos przed refrenem i puentą należy do linii Ratzingerowskiej (*Spe salvi* 26) i **nie jest korektą** żadnego z filozofów: Benedykt stawia tu tę samą diagnozę co Heidegger, różnica dotyczy tylko tego, czy opis jest końcem, czy początkiem. Tak też jest to w tekście nazwane.
 - ⚠️ **Ryzyko główne rozdziału: przedwczesna pociecha.** Rozdział otwiera **zejście** — nie wolno mu odpowiedzieć na własne pytanie. Dlatego: refren zostaje **bez odpowiedzi** (jedyny taki przypadek w rejestrze), cytat z *Spe salvi* jest **postawieniem pytania o miłość bezwarunkową, nie jej udzieleniem**, a scena nie zostaje na końcu domknięta. Przy redakcji **nie dopisywać zdania pocieszającego** — pokusa będzie duża.

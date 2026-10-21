@@ -205,7 +205,7 @@ Brzmienie dokładne: „Można zobaczyć na tle tego opowiadania idee występuj�
 | Źródło | Status | Uwaga |
 |---|---|---|
 | Benedykt XVI, *Deus caritas est* § 11 | ✔✔ **z autopsji** (`vatican.va`, pol.) | ⭐⭐ **sam omawia mit z *Uczty*** — znalezisko spoza konspektu |
-| Benedykt XVI, *Spe salvi* § 26 | ✔✔ **z autopsji** (`vatican.va`, pol.) | **cytat blokowy**; ⚠️ opuszczono 3 zdania początkowe — odnotowane |
+| Benedykt XVI, *Spe salvi* § 26 | ✔✔ **z autopsji** (`vatican.va`, pol.) | **cytat blokowy**; ⚠️ opuszczono 3 zdania początkowe — odnotowane; ⭐ **po dedup 2026-10-21 (ETAP Y): JEDYNY pełny blok § 26 w tomie** (rozdz. 22 miał identyczny blok — tam zdania inline + odesłanie) |
 | Fromm, *O sztuce miłości* | ⛔ **niedostępna** | referat „problemu obiektu"; ⚠️ dane wyd. pol. niepotwierdzone; ⚠️ przykład z malarzem **mój** |
 | Platon, *Uczta* | ⛔ **bez tekstu** | obraz kulturowy, bez cytatu i lokalizacji |
 | Historia małżeństwa (Coontz) | **kwerenda 2026-09-13** | teza potwierdzona w literaturze: p. 5 („love-based marriage" jako ideał kulturowy zaledwie ostatnich ~200 lat; Viking 2005), ponadto pp. 15–24, 117. **Dozwolona parafraza z przypisem (p. 5), bez cudzysłowu i bez liczb do autopsji**; rekomendacja redakcyjna: „około ostatnich dwóch stuleci" |

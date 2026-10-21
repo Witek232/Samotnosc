@@ -541,3 +541,13 @@ Jedyny rozdział z rekomendacją częściowego przepisania (R1+R3+R4). **Diagnoz
 | **47:169 (kaskada renumeracji)** | odsyłacz „nota w przyp. ⁴" → **⁷** z adnotacją (był nieaktualny już od ETAP Q „reszta +1"; ETAP X przesunął na ⁷) |
 
 **Bilans ETAP X:** rozdz. 46 (wstawka + 2 przypisy + bump + 2 noty), rozdz. 47 (1 odsyłacz), dok. 15. Luka [?] z kwerendy autora DOMKNIĘTA minimalnie: 2 źródła w tekście, 2 zweryfikowane w nocie, 2 zarejestrowane.
+
+
+### ⭐⭐ ETAP Y (2026-10-21) — naprawa dwóch błędów wykrytych w recenzji zewnętrznej (zweryfikowanych w repo)
+
+| Błąd | Weryfikacja | NAPRAWA |
+|---|---|---|
+| **37: odesłania po starej numeracji v2** — tekst główny (ruch I): Bowlby „rozdz. 19", Frankl „rozdz. 20", Rosa „rozdz. 22" | ✔ potwierdzone (przyp. ¹² sam podawał mapę v3: 18/19/21); skan całego tomu: **jedyny taki leak** (22:79 „Yalom (rozdział 20)" i 47:31 „(rozdział 22)" = poprawne v3) | 37 ruch I: 19→**18**, 20→**19**, 22→**21**; **+ błąd znaleziony przy okazji (poza recenzją):** przyp. ¹² „16 (miłość romantyczna)"→**15**; adnotacja w 37 |
+| **15/22: duplikat cytatu blokowego *Spe salvi* § 26** — „Jest to krucha miłość…" stało blokowo w obu rozdziałach (22 = blok 15 minus pierwsze zdanie; jedyna taka powtórka tomu; umknęła loci 5.1) | ✔ potwierdzone (15:121 / 22:113) | **15: pełny blok zostaje** (naturalny dom, autopsja; adnotacja w tabeli źródeł); **22: blok → zdania inline** („krucha miłość…" + wniosek „Istota ludzka potrzebuje…") + odesłanie „pełny cytat… w rozdziale piętnastym"; przyp. ⁴ z adnotacją dedup; noty 22 (pominięcia/limit/cytaty blokowe) zaktualizowane; reguła ostatniego słowa zachowana (Ratzinger nadal ostatni głos, inline) |
+
+Precedent: dedup „obrazu od dołu" (ETAP S). Bilans ETAP Y: 3 pliki, 7 redakcji, zero zmian w argumencie rozdziałów.

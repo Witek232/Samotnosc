@@ -88,6 +88,14 @@ Rozdział dwudziesty dziewiąty pokazywał tę samą różnicę od strony tego, 
 
 I tu Marcel się zatrzymuje — nie dlatego, że jest niekonsekwentny, tylko dlatego, że filozofia obecności opisuje **fakt**, a nie jego podstawę. Mówi, że obecność zmienia samotność. Nie mówi, **dlaczego akurat to działa** ani co się dzieje wtedy, gdy nie zostaje już nikt — a przecież ostatni krok robi się bez towarzystwa, choćby cały pokój był pełen ludzi.
 
+Najstarszy przypadek obecności przy umieraniu, jaki ta książka ma w swoim materiale, jest starszy od wszystkich jej filozofów razem wziętych — i zapisany od strony świadków: „A obok krzyża Jezusowego stały: Matka Jego i siostra Matki Jego, Maria, żona Kleofasa, i Maria Magdalena" (J 19,25). Czasownik jest niedokonany i wart samodzielnej uwagi: relacja nie mówi, że przyszły i stanęły — mówi, że **stały**. Trwanie bez gestu i bez skutku; obecność, która nie ma nic do dania i nie odchodzi. Łacina zrobiła z tego czasownika nazwę całej sceny: *Stabat* — „stała".
+
+Warto odmierzyć tę scenę miarami tego rozdziału, bo trzy „nikt" z ruchu drugiego przechodzą w niej próbę o największej możliwej ostrości. Przy umierającym stoi osoba najbliższa, jaka istnieje — matka — i struktura nie ugina się ani o milimetr: nie umrze za niego, nie wejdzie w jego umieranie, nie skróci go o godzinę. Zastępstwa nie ma. Towarzystwo dochodzi do krawędzi i na krawędzi się kończy. Zostaje trzecia rzecz, najrzadsza: świadek — ktoś patrzy na umieranie i nie odwraca wzroku, choć nie ma w nim nic do zdziałania: ani ratunku, ani ulgi, ani ręki.
+
+I wtedy umierający robi coś, czego filozofia obecności nie przewiduje. „Kiedy więc Jezus ujrzał Matkę i stojącego obok Niej ucznia, którego miłował, rzekł do Matki: «Niewiasto, oto syn Twój». Następnie rzekł do ucznia: «Oto Matka twoja». I od tej godziny uczeń wziął Ją do siebie" (J 19,26-27). Trzeba zauważyć, skąd pochodzi ta więź: nie od tych, którzy zostają — tamta zrodziłaby się pod krzyżem sama, ze wspólnego smutku. Ta jest dana z wnętrza samotności, której nikt z nich nie może z nim dzielić. Umieranie nie staje się przez to lżejsze ani o gram. W języku tego rozdziału: samotność nie zostaje usunięta — przestaje być całkowita.
+
+Scena jest przy tym sucha, i dobrze, bo łatwiejszego miejsca do rozczulenia nie ma w całej tej książce. Jan nie zapisuje uczuć — zapisuje czasownik. W relacji nie ma łez, nie ma trzymania za ręce, nie ma światła w oczach; jest godzina i stojące kobiety. Kobiecie z rozdziału dwudziestego — tej od myśli „dlaczego on przechodzi to sam?", której się wstydziła — ta scena niczego nie odpowiada. Daje coś starszego od odpowiedzi: pewność, że pytanie postawiono dobrze (sam — do końca sam), i najstarsze słowo na to, co jej zostało. Stała.
+
 Innymi słowy: obecność ludzka odprowadza do progu. Pytanie, które książka postawiła w rozdziale dwudziestym drugim i zostawiło bez odpowiedzi — *czy ktoś jest po drugiej stronie?* — leży poza jej zasięgiem.
 
 ⚠️ Marcel jest tu **referowany, nie cytowany** — nie mam jego wydania. To ustalenie z dok. 08 i celowo go nie obchodzę.
@@ -188,6 +196,15 @@ Brzmienie oryginalne: „Jeśli śmierć w swej istocie polega na zerwaniu wszel
 - **Odróżnienie od rozdz. 24 ✔** (uwaga warsztatowa): tu **synteza, nie egzegeza**. Zero analizy artykułu wiary, zero szeolu, zero KKK, zero Ps 6,6. Treść zstąpienia streszczona **jednym zdaniem wyniku** („ktoś przeszedł tamtędy pierwszy") z jawnym „nie będziemy tu powtarzać".
 - **Długość po ETAP P:** ok. **2,05–2,1 tys. słów** (było 1,54). Rozbudowa wg D9: ruch I (+sprawdzian), ruch III (+„**się** umiera" odwrócone — drugi przykład z rozdz. 22; +świadek jako trzecia rzecz), ruch IV (+drugi przykład obok/obecność; +pierwsze brzmienia Marcela 58–59; +wiązanie z 29), ruch V (brzmienie Ratzingera dosłownie). ⚠️ **Pozostały dystans do celu 2,3–2,6 tys. leży niemal wyłącznie w ruchu III (konkret z opieki paliatywnej) i jest zablokowany źródłowo** — zgodnie z regułą autora nie zamyka się go materiałem niezweryfikowanym; po pozyskaniu źródła +200–400 słów domknie cel. **Ruchu V nadal nie rozbudowywać** — jego siła jest w zwięzłości (zachowane).
 - **Klamry:** 1–3, 20, 22 (trzy „nikt" jako wynik), 23 (definicja odwrócona), 24 (przejście), 26 (próg), 29 (obecność), 46 (odroczenie).
+- **DOPIS „Świadek, którego brak" (2026-10-22)** — ruch IV zyskuje blok przedostatni (przed „Innymi słowy…"): figura kanoniczna dla kategorii świadka z ruchów II–III; wejście Matki Bożej do tomu (rekomendacja z konsultacji redakcyjnej 22 X; pełny opis: `download/Dopis_Swiadek_ktorego_brak.md`).
+  - **Podział głosów krzyża zachowany:** rozdz. 25 ma słowa umierającego (przy J 19 — tylko „Wykonało się"), ten rozdział — świadków; Getsemani (48) nietknięte. Ten sam mechanizm podziału, co między 25 i 48 (krzyż/ogród).
+  - **Bez nowego przypisu** (cytaty śródzdaniowe z odesłaniem w nawiasie — numeracja ¹–³ nietknięta); bez refrenu (ruch VI nietknięty); puenta i most bez zmian; **rozdział pozostaje jedyny w części VIII bez sceny** (blok = figura w ruchu, jak kuchnia z 22 w ruchu II; rejestr scen dok. 07 § B bez zmian).
+  - **Strefa wyłączona z mapy urozmaicenia zachowana** — zwykły rejestr, zero eksperymentu formy.
+  - **Nazewnictwo:** w tekście wyłącznie „Matka"/„matka" (designacja biblijna); imię nie pada — nota nazewnicza z rozdz. 27 celowo niewykorzystana.
+  - **Klamra 20 pogłębiona:** z referatu Yaloma (ruch II) do postaci — kobieta z hospicjum i matka pod krzyżem; klamra 48 („samotność nieabsolutna") wzmocniona, nie podwojona.
+  - ⚠️ **Zastrzeżenie hospicyjne w ruchu III pozostaje** — dopis nie jest źródłem z opieki paliatywnej i nie zwalnia z jego szukania.
+  - ⚠️ **[?] J 19,25-27:** brzmienie wg oficjalnego portalu biblia.pl (zgodne z biblia-online.pl): „A obok krzyża Jezusowego…". Warianty odnotowane: lekcjonarz „Obok krzyża Jezusa…" (niedziela.pl, gosc.pl, deon.pl); w. 26 „obok Niej" vs „obok Niego" (portal biblia.pl; greka παρ' αὐτῇ = „obok Niej" — przyjęte); „rzekł do ucznia" (biblia.pl) vs „rzekł uczniowi" (biblia-online.pl). Do ujednolicenia z egzemplarzem BT wyd. V. **Opcja celowo odrzucona:** kontrast „z daleka" (Mk 15,40; Mt 27,55-56; Łk 23,49) vs „obok krzyża" — łamałby zasadę „wyłącznie głos Janowy" i dołożył trzy brzmienia [?].
+  - **Stabat** — referat, bez cytatu (sekwencja XIII w., tylko incipit).
 
 ### Stan źródeł
 
@@ -198,8 +215,12 @@ Brzmienie oryginalne: „Jeśli śmierć w swej istocie polega na zerwaniu wszel
 | Marcel | ✔ **2 urywki BiM 58–59** („cyt. za: UKSW") + referat | egzemplarz potwierdzi przy redakcji; stron 170–171 **nie podawać** |
 | Heidegger, Jaspers, Yalom | — | echa jednolinijkowe, bez cytatów (referaty z rozdz. 20 i 22) |
 | Świadectwa hospicyjne | ⚠️ **brak źródła — zaznaczone w tekście** | miejsce wskazane, nie zapełnione |
+| J 19,25–27 (dopis 2026-10-22) | ⚠️ **brzmienie wg biblia.pl (+biblia-online.pl); [?] potwierdzić z egzemplarzem BT** | cytaty śródzdaniowe bez przypisu; warianty w notach rozdziału |
+| Stabat Mater (incipit sekwencji, XIII w.) | ✔ **referat, bez cytatu** | tylko czasownik „stała"; sekwencja nie cytowana |
 | Schleiermacher | ✘ **nie czytany** | znany wyłącznie z przywołania przez Ratzingera |
 
 **Bilans po ETAP P: jeden cytat blokowy (refren — formuła własna książki). Dwa głosy źródłowe w cudzysłowie śródzdaniowym: Ratzinger ×1 (Eschatologia, ok. s. 115), Marcel ×2 urywki (BiM 58–59, „cyt. za: UKSW"). Rozdział, w którym Ratzinger ma ostatnie słowo, wypowiada je teraz własnym brzmieniem — a wciąż bez żadnego cytatu blokowego poza refrenem.**
+
+**Bilans po DOPISIE (2026-10-22):** refren nadal jedyny cytat blokowy; doszły **dwa cytaty biblijne śródzdaniowe** (J 19,25; J 19,26-27 — z odesłaniem w nawiasie, bez przypisu) i **jeden referat** (Stabat). Limit Ratzingera nietknięty. Długość: ok. **2,4–2,45 tys. słów** — wewnątrz celu 2,3–2,6 (ruch III nadal wstrzymuje zastrzeżenie hospicyjne).
 
 - ⭐⭐ **PRZEŁOM (noc 13/14.09) — brzmienia dosłowne z BiM 1986 (materiały UKSW, patrz dok. 08).** Dla tego rozdziału: **s. 58–59** „Miłosierdzie jako obecność, jako całkowita dyspozycyjność. Nigdy jeszcze związek z ubóstwem tak jasno mi się nie ukazał. Posiadać, to niemal nieuchronnie być posiadanym" ✔ (obecność + rozporządzalność jednym tchem — para ruchu V); **s. 89** „tylko innym jako innym można przypisywać istnienie…" ✔ (samotność jako zagrożenie doświadczenia istnienia); **s. 63–66** natura nadziei: „U podstaw nadziei znajduje się świadomość sytuacji, która nas skłania do rozpaczy […] Mieć nadzieję to znaczy zawierzyć rzeczywistości" ✔ (punkt zwrotny — nadzieja nie jest przewidywaniem wyniku). Namiary Hv 1984 (63–70, 142–143, 149–151, 158–159) bez zmian. Użycie: „cyt. za: materiały dydaktyczne UKSW" albo z egzemplarza.

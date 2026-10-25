@@ -69,3 +69,4 @@ Rozdział **napisany**: `rozdzialy/47_czy_smierc_jest_samotnoscia.md`.
 4. **Dwie rezerwacje zrealizowane:** *Eschatologia* ok. s. 115 (komunikacja/komunia — zachowane przy pisaniu rozdz. 23) oraz obraz **„przesieki" Schleiermachera** za Ratzingerem (zachowany przy pisaniu rozdz. 46).
 5. **Gradacja metafory skontrolowana:** słowo „drzwi" **nie pada ani razu**; przejście dokonane oddane bez rekwizytu.
 6. **Długość ~1,54 tys. słów** wobec celu 2,3–2,6 tys. — do decyzji autora.
+7. **DOPIS 2026-10-22 („Świadek, którego brak")** — ruch IV zyskuje blok przedostatni (J 19,25-27, figura świadka; wejście Matki Bożej do tomu wg konsultacji redakcyjnej 22 X): domyka kategorię świadka z § 3 i cel długości (→ ok. 2,4–2,45 tys.); bez nowego przypisu, bez refrenu, bez sceny — rozdział pozostaje jedynym w części VIII bez sceny. ⚠️ Świadectwa hospicyjne [?] — nadal otwarte (dopis nie jest ich źródłem). Szczegóły w notach rozdziału.

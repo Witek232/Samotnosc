@@ -96,6 +96,8 @@ Mówić znaczy: użyć słów, które są **wspólne**. Kiedy mówię, że boli 
 
 I tu Kierkegaard łączy się z Regine, choć nigdzie tego nie pisze wprost. Człowiek, który zerwał zaręczyny i nie potrafił powiedzieć dlaczego, przez czterdzieści stron opisuje kogoś, kto **nie może mówić**. Nie twierdzę, że to jest klucz do książki — to byłoby tanie. Odnotowuję tylko, że autor wiedział, o czym pisze.
 
+Odesłany list z pierwszej strony był z tego samego materiału: Regine dostała pierścień bez wyjaśnienia, którego mogłaby użyć — bo w słownikach wspólnych nie było słowa na tę decyzję, a każda własna formuła wychodziła albo bluźnierczo, albo bełkotliwie. List, którego nie da się napisać tak, żeby adresatka wyszła z niego bez szwanku, i mówienie, którego nie da się oddać nikomu — to jedna samotność w dwóch gatunkach.
+
 Warto też zauważyć, czego w tej samotności **nie ma**. Nie jest to samotność człowieka, który nie ma ludzi: Abraham ma żonę, sługi, syna obok siebie na drodze. Jest to samotność **decyzji, która jest nieprzenikalna** — i dlatego może być udziałem kogoś zupełnie otoczonego. Wdowa z rozdziału pierwszego, ta z pełnym kalendarzem, byłaby tu na miejscu.
 
 ---
@@ -147,6 +149,8 @@ To jest najmniej pocieszająca odpowiedź, jaką ta książka dotąd dała. Nie 
 ---
 
 ## VIII. Puenta
+
+Odesłany list okazuje się jedyną odpowiedzią, jaka w tej sytuacji zachowuje adresata: przyjąć całą winę na siebie i odmówić bycia rozumianym, żeby ona wyszła bez szwanku — samotność z adresem, wykonana, a nie wyłożona.
 
 **Istnieje samotność dojrzała. I samotność będąca rozpaczą.** Z zewnątrz wyglądają tak samo; różni je to, czy jest ktoś, do kogo są zwrócone.
 
@@ -219,3 +223,10 @@ Pierwszym, który opisał to z autentyczną czułością i wielkim talentem, by�
 ### Pozyskane do biblioteki
 
 `/home/user/kierk.txt` — S. Kierkegaard, *Wybór pism*, przeł. M. Bienenstock (Wolne Lektury, 324 kB). Zawiera **całą *Trwogę i drżenie***, fragmenty *Albo–albo* i *Okruchów filozoficznych*. ⚠️ **Nie zawiera *Choroby na śmierć*.** Plik **nie został dodany do repo** — do rozstrzygnięcia przez autora, czy `biblioteka/_tekst/` ma przyjmować teksty spoza korpusu Ratzingerowskiego.
+
+---
+
+## Nota DOPIS (2026-10-23, „Urozmaicenia — treści" — realizacja Mapy urozmaicenia)
+
+- ✍ List powraca: (a) ruch IV — list, którego nie da się napisać tak, żeby adresatka wyszła bez szwanku, i mówienie, którego nie da się oddać, jako jedno w dwóch gatunkach; (b) jedno zdanie przed puentą — odesłany list jako jedyna odpowiedź zachowująca adresata. ⚠️ [?] fakt listu pożegnalnego (VIII 1841) do klauzuli w nocie sceny.
+- Tekst główny wstawek, dokładne miejsca, uzasadnienia i ⚠️ [?] do weryfikacji domowej: `download/Dopis_Urozmaicenia_tresci_do_mapy.md`, poz. 10. Zmiany w working tree, bez commita — commit do autora.

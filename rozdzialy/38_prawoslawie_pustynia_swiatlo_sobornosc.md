@@ -18,6 +18,8 @@ A teraz rzecz, dla której ten rozdział został napisany. To jest ten sam pokó
 
 Kierunek ucieczki został tu odwrócony. Nie uciekamy z samotności — uciekamy do niej.
 
+Czasem ktoś puka. Rzadko — pustynia odsiewa turystów; zostaje ten, kto niesie pytanie od tygodnia i po drodze zdążył zrobić z nim wszystko, co da się zrobić samemu. Wchodzi bez formalności, bo drzwi nie mają zamka, staje pod deską z obrazem i odmawia formułę, którą każdy tu zna: abba, powiedz mi słowo. Mieszkaniec nie wstaje. Odpowiada jednym zdaniem — „Idź, usiądź w swojej celi, a cela cię wszystkiego nauczy”.¹ — i wraca do tego, co robił. Gość wychodzi z tym, z czym nie przyszedł: zdaniem, które trzeba nosić przy sobie, aż zacznie działać.
+
 ---
 
 ## I. Pustynia: samotność jako teren, nie jako nagroda
@@ -26,19 +28,19 @@ Ruch, który wtedy się zaczął, ma datę i nazwisko. Około roku 270 młody Eg
 
 Warto od razu zdjąć z tego romans. Ci ludzie nie wybrali samotności dlatego, że była piękna. Wybrali ją, bo uznali, że jest terenem, na którym coś się rozstrzyga — i że w mieście tego rozstrzygnąć nie sposób, bo miasto daje zbyt wiele sposobów odwrócenia uwagi. Pustynia nie była nagrodą za świętość. Była miejscem pracy.
 
-Zostawili po sobie gatunek literacki, którego zwięzłość wciąż onieśmiela: apoftegmat. Jedno zdanie, czasem dwa, wypowiedziane w odpowiedzi na prośbę „abba, powiedz mi słowo". Nie wykład, nie system — słowo, które trzeba nosić przy sobie tydzień, aż zacznie działać. Najsłynniejsze z nich brzmi tak:
+Zostawili po sobie gatunek literacki, którego zwięzłość wciąż onieśmiela: apoftegmat. Jedno zdanie, czasem dwa, wypowiedziane w odpowiedzi na prośbę „abba, powiedz mi słowo". Nie wykład, nie system — słowo, które trzeba nosić przy sobie tydzień, aż zacznie działać. Zdanie, które przed chwilą padło w celi, jest z nich najsłynniejsze: w zbiorach stoi nad nim brat, który przyszedł do abba Mojżesza w Sketis, prosząc o słowo.
 
-> „Pewien brat przyszedł do Sketis do abba Mojżesza, prosząc go o słowo. A starzec mu odpowiedział: «Idź, usiądź w swojej celi, a cela cię wszystkiego nauczy»."¹
-
-Zwróćmy uwagę, czego w tym zdaniu nie ma. Nie ma obietnicy, że będzie dobrze. Nie ma techniki. Nie ma nawet wzmianki o Bogu. Jest polecenie zostania w miejscu — i zaskakujące twierdzenie, że **miejsce jest nauczycielem**.
+Zwróćmy uwagę, czego w nim nie ma. Nie ma obietnicy, że będzie dobrze. Nie ma techniki. Nie ma nawet wzmianki o Bogu. Jest polecenie zostania w miejscu — i zaskakujące twierdzenie, że **miejsce jest nauczycielem**.
 
 Czego cela naucza? Rzeczy nieprzyjemnej: kiedy usuniemy wszystko, co można obwiniać za nasz stan — hałas, ludzi, obowiązki, brak czasu — okazuje się, że kłopot został. Przyszedł razem z nami i mieszka tu teraz na czterech krokach na trzy. Ojcowie nazywali to *logismoi*, „myśli": natrętne poruszenia, które przychodzą bandami i walczą o uwagę. Nie chodziło im o psychologię. Chodziło o odkrycie, że człowiek nie jest sam nawet wtedy, gdy jest sam — tylko że towarzystwo, które mu zostaje, bywa gorsze niż tłum.
 
-To jest odkrycie, do którego ta książka dochodziła długą drogą. W rozdziale piątym patrzyliśmy na Kierkegaarda, u którego pojedynczy człowiek staje przed prawdą bez pośrednictwa tłumu. Ojcowie Pustyni są jego przodkami o piętnaście stuleci — z tą różnicą, że oni to nie tylko pomyśleli, ale przemieszkali.
+Pojedynczy człowiek przed prawdą bez pośrednictwa tłumu: Ojcowie Pustyni myśleli to piętnaście stuleci przed Kierkegaardem — z tą różnicą, że nie tylko pomyśleli, ale przemieszkali.
 
 I jeszcze jedno, bez czego całość byłaby karykaturą. Zachowała się cała rodzina opowieści o tym, jak pustelnik przerywa modlitwę, bo ktoś zapukał. Reguła jest w nich niezmienna: gość jest ważniejszy. Człowiek, który przeszedł przez pustynię, żeby cię zobaczyć, jest ważniejszy niż twoja praktyka duchowa — nawet jeśli twoja praktyka duchowa jest bardzo zaawansowana. Samotność wygrana nie może stać się ważniejsza niż człowiek. Gdyby stała się ważniejsza, byłaby tylko wykwintniejszą formą egoizmu.
 
 To jest zabezpieczenie, którego nie ma większość współczesnych ofert ciszy.
+
+W celi z pierwszej strony widać to bez słowników: samotność, do której wchodzi się z wyboru, nie odmawia wejścia temu, kto przychodzi z pytaniem. Starzec przerwał ciszę dla jednego zdania i oddał je pytającemu — nie zatrzymał dla siebie ani pytania, ani gościa.
 
 ---
 
@@ -50,11 +52,11 @@ Nazywa się to modlitwą serca albo Modlitwą Jezusową i sprowadza się do jedn
 
 Można to opisać tak, że zabrzmi jak technika koncentracji. Byłoby to nieporozumienie, i to poważne, więc powiedzmy wyraźnie, na czym polega różnica.
 
-Technika medytacyjna dąży do **opróżnienia**. Jej celem jest cisza, w której ustaje szum — i to jest cel szanowny, o którym mówiliśmy w rozdziale jedenastym przy ośrodku dziesięciodniowego milczenia. Modlitwa Jezusowa robi coś dokładnie przeciwnego: **wypełnia**. Nie usuwa treści z pokoju, tylko wnosi do niego Imię. Człowiek nie zostaje sam ze sobą wyciszonym — zostaje z Kimś, do kogo mówi w drugiej osobie.
+Technika medytacyjna dąży do **opróżnienia**. Jej celem jest cisza, w której ustaje szum — i to jest cel szanowny, dziś szeroko sprzedawany. Modlitwa Jezusowa robi coś dokładnie przeciwnego: **wypełnia**. Nie usuwa treści z pokoju, tylko wnosi do niego Imię. Człowiek nie zostaje sam ze sobą wyciszonym — zostaje z Kimś, do kogo mówi w drugiej osobie.
 
 Różnica jest gramatyczna i dlatego jest nie do zatarcia. „Zmiłuj się" to czasownik w trybie rozkazującym, skierowany do kogoś. Nie da się go powiedzieć do pustego pokoju, nie zauważając, że się to robi.
 
-Stąd bierze się fraza, która w tej książce wraca od rozdziału trzydziestego pierwszego: powtarzanie Imienia nie jest metodą, jest formą zaufania. Człowiek, który przez trzydzieści lat mówi to samo zdanie, nie osiąga w nim biegłości. On w nim trwa — a to jest zupełnie inna czynność.
+Stąd bierze się fraza, która w tej książce już padła: powtarzanie Imienia nie jest metodą, jest formą zaufania. Człowiek, który przez trzydzieści lat mówi to samo zdanie, nie osiąga w nim biegłości. On w nim trwa — a to jest zupełnie inna czynność.
 
 Pokój Pascala jest nie do zamieszkania samemu. Można w nim zamieszkać we dwoje.
 
@@ -84,13 +86,13 @@ Trzeci filar wygląda najbardziej abstrakcyjnie, a jest najbliżej głównej tez
 
 Grecki teolog Jan Zizioulas postawił twierdzenie, które w skrócie brzmi: **bycie osobą to nie bycie jednostką, lecz bycie w relacji** — istnienie „ku" i „od" kogoś, nie istnienie zamknięte w sobie. Nie jest to dla niego teza psychologiczna ani moralna, tylko twierdzenie o tym, jak rzeczy są urządzone: ostatnim słowem o rzeczywistości nie jest samotna jednostka, lecz komunia. Wywodzi to od Ojców Kapadockich, greckich teologów czwartego wieku, u których jedność Boga nie jest jednością samotnej substancji, lecz pochodzi z Osoby Ojca.³
 
-Czytelnik tej książki właśnie usłyszał coś, co już zna. W rozdziale dwudziestym ósmym doszliśmy — drogą przez Boecjusza, Tomasza, Spaemanna i Wojtyłę, czyli drogą całkowicie zachodnią — do zdania, że osoba nie jest czymś, co ma relacje, lecz kimś, kto jest relacją. W rozdziale trzydziestym drugim postawiliśmy tezę, że u początku nie stoi monada, tylko Trójca.
+Czytelnik tej książki właśnie usłyszał coś, co już zna: drogą przez Boecjusza, Tomasza, Spaemanna i Wojtyłę — czyli całkowicie zachodnią — doszliśmy do zdania, że osoba nie jest czymś, co ma relacje, lecz kimś, kto jest relacją; a u początku postawiliśmy tezę, że nie stoi tam monada, tylko Trójca.
 
 To jest ta sama teza. Powiedziana innym językiem, w innej tradycji, przy innym ołtarzu — i dochodząca do niej z drugiej strony. Warto to zauważyć, bo ma to konsekwencję dla wiarygodności całego wywodu: teza o człowieku jako relacji nie jest wynalazkiem łacińskiej scholastyki ani zachodnim upodobaniem do definicji. Jest wspólnym wyznaniem obu tradycji, które w wielu innych sprawach się nie zgadzają.
 
 Wschód ma na wspólnotę zbudowaną z takich osób własne słowo: *sobornost*, soborność. Aleksiej Chomiakow, który je upowszechnił, opisywał je jako jedność, która nie pochłania, i wolność, która nie rozsypuje. Brzmi to jak formuła kompromisu, a nie jest nim — jest twierdzeniem, że jedno bez drugiego nie istnieje naprawdę.
 
-Zestawmy to z rozdziałem dwunastym, gdzie patrzyliśmy na społeczeństwo, które gra w kręgle samotnie. Diagnoza brzmiała: więzi słabną, choć kontaktów przybywa. Soborność podpowiada, dlaczego. Wspólnota nie powstaje z tego, że ludzie mają wspólną cechę, wspólny interes albo wspólne hobby — takie zbiorowisko jest klubem i rozpada się, gdy cecha przestaje łączyć. Wspólnota powstaje wtedy, gdy osoby są związane **wspólnym Źródłem**, czyli czymś, czego żadna z nich nie wytworzyła.
+Zestawmy to ze społeczeństwem, które gra w kręgle samotnie: diagnoza jest znana — więzi słabną, choć kontaktów przybywa. Soborność podpowiada, dlaczego. Wspólnota nie powstaje z tego, że ludzie mają wspólną cechę, wspólny interes albo wspólne hobby — takie zbiorowisko jest klubem i rozpada się, gdy cecha przestaje łączyć. Wspólnota powstaje wtedy, gdy osoby są związane **wspólnym Źródłem**, czyli czymś, czego żadna z nich nie wytworzyła.
 
 Klub można założyć. Komunii nie można — można w nią wejść.
 
@@ -217,3 +219,10 @@ Wschód oddał samotność pustyni, modlitwie i liturgii. Reformacja odda ją cz
 | Chomiakow | ✘ referat | formuła oznaczona jako nasz skrót |
 
 **Bilans: w rozdziale są dokładnie dwa cytaty w cudzysłowie ze źródeł obcych (apoftegmat, Sylwan) i jeden Ratzingera — wszystkie trzy zweryfikowane co do brzmienia polskiego. Nic poza tym nie stoi w cudzysłowie.**
+
+---
+
+## Nota DOPIS (2026-10-23, „Urozmaicenia — treści" — realizacja Mapy urozmaicenia)
+
+- ✍ Gość w celi (scena, fraza apoftegmatu z przeniesionym znacznikiem ¹) + przebudowany wstęp ruchu I (cytat blokowy → referat) + powrót spotkania na końcu ruchu I + przegląd klamer: zostają rozdz. 4 i 24, pięć pozostałych wzmianek zmiękczonych do referatów bez numerów.
+- Tekst główny wstawek, dokładne miejsca, uzasadnienia i ⚠️ [?] do weryfikacji domowej: `download/Dopis_Urozmaicenia_tresci_do_mapy.md`, poz. 7. Zmiany w working tree, bez commita — commit do autora.

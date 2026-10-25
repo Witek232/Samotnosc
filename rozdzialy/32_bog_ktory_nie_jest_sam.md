@@ -75,6 +75,8 @@ Trzeba na koniec uczciwie odnotować zarzut, który stoi nad tym wszystkim, i zr
 
 Zostaje refren: czy ktoś tam jest? Poprzedni rozdział pokazał człowieka, który po raz pierwszy odpowiedział sam — „wierzę w Ciebie". Ten może odpowiedzieć w swoim własnym rejestrze, niemal buńczucznie jak na tak cichą książkę: **Jest — i nigdy nie był sam.** I dlatego samotność nie jest prawdą o rzeczywistości. Odpowiedź nie jest katalogiem dowodów; jest twierdzeniem o początku — i dlatego kończy się tam, gdzie zaczynała ta książka: na człowieku, który pyta w ciemności.
 
+Ikona z pierwszej strony domyka to zdanie obrazem: ten, który pyta, ma przy stole Trójcy swoje miejsce od początku — wolny bok, zwrócony ku niemu, zanim ktokolwiek zdążył pomyśleć o zaproszeniu.
+
 Puenta mieści się w dwóch obrazach świata, które można postawić obok siebie. Jeżeli u początku rzeczywistości stoi samotny Absolut, relacja jest wtórna — i wtedy samotność jest wrośnięta w naturę bytu, a miłość jest łaskawym wyjątkiem. Jeżeli u początku jest Ojciec, Syn i Duch, relacja jest pierwotna — i wtedy samotność jest raną, a miłość jest prawem świata. Między tymi obrazami nie ma trzeciej drogi; każde „nie wiem" opowiada po cichu jedną z tych dwóch historii. Chrześcijaństwo w tej sprawie nie zajmuje stanowiska pośredniego ani sentymentalnego: nie dodaje miłości do świata. Twierdzi, że miłość była pierwsza.
 
 I jedno zdanie pokory, żeby było uczciwie do końca: wybór drugiego obrazu nie jest wynikiem rachunku, który da się sprawdzić tak jak reszta tej książki. Jest decyzją wiary — tej samej, której brzmienie podał rozdział trzydziesty pierwszy: wierzę w Ciebie. Argument może pokazać, że ta decyzja nie jest głupia ani tchórzliwa; nie może jej nikomu podarować. Ten rozdział nie udaje więc, że dowiódł Trójcy — pokazał tylko, że w miejscu, w którym kończą się wszystkie ludzkie odpowiedzi na samotność, stoi albo samotny Absolut, albo Ojciec, Syn i Duch, i że wybór między nimi jest czymś więcej niż wyborem pojęć.
@@ -164,3 +166,10 @@ Odziedziczona wersja odsyłała do J. Ratzingera, „Uwagi o pojęciu osoby w te
   **Kontrola** (v2→v3): 15→16 · 23→24 · 24→25 · 25→26 · 27→28 · 29→31 · 31→33 · 32→34 · 33→35 · 36–37→40–41.
 - **[?] do redakcji — STAN PO AUDYCIE 2026-09-09.** ZAMKNIĘTE: strony *Wprowadzenia* (**s. 134–135, 138** — przyp. ¹); *ST* I q. 28 (numeracja kwestii wystarcza, wyd. Veritas/Bełch); *De Trinitate* wyd. pol. (Stokowska, Poznań 1962); brzmienia BT (**1 J 4,8 ✔, J 17,21.24 ✔ i poprawione w tekście, Ps 139,7–10 ✔, Iz 43,1 ✔**). ROZSTRZYGNIĘTE INACZEJ: „Communio" 1990 — **do wymiany na *Wprowadzenie* s. 134** (przyp. ⁶); formuła „gdzie nie stoi sprzeczność relacji" — **to Sobór Florencki, nie Tomasz** (przyp. ⁴); Mt 28,19 jako teza Ratzingera — **nie potwierdzone, nie przypisywać** (przyp. ¹). POZOSTAJE: data ikony Rublowa i lokaliza
 - Znaczniki ruchów I–VIII znikają w wersji drukowanej.
+
+---
+
+## Nota DOPIS (2026-10-23, „Urozmaicenia — treści" — realizacja Mapy urozmaicenia)
+
+- ✍ Klamra ikony przed finałem (warunek Mapy sprawdzony: w ruchu VIII ikona nie wracała): wolny bok stołu jako miejsce pytającego — klamra przed blokiem finałowym (pytanie + przejście do rozdz. 33), nie po nim. Cytaty ¹–⁶, puenta i zdanie pokory bez zmian.
+- Tekst główny wstawek, dokładne miejsca, uzasadnienia i ⚠️ [?] do weryfikacji domowej: `download/Dopis_Urozmaicenia_tresci_do_mapy.md`, poz. 15. Zmiany w working tree, bez commita — commit do autora.

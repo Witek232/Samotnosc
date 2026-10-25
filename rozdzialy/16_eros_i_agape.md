@@ -166,6 +166,8 @@ Trzeba jednak od razu powiedzieć, czego z tego wyciągać nie wolno, bo istniej
 
 Właściwy wniosek jest więc taki: **wolno kochać z całych sił, ponieważ nie trzeba od tego oczekiwać zbawienia**. Te dwie rzeczy nie stoją ze sobą w sprzeczności — one się warunkują. Dopiero kiedy przestaję żądać od kogoś, żeby był moim gruntem, mogę go pokochać takim, jaki jest, a nie takim, jakim musiałby być, żeby udźwignąć moje życie.
 
+Fresk z otwarcia pokazuje po tym wywodzie dokładnie to, czego przed nim pokazać nie mógł: twarze kochanków są nadal niepełne i nie przestaną być — a mimo to nie są już brakiem. Dwoje ludzi, których żaden nie jest fundamentem drugiego, nie musi mieć kompletnych twarzy, żeby kochać się całą miłością.
+
 Zostaje oczywiście pytanie, na które ten rozdział nie odpowiada, i trzeba je wypowiedzieć jasno, żeby nie sprawiać wrażenia, że coś zostało rozwiązane. Jeśli **można dać tylko to, co się dostało** — to skąd wziąć, kiedy się nie dostało? Człowiek, który nie widział „błysku w oku matki" z rozdziału czternastego; człowiek, którego nikt nie wybrał; człowiek, który daje przez trzydzieści lat i nie otrzymuje nic. Encyklika ma na to odpowiedź i wskazuje źródło. Ale ta odpowiedź należy do części szóstej tej książki, a nie do rozdziału o dwojgu ludziach przy fresku, i wolę zostawić ją tam, gdzie na nią zapracujemy, niż wygłosić ją teraz.
 
 ---
@@ -283,3 +285,10 @@ Część czwarta — **„Nauka o samotności"** — zaczyna więc od ciała. I 
 
 - ⭐⭐ **`/home/user/nygren.txt`** — A. Nygren, *Agape and Eros*, przeł. P. S. Watson, Westminster Press, Filadelfia **1953** (cz. I 1932, cz. II 1938–1939; oryg. szw. *Den kristna kärlekstanken genom tiderna*). **Internet Archive, dostęp wolny, 1,6 MB, ✅ paginacja wiarygodna.** ⭐ Rozdz. III cz. I: „The Fundamental Contrast between Agape and Eros"; **tabela s. 210**; s. 200 „transvaluation of all ancient values" (⭐ Nygren **sam powołuje się na Nietzschego**). ⛔ Poza repo.
 - Rozdział napisany na `/home/user/dce.txt` pozyskanym przy rozdz. 15.
+
+---
+
+## Nota DOPIS (2026-10-23, „Urozmaicenia — treści" — realizacja Mapy urozmaicenia)
+
+- ✍ Powrót fresku w ruchu VIII (warunek Mapy sprawdzony: nie wracał) — jedno zdanie po wniosku właściwym, przed pytaniem otwartym. Nota rozdziału pilnowana: fresk wymyślony, bez nazwy zbiorów. Refren i puenta bez zmian.
+- Tekst główny wstawek, dokładne miejsca, uzasadnienia i ⚠️ [?] do weryfikacji domowej: `download/Dopis_Urozmaicenia_tresci_do_mapy.md`, poz. 13. Zmiany w working tree, bez commita — commit do autora.

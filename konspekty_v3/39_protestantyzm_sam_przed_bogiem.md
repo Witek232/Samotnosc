@@ -101,3 +101,4 @@ Rozdział **napisany**: `rozdzialy/39_protestantyzm_sam_przed_bogiem.md`.
 3. **Cytat-kotwica ZWERYFIKOWANY** u źródła (`biblioteka/_tekst/bonhoeffer-gemeinsames-leben_de.txt`, s. 66) — priorytet z noty v3.2 zamknięty. W oryginale pada dwukrotnie.
 4. **Pominięte świadomie:** „Tu stoję, nie mogę inaczej" (późna popularyzacja), ostatnie słowa z Flossenbürga (relacja z drugiej ręki), *Nachfolge*, Augsburskie art. VII.
 5. **Zero cytatów Ratzingera** — reguła ostatniego słowa wykonana zdaniem własnym, bez nazwiska (uzasadnienie w przyp. ⁹ rozdziału).
+6. **DOPIS 2026-10-22 („Świadek, którego brak")** — ruch I zyskuje akapit o Wartburgu (Junker Jörg, „moje Patmos", *Magnificat* wydany IX 1521) po bloku „To nie ja mam się dostać do Boga…"; referat bez cytatu, [?] wydanie polskie *Magnificat*. Wejście Matki Bożej do tomu wg konsultacji redakcyjnej 22 X (drzwi ekumeniczne). Szczegóły w notach rozdziału.

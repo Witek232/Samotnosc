@@ -18,6 +18,8 @@ A jednak, gdyby ktoś tego człowieka zapytał wieczorem, **co go dzisiaj zatrzy
 
 Po prostu przez czternaście godzin **świat nic do niego nie powiedział**. Podawał dane, i to bezbłędnie. Ale nie odezwał się.
 
+Na ścianie w przedpokoju wisi gitara. Kiedyś na niej grało się wieczorami — źle, po akordach — i gitara odpowiadała: pudło rezonansowe zamienia głupie szarpnięcie w dźwięk, który niesie. Potem grało się rzadziej, potem wcale; nie było decyzji ani dnia, w którym odłożono ją na stałe. Wisi od kilku lat: sprawna, nastrojona kiedyś, niema.
+
 To jest ostatni rodzaj samotności, o którym trzeba powiedzieć przed zejściem w część piątą — i najtrudniejszy do zauważenia, bo nie boli. Nie ma w nim dramatu. Człowiek nie płacze wieczorem; on tylko odkłada telefon i myśli, że jest jakoś dziwnie pusto, po czym zasypia.
 
 ---
@@ -79,6 +81,8 @@ Stąd formuła, którą chcę zostawić:
 **Martwa ściana nie krzyczy. Ona po prostu nie odpowiada — a to jest najcichsza forma samotności.**
 
 Najcichsza, bo nie ma w niej nikogo, kogo można by o nią oskarżyć. Nie ma zdrady, nie ma odejścia, nie ma nawet zaniedbania. Jest tylko dzień, po którym nic nie zostało, i to samo jutro.
+
+Wyobcowanie ma w tym mieszkaniu swój najwierniejszy przedmiot: gitara z przedpokoju jest sprawna — struny napięte, pudło całe, drewno, które umiało zamieniać dotyk w dźwięk. Rzecz zbudowana wyłącznie do odpowiadania, niema od lat. Nie zepsuła się: po prostu nikt nie pyta.
 
 I warto zauważyć rzecz, którą Rosa mówi wyraźnie, a która jest wbrew potocznemu wrażeniu: **nasza epoka nie jest epoką obojętności**. Przeciwnie — jesteśmy, jego zdaniem, bardziej niż kiedykolwiek **wrażliwi na rezonans**, bardziej go pragniemy, bardziej za nim tęsknimy. Cały przemysł doznań, podróży, warsztatów i „przeżyć" żyje z tej tęsknoty. Kłopot polega na tym, że próbujemy zdobyć rezonans tą samą metodą, którą zdobywamy wszystko inne: **przez uczynienie go dostępnym**. A to jest jedyna metoda, która na pewno nie zadziała.
 
@@ -156,7 +160,7 @@ A pytanie tej książki od pierwszej strony było w liczbie pojedynczej.
 
 ## Puenta
 
-> **Człowiek żyje pełniej, gdy rzeczywistość nie jest dla niego martwą ścianą. Ale nawet rzeczywistość, która odpowiada, odpowiada bezimiennie — i to jest ostatnia rzecz, jaką nauka o samotności potrafi o niej powiedzieć.**
+> **Człowiek żyje pełniej, gdy rzeczywistość nie jest dla niego martwą ścianą — gdy choć jeden jej przedmiot odpowiada dotykowi, jak pudło rezonansowe. Ale nawet rzeczywistość, która odpowiada, odpowiada bezimiennie — i to jest ostatnia rzecz, jaką nauka o samotności potrafi o niej powiedzieć.**
 
 ---
 
@@ -242,3 +246,10 @@ Referowane: rezonans jako **relacja ze światem** (*Weltbeziehung*), w której p
 
 - Nic. ⛔ Rosa — brak tekstów w Internet Archive (jedyne trafienia: nagrania wykładów, dostęp ograniczony).
 - ⭐ **Ustalone mimo braku książki:** poprawna bibliografia (patrz korekta), cztery elementy definicji, trzy osie rezonansu, pojęcie *Unverfügbarkeit*, definicja wyobcowania jako „relacji bez-relacyjności" oraz trzy zarzuty krytyki.
+
+---
+
+## Nota DOPIS (2026-10-23, „Urozmaicenia — treści" — realizacja Mapy urozmaicenia)
+
+- ✍ Przedmiot nieodpowiedzi: gitara z przedpokoju — trzy powroty (scena, ruch „Martwa ściana”, klauzula puentowa). Obiekt pracuje na fizycznej definicji rezonansu z ruchu I. Ś1 (anegdota o Rosie) celowo niewykonane — autopsja niemożliwa, zgodnie z Mapą.
+- Tekst główny wstawek, dokładne miejsca, uzasadnienia i ⚠️ [?] do weryfikacji domowej: `download/Dopis_Urozmaicenia_tresci_do_mapy.md`, poz. 9. Zmiany w working tree, bez commita — commit do autora.

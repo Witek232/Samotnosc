@@ -22,6 +22,8 @@ Kluczowe jest tu słowo, którego Freud użył precyzyjnie i które od stu lat p
 
 Zarzut ma prehistorię — Feuerbach napisał go osiemdziesiąt sześć lat wcześniej, i rozdział ósmy cytował go wprost. Od Freuda różni go jedno: Feuerbach nie potrzebował pojęcia nieświadomości. Wystarczyła mu logika projekcji: człowiek klęczy przed własnym powiększonym odbiciem.⁶
 
+Wiedeń, Berggasse 19, jesień 1927. Na biurku leżą korekty książki, która za kilka tygodni ukaże się jako *Przyszłość pewnego złudzenia*, a obok nich przedmiot, którego właściciel nie pokazuje gościom: proteza podniebienia. Raka zdiagnozowano cztery lata wcześniej; operacje zabrały to, czym się mówi, i to, czym się je, a chirurdzy odbudowali brak z metalu — tak, żeby pacjent mógł dalej przyjmować chorych. Rano wkłada to niebo do ust i dopiero wtedy zaczyna dzień pracy. Jego ojciec nie żyje od trzydziestu jednego lat. Człowiek, który pisze, że dorosły buduje sobie ojca w skali kosmicznej, patrzy właśnie na własną śmierć — i nie prosi o pomoc postaci, którą właśnie wyjaśnia. Zrelacjonujmy jego wywód tak, jak on by chciał: bez litości i bez skrótu.
+
 Teraz część, której nie wolno pominąć, bo bez niej ten rozdział byłby oszustwem: **Freud opisał coś, co naprawdę istnieje**.
 
 Istnieje religijność, która jest dokładnie tym, czym on ją nazwał. Wiara „na zapas" — na wypadek gdyby jednak. Wiara jako polisa, uprawiana z tą samą racjonalnością co ubezpieczenie mieszkania. Wiara, która pojawia się przy diagnozie i znika przy dobrych wynikach. I obraz Boga skrojony dokładnie pod potrzeby wyznawcy: surowy u ludzi, którzy potrzebują surowości, pobłażliwy u tych, którzy potrzebują pobłażliwości, i narodowy u tych, którzy potrzebują narodu.
@@ -109,3 +111,10 @@ Czy wierzę w Boga, kiedy niczego mi nie daje? To ważne kryterium dojrzałości
 ## Nota ETAP V (2026-09-14, 5.5)
 
 - ✅ **Skrót o redundancję względem rozdz. 8:** rozróżnienie złudzenie/błąd — blok cytatu zastąpiony przywołaniem (przykłady Arystoteles/Kolumb zostały, dziewczyna → odesłanie do 8, gdzie jest użyta); Feuerbach skrócony do odesłania + unikatowego kontrastu („nie potrzebował pojęcia nieświadomości"); lista religijności zredukowana (usunięte „schrony" i „modlitwa-technika" — funkcję niesie rozdz. 8, złoto z III); błąd genetyczny — zamiast czterech przykładów (Kekulé, winda, dziecko, głód) jeden, najbliższy tematowi: „głód nie dowodzi, że nie ma chleba". Nietknięte: „działa w obie strony" i symetria argumentów (najmocniejszy, unikatowy ruch rozdziału), Izajasz, Ratzinger/Zeus/Fromm. Przypisy ⁴ i ⁸ z adnotacjami osierocenia. Długość: ok. 2,40 → ok. 2,17 tys. słów.
+
+---
+
+## Nota DOPIS (2026-10-23, „Urozmaicenia — treści" — realizacja Mapy urozmaicenia)
+
+- ✍ Wkładka scena spóźniona Berggasse 19 (Ś1+Ś2) w ruchu I, między Feuerbachem a zwrotem „istnieje”. Przypisy ¹–⁷ nietknięte; przezwisko protezy niecytowane (autopsja).
+- Tekst główny wstawek, dokładne miejsca, uzasadnienia i ⚠️ [?] do weryfikacji domowej: `download/Dopis_Urozmaicenia_tresci_do_mapy.md`, poz. 1. Zmiany w working tree, bez commita — commit do autora.

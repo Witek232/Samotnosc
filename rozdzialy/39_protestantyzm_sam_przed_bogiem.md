@@ -40,6 +40,8 @@ Zwróćmy uwagę, czego tu **nie ma**. Samotność sumienia nie została zdjęta
 
 To nie ja mam się dostać do Boga. To Jego sprawiedliwość dostała się do mnie.
 
+Niedługo potem ta samotność dostała również ciało. Wiosną 1521 roku, po sejmie w Wormacji, Lutra wywieziono w celach bezpieczeństwa na Wartburg — pod zmienionym imieniem, jako Junker Jörg — i w listach z tamtych miesięcy nazywał to miejsce swoim Patmosem. Tamtego lata, w ukryciu, kończył komentarz do pieśni młodej niewiasty z Nazaretu: *Magnificat*, wydany we wrześniu 1521. Czyta tę pieśń tak, jak wcześniej czytał jedno zdanie Listu do Rzymian — jako dokument inicjatywy, która w całości leży po stronie Boga: wielkie rzeczy są tu uczynione, a człowiek je przyjmuje; potężni są strącani, pokorni wywyższani, i nic w tej pieśni nie zaczyna się od człowieka. Reformacja ułożyła więc jeden ze swoich pierwszych komentarzy biblijnych wokół pieśni tej, która największą odpowiedź swego życia dała sama.
+
 W tym punkcie reformacja jest głęboko biblijna i mówi to samo, co słyszeliśmy dwa razy w tej książce z zupełnie innych stron: w rozdziale czwartym u Pascala, który na skrawku papieru zapisał, że chodzi o Boga Abrahama, a nie Boga filozofów, i w rozdziale trzydziestym u Heschla, u którego to Bóg szuka pierwszy. Trzej ludzie z trzech tradycji mówią jedno: inicjatywa nie jest po naszej stronie.
 
 ---
@@ -140,7 +142,7 @@ Cztery wieki po wieży Lutra i czternaście po celi na pustyni odpowiedź jest t
 
 ## Most do rozdziału 40
 
-Trzy świadectwa złożone. Katolicyzm dał formę: wspólnotę, stół, działanie. Prawosławie dało praktykę: pustynię, modlitwę serca, komunię. Protestantyzm dał bezpośredniość: sumienie przed Bogiem i wspólnotę przez jedynego Pośrednika. We wszystkich trzech wynik jest ten sam — wspólnota istnieje przez Kogoś Trzeciego albo nie istnieje w ogóle, a jedynie się na nią zanosi.
+Trzy świadectwa złożone. Katolicyzm dał formę: wspólnotę, stół, działanie. Prawosławie dało praktykę: pustynię, modlitwę serca, komunię. Protestantyzm dał bezpośredniość: sumienie przed Bogiem i wspólnotę przez jedynego Pośrednika — wspólnotę, która własnych odpowiedzi nie układa, lecz mówi je po kolei, cudzym tekstem: „Pan Zastępów jest z nami" (Ps 46,8), także wtedy, gdy nikt z mówiących nie ma nastroju, w którym taki werset pisze się sam. We wszystkich trzech wynik jest ten sam — wspólnota istnieje przez Kogoś Trzeciego albo nie istnieje w ogóle, a jedynie się na nią zanosi.
 
 Zostaje pytanie, którego żadne z tych świadectw nie zdjęło i którego ta książka nie ma prawa ominąć. Wszystkie trzy odpowiedzi zostały tu pokazane w miejscach, gdzie działają: w klasztorze, w celi, w seminarium, u ludzi, którzy potrafili za nie umrzeć. A czy działają w zwykły wtorek, u człowieka, który wierzy i którego życie wygląda jak każde inne?
 
@@ -227,6 +229,7 @@ Potwierdzenie: katalog `lubimyczytac.pl`, księgarnie chrześcijańskie, materia
 - **Kierkegaard** — dwa akapity, samo pytanie; *Choroby na śmierć* nie streszczano (zakaz z metryczki części VII).
 - **Klamry użyte eksplicite: 4 (Pascal), 6 (Rousseau), 12 i 13–14 (kluby bez Trzeciego), 20 (Yalom), 30 (Heschel), 31 (Ha 2,4 — przez przypis), 5 (Kierkegaard), 35–38 (tryptyk — w moście).** To dużo, ale rozdział zamyka część VII i **most wymaga zebrania trzech świadectw** — zbieranie klamer jest tu funkcją kompozycyjną, nie ozdobą.
 - **Długość:** ok. 2,2 tys. słów — **poniżej celu konspektu (2,6–3,0 tys.)**. Miejsca do rozbudowy, gdyby rozdział miał urosnąć: ruch I (spowiedzi Lutra — można dać scenę), ruch IV (rozróżnienie *geistlich/seelisch* zasługuje na własny przykład). **Nie rozbudowywać ruchu V.**
+- **DOPIS „Świadek, którego brak" (2026-10-22)** — ruch I zyskuje akapit o Wartburgu (Junker Jörg, „moje Patmos", *Magnificat* wydany IX 1521) po bloku „To nie ja mam się dostać do Boga…": realizuje wskazane wyżej miejsce rozbudowy; długość → ok. 2,3 tys. (luka do celu pozostaje otwarta). **Referat bez cytatu i bez nowego przypisu** (dyscyplina źródłowa rozdziału): fakty zweryfikowane zewnętrznie (listy z Wartburga 1521 — dwukrotny podpis „na moim Patmos", m.in. list do Hansa Lutra z 21 XI 1521; *Magnificat* dokończony latem 1521, wydany we wrześniu 1521 — H. Schilling). ⚠️ [?] wydanie polskie *Magnificat* nieustalone — po pozyskaniu referat można podmienić na cytat; Łk 1,46-55 celowo nie cytowane (rozbieżności BT/lekcjonarz/brewiarz). **Drzwi ekumeniczne konsultacji 22 X:** Matka Boża wchodzi głosem Lutra, bez własnych słów, bez imienia („młoda niewiasta z Nazaretu") — zero polemiki, zero słodyczy. Opis całości: `download/Dopis_Swiadek_ktorego_brak.md`.
 - **Tryb narracji:** „my" (część VII), zgodnie ze `STRUKTURA_V3.md` § 5.
 - **Znaczniki ruchów I–VI znikają w wersji drukowanej.**
 
@@ -243,7 +246,15 @@ Potwierdzenie: katalog `lubimyczytac.pl`, księgarnie chrześcijańskie, materia
 | *Nachfolge* („przyjdź i umrzyj") | ✘ **pominięte** | brak egzemplarza; rozdział go nie potrzebuje |
 | Augsburskie wyznanie art. VII | ✘ **pominięte** | brzmienia nie weryfikowałem; teza oddana zdaniem własnym o „wierzymy" |
 | 1 P 2,9 | ✘ **bez cytatu** | kapłaństwo wszystkich wierzących referowane |
+| Luter, *Magnificat* (Wartburg 1521) — dopis 2026-10-22 | ⚠️ **referat, bez cudzysłowu** | „Patmos" i wydanie IX 1521 ✔ zweryfikowane zewnętrznie; wydanie polskie [?] — po pozyskaniu podmienić referat na cytat |
 
 **Bilans: w rozdziale są trzy cytaty blokowe (Rz 1,17 + dwa Bonhoeffera: „przez Jezusa Chrystusa" i cytat-kotwica) oraz refren. Wszystko inne jest referatem. Żadne zdanie w cudzysłowie nie pochodzi ze źródła, którego nie mam.**
 
 ⚠️ **AUTOKOREKTA (2026-09-09, po pomiarze).** Pierwsza wersja miała **pięć bloków cytatów** przy deklarowanych trzech — ten sam błąd, który wyszedł w rozdz. 38. Pomiar skryptem (`count('\n> ')` w tekście głównym) wykrył rozbieżność. Dwa fragmenty przeniesiono **z bloku do linii**: przyp. ³ (*„Allein standest du vor Gott…"* — teraz referat bez cudzysłowu) i przyp. ⁸ (*„nur in der Gemeinschaft stehend…"* — teraz krótki cytat w linii). Pełne brzmienia oryginalne zostają w przypisach. **Cytat-kotwica (⁶) pozostaje blokiem** — jest osią rozdziału. Stan po korekcie: **3 bloki + refren**, zgodnie z bilansem.
+
+---
+
+## Nota DOPIS (2026-10-23, „Urozmaicenia — treści" — realizacja Mapy urozmaicenia)
+
+- ✍ Fraza psalmu wpleciona w most (warunek Mapy: refren kanoniczny → psalm idzie w most): „Pan Zastępów jest z nami” (Ps 46,8) jako odpowiedź mówiona po kolei, cudzym tekstem. ⚠️ [?] brzmienie Ps 46,8 wg BT wyd. V przy egzemplarzu. Refren, puenta, dopis magnificatowy bez zmian.
+- Tekst główny wstawek, dokładne miejsca, uzasadnienia i ⚠️ [?] do weryfikacji domowej: `download/Dopis_Urozmaicenia_tresci_do_mapy.md`, poz. 8. Zmiany w working tree, bez commita — commit do autora.

@@ -14,17 +14,17 @@ Nie chodzi o zarzut filozoficzny. Chodzi o coś prostszego i trudniejszego zaraz
 
 ### I
 
-Ustawmy zarzut w pełnej sile, bo rozdział, który go osłabi, nie będzie nic wart. Jest ich pięć i żaden nie jest głupi.
+Ustawmy zarzut w pełnej sile, bo rozdział, który go osłabi, nie będzie nic wart. Jest ich pięć i żaden nie jest głupi. Przed rozważeniem niech każdy z nich zdąży powiedzieć o sobie jedno zdanie — na własny rachunek, bez mojego komentarza. Odpowiedź przyjdzie po piątym.
 
-**Pierwszy: Bóg jest niewidzialny.** Cokolwiek się o Nim powie, nie ma sposobu, żeby to sprawdzić. Każde zdanie o Jego obecności jest zdaniem, które wygląda tak samo w świecie, w którym On jest, i w świecie, w którym Go nie ma.
+**Pierwszy: Bóg jest niewidzialny.** Cokolwiek się o Nim powie, nie ma sposobu, żeby to sprawdzić. Każde zdanie o Jego obecności jest zdaniem, które wygląda tak samo w świecie, w którym On jest, i w świecie, w którym Go nie ma. Sprawdzałem — i nie umiem odróżnić świata, w którym On jest, od świata, w którym Go nie ma.
 
-**Drugi: religia może być projekcją.** Człowiek samotny potrzebuje kogoś, kto zawsze słucha — i dokładnie takiego kogoś sobie wyobraża. Podejrzenie jest metodycznie bez zarzutu i wrócimy do niego w rozdziale następnym, gdzie należy do Freuda. Tutaj wystarczy jego wersja domowa: skoro Bóg jest tym, czego samotny człowiek najbardziej potrzebuje, to jest podejrzanie wygodny.
+**Drugi: religia może być projekcją.** Człowiek samotny potrzebuje kogoś, kto zawsze słucha — i dokładnie takiego kogoś sobie wyobraża. Podejrzenie jest metodycznie bez zarzutu i wrócimy do niego w rozdziale następnym, gdzie należy do Freuda. Tutaj wystarczy jego wersja domowa: skoro Bóg jest tym, czego samotny człowiek najbardziej potrzebuje, to jest podejrzanie wygodny. Potrzebuję kogoś, kto zawsze słucha — i zawsze Go znajduję: dokładnie takiego, jakiego potrzebuję. Wygodniejszego Boga jeszcze nikt nie zbudował.
 
-**Trzeci, najmocniejszy: wierzący też są samotni.** Nie „bywają" — są. Ludzie chodzący na Mszę od czterdziestu lat umierają w mieszkaniach, w których nikt nie zapukał od tygodnia. Konwersja nie zmniejsza liczby wieczorów, które trzeba przejść samemu.
+**Trzeci, najmocniejszy: wierzący też są samotni.** Nie „bywają" — są. Ludzie chodzący na Mszę od czterdziestu lat umierają w mieszkaniach, w których nikt nie zapukał od tygodnia. Konwersja nie zmniejsza liczby wieczorów, które trzeba przejść samemu. Chodzę od czterdziestu lat i umrę w mieszkaniu, do którego nikt od tygodnia nie zapukał. Obiecano mi więcej niż wam — i nic z tego nie widać.
 
-**Czwarty: Kościoły bywają miejscami samotności.** Nie tylko nie leczą — czasem pogłębiają. Można w kościele stać w tłumie stu osób i nie odezwać się do nikogo, wyjść i nie zostać zauważonym przez rok. Wspólnota bywa nazwą, a nie faktem.
+**Czwarty: Kościoły bywają miejscami samotności.** Nie tylko nie leczą — czasem pogłębiają. Można w kościele stać w tłumie stu osób i nie odezwać się do nikogo, wyjść i nie zostać zauważonym przez rok. Wspólnota bywa nazwą, a nie faktem. W niedzielę sto osób obok mnie, w tygodniu nikt — wyszedłem kiedyś i nikt przez rok nie zauważył, że mnie nie ma.
 
-**Piąty: modlitwa może być rozmową z samym sobą.** To jest zarzut najbardziej intymny, bo dotyka jedynego miejsca, gdzie sprawa się rozstrzyga osobiście. Mówisz w pustym pokoju. Nikt nie odpowiada. Wiesz, że nikt nie odpowie. I nie masz sposobu, żeby odróżnić modlitwę wysłuchaną od monologu.
+**Piąty: modlitwa może być rozmową z samym sobą.** To jest zarzut najbardziej intymny, bo dotyka jedynego miejsca, gdzie sprawa się rozstrzyga osobiście. Mówię w pustym pokoju. Nikt nie odpowiada. Wiem, że nikt nie odpowie — i nie mam sposobu, żeby odróżnić modlitwę wysłuchaną od monologu.
 
 Uczciwość wymaga, żeby po tych pięciu zdaniach nie następowało natychmiast słowo „jednak". Zostawmy je stojące przez chwilę tak, jak stoją.
 
@@ -152,3 +152,10 @@ Właśnie dlatego problem Boga nie może zostać sprowadzony do terapii samotno�
 1. Klauzula o badaniach empirycznych (religijność a samotność) przewidziana w konspekcie § 4 **została pominięta**. Powód: bez zweryfikowanych danych każde zdanie byłoby albo ogólnikiem, albo liczbą bez pokrycia, a rozdział o uczciwości nie może sobie na to pozwolić. Do dopisania, jeśli autor wskaże źródło.
 2. Teresa z Lisieux — zdanie o „stole grzeszników" i o murze podane **z pamięci kulturowej, jako parafraza opisowa**, nie w cudzysłowie. Wymaga weryfikacji w *Rękopisach autobiograficznych* (rkps C) albo usunięcia. **[?]**
 3. Długość: ~2 500 słów tekstu głównego — w widełkach.
+
+---
+
+## Nota DOPIS (2026-10-23, „Urozmaicenia — treści" — realizacja Mapy urozmaicenia)
+
+- ✍ Pięć głosów: zdanie ramowe po „żaden nie jest głupi” + jednozdaniowy głos w pierwszej osobie na końcu każdego z pięciu zarzutów (głos 5: tryb osoby w zdaniach istniejących). Głosy bez cudzysłowów — anonimowe, niecytowane. Zdanie „po tych pięciu zdaniach” zyskało dokładny przedmiot.
+- Tekst główny wstawek, dokładne miejsca, uzasadnienia i ⚠️ [?] do weryfikacji domowej: `download/Dopis_Urozmaicenia_tresci_do_mapy.md`, poz. 3. Zmiany w working tree, bez commita — commit do autora.

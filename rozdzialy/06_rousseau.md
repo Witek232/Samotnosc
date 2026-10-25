@@ -2,7 +2,7 @@
 
 **Część II — NARODZINY SAMOTNEGO JA**
 **Podstawa:** konspekt `konspekty_v3/06_rousseau.md` — szablon lekki.
-**Status:** tekst roboczy v1 (2026-09-10).
+**Status:** tekst roboczy v1 (2026-09-10); DOPIS 2026-10-23 — ruchy II–IV w wersji dialogowej (rozdział-dialog, Ś4).
 
 ---
 
@@ -48,51 +48,49 @@ Nie twierdzę, że Rousseau nie ma tu żadnej racji — ma jej sporo i każdy, k
 
 Jeśli skaza pochodzi od ludzi, to lekarstwo musi być tam, gdzie ludzi nie ma.
 
-Ostatnia książka Rousseau, *Przechadzki samotnego marzyciela*, pisana już po tym, jak wszyscy się od niego odwrócili, zaczyna się od słów „Oto jestem sam na świecie".³ I dzieje się w niej rzecz nowa: człowiek, którego wszyscy porzucili, **nie prosi o powrót**. Zamiast tego odkrywa, że w samotności jest mu — po raz pierwszy w życiu — dobrze.
+Ostatnia książka Rousseau, *Przechadzki samotnego marzyciela*, pisana już po tym, jak wszyscy się od niego odwrócili, zaczyna się od słów „Oto jestem sam na świecie".³
 
 Najbardziej znana jest piąta przechadzka: opis pobytu na wysepce na jeziorze Bienne. Rousseau leży w łódce, patrzy w wodę, słucha fal i opisuje stan, w którym nie potrzebuje ani przeszłości, ani przyszłości, ani nikogo. Nazywa to poczuciem samego istnienia — czymś, co wystarcza, żeby być szczęśliwym, bez żadnej treści poza tym, że się jest.
 
-To jest moment, w którym samotność w kulturze europejskiej **zmienia znak**. Przez wieki była karą — wygnaniem, więzieniem, klątwą. Pustelnik szedł na pustynię nie po to, żeby być sam, tylko żeby być sam **z Bogiem**; samotność była kosztem, nie celem. U Rousseau po raz pierwszy staje się **domem**: miejscem, gdzie człowiek jest wreszcie u siebie, bo nikt go nie zniekształca.
+Od tego miejsca prowadzę z Rousseau jedną rozmowę: on mówi tylko tym, co sam napisał, ja — tym, co napisałem w tej książce; między wypowiedziami nie stoi nikt trzeci.
 
-Warto porównać to z poprzednim rozdziałem, bo różnica jest ostra. U Kierkegaarda samotność też miała wartość — ale wartość **przez adres**: człowiek jest sam wobec wszystkich, bo stoi przed Kimś. U Rousseau nie ma żadnego adresu. Jest wnętrze i jego własne poczucie istnienia. To wystarcza za wszystko.
+— „Oto jestem sam na świecie".
 
-I tu należy zapytać o rachunek.
+— Zdanie bez prośby, bez pretensji, bez adresata. Człowiek opuszczony przez wszystkich ma zwykle trzy ruchy: błagać, oskarżać, wyobrażać sobie powrót — i żadnego z nich pan nie robi. Wiem z piątej przechadzki, co robi pan zamiast tego: łódka przy brzegu wyspy, woda, godziny bez przeszłości i przyszłości, poczucie samego istnienia, które ma wystarczać. Po raz pierwszy w życiu — dobrze.
+
+— Od pana samotność w Europie **zmienia znak**. Przez wieki była karą: wygnaniem, więzieniem, klątwą. Pustelnik szedł na pustynię nie po to, żeby być sam, tylko żeby być sam **z Bogiem** — samotność była kosztem, nie celem. U pana po raz pierwszy staje się **domem**: miejscem, gdzie człowiek jest u siebie, bo nikt go nie zniekształca.
+
+— Wypada jednak zestawić to z poprzednim rozdziałem, i zestawienie jest niekorzystne dla pana. U Kierkegaarda samotność też miała wartość — ale wartość **przez adres**: człowiek jest sam wobec wszystkich, bo stoi przed Kimś. U pana adresu nie ma żadnego. Jest wnętrze i jego własne poczucie istnienia. Ma to wystarczać za wszystko.
+
+— I tu należy zapytać o rachunek. Ale nie o pana rachunek — o rachunek, którego pan nie prowadzi.
 
 ---
 
 ## III. Pięcioro dzieci
 
-Człowiek, który napisał najsłynniejszą książkę o wychowaniu w dziejach Europy — *Emila* — miał pięcioro dzieci i wszystkie oddał do domu podrzutków. Kolejno, w miarę jak przychodziły na świat.
+— Pytam o pięcioro dzieci.
 
-Wiemy o tym, bo napisał to sam, w *Wyznaniach*. Nie ukrywał tego również za życia — mówił o tym Diderotowi i innym. Podaje przy tym trzy różne uzasadnienia, co samo w sobie coś znaczy: że nie było go stać; że rodzina Teresy źle by je wychowała; oraz — najbardziej dla nas pouczające — że tak po prostu robiono w towarzystwie, w którym bywał:
+— „Trzecie dziecko oddano tedy do podrzutków, jak i dwoje poprzednich; tak samo stało się z dwojgiem następnych; miałem ich bowiem ogółem pięcioro". (*Wyznania*, ks. VIII)
 
-> „Uczciwe osoby wyprowadzone w pole, oszukani mężowie, uwiedzione żony, tajemne porody — to była zwyczajna treść tych rozmów; ten, kto najhojniej zaopatrywał dom podrzutków, był najbardziej oklaskiwanym bohaterem. To mi się udzieliło (…)."⁴
+— Zdanie napisane własnoręcznie, w czasie gramatycznym: dokonanym. Autor najlepszej książki o wychowaniu w dziejach Europy relacjonuje własne dzieci jednym oddechem, bez jednego przymiotnika. Czemu?
 
-Autor tego zdania jest tym samym człowiekiem, który sto stron wcześniej ogłosił, że pokaże ludzkości prawdę o naturze człowieka, a dwadzieścia lat później napisał, że społeczeństwo psuje wszystko, czego dotknie. Jego własne uzasadnienie zbrodni przeciw dzieciom brzmi: **wszyscy tak robili**.
+— „Uczciwe osoby wyprowadzone w pole, oszukani mężowie, uwiedzione żony, tajemne porody — to była zwyczajna treść tych rozmów; ten, kto najhojniej zaopatrywał dom podrzutków, był najbardziej oklaskiwanym bohaterem. To mi się udzieliło (…)."⁴
 
-Nie moralizuję i nie chcę robić z tego procesu. Interesuje mnie jedna rzecz, i jest to pytanie, nie wyrok.
+— „Wszyscy tak robili". Z trzech uzasadnień, które pan podaje w różnych miejscach — brak pieniędzy, rodzina Teresy, obyczaj towarzystwa — każde zaczyna się gdzie indziej, ale żadne nie zaczyna się od dzieci. Nie robię panu procesu i nie chcę; interesuje mnie jedna rzecz, i to jest pytanie, nie wyrok. Zbudował pan system, w którym najwyższą wartością jest wierność sobie, a największym zagrożeniem deformacja przez innych. W takim systemie zobowiązanie wobec drugiego **z definicji wygląda jak ograniczenie**: dziecko, żona, sąsiad, urząd — wszystko, co ciągnie człowieka w stronę „wydawania się". Nie twierdzę, że wyprowadził on pana logicznie do podrzutków; wygląda na to, że był pan po prostu słabym, zalęknionym człowiekiem, który wybrał wygodę i resztę życia się z tego tłumaczył. Twierdzę coś ostrożniejszego i trudniejszego do obalenia: że **pańska filozofia nie dawała panu narzędzia, żeby uznać to za zdradę**. Można w niej znaleźć wiele powodów, by nie oddać dzieci — nie ma w niej takiego, który brzmi: należysz do nich, więc nie wolno ci.
 
-Rousseau zbudował system, w którym najwyższą wartością jest wierność sobie, a największym zagrożeniem — deformacja przez innych. **W takim systemie zobowiązanie wobec drugiego z definicji wygląda jak ograniczenie.** Dziecko, żona, sąsiad, urząd — wszystko to są rzeczy, które ciągną człowieka w stronę „wydawania się" i odbierają go sobie samemu. Nie twierdzę, że Rousseau świadomie z tego systemu wyprowadził decyzję o podrzutkach; wygląda raczej na to, że był po prostu słabym, zalęknionym człowiekiem, który wybrał wygodę i przez resztę życia się z tego tłumaczył.
-
-Twierdzę coś ostrożniejszego i, jak sądzę, trudniejszego do obalenia: że **jego filozofia nie dawała mu narzędzia, żeby uznać to za zdradę**. Można w niej znaleźć wiele powodów, by nie oddać dzieci — ale nie ma w niej takiego, który brzmiałby: należysz do nich, więc nie wolno ci.
-
-Do końca życia zresztą go to nie opuściło. Pod koniec *Wyznań* opisuje, jak pewna życzliwa mu arystokratka próbowała odnaleźć najstarsze dziecko po znaku wyszytym na pieluszce. Nie znaleziono nic.
+— I jedno jeszcze, żeby rachunek był pełny: pod koniec *Wyznań* opisuje pan arystokratkę, która próbowała odnaleźć najstarsze dziecko po znaku wyszytym na powijakach. Nie znaleziono nic. System, w którym ocala tylko wnętrze, nie ma gdzie zapisać tego, że dziecko było.
 
 ---
 
 ## IV. Dwie drogi z tego samego miejsca
 
-Byłoby jednak nieuczciwe skwitować Rousseau jako hipokrytę i przejść dalej. Pytanie, które postawił, jest prawdziwe i **nie da się go cofnąć**.
+— Byłoby jednak nieuczciwe skwitować pana hipokrytą i przejść dalej. Pytanie, które postawił pan Europie, jest prawdziwe i **nie da się go cofnąć**.
 
-Bo miał rację w rzeczy zasadniczej: **prawda o człowieku nie jest w całości podana z zewnątrz**. Do jego czasów odpowiedź na pytanie „kim jesteś" brzmiała: synem tego a tego, poddanym tego króla, członkiem tego stanu, ochrzczonym w tej parafii. Rousseau powiedział, że to nie wystarcza — że jest jeszcze coś, co należy do mnie i czego żadna z tych rubryk nie obejmuje. Miał rację. Bez tego odkrycia nie byłoby ani wolności sumienia, ani sprzeciwu wobec przemocy zbiorowej, ani niczego, co dziś rozumiemy przez godność osoby.
+— Miał pan rację w rzeczy zasadniczej: **prawda o człowieku nie jest w całości podana z zewnątrz**. Do pana czasów odpowiedź na pytanie „kim jesteś" brzmiała: synem tego a tego, poddanym tego króla, członkiem tego stanu, ochrzczonym w tej parafii. Że to nie wystarcza — że jest coś, co należy do mnie i czego żadna rubryka nie obejmuje — było odkryciem, bez którego nie byłoby wolności sumienia, sprzeciwu wobec przemocy zbiorowej ani niczego, co rozumiemy przez godność osoby. To musi panu zostać powiedziane na głos.
 
-Z tego jednego odkrycia wychodzą jednak **dwie drogi** i rozdział ten ich nie rozstrzyga — tylko pokazuje rozwidlenie.
+— Z tego jednego odkrycia wychodzą jednak **dwie drogi**. Pierwsza: autentyczność jako program — jestem sobą, gdy zdejmę wszystko, co nałożyli inni: konwenans, rodzinę, tradycję, religię, wreszcie moralność; pod ostatnią warstwą musi być skarb. Druga: autentyczność jako warunek spotkania — muszę być sobą nie po to, żeby zostać ze sobą, lecz dlatego, że fałszywe „ja" nie może nikogo naprawdę spotkać: ktoś, kto gra rolę, nie jest w stanie nikogo pokochać, bo kochany byłby ktoś inny. Ta druga droga jest zbudowana z pana własnych materiałów — i pan po niej nie poszedł.
 
-**Pierwsza: autentyczność jako program.** Jestem sobą, gdy zdejmę wszystko, co nałożyli na mnie inni. Kolejne warstwy do zdjęcia: konwenans, rodzina, tradycja, religia, wreszcie moralność. Ta droga prowadzi wprost do następnych rozdziałów tej książki i skończy się pytaniem, czy pod ostatnią warstwą cokolwiek jeszcze jest.
-
-**Druga: autentyczność jako warunek spotkania.** Muszę być sobą nie po to, żeby zostać ze sobą, ale dlatego, że fałszywe „ja" nie może nikogo naprawdę spotkać — ktoś, kto gra rolę, nie jest w stanie nikogo pokochać, bo kochany byłby ktoś inny. Tu autentyczność jest **drogą do drugiego**, nie ucieczką od niego.
-
-Rousseau poszedł pierwszą. Ale trzeba mu oddać, że nie zamknął drugiej — i że sam do końca życia rozpaczliwie szukał ludzi, którzy by go zrozumieli. Człowiek, który napisał, że jest sam na świecie i że mu z tym dobrze, spędził ostatnią dekadę na pisaniu do tych, co go opuścili.
+— Rozmowę zakończę bez odpowiedzi z pana strony, bo na pytanie o wybór odpowiedział już nie traktat. Człowiek, który napisał, że jest sam na świecie i że mu z tym dobrze, spędził ostatnią dekadę na pisaniu do tych, co go opuścili. Wolę głośno przyznać, że miarą tego sporu nie jest system — jest korespondencja.
 
 ---
 
@@ -227,3 +225,14 @@ Kontekst: komentarz do *In Ioannis Evangelium* Augustyna, do słów „Moja nauk
 ### Pozyskane do biblioteki
 
 `/home/user/rw1.txt`, `/home/user/rw2.txt` — J.-J. Rousseau, *Wyznania*, t. I i II, przeł. T. Boy-Żeleński (Wolne Lektury, łącznie 1,6 MB). Zawierają **pełny tekst obu tomów** plus wstęp tłumacza. ⚠️ **Nie dodane do repo** — jak `kierk.txt` (rozdz. 5), czeka na decyzję autora, czy `biblioteka/_tekst/` ma przyjmować teksty spoza korpusu Ratzingerowskiego. **Zalecam, żeby przyjmowała** — trzeci rozdział z rzędu korzysta z tekstów z domeny publicznej i szkoda za każdym razem pobierać je od nowa.
+
+---
+
+## Nota DOPIS (2026-10-23, „Urozmaicenia — treści" — realizacja Mapy urozmaicenia)
+
+- ✍ Rozdział-dialog (Ś4; pełna forma z dokumentu, poz. 5) naniesiony na decyzję autora z 23 X: ruchy II–IV w wersji dialogowej. Rousseau mówi wyłącznie brzmieniami zweryfikowanymi w aparacie (³, ⁴); odpowiedź w rejestrze książki; bez narratora między wypowiedziami. Scena, ruch I, V (Refren), VI, VII (Puenta), Most, przypisy ¹–⁷ i noty — nietknięte.
+- Awans cytatu „Trzecie dziecko oddano tedy…" z przypisu ⁴ do tekstu głównego: z odesłaniem śródzdaniowym „(*Wyznania*, ks. VIII)"; nota ⁴ bez zmian. Brzmienie według noty ⁴ („do podrzutków"); wariant dokumentu („do domu podrzutków") odrzucony jako odbiegający od zweryfikowanego przekładu Boya-Żeleńskiego.
+- Formatowanie: wypowiedzi jako zwykłe akapity od pauzy (—), Rousseau w cudzysłowie, odpowiedzi bez; blokowy cytat „Uczciwe osoby…"⁴ staje się wypowiedzią dialogową (marker ⁴ bez zmian).
+- Korekty szwów: akapit „Ostatnia książka Rousseau…" skrócony do pierwszego zdania (dalsze zdania przeniesione do odpowiedzi-dialogu — bez dublowania); cytat „Oto jestem sam na świecie"³ zostaje przy pierwszym wystąpieniu, powtórzenie w dialogu bez markera; literówka dokumentu „Wola, żeby głośno przyznać" → „Wolę głośno przyznać".
+- ⚠️ [?] do weryfikacji domowej: „Oto jestem sam na świecie" — cytowanie pośrednie za Barwicką-Tylek, sprawdzić w wydaniu *Przechadek samotnego marzyciela* (jeśli się nie potwierdzi — wypowiedź otwierająca staje się parafrazą, dialog zostaje); długość ok. 2,28 tys. słów — widełki konspektu sprawdzić przy adopcji; ruch IV celowo jednostronny (nieodpowiedziane uderzenie — reguła Ś4).
+- Tekst kompletny, ryzyka i warianty wycofania: `download/Dopis_Urozmaicenia_tresci_do_mapy.md`, poz. 5. Zmiany w working tree, bez commita — commit do autora.

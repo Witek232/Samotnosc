@@ -116,6 +116,8 @@ Pytanie brzmi tak: **czy wierzę w Boga, czy w funkcję, jaką Bóg pełni w moj
 
 Ono jest sprawdzalne, i to jest w nim najgorsze. Nie sprawdza się go w dyskusji, tylko w takim miejscu życia, w którym z wiary nie ma żadnego pożytku. Kiedy modlitwa nie działa. Kiedy jest gorzej, a nie lepiej. Kiedy człowiek robi, co należy, i nie dostaje w zamian ani spokoju, ani sensu, ani ulgi — a wtedy okazuje się, czy zostało coś poza ulgą.
 
+To pytanie nie przyszło z traktatu. Przyszło z pokoju dziecięcego, do którego wszedł Freud na pierwszej stronie tego rozdziału: to samo dziecko, ta sama ciemność — ale czytelnik widzi już obie strony. Dziecko woła i ktoś przychodzi, zapala światło, zostaje; dorosły woła w tę samą ciemność i psychika robi to, co umie: buduje figurę, która odpowie. Test Freuda stoi dokładnie na tej granicy — czy w ciemności, w której nikt nie przychodzi, wołanie ma jeszcze adresata, czy tylko jego echo.
+
 Warto dodać, że to pytanie nie jest wynalazkiem niewierzących. Zadawano je wewnątrz chrześcijaństwa na długo przed Freudem i zadawano je ostrzej — bo mistycy nazywali ten stan nocą i uważali za etap konieczny, a nie za awarię. Różnica polega na tym, że oni traktowali zanik pociechy jako **oczyszczenie wiary z tego, co nią nie było**, a Freud traktuje ten sam zanik jako **ujawnienie, że nie było tam nic poza pociechą**. Zdarzenie jedno, dwa odczytania. Rozstrzygnąć da się je wyłącznie od środka, przez tego, kto w tym stanie jest.
 
 Jeżeli w takim miejscu wiara znika, Freud miał rację co do tej konkretnej wiary. Nie co do religii w ogóle, nie co do Boga — co do tej jednej, mojej. I lepiej się o tym dowiedzieć.
@@ -205,3 +207,10 @@ Zauważę tylko, że Freud, żeby to zdanie wypowiedzieć, musiał najpierw zgod
 ### Pozyskane
 
 `/home/user/fr_illusion.txt` (135 kB) i `/home/user/fr_unbehagen.txt` (196 kB) — warstwy tekstowe OCR pierwodruków z Internet Archive. ⚠️ **OCR jest miejscami zepsuty** (typowo `sch`→`sh`, `ch`→`h`: „menschlihen", „Naturwissenshaft") — **każdy cytat był ręcznie zrekonstruowany i sprawdzony w kontekście**; w przypisach podaję brzmienie poprawione ortograficznie. ⚠️ Przy dalszym użyciu tych plików liczyć się z tym samym. Nie dodane do repo (`.gitignore`).
+
+---
+
+## Nota DOPIS (2026-10-23, „Urozmaicenia — treści" — realizacja Mapy urozmaicenia)
+
+- ✍ Rozcięcie sceny (Ś2): powrót dziecka w ruchu V — to samo dziecko, ta sama ciemność, obie strony ciemności już widoczne; test Freuda na granicy adresata i echa. Cytaty ¹–³, refren, puenta bez zmian.
+- Tekst główny wstawek, dokładne miejsca, uzasadnienia i ⚠️ [?] do weryfikacji domowej: `download/Dopis_Urozmaicenia_tresci_do_mapy.md`, poz. 11. Zmiany w working tree, bez commita — commit do autora.

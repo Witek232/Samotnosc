@@ -202,3 +202,16 @@ Umiejscowienie: **rozdz. 10 (rozdział kontrolny)** — naturalne, bo to miejsce
 ## C4. Kobiety jako podmioty scen, nie tylko jako autorki
 
 Równie ważne, a tańsze: **co najmniej trzy sceny książki mają mieć kobietę jako osobę, wokół której scena się dzieje** — nie jako tło. Propozycja: 2 (matka i dziecko o czwartej nad ranem), 22 (wdowa — scena żałoby, już przewidziana), 46 (opiekunka). W scenie 37 kobieta po sześćdziesiątce już jest — to dobry wzór: ma imię, funkcję i przewagę nad instytucją.
+
+## C5. Wejście Matki Bożej (✍ dopis 2026-10-22, „Świadek, którego brak")
+
+Realizacja C1/C4 **figurą kanoniczną zamiast nowej autorki** — głos z miejsca matki/wdowy/świadka wchodzi przez postać, nie przez nowego narratora, bez zmiany struktury (zgodnie z zasadą C2):
+
+| Miejsce | Forma wejścia | Reguła |
+|---|---|---|
+| **47** (ruch IV, blok przedostatni) | matka przy umieraniu — J 19,25-27; cytaty śródzdaniowe, bez przypisu | wyłącznie głos Janowy; ona milczy |
+| **39** (ruch I, po „To nie ja mam się dostać do Boga…") | pieśń w głosie Lutra — *Magnificat* z Wartburgu 1521; referat bez cytatu | wyłącznie głos Lutra; ona milczy |
+
+**Reguła wpisana na stałe:** Matka Boża wchodzi do tomu wyłącznie w cudzych głosach (Jan, Luter) i wyłącznie **bez własnych słów**; nazwa „Maryja" nie pada w tekście głównym (designacja biblijna: „matka", „młoda niewiasta z Nazaretu"). Klamra 39↔47: **odpowiedź → stanie**. Drzwi zamknięte (konsultacja redakcyjna 22 X): 22 i 25, epilog, nowy rozdział maryjny, tematy dogmatyczne, 35; opcja 29 (biogram Wojtyły) — do decyzji autora.
+
+⚠️ Aktualizacja rejestru scen (B2): **bez zmian** — rozdz. 47 pozostaje jedynym rozdziałem części VIII bez sceny (blok jest figurą w ruchu, nie sceną). Aktualizacja rejestru refrenu (A3): **bez zmian**. Pełny opis dopisu: `download/Dopis_Swiadek_ktorego_brak.md`.

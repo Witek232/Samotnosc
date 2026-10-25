@@ -70,11 +70,19 @@ To jest, moim zdaniem, najostrzejsze zdanie tej części książki. Wszystkie do
 
 ## III. Cennik
 
-Skoro człowiek jest projektem, to musi mieć **miary**. I ma je — pięć, jeśli spróbować policzyć: **sukces, produktywność, wygląd, status, popularność**.
+Skoro człowiek jest projektem, to musi mieć **miary**. I ma je — pięć, jeśli spróbować policzyć. Każda z nich daje się wyrazić liczbą, i to jest ich siła; w cenniku, w którym wszystko jest policzone, człowiek może wreszcie wiedzieć, ile jest wart, bez odwoływania się do niczego, w co trzeba wierzyć:
 
-Każda z nich daje się wyrazić liczbą, i to jest ich siła. Awans, przychód, kilogramy, marka samochodu, obserwujący. Człowiek może wreszcie wiedzieć, ile jest wart, bez odwoływania się do niczego, w co trzeba wierzyć.
+**Sukces.** Awans.
 
-Ale te pięć miar ma jedną wspólną cechę, którą trzeba nazwać: **żadnej z nich nie da się osiągnąć ostatecznie**. Nie ma takiego przychodu, po którym przychód przestaje być tematem. Nie ma takiej wagi, po której ciało jest załatwione. Nie ma liczby obserwujących, przy której człowiek przestaje sprawdzać telefon. Każda z tych miar jest **odnawialna z definicji**: dzisiejszy wynik jest jutro punktem wyjścia.
+**Produktywność.** Przychód.
+
+**Wygląd.** Kilogramy.
+
+**Status.** Marka samochodu.
+
+**Popularność.** Obserwujący.
+
+Pozycje mają jedną cechę wspólną, którą trzeba nazwać: **żadnej z nich nie da się osiągnąć ostatecznie**. Nie ma takiego przychodu, po którym przychód przestaje być tematem. Nie ma takiej wagi, po której ciało jest załatwione. Nie ma liczby obserwujących, przy której człowiek przestaje sprawdzać telefon. Każda z tych miar jest **odnawialna z definicji**: dzisiejszy wynik jest jutro punktem wyjścia.
 
 Dlatego to nie jest cennik w zwykłym sensie. W sklepie cena jest stała i można ją zapłacić. Tutaj **cena rośnie razem z tym, co się zapłaciło**.
 
@@ -258,3 +266,10 @@ Brzmienie oryginalne, **zgodnie podawane przez liczne źródła wtórne** (m.in.
 ⚠️ Terminologia Hana: ang. *in-order-to* / *not-to* (niem. *Um-zu* / *Nicht-zu*) — oddaję jako **„po to, żeby" / „nie po to"**; ⚠️ **przy redakcji sprawdzić rozwiązanie polskiego wydania**, bo to termin techniczny (Heidegger).
 ⚠️ **Zmęczenie „z tobą" i „obłok zmęczenia"** — Han **referuje i cytuje Petera Handkego** (*Versuch über die Müdigkeit* / *Próba o zmęczeniu*); w tekście głównym oddane jako referat z podaniem nazwiska Handkego, **bez cudzysłowu** — to cytat z trzeciej ręki (Handke → Han → przekład angielski → ja). ⛔ Nie stawiać przy tym cudzysłowu bez dotarcia do Handkego.
 
+
+---
+
+## Nota DOPIS (2026-10-23, „Urozmaicenia — treści" — realizacja Mapy urozmaicenia)
+
+- ✍ „Cennik” złożony w listę pozycji (Ś6): treść zdanie w zdanie zachowana, zmiana wyłącznie składu — forma wykonuje treść. Pozostałe ruchy, refren i puenta nietknięte.
+- Tekst główny wstawek, dokładne miejsca, uzasadnienia i ⚠️ [?] do weryfikacji domowej: `download/Dopis_Urozmaicenia_tresci_do_mapy.md`, poz. 12. Zmiany w working tree, bez commita — commit do autora.
